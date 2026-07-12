@@ -1,0 +1,24 @@
+{
+  "vol1": {
+    "pages": 993,
+    "entries": 8245,
+    "alpha_breaks": 501,
+    "very_short": 33,
+    "noise_in_head": 24
+  },
+  "vol2": {
+    "pages": 1156,
+    "entries": 7950,
+    "alpha_breaks": 256,
+    "very_short": 5,
+    "noise_in_head": 9
+  },
+  "vol3": {
+    "pages": 1143,
+    "entries": 9680,
+    "alpha_breaks": 410,
+    "very_short": 13,
+    "noise_in_head": 39
+  },
+  "total_entries": 25875
+}

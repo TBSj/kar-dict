@@ -1,0 +1,312 @@
+{
+  "batches": {
+    "batch_0000.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0001.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0002.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0003.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0004.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0005.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0006.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0007.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0008.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0009.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0010.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0011.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0012.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0013.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0014.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0015.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0016.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0017.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 5
+    },
+    "batch_0018.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0019.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0020.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0021.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0022.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0023.json": {
+      "n_in": 31,
+      "n_out": 31,
+      "low_coverage": 1
+    }
+  },
+  "offenders": [
+    {
+      "seqid": 24959,
+      "word": "тартыныу",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "iiсудорога"
+      ]
+    },
+    {
+      "seqid": 24375,
+      "word": "табакълыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гы"
+      ]
+    },
+    {
+      "seqid": 24543,
+      "word": "тайгъакълыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 7029,
+      "word": "джалыныу",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "джалбарыргьа"
+      ]
+    },
+    {
+      "seqid": 24388,
+      "word": "табалдырыкъ",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24443,
+      "word": "табсашарлыкъ",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24561,
+      "word": "таймазлыкъ",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24615,
+      "word": "талакъ",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "ii"
+      ]
+    },
+    {
+      "seqid": 24708,
+      "word": "тамалсызлыкъ",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24947,
+      "word": "тартындырыргъа",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "iконфузить"
+      ]
+    },
+    {
+      "seqid": 24950,
+      "word": "тартынмакълыкъ",
+      "coverage": 0.8,
+      "missing_tokens": [
+        "iзастенчивость"
+      ]
+    },
+    {
+      "seqid": 24423,
+      "word": "табкъарынлыкъ",
+      "coverage": 0.833,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24587,
+      "word": "такы",
+      "coverage": 0.833,
+      "missing_tokens": [
+        "ii"
+      ]
+    },
+    {
+      "seqid": 25093,
+      "word": "тау",
+      "coverage": 0.833,
+      "missing_tokens": [
+        "магъадан"
+      ]
+    },
+    {
+      "seqid": 24532,
+      "word": "тазирлик",
+      "coverage": 0.857,
+      "missing_tokens": [
+        "ги"
+      ]
+    },
+    {
+      "seqid": 24556,
+      "word": "тайлыкъ",
+      "coverage": 0.857,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24948,
+      "word": "тартындырыргъа",
+      "coverage": 0.857,
+      "missing_tokens": [
+        "iiвызывать"
+      ]
+    },
+    {
+      "seqid": 6949,
+      "word": "джалгъанлыкъ",
+      "coverage": 0.889,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24958,
+      "word": "тартыныу",
+      "coverage": 0.889,
+      "missing_tokens": [
+        "iсмущение"
+      ]
+    },
+    {
+      "seqid": 24440,
+      "word": "табмазлыкъ",
+      "coverage": 0.923,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 24872,
+      "word": "таракълыкъ",
+      "coverage": 0.929,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 25212,
+      "word": "таянчакъ",
+      "coverage": 0.977,
+      "missing_tokens": [
+        "гъы"
+      ]
+    }
+  ],
+  "missing_outputs": [],
+  "missing_entries": [],
+  "summary": {
+    "total_in": 951,
+    "total_out": 951,
+    "mean_coverage": 0.9957,
+    "entries_below_98pct": 22,
+    "missing_entries": 0,
+    "missing_outputs": 0
+  }
+}
