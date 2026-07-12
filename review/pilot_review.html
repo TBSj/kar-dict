@@ -1,0 +1,168 @@
+<title>Пилот объединённого карачаево-балкарского словаря</title>
+<style>
+:root {
+  --bg:#FAFAF7; --ink:#22262D; --mut:#6C7370; --line:#DDDDD4;
+  --acc:#1F6E5C; --acc-ink:#14523F; --d1:#39567E; --d2:#1F6E5C; --warn:#A44A3F;
+  --card:#FFFFFF; --chip:#EDEFE8;
+}
+@media (prefers-color-scheme: dark) { :root {
+  --bg:#14181D; --ink:#E6E4DC; --mut:#9AA19C; --line:#2C333A;
+  --acc:#4FA98D; --acc-ink:#7CC7AE; --d1:#7D9CC9; --d2:#4FA98D; --warn:#D07A6C;
+  --card:#1B2127; --chip:#232B31;
+} }
+:root[data-theme="dark"] {
+  --bg:#14181D; --ink:#E6E4DC; --mut:#9AA19C; --line:#2C333A;
+  --acc:#4FA98D; --acc-ink:#7CC7AE; --d1:#7D9CC9; --d2:#4FA98D; --warn:#D07A6C;
+  --card:#1B2127; --chip:#232B31;
+}
+:root[data-theme="light"] {
+  --bg:#FAFAF7; --ink:#22262D; --mut:#6C7370; --line:#DDDDD4;
+  --acc:#1F6E5C; --acc-ink:#14523F; --d1:#39567E; --d2:#1F6E5C; --warn:#A44A3F;
+  --card:#FFFFFF; --chip:#EDEFE8;
+}
+body { background:var(--bg); color:var(--ink); font:16px/1.55 Georgia,'Times New Roman',serif;
+  margin:0; padding:0 20px 80px; }
+main { max-width:1020px; margin:0 auto; }
+header { border-bottom:3px double var(--acc); padding:44px 0 18px; margin-bottom:30px; }
+h1 { font-size:1.9rem; margin:0 0 6px; text-wrap:balance; }
+.sub { color:var(--mut); font-family:'Segoe UI',system-ui,sans-serif; font-size:.92rem; }
+h2 { font-size:1.3rem; margin:44px 0 12px; color:var(--acc-ink); }
+h3 { font-size:1.05rem; margin:26px 0 8px; }
+.tiles { display:flex; flex-wrap:wrap; gap:10px; font-family:'Segoe UI',system-ui,sans-serif; }
+.tile { background:var(--card); border:1px solid var(--line); border-radius:6px; padding:12px 18px; }
+.tile b { display:block; font-size:1.5rem; font-variant-numeric:tabular-nums; color:var(--acc-ink); }
+.tile span { font-size:.8rem; color:var(--mut); }
+table { border-collapse:collapse; font-family:'Segoe UI',system-ui,sans-serif; font-size:.88rem; width:100%; }
+.twrap { overflow-x:auto; }
+th, td { text-align:left; padding:5px 12px; border-bottom:1px solid var(--line); }
+th { color:var(--mut); font-weight:600; font-size:.78rem; letter-spacing:.04em; text-transform:uppercase; }
+td.num { text-align:right; font-variant-numeric:tabular-nums; }
+.mono { font-family:Consolas,monospace; font-size:.84rem; }
+.entry { background:var(--card); border:1px solid var(--line); border-radius:6px;
+  padding:14px 18px; margin:12px 0; }
+.entry h4 { margin:0 0 6px; font-size:1.15rem; }
+.entry .pos { font-style:italic; font-weight:normal; color:var(--mut); font-size:.95rem; }
+.dictid { float:right; font:600 .7rem 'Segoe UI',sans-serif; padding:2px 8px; border-radius:10px;
+  background:var(--chip); color:var(--mut); }
+.did-both { color:var(--acc-ink); }
+.fld { margin:7px 0; border-left:3px solid var(--line); padding-left:12px; }
+.fld.d1 { border-left-color:var(--d1); }
+.fld.d2 { border-left-color:var(--d2); }
+.fld .lab, .fld summary { font:600 .72rem 'Segoe UI',sans-serif; letter-spacing:.05em;
+  text-transform:uppercase; color:var(--mut); cursor:default; }
+.fld summary { cursor:pointer; }
+.fld summary .len { font-weight:400; margin-left:8px; opacity:.7; }
+.fld p { margin:3px 0 0; }
+.meta { font:italic .82rem Georgia,serif; color:var(--mut); margin:8px 0 0; }
+.note { font:.85rem 'Segoe UI',sans-serif; color:var(--acc-ink); margin:4px 0 8px; }
+.qs li { margin-bottom:10px; }
+.warn { color:var(--warn); font-weight:600; }
+.ok { color:var(--acc-ink); font-weight:600; }
+ul { padding-left:22px; }
+code { font-family:Consolas,monospace; font-size:.85em; background:var(--chip); padding:1px 5px; border-radius:3px; }
+p { max-width:72ch; }
+</style>
+<main>
+<header>
+  <h1>Пилот объединённого карачаево-балкарского словаря</h1>
+  <p class="sub">Срез: та-* + джаб-/джал-* (словарь 1) и ТА-* + ЖАБ-/ЖАЛ-* (ТСКБЯ) · конвейер S0–S7 · июль 2026</p>
+</header>
+
+<section class="tiles">
+  <div class="tile"><b>1404</b><span>статей в пилоте</span></div>
+  <div class="tile"><b>607</b><span>слиты из обоих словарей</span></div>
+  <div class="tile"><b>444 / 353</b><span>только словарь 1 / только ТСКБЯ</span></div>
+  <div class="tile"><b>111</b><span>омонимических гнёзд (цифры)</span></div>
+  <div class="tile"><b>161</b><span>слов с латинской j (дж/ж)</span></div>
+  <div class="tile"><b>5</b><span>слов с латинской b (п/б)</span></div>
+  <div class="tile"><b>156</b><span>глаголов сведено к повелит. форме</span></div>
+</section>
+
+<h2>Эталон лингвиста</h2>
+<article class="entry"><h4>таукелсиз1 <span class="pos">сыф.</span><span class="dictid did-both">both</span></h4><p class="note">Эталон лингвиста: разметка воспроизведена, включая исправления OCR в цитатах.</p><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>несмелый, нерешительный; безвольный</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>Нерешительный, несмелый; безвольный</p></div><details class="fld d1"><summary>misc1<span class="len">86 зн.</span></summary><p>таукелсиз адам нерешительный человек, неуверенный [в себе] человек; безвольный человек</p></details><details class="fld d2"><summary>misc2<span class="len">237 зн.</span></summary><p>Базынмагъан, арсарлы, экили, таукеллиги болмагъан, таукел эталмагъан. [Хасан:] Советни таматасына келген эдим. «Аскерге ий»,- деп, тиледим. Ангарылгъанды, алай не «хо», не «огъай» демегенди, таукелсиз адамды. Хубийланы О., Аманат, I, 76.</p></details><p class="meta">сл.1: таукелсиз · ТСКБЯ: таукелсиз · lextag: <b>emotions_and_will</b> · флаги: split_def1</p></article><article class="entry"><h4>таукелсиз2 <span class="pos">хал. сёзл.</span><span class="dictid did-both">both</span></h4><p class="note">Эталон лингвиста: разметка воспроизведена, включая исправления OCR в цитатах.</p><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>несмело, нерешительно, неуверенно, безвольно</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>Нерешительно, несмело, неуверенно, безвольно</p></div><details class="fld d2"><summary>misc2<span class="len">327 зн.</span></summary><p>Базынмай, арсарлы, экили болуп. [Чомур] бюсюреусюз сорургъа излесе да, ауазы къарыусуз, таукелсиз чыкъды. Хубийланы О., Дерт, 7. Экинчи гудок акъыртыныракъ, таукелсизирек чыкъды. «Шуёхлукъ», № 39, 6. Муссагъа жууап этерге аллы бла оноулашыргъа излегенча, къатынла бир бирлерине таукелсизирек къарадыла. Хубийланы О., Дерт, 100.</p></details><p class="meta">сл.1: таукелсиз · ТСКБЯ: таукелсиз · lextag: <b>emotions_and_will</b> · флаги: split_def1</p></article>
+
+<h2>Показательные случаи</h2>
+<h3>Гнездо таб/тап — пять омонимов, три слова словаря-1 в одной группе</h3>
+<article class="entry"><h4>таb1 <span class="pos">ат.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>шрам, рубец</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>1. Шрам, рубец</p></div><details class="fld d1"><summary>misc1<span class="len">68 зн.</span></summary><p>аны бетинде табы барды у него на лице шрам; таб болургъа рубцеваться</p></details><details class="fld d2"><summary>misc2<span class="len">371 зн.</span></summary><p>1. Териде жарадан сора къалгъан ыз. Ауур жара иги болур, Табы уа биргенге къалыр. Къулийланы Къ., Юйюнге игилик!, 345. [Сейитни] бычакъ урушдан тюшген узун табы къызыл боюнунда агъарды. Байрамукъланы Х., Къарчаны юйдегиси, 44.
+2. къ. тамгъа2. Айны да барды таплары. (Нарт сёз.) Ыраны уууртунда къара къарандаш бла салыннган тапчыгъы барды. «Коммунизмге жол», 1981, № 197.</p></details><p class="meta">сл.1: таб · ТСКБЯ: тап · lextag: <b>human_body</b></p></article><article class="entry"><h4>таb2 <span class="pos">сыф.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>удобный; удобный, хороший, благоприятный, удачный; хороший, ладный; находчивый, остроумный; умелый</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>1. Удобный, подходящий 2. Благоприятный, подходящий 3. Удачный, верный, правильный, одобрительный</p></div><details class="fld d1"><summary>misc1<span class="len">1628 зн.</span></summary><p>таб шиндик удобный стул; таб джарашхан благоустроенный; шахарланы таб джарашдырыу благоустройство городов; таб олтур садись поудобней; былай табмыды? так удобно?; бу сагъатда кетиб къалсам табды лучше мне уйти сейчас; таб тюлдю а) неудобно, не с руки; б) неладно, нехорошо; ышаным таб тюлдю а) я чувствую себя неважно; б) я предчувствую плохое; бюгюн аны таб кюню тюлдю сегодня он не в духе; былайгъа таб сёз табаргъа ке …</p></details><details class="fld d2"><summary>misc2<span class="len">1152 зн.</span></summary><p>1. Келишген, жарашхан. Тап шинтик. Тап отоучукъ. Аны кийимлери тапдыла.
+2. Бир затха себеп болгъан, жараулу, къолайлы. Тап кезиу. Тап заман. Тап болум. // Старшинагъа дертлерин жетдирирге бир тап кезиуню сакълагъанла да бар эдиле. Гуртуланы Б., Жангы талисман, 260.
+3. Иги, поз, жарагъан. Тап жууап. Аны сайлауу тапды. Тап оноу.
+◊ Тап кёр одобрить что, считать что подходящим, удобным, хорошим / игиге сана, жарат, онгсу …</p></details><p class="meta">сл.1: таб · ТСКБЯ: тап · lextag: <b>culture_and_spirituality</b> · флаги: split_def1</p></article><article class="entry"><h4>таb3 <span class="pos">хал. сёзл.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>удобно; удобно, хорошо, благоприятно; хорошо, ладно; находчиво, остроумно; умело</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>Удобно, подходяще</p></div><details class="fld d1"><summary>misc1<span class="len">69 зн.</span></summary><p>таб олтур садись поудобней; таб сёлеширге говорить остроумно, острить</p></details><details class="fld d2"><summary>misc2<span class="len">56 зн.</span></summary><p>Иги, тынч, келишдирип хайырланырча. Креслогъа тап олтур.</p></details><p class="meta">сл.1: таб · ТСКБЯ: тап · lextag: <b>culture_and_spirituality</b> · флаги: split_def1</p></article><article class="entry"><h4>таb4 <span class="pos">эт.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>1) находить кого-что; обнаруживать что 2) получать что 3) рожать 4) нестись, класть яйца (о птицах) 5) мат. выводить, доказывать что</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>1. Находить, обнаруживать кого-что 2. кёч. Рожать, телиться, жеребиться, окотиться, ощениться и т. д. 3. Обнаруживать что 4. кёч. Нестись, класть яйца (о птицах) 5. кёч. Находить, обрести (покой, счастье и т. п.)</p></div><details class="fld d1"><summary>misc1<span class="len">1580 зн.</span></summary><p>кесиме тенгле табдым я нашёл себе друзей; геологла алтын чыкъгъан джер табдыла геологи обнаружили месторождение золота; театргъа билет табаргъа достать билет в театр; мадар табаргъа найти возможность (что-л. сделать); сёз табаргъа придираться к кому-чему, находить изъян в чём; сылтау табаргъа а) найти недостаток; б) найти повод, придумать отговорку, отговориться; тынчлыкъ табаргъа успокоиться, обрести покой; тынчлыкъ …</p></details><details class="fld d2"><summary>misc2<span class="len">1251 зн.</span></summary><p>1. Излеп, бир жерден ал, бир жерде кёр, юсюне чыкъ, бар. Тапхан къууаныр, таныгъан сыйырыр. (Нарт сёз.) // Геологла Бызынгыда алтын чыкъгъан жер тапхандыла. // Подыскать, подобрать / Сайлап, келишгенин, жараулусун, кереклисин ал, кёргюзт. Бу киритге жарагъан ачхыч табылды. Жаш къызны чамына жууап тапмады. // грамм. Найти (напр. корень слова) / Оюм этип, тергеп д.а.к. башха амал бла тохташдыр. Сёзню тамырын тап. Айтым …</p></details><p class="meta">сл.1: табаргъа · ТСКБЯ: тап · lextag: <b>actions_and_activities</b></p></article><article class="entry"><h4>таb5 <span class="pos">кюч. кес.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>1) даже 2) возможно, пожалуй, кажется 3) хоть</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>Даже</p></div><details class="fld d1"><summary>misc1<span class="len">208 зн.</span></summary><p>таб алай эсе да если даже [и]так; ол алдайды, бир бирде таб урлагъан да этеди он обманывает, иногда даже крадёт; таб алай огъуна болур возможно, так и есть; таб бусагъат огъуна тебрейик отправимся хоть сейчас</p></details><details class="fld d2"><summary>misc2<span class="len">320 зн.</span></summary><p>Ызындан келген сёзню магъанасын кючлендирип жюрюйдю. [Къыз арбачыгъа:] Санга письмола жазгъанлыгъыма, Жууап тапмайма сёзюме. Тап, жан къалдырлыкъ дарман болгъанча, Кёрюндюнг тени кёзюме. «Малкъар халкъ жырла», 128. Урмаз жерингде да кёп урдунг бизни, Тап, махтар жерингде палатда бердинг. Къулийланы Къ., Жаралы таш, 18.</p></details><p class="meta">сл.1: таб · ТСКБЯ: тап · lextag: <b>logic_and_function_words</b> · флаги: needs_review</p></article>
+<h3>Правило J и глаголы</h3>
+<article class="entry"><h4>jабагъы <span class="pos">ат.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>линька, шерсть весенней стрижки; шерсть ж (низкого качества)</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>1. Весенняя шерсть-линька, шерсть весенней стрижки 2. В позиции определения: шерстяной, сделанный из весенней шерсти-линьки</p></div><details class="fld d1"><summary>misc1<span class="len">240 зн.</span></summary><p>джабагъы джастыкъ шерстяная подушка; джабагъы арытыргъа линять (о ком-чём); джабагъы бетли цвета линьки; джабагъы тёшек шерстяной матрас (матрац); джабагъы да джюндю, джолукъмазлыкъ кимди погов. и линька - шерсть, всякое в жизни встречается</p></details><details class="fld d2"><summary>misc2<span class="len">596 зн.</span></summary><p>1. Малны эм башха жаныуарны къышдан чыкъгъан жюню, тюгю. Жаз башында жайлыкъда, Жабагъысы салына, Къочхар келди къонакъгъа, Бир къойчукъгъа жалына. Балаланы О., Басняла бла фельетонла, 3. □ Чырпылагъа илинип къалгъан тюрсюн къойну жабагъысыча, туман юзюкле алагъа [артышлагъа] жабышып къаладыла. Тёппеланы А., Отлукъ ташла, 57.
+2. Жабагъыдан этилген. Жабагъы тёшекни микитан тышыны жыртыкъларындан юйюкген, къурум бетли  …</p></details><p class="meta">сл.1: джабагъы · ТСКБЯ: жабагъы · lextag: <b>living_things</b> · флаги: uncertain_ocr</p></article><article class="entry"><h4>jабыл <span class="pos">эт.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>1) быть крытым 2) закрываться; запираться</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>1. страд. от жал 2. Закрываться (о чём-л. раскрытом, развёрнутом) 3. Покрываться (напр. травой, туманом) 4. Закрываться (напр. об учреждении) 5. кёч. Пропадать, погибать, умирать</p></div><details class="fld d1"><summary>misc1<span class="len">776 зн.</span></summary><p>къамиш бла джабылгъан юй дом, крытый камышом; эшик джабылгъанлай... как только закрылась дверь...; кирпиклерим джабылыб барадыла у меня глаза слипаются (закрываются); джыйылыу он сагъатда джабылды собрание закончилось в десять часов; джабылгъан эшик запертая дверь; джарасы джабылгъанды у него рана затянулась; сабийлени юслери джабылыбды дети одеты; кюн булутдан джабылды солнце скрылось за тучами; джабылмагъан а) непо …</p></details><details class="fld d2"><summary>misc2<span class="len">805 зн.</span></summary><p>1. Жап дегенни зорлаучу айрмасы. Юйню башы къошун бла жабылгъанды. Башы жабылгъан челекге кир тюшмез (Нарт сёз). 2. Этил, бирге жыйыл (ачылып тургъан затны юсюнден). Китап жабылгъанды. Салкъынлыкъ жабылды. 3. Басыл, юсюнде къалын тохта. Бир ингирде жангур къатыш келген къалын тубан жерге жабылып, кече бла кюн танылмай тохтады. Чотчаланы М., Эм таза кёкню тюбюнде, 68. Ол айрыкам къалын агъач бла жабылып эди. «Малкъар  …</p></details><p class="meta">сл.1: джабылыргъа · ТСКБЯ: жабыл · lextag: <b>actions_and_activities</b></p></article><article class="entry"><h4>jалан3 <span class="pos">кес.; балк.</span><span class="dictid did-both">both</span></h4><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>только, лишь</p></div><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>Только, лишь, лишь только</p></div><details class="fld d2"><summary>misc2<span class="len">251 зн.</span></summary><p>Чеклендириучю магъанада хайырланылады. Аликлада темир чыпынны атханды, Анга жалан аны [Сосрукъну] огъу батханды, Тартып огъун киши чыгъаралмагъанды. «Нартла», 33. ▯ Жалан къая зынгырдауун Эшитеме, сени чакъырсам. Мёчюланы К., Сайлама чыгъармалары, 31.</p></details><p class="meta">сл.1: джалан · ТСКБЯ: жалан · lextag: <b>logic_and_function_words</b></p></article>
+<h3>Разведение коллизий цифрами</h3>
+<article class="entry"><h4>тарыкъ1 <span class="pos"></span><span class="dictid did-1">1</span></h4><p class="note">Коллизия «словарь-1 глагол + ТСКБЯ» разведена цифрами.</p><div class="fld d1"><span class="lab">def1 · перевод (словарь 1)</span><p>жаловаться; сетовать, плакаться, роптать, ныть</p></div><details class="fld d1"><summary>misc1<span class="len">184 зн.</span></summary><p>прокуроргъа тарыгъыргъа пожаловаться прокурору; тарыкъгъан адам жалобщик; тарыгъыб турургъа ныть, роптать, высказывать недовольство; тарыгъыб туруу нытьё; ропот; тарыгъыб туруучу нытик</p></details><p class="meta">сл.1: тарыгъыргъа · lextag: <b>emotions_and_will</b></p></article><article class="entry"><h4>тарыкъ2 <span class="pos">ат.</span><span class="dictid did-2">2</span></h4><p class="note">Коллизия «словарь-1 глагол + ТСКБЯ» разведена цифрами.</p><div class="fld d2"><span class="lab">def2 · русская часть (ТСКБЯ)</span><p>1. Жаловаться, сетовать, плакаться, роптать, ныть 2. юр. Аппелировать</p></div><details class="fld d2"><summary>misc2<span class="len">738 зн.</span></summary><p>1. Разы болмагъанынгы, жаратмагъанынгы, онгсунмагъанынгы айт, билдир. Бир аягъынг - чурукъ, бир аягъынг - чарыкъ, бар да правленнге тарыкъ. (Нарт сёз.) ◊ Бирде аш юйню эшик аллында сюелип, тынгылап турсанг, апсынланы эрлеринден тарыкъгъанларын эшитесе. Тёппеланы А., Отлукъ ташла, 150. Таулу тиширыула, тынч жашаугъа юйренмеселе да, ол сууукъ отоуда жашагъанларына тарыкъдыла. Кацийланы X., Тамата, 65.
+2. Сюдню бегимин  …</p></details><p class="meta">ТСКБЯ: тарыкъ · lextag: <b>emotions_and_will</b> · флаги: needs_review, uncertain_ocr</p></article>
+
+<h2>Качество по этапам</h2>
+<div class="twrap"><table>
+<tr><th>Этап</th><th>Метод</th><th>Контроль</th><th>Результат</th></tr>
+<tr><td>S0 разбор словаря 1</td><td>детерминир. + Sonnet (24 батча)</td><td>пословная сохранность текста</td><td class="ok">99,6 % средняя полнота, 0 потерянных статей</td></tr>
+<tr><td>S1 извлечение ТСКБЯ</td><td>PyMuPDF, детерминир.</td><td>алфавитная непрерывность, счёт статей</td><td class="ok">25 875 статей на весь корпус; ~37 потерянных заголовков (очередь)</td></tr>
+<tr><td>S2 разбор ТСКБЯ + правка OCR</td><td>Sonnet (81 батч)</td><td>4-граммная сохранность, регресс-тест</td><td class="ok">эталон «таукелсиз» пройден; 94 % сходства (разница = правки OCR)</td></tr>
+<tr><td>S3 нормализация и сцепка</td><td>детерминир. + Sonnet/Opus</td><td>двойное мнение по глаголам</td><td class="ok">51/51 совпадение Sonnet и Opus; POS-фильтр после аудита</td></tr>
+<tr><td>S4 слияние омонимов</td><td>Opus (высокое усилие)</td><td>учёт всех статей, флаги</td><td class="ok">1 404 статьи, 0 потерь; 60 семантических разделений def1</td></tr>
+<tr><td>S5 lextag</td><td>Sonnet → наследование по семье → Opus</td><td>согласованность гнёзд</td><td class="ok">101 статья осталась с низкой уверенностью (7 %)</td></tr>
+<tr><td>S7 финальный аудит</td><td>Fable, 36 статей против сканов</td><td>визуальная сверка с PDF</td><td>23 ok · 9 minor · <span class="warn">4 major — все исправлены</span></td></tr>
+</table></div>
+
+<h2>Аудит Fable: что нашли и что исправлено</h2>
+<ul>
+<li><span class="warn">major</span> — «гиперкоррекция» OCR в двух цитатах (тал2: «билеклерим талмадыла» было искажено с инверсией смысла; jалкъа: остался мусор «kumhuV»). <b>Исправлено точечно по сканам.</b> Для полного прогона добавим правило: правки внутри цитат — только при полной уверенности.</li>
+<li><span class="warn">major</span> — два слова словаря-1 без пары (джабдырыу, джаланлатмакълыкъ) не получили латинскую j, хотя их основа в словаре есть с j. <b>Исправлено системно: 51 слово получило j по семейному правилу, очередь ручной проверки сократилась со 129 до 82.</b></li>
+<li>minor (9) — единичные буквенные расхождения в цитатах, потерянный индекс омонима, спорные lextag. <b>Все исправлены точечно.</b></li>
+</ul>
+
+<h2>Распределение lextag</h2>
+<div class="twrap"><table>
+<tr><th>Категория</th><th>метка</th><th>статей</th><th>доля</th></tr>
+<tr><td>Деятельность и действия</td><td class="mono">actions_and_activities</td><td class="num">421</td><td class="num">30.0%</td></tr><tr><td>Эмоции и воля</td><td class="mono">emotions_and_will</td><td class="num">222</td><td class="num">15.8%</td></tr><tr><td>Живые существа</td><td class="mono">living_things</td><td class="num">93</td><td class="num">6.6%</td></tr><tr><td>Быт и питание</td><td class="mono">daily_life_and_food</td><td class="num">90</td><td class="num">6.4%</td></tr><tr><td>Экономика и общество</td><td class="mono">economy_and_society</td><td class="num">88</td><td class="num">6.3%</td></tr><tr><td>Социальные отношения</td><td class="mono">social_relations</td><td class="num">86</td><td class="num">6.1%</td></tr><tr><td>Культура и духовная жизнь</td><td class="mono">culture_and_spirituality</td><td class="num">73</td><td class="num">5.2%</td></tr><tr><td>Тело и физиология</td><td class="mono">human_body</td><td class="num">58</td><td class="num">4.1%</td></tr><tr><td>Пространство и время</td><td class="mono">space_and_time</td><td class="num">57</td><td class="num">4.1%</td></tr><tr><td>Вселенная и природа</td><td class="mono">universe_and_nature</td><td class="num">56</td><td class="num">4.0%</td></tr><tr><td>Предметы и техника</td><td class="mono">objects_and_technology</td><td class="num">55</td><td class="num">3.9%</td></tr><tr><td>Служебные элементы</td><td class="mono">logic_and_function_words</td><td class="num">42</td><td class="num">3.0%</td></tr><tr><td>Язык и коммуникация</td><td class="mono">language_and_communication</td><td class="num">38</td><td class="num">2.7%</td></tr><tr><td>Психика и сознание</td><td class="mono">mind_and_cognition</td><td class="num">25</td><td class="num">1.8%</td></tr>
+</table></div>
+
+<h3>Открытые вопросы политики классификации — нужно решение лингвиста</h3>
+<ol class="qs">
+<li><b>Нагота и раздетость</b> (jалан «голый» и семья) — сейчас <code>human_body</code>. Альтернатива: <code>daily_life_and_food</code> (одежда).</li>
+<li><b>Текстуры и свойства поверхностей</b> (липкий, скользкий) — сейчас <code>universe_and_nature</code>; отдельной категории для физических свойств нет.</li>
+<li><b>Оценочные качества</b> (таб «удобный», тамамлы «основательный») — сейчас <code>culture_and_spirituality</code> (оценка); можно завести иное правило.</li>
+</ol>
+
+<h2>Структура misc: таксономия и типизированные подполя</h2>
+<p>Исследование по 120 стратифицированным статьям выявило 11 типов содержимого в misc1 и 13 в misc2
+(отчёт: <code>checkpoints/qa/s6_misc_taxonomy.md</code>). Ниже — сколько статей получили
+автоматически извлечённые подполя (misc1/misc2 при этом сохранены целиком):</p>
+<div class="twrap"><table>
+<tr><th>Подполе</th><th>статей</th></tr>
+<tr><td class="mono">misc2_citations</td><td class="num">416</td></tr><tr><td class="mono">misc2_gram_note</td><td class="num">410</td></tr><tr><td class="mono">misc2_citations_periodical</td><td class="num">184</td></tr><tr><td class="mono">misc2_phras</td><td class="num">150</td></tr><tr><td class="mono">misc2_citations_collection</td><td class="num">139</td></tr><tr><td class="mono">misc2_proverb_illustr</td><td class="num">135</td></tr><tr><td class="mono">misc2_xref</td><td class="num">121</td></tr><tr><td class="mono">misc2_terms</td><td class="num">72</td></tr><tr><td class="mono">misc1_proverbs</td><td class="num">53</td></tr><tr><td class="mono">misc1_bukv</td><td class="num">34</td></tr><tr><td class="mono">misc1_riddles</td><td class="num">13</td></tr><tr><td class="mono">misc1_stem_note</td><td class="num">12</td></tr><tr><td class="mono">misc1_variants</td><td class="num">8</td></tr><tr><td class="mono">misc1_folklore</td><td class="num">7</td></tr>
+</table></div>
+<p>Два типа надёжно не извлекаются регулярными выражениями и потребуют LLM на полном прогоне:
+граница «КБ-текст ↔ русский перевод» внутри обычных примеров misc1 и различение «◊ фразема» от «◊ цитата».</p>
+
+<h2>Флаги статей</h2>
+<div class="twrap"><table>
+<tr><th>Флаг</th><th>статей</th></tr>
+<tr><td class="mono">no_russian_def</td><td class="num">409</td></tr><tr><td class="mono">uncertain_ocr</td><td class="num">182</td></tr><tr><td class="mono">ref_only</td><td class="num">111</td></tr><tr><td class="mono">needs_review</td><td class="num">97</td></tr><tr><td class="mono">split_def1</td><td class="num">60</td></tr><tr><td class="mono">no_d1_pair</td><td class="num">57</td></tr><tr><td class="mono">j_family</td><td class="num">51</td></tr><tr><td class="mono">no_d2_pair</td><td class="num">39</td></tr><tr><td class="mono">split_unclear</td><td class="num">10</td></tr><tr><td class="mono">audit_fixed</td><td class="num">9</td></tr><tr><td class="mono">embedded_entry</td><td class="num">6</td></tr><tr><td class="mono">merged_continuation</td><td class="num">4</td></tr><tr><td class="mono">unparsed</td><td class="num">1</td></tr><tr><td class="mono">dup_def1</td><td class="num">1</td></tr>
+</table></div>
+<p><code>no_russian_def</code> — норма для производных статей ТСКБЯ (толкование только по-карачаево-балкарски);
+реальная очередь ручного просмотра — <code>needs_review</code> и <code>split_unclear</code>.</p>
+
+<h2>Очереди на ручную проверку</h2>
+<ul>
+<li><b>82</b> исконных слова на ж-/дж- без пары во втором словаре — <code>checkpoints/review_queues/zh_dzh_unmatched.jsonl</code> (по указанию лингвиста — ручная обработка; заимствования исключены автоматически).</li>
+<li><b>50</b> глаголов только из словаря 1 — повелительная форма выведена моделями (Sonnet и Opus дали одинаковые ответы), файл <code>only1_verbs.jsonl</code>.</li>
+<li><b>2</b> статьи с отсылками «къ.» внутри def2 (тагъаландыр, свидетель→шагъат) — пограничная политика.</li>
+</ul>
+
+<h2>Файлы</h2>
+<ul>
+<li><code>checkpoints/07_final.jsonl</code> — итог пилота (схема лингвиста + служебные поля и подполя misc)</li>
+<li><code>checkpoints/final.csv</code> — то же для Excel</li>
+<li><code>checkpoints/qa/</code> — отчёты контроля по этапам, аудит (<code>audit/result_*.json</code>), таксономия misc</li>
+<li><code>checkpoints/review_queues/</code> — очереди ручной проверки</li>
+</ul>
+
+<h2>Дальше: полный прогон</h2>
+<p>Объём: ~29 400 статей словаря 1 + ~25 900 статей ТСКБЯ → ориентировочно 40–45 тыс. статей в объединённом словаре.
+Все исправления пилота уже встроены в конвейер (группировка притязаний, POS-фильтр глаголов, семейное правило J,
+консервативная правка цитат). Оценка: ~4 500 вызовов агентов, несколько часов фоновой работы.</p>
+</main>
