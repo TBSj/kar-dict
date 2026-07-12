@@ -1,1 +1,1 @@
-# kab-dict
+# kar-dict
