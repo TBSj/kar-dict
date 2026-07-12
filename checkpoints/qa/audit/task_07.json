@@ -1,0 +1,85 @@
+{
+ "tasks": [
+  {
+   "entry": {
+    "word": "жалатдырыу",
+    "dict_id": "2",
+    "tags": "и. д. от жалатдыр",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Жалатдыр дегенден этим ат. Сют башны жалатдырыу. Ахча жалатдырыу.",
+    "lextag": "actions_and_activities",
+    "entry_id": "e_00210",
+    "word2_orig": "жалатдырыу",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src2": [
+     "d2_06409"
+    ],
+    "flags": [
+     "no_russian_def"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\git\\kab-dict\\checkpoints\\qa\\audit\\v1_p781.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "тартдырылмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к тартдырылыргъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "lextag": "actions_and_activities",
+    "entry_id": "e_01013",
+    "word1_orig": "тартдырылмакълыкъ",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src1": [
+     24923
+    ],
+    "flags": [
+     "needs_review"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "тартдырылмакълыкъ_24923",
+     "value": "$отвлеч. к %@тартдырылыргъа#"
+    }
+   ],
+   "d2_pages": []
+  },
+  {
+   "entry": {
+    "word": "тамырсызландырыу",
+    "dict_id": "2",
+    "tags": "и. д. от тамырсызландыр",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Тамырсызландыр дегенден этим ат.",
+    "lextag": "actions_and_activities",
+    "entry_id": "e_00789",
+    "word2_orig": "тамырсызландырыу",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src2": [
+     "d2_19003"
+    ],
+    "flags": [
+     "no_russian_def"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\git\\kab-dict\\checkpoints\\qa\\audit\\v3_p353.png"
+   ]
+  }
+ ]
+}

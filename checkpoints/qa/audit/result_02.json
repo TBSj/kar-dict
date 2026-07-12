@@ -1,0 +1,22 @@
+{
+ "audits": [
+  {
+   "word": "jалан3",
+   "entry_id": "e_00034",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "таукеллет1",
+   "entry_id": "e_01213",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "jалгъашдыр",
+   "entry_id": "e_00070",
+   "verdict": "ok",
+   "issues": []
+  }
+ ]
+}
