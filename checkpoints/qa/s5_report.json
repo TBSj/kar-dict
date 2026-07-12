@@ -1,0 +1,27 @@
+{
+  "entries": 1404,
+  "missing": 0,
+  "invalid_tags": 0,
+  "confidence": {
+    "medium": 606,
+    "high": 486,
+    "low": 312
+  },
+  "distribution": {
+    "actions_and_activities": 439,
+    "emotions_and_will": 231,
+    "daily_life_and_food": 92,
+    "social_relations": 89,
+    "economy_and_society": 83,
+    "living_things": 75,
+    "culture_and_spirituality": 75,
+    "objects_and_technology": 59,
+    "space_and_time": 56,
+    "human_body": 50,
+    "universe_and_nature": 45,
+    "logic_and_function_words": 42,
+    "language_and_communication": 38,
+    "mind_and_cognition": 30
+  },
+  "mixed_families_gt2tags": 24
+}

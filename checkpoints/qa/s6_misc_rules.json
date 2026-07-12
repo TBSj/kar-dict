@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "sample": "checkpoints/shards/s6_sample.json",
+  "entries": 120,
+  "misc1_nonempty": 78,
+  "misc2_nonempty": 98,
+  "notes": "Counts = number of sample entries with >=1 match. Apply citation rules in order author -> journal -> collection, marking consumed spans. Regexes tested with Python re, flags=re.M."
+ },
+ "rules": [
+  {
+   "field": "misc1_proverbs",
+   "source": "misc1",
+   "regex": "(?:^|;)\\s*([^;]*?)\\s+(посл|погов)\\.(?:\\s+уст\\.)?\\s+([^;]+)",
+   "mode": "extract_all",
+   "matched_entries": 28,
+   "comment": "group1=KB text, group2=type (posl/pogov), group3=RU translation (+equivalent). Marker stands BETWEEN original and translation. Russian equivalents containing ';' spill into next segment."
+  },
+  {
+   "field": "misc1_riddles",
+   "source": "misc1",
+   "regex": "(?:^|;)\\s*([^;]*?)\\s+загадка\\s+([^;]+?)\\s*\\(отгадка\\s+([^)]+)\\)?",
+   "mode": "extract_all",
+   "matched_entries": 6,
+   "comment": "group1=KB riddle, group2=RU translation, group3=answer (KB + RU gloss). Closing paren of otgadka sometimes missing in OCR."
+  },
+  {
+   "field": "misc1_bukv",
+   "source": "misc1",
+   "regex": "\\(букв\\.\\s*([^)]+)\\)",
+   "mode": "extract_all",
+   "matched_entries": 15,
+   "comment": "Literal translation note inside RU part of a proverb/phraseme translation."
+  },
+  {
+   "field": "misc1_folklore",
+   "source": "misc1",
+   "regex": "(?:^|;)\\s*([^;]*?[^)])\\s+фольк\\.\\s+([^;]+)",
+   "mode": "extract_all",
+   "matched_entries": 2,
+   "comment": "Folklore formulas / blessings. CAUTION: 'фольк.' after 'а)'/'б)' is a stylistic label of a translation branch, not a folklore formula (e_01237 'б) фольк. жар-птица') - filter matches whose KB part ends with а)/б)."
+  },
+  {
+   "field": "misc1_stem_note",
+   "source": "misc1",
+   "regex": "^\\((гъ[уыюе]|н[уыю]|м[уы])\\);?",
+   "mode": "extract_all",
+   "matched_entries": 2,
+   "comment": "Stem/possessive-form note at the very beginning of misc1, e.g. '(гъу);' for тауукъ."
+  },
+  {
+   "field": "misc1_variants",
+   "source": "misc1",
+   "regex": "(?:^|;)\\s*(-[а-яёъь][^\\s;]+)\\s*(?:;|$)|(?:^|;)\\s*([а-яё]+)\\s+обл\\.(?:;|$)",
+   "mode": "extract_all",
+   "matched_entries": 4,
+   "comment": "Spelling/form variants: leading-hyphen alternative ending ('-турх') or regional RU variant ('тамга обл.')."
+  },
+  {
+   "field": "misc2_citations",
+   "source": "misc2",
+   "regex": "(?:[А-ЯЁ][а-яёъ]+(?:ланы|лены)|[А-ЯЁ]\\.(?:\\s?[А-ЯЁ]\\.)?)\\s+[А-ЯЁ][а-яё]*\\.?(?:-[А-ЯЁ][а-яё]*\\.?)?,\\s+[^.,«»]{2,60},\\s+(?:[IVX]+,\\s+)?\\d+\\.",
+   "mode": "extract_all",
+   "matched_entries": 76,
+   "comment": "Literary citation attribution: 'Фамилияланы И., Title, [vol,] page.' incl. Russian authors 'М. Шолохов, ...'. Titles with internal commas are truncated at first comma but attribution is still detected. Quote TEXT extends left to previous attribution/marker - exact left boundary needs sentence heuristics or LLM."
+  },
+  {
+   "field": "misc2_citations_periodical",
+   "source": "misc2",
+   "regex": "«[^»]{2,50}»,\\s+(?:\\d{4},\\s+)?№\\s?\\d+(?:,\\s+\\d+)?",
+   "mode": "extract_all",
+   "matched_entries": 38,
+   "comment": "Periodical attribution: '«Коммунизмге жол», 1981, № 93' or '«Шуёхлукъ», № 32, 87'."
+  },
+  {
+   "field": "misc2_citations_collection",
+   "source": "misc2",
+   "regex": "«[^»]{2,60}»,\\s+(?:[IVX]+,\\s+)?\\d+\\.",
+   "mode": "extract_all",
+   "matched_entries": 29,
+   "comment": "Folklore-collection / textbook attribution: '«Малкъар халкъ жырла», 215.'. Overlaps with periodical rule - apply periodical first and skip consumed spans."
+  },
+  {
+   "field": "misc2_proverb_illustr",
+   "source": "misc2",
+   "regex": "([А-ЯЁ][^.?!]*[.?!])\\s*\\(\\s*(?:Нарт сёз|Фольк)\\.?\\s*\\)\\s*\\.?",
+   "mode": "extract_all",
+   "matched_entries": 39,
+   "comment": "Proverb used as illustration: sentence + '(Нарт сёз.)' / '(Фольк.)'. OCR variant '(Нарт сёз).' (dot outside) covered. Captures one sentence; multi-sentence proverbs are rare."
+  },
+  {
+   "field": "misc2_phras",
+   "source": "misc2",
+   "regex": "◊",
+   "mode": "split_after_marker",
+   "matched_entries": 53,
+   "comment": "Phraseology block. AMBIGUOUS: in ~half the cases ◊ directly precedes a plain literary quotation, not a phraseme (e_00718). Deterministic sub-filter: block starts with short KB phrase + RU gloss (+ optional ' / ' KB def) => phraseme; otherwise treat as citation. Residual classification needs LLM."
+  },
+  {
+   "field": "misc2_terms",
+   "source": "misc2",
+   "regex": "[□▯]",
+   "mode": "split_after_marker",
+   "matched_entries": 27,
+   "comment": "Compound-term block: 'KB-term RU-translation / KB-definition. Citations'. Both U+25A1 and U+25AF occur - keep both in the class."
+  },
+  {
+   "field": "misc2_xref",
+   "source": "misc2",
+   "regex": "(?:^|[\\s(])къ\\.\\s+([а-яёъ][^.,;()]{0,40})",
+   "mode": "extract_all",
+   "matched_entries": 29,
+   "comment": "Cross-reference 'къ. word [N] [(M-чи магъ.)]'. 13/98 entries START with къ. (pure reference sense/entry). Also occurs inside ◊-blocks ('Таякъ тийди къ. жетди') - store position/level."
+  },
+  {
+   "field": "misc2_gram_note",
+   "source": "misc2",
+   "regex": "^(?:\\d\\.\\s*)?[А-ЯЁ][а-яёъ]*\\s*\\d?\\s+деген(?:ни|ден)\\s+(?:зорлаучу|къатланыучу|араш)?\\s*(?:айы?рмасы|этим\\s+ат)",
+   "mode": "extract_all",
+   "matched_entries": 18,
+   "comment": "Grammar formulas for derived verbs/nouns: 'X дегенни зорлаучу/къатланыучу/араш айырмасы', 'X дегенден этим ат'. OCR tolerance: 'айрмасы' (e_00006). Reliable signal that the entry is a grammatical derivative."
+  },
+  {
+   "field": "misc2_rus_kb_gloss",
+   "source": "misc2",
+   "regex": "([а-яёА-ЯЁ)][^/◊□▯\\n]{2,90}?)\\s+/\\s+([А-ЯЁа-яё][^.◊□▯]{2,120})",
+   "mode": "extract_all",
+   "matched_entries": 27,
+   "comment": "Bilingual gloss 'RU translation / KB definition' inside ◊/□ blocks and // shades. group1=RU, group2=KB. Risk: '/' in dates/fractions elsewhere in corpus (none in sample)."
+  },
+  {
+   "field": "misc2_sense_split",
+   "source": "misc2",
+   "regex": "(?:^|\\n|[.!?]\\s)([2-9])\\.\\s+(?=[А-ЯЁ«\\[]|къ\\.|кёч\\.|сёл\\.)",
+   "mode": "split_after_marker",
+   "matched_entries": 41,
+   "comment": "Numbered sense boundaries within misc2. Lookahead avoids page numbers in citations (', 3.'). Shade-of-meaning marker '//' (11 entries) splits sub-senses further."
+  },
+  {
+   "field": "misc2_speaker_note",
+   "source": "misc2",
+   "regex": "\\[[^\\]]{2,60}:\\]",
+   "mode": "extract_all",
+   "matched_entries": 27,
+   "comment": "Editorial context note inside quotations '[Speaker to addressee:]'. Annotation helper, not a standalone subfield - keep attached to its citation."
+  }
+ ]
+}

@@ -1,0 +1,704 @@
+{
+  "batches": {
+    "batch_0000.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0001.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0002.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0003.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0004.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0005.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0006.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0007.json": {
+      "n_in": 12,
+      "n_out": 10
+    },
+    "batch_0008.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0009.json": {
+      "n_in": 12,
+      "n_out": 13
+    },
+    "batch_0010.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0011.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0012.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0013.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0014.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0015.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0016.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0017.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0018.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0019.json": {
+      "n_in": 12,
+      "n_out": 13
+    },
+    "batch_0020.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0021.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0022.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0023.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0024.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0025.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0026.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0027.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0028.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0029.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0030.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0031.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0032.json": {
+      "n_in": 12,
+      "n_out": 13
+    },
+    "batch_0033.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0034.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0035.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0036.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0037.json": {
+      "n_in": 13,
+      "n_out": 13
+    },
+    "batch_0038.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0039.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0040.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0041.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0042.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0043.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0044.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0045.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0046.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0047.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0048.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0049.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0050.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0051.json": {
+      "n_in": 12,
+      "n_out": 13
+    },
+    "batch_0052.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0053.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0054.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0055.json": {
+      "n_in": 13,
+      "n_out": 13
+    },
+    "batch_0056.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0057.json": {
+      "n_in": 12,
+      "n_out": 13
+    },
+    "batch_0058.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0059.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0060.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0061.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0062.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0063.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0064.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0065.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0066.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0067.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0068.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0069.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0070.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0071.json": {
+      "n_in": 12,
+      "n_out": 11
+    },
+    "batch_0072.json": {
+      "n_in": 12,
+      "n_out": 13
+    },
+    "batch_0073.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0074.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0075.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0076.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0077.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0078.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0079.json": {
+      "n_in": 12,
+      "n_out": 12
+    },
+    "batch_0080.json": {
+      "n_in": 3,
+      "n_out": 3
+    }
+  },
+  "low_sim": [
+    {
+      "batch": "batch_0061.json",
+      "seg": "d2_19237",
+      "head": "тас",
+      "sim": 0.73
+    },
+    {
+      "batch": "batch_0050.json",
+      "seg": "d2_19104",
+      "head": "тагшашыу",
+      "sim": 0.743
+    },
+    {
+      "batch": "batch_0073.json",
+      "seg": "d2_19375",
+      "head": "тахтаныу",
+      "sim": 0.743
+    },
+    {
+      "batch": "batch_0049.json",
+      "seg": "d2_19087",
+      "head": "тапдырылыу",
+      "sim": 0.78
+    },
+    {
+      "batch": "batch_0011.json",
+      "seg": "d2_06477",
+      "head": "жалчытышыу",
+      "sim": 0.782
+    },
+    {
+      "batch": "batch_0067.json",
+      "seg": "d2_19299",
+      "head": "татыу",
+      "sim": 0.792
+    },
+    {
+      "batch": "batch_0028.json",
+      "seg": "d2_18833",
+      "head": "такъырланыу",
+      "sim": 0.797
+    },
+    {
+      "batch": "batch_0042.json",
+      "seg": "d2_19005",
+      "head": "тамыу",
+      "sim": 0.8
+    },
+    {
+      "batch": "batch_0061.json",
+      "seg": "d2_19234",
+      "head": "тарыу",
+      "sim": 0.8
+    },
+    {
+      "batch": "batch_0030.json",
+      "seg": "d2_18857",
+      "head": "талатыу",
+      "sim": 0.806
+    },
+    {
+      "batch": "batch_0059.json",
+      "seg": "d2_19202",
+      "head": "тартыныу",
+      "sim": 0.806
+    },
+    {
+      "batch": "batch_0067.json",
+      "seg": "d2_19298",
+      "head": "татыу",
+      "sim": 0.811
+    },
+    {
+      "batch": "batch_0041.json",
+      "seg": "d2_18989",
+      "head": "тамызышыу",
+      "sim": 0.816
+    },
+    {
+      "batch": "batch_0051.json",
+      "seg": "d2_19112",
+      "head": "тапсыныу",
+      "sim": 0.817
+    },
+    {
+      "batch": "batch_0053.json",
+      "seg": "d2_19138",
+      "head": "таралтыу",
+      "sim": 0.818
+    },
+    {
+      "batch": "batch_0061.json",
+      "seg": "d2_19233",
+      "head": "тарытыу",
+      "sim": 0.818
+    },
+    {
+      "batch": "batch_0050.json",
+      "seg": "d2_19100",
+      "head": "таплау",
+      "sim": 0.822
+    },
+    {
+      "batch": "batch_0009.json",
+      "seg": "d2_06451",
+      "head": "жалкъауланыу",
+      "sim": 0.826
+    },
+    {
+      "batch": "batch_0074.json",
+      "seg": "d2_19387",
+      "head": "ташайтдырыу",
+      "sim": 0.829
+    },
+    {
+      "batch": "batch_0072.json",
+      "seg": "d2_19363",
+      "head": "татхан",
+      "sim": 0.83
+    },
+    {
+      "batch": "batch_0048.json",
+      "seg": "d2_19079",
+      "head": "тап",
+      "sim": 0.831
+    },
+    {
+      "batch": "batch_0077.json",
+      "seg": "d2_19424",
+      "head": "ташсыныу",
+      "sim": 0.833
+    },
+    {
+      "batch": "batch_0023.json",
+      "seg": "d2_18775",
+      "head": "тайгъалатыу",
+      "sim": 0.835
+    },
+    {
+      "batch": "batch_0054.json",
+      "seg": "d2_19147",
+      "head": "таратыу",
+      "sim": 0.836
+    },
+    {
+      "batch": "batch_0041.json",
+      "seg": "d2_18990",
+      "head": "тамызышыу",
+      "sim": 0.837
+    },
+    {
+      "batch": "batch_0034.json",
+      "seg": "d2_18901",
+      "head": "талпышыу",
+      "sim": 0.843
+    },
+    {
+      "batch": "batch_0018.json",
+      "seg": "d2_18716",
+      "head": "табышыу",
+      "sim": 0.844
+    },
+    {
+      "batch": "batch_0043.json",
+      "seg": "d2_19014",
+      "head": "тамышыу",
+      "sim": 0.844
+    },
+    {
+      "batch": "batch_0060.json",
+      "seg": "d2_19214",
+      "head": "тарх",
+      "sim": 0.844
+    },
+    {
+      "batch": "batch_0070.json",
+      "seg": "d2_19345",
+      "head": "тауусдуруу",
+      "sim": 0.844
+    },
+    {
+      "batch": "batch_0015.json",
+      "seg": "d2_18680",
+      "head": "табанлау",
+      "sim": 0.846
+    },
+    {
+      "batch": "batch_0041.json",
+      "seg": "d2_18986",
+      "head": "тамызылыу",
+      "sim": 0.846
+    },
+    {
+      "batch": "batch_0048.json",
+      "seg": "d2_19069",
+      "head": "танглау",
+      "sim": 0.846
+    },
+    {
+      "batch": "batch_0025.json",
+      "seg": "d2_18791",
+      "head": "тайпа",
+      "sim": 0.848
+    },
+    {
+      "batch": "batch_0041.json",
+      "seg": "d2_18985",
+      "head": "тамызылыу",
+      "sim": 0.849
+    }
+  ],
+  "kb_leaks": [
+    {
+      "batch": "batch_0019.json",
+      "word": "тагъаландыр",
+      "def2": "1. понуд. от тагъалан 1 2. къарач. къ. сокъурандыр."
+    }
+  ],
+  "alpha_breaks": [
+    {
+      "batch": "batch_0012.json",
+      "prev": "жалындырыу",
+      "word": "жалын-жалбар"
+    },
+    {
+      "batch": "batch_0018.json",
+      "prev": "табыу",
+      "word": "табым"
+    },
+    {
+      "batch": "batch_0018.json",
+      "prev": "табышыу",
+      "word": "табышлы"
+    },
+    {
+      "batch": "batch_0019.json",
+      "prev": "тагы",
+      "word": "тагъай"
+    },
+    {
+      "batch": "batch_0037.json",
+      "prev": "таматалышыу",
+      "word": "таматалыкъ"
+    },
+    {
+      "batch": "batch_0045.json",
+      "prev": "таныулу",
+      "word": "таныт"
+    },
+    {
+      "batch": "batch_0047.json",
+      "prev": "танышыуу",
+      "word": "танг"
+    },
+    {
+      "batch": "batch_0048.json",
+      "prev": "танглау",
+      "word": "тангенс"
+    },
+    {
+      "batch": "batch_0051.json",
+      "prev": "тапсынышыу",
+      "word": "тап-таза"
+    },
+    {
+      "batch": "batch_0052.json",
+      "prev": "таран",
+      "word": "таракъ"
+    },
+    {
+      "batch": "batch_0053.json",
+      "prev": "таракъмюйюз",
+      "word": "таракъ-таракъ"
+    },
+    {
+      "batch": "batch_0055.json",
+      "prev": "таркёнчек",
+      "word": "таркъ"
+    },
+    {
+      "batch": "batch_0055.json",
+      "prev": "таркъайыу",
+      "word": "таркъ-таркъ"
+    },
+    {
+      "batch": "batch_0057.json",
+      "prev": "тартдырыулу",
+      "word": "тартдырыу"
+    },
+    {
+      "batch": "batch_0057.json",
+      "prev": "тартмачы",
+      "word": "тарт-соз"
+    },
+    {
+      "batch": "batch_0058.json",
+      "prev": "тартыкъерин",
+      "word": "тартыкъ"
+    },
+    {
+      "batch": "batch_0059.json",
+      "prev": "тартыныу",
+      "word": "тартынчакъ"
+    },
+    {
+      "batch": "batch_0060.json",
+      "prev": "тархошлукъ",
+      "word": "тарх-турх"
+    },
+    {
+      "batch": "batch_0072.json",
+      "prev": "тауушсуз",
+      "word": "таууш-туууш"
+    },
+    {
+      "batch": "batch_0074.json",
+      "prev": "таша",
+      "word": "таш-агъач"
+    },
+    {
+      "batch": "batch_0078.json",
+      "prev": "ташыш",
+      "word": "ташытыу"
+    }
+  ],
+  "missing_outputs": [],
+  "unconsumed_segments": [
+    {
+      "batch": "batch_0042.json",
+      "id": "d2_18999",
+      "head": "та"
+    }
+  ],
+  "double_consumed": [
+    {
+      "batch": "batch_0009.json",
+      "id": "d2_06446"
+    },
+    {
+      "batch": "batch_0019.json",
+      "id": "d2_18722"
+    },
+    {
+      "batch": "batch_0032.json",
+      "id": "d2_18876"
+    },
+    {
+      "batch": "batch_0051.json",
+      "id": "d2_19116"
+    },
+    {
+      "batch": "batch_0057.json",
+      "id": "d2_19187"
+    },
+    {
+      "batch": "batch_0072.json",
+      "id": "d2_19366"
+    }
+  ],
+  "summary": {
+    "total_segments": 965,
+    "total_entries": 962,
+    "mean_similarity": 0.9407,
+    "low_similarity": 35,
+    "kb_leaks_in_def2": 1,
+    "alpha_breaks": 21,
+    "unconsumed": 1,
+    "double_consumed": 6,
+    "missing_outputs": 0,
+    "regression_taukelsiz": {
+      "found": true,
+      "ok": true,
+      "details": "def2='Нерешительный, несмелый; безвольный' tags='сыф.'"
+    }
+  }
+}

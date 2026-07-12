@@ -1,0 +1,14 @@
+{
+  "rows": 1266,
+  "classes": {
+    "only1": 365,
+    "only1_verb": 50,
+    "direct": 395,
+    "verb": 140,
+    "group": 13,
+    "only2": 303
+  },
+  "queue_only1_verbs": 50,
+  "queue_zh_dzh": 129,
+  "queue_spelling": 2
+}
