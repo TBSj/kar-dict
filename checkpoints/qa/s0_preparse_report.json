@@ -110,5 +110,15 @@
       "seqid": 820,
       "dup_of": 720
     }
-  ]
+  ],
+  "all": {
+    "entries_in": 32499,
+    "after_dedup": 29404,
+    "dropped_dups": 3095,
+    "trivial": 2768,
+    "slice": "all",
+    "slice_size": 29404,
+    "llm_needed": 26636,
+    "batches": 666
+  }
 }

@@ -13,7 +13,7 @@
     "batch_0002.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 1
+      "low_coverage": 0
     },
     "batch_0003.json": {
       "n_in": 40,
@@ -23,7 +23,7 @@
     "batch_0004.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 3
+      "low_coverage": 1
     },
     "batch_0005.json": {
       "n_in": 40,
@@ -43,12 +43,12 @@
     "batch_0008.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 4
+      "low_coverage": 0
     },
     "batch_0009.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 2
+      "low_coverage": 0
     },
     "batch_0010.json": {
       "n_in": 40,
@@ -58,7 +58,7 @@
     "batch_0011.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 1
+      "low_coverage": 2
     },
     "batch_0012.json": {
       "n_in": 40,
@@ -68,12 +68,12 @@
     "batch_0013.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 0
+      "low_coverage": 2
     },
     "batch_0014.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 0
+      "low_coverage": 1
     },
     "batch_0015.json": {
       "n_in": 40,
@@ -83,32 +83,32 @@
     "batch_0016.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 0
+      "low_coverage": 2
     },
     "batch_0017.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 5
+      "low_coverage": 1
     },
     "batch_0018.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 0
+      "low_coverage": 1
     },
     "batch_0019.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 0
+      "low_coverage": 1
     },
     "batch_0020.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 1
+      "low_coverage": 4
     },
     "batch_0021.json": {
       "n_in": 40,
       "n_out": 40,
-      "low_coverage": 0
+      "low_coverage": 6
     },
     "batch_0022.json": {
       "n_in": 40,
@@ -116,12 +116,3441 @@
       "low_coverage": 0
     },
     "batch_0023.json": {
-      "n_in": 31,
-      "n_out": 31,
+      "n_in": 40,
+      "n_out": 40,
       "low_coverage": 1
+    },
+    "batch_0024.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0025.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0026.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0027.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0028.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0029.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0030.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0031.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0032.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0033.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0034.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0035.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0036.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0037.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0038.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0039.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0040.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0041.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0042.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0043.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0044.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0045.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0046.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0047.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0048.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0049.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0050.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0051.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0052.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0053.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0054.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0055.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0056.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0057.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0058.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0059.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0060.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0061.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0062.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0063.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0064.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0065.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0066.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0067.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0068.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0069.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0070.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0071.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0072.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0073.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0074.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0075.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0076.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0077.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0078.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0079.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0080.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0081.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0082.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0083.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 6
+    },
+    "batch_0084.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0085.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0086.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0087.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0088.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0089.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0090.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0091.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0092.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0093.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0094.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0095.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0096.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0097.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0098.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0099.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0100.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0101.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0102.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0103.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0104.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0105.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0106.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0107.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0108.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0109.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0110.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0111.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0112.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0113.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0114.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0115.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0116.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0117.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0118.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0119.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0120.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0121.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0122.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0123.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0124.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0125.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0126.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0127.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0128.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0129.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0130.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0131.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0132.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0133.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0134.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0135.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0136.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0137.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0138.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0139.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0140.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0141.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0142.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0143.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0144.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0145.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0146.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0147.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0148.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0149.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0150.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0151.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0152.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0153.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0154.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0155.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0156.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0157.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0158.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0159.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0160.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0161.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0162.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0163.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0164.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0165.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0166.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0167.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0168.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0169.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0170.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0171.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0172.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0173.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0174.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0175.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0176.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0177.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0178.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0179.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0180.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0181.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0182.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0183.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0184.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0185.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0186.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0187.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0188.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0189.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0190.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0191.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0192.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0193.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0194.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0195.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0196.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0197.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0198.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0199.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0200.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0201.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0202.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0203.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0204.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0205.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0206.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0207.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0208.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0209.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0210.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0211.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0212.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0213.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0214.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0215.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0216.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0217.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0218.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0219.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0220.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0221.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0222.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0223.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0224.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0225.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0226.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0227.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0228.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0229.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0230.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0231.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0232.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0233.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0234.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0235.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0236.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0237.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0238.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0239.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0240.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0241.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0242.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0243.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0244.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0245.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0246.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0247.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0248.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0249.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0250.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0251.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0252.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0253.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0254.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0255.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0256.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0257.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0258.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0259.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0260.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0261.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0262.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0263.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0264.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0265.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0266.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0267.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0268.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0269.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0270.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0271.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0272.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0273.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0274.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0275.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0276.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0277.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0278.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0279.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 5
+    },
+    "batch_0280.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0281.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0282.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0283.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0284.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0285.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0286.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0287.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0288.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0289.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0290.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0291.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0292.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 6
+    },
+    "batch_0293.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0294.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0295.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0296.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0297.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0298.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0299.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0300.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0301.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0302.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0303.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0304.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0305.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0306.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0307.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0308.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0309.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0310.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0311.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0312.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0313.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0314.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0315.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0316.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0317.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0318.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0319.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0320.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0321.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0322.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0323.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0324.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0325.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0326.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0327.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0328.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0329.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0330.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0331.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0332.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0333.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0334.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0335.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0336.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0337.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0338.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0339.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0340.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0341.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0342.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0343.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0344.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0345.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0346.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0347.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0348.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0349.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0350.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0351.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0352.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0353.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0354.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0355.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0356.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0357.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0358.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0359.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0360.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0361.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0362.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0363.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0364.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0365.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0366.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0367.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0368.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0369.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0370.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0371.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0372.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0373.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 5
+    },
+    "batch_0374.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0375.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0376.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0377.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0378.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0379.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0380.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0381.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0382.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0383.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0384.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0385.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0386.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0387.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0388.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0389.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0390.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0391.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0392.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0393.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0394.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0395.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0396.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0397.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0398.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0399.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0400.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0401.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0402.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0403.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0404.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0405.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0406.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0407.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0408.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0409.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0410.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0411.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0412.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0413.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0414.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0415.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0416.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0417.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0418.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0419.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0420.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0421.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0422.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0423.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0424.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 6
+    },
+    "batch_0425.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0426.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0427.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0428.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0429.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0430.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0431.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0432.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0433.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0434.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0435.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0436.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0437.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0438.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0439.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0440.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0441.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0442.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0443.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0444.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0445.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 7
+    },
+    "batch_0446.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0447.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0448.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0449.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0450.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0451.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0452.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0453.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0454.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0455.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0456.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0457.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0458.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0459.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0460.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0461.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0462.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0463.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0464.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0465.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0466.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0467.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0468.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0469.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0470.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0471.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0472.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0473.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 7
+    },
+    "batch_0474.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0475.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0476.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0477.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0478.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0479.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0480.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0481.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0482.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0483.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0484.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0485.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0486.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0487.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0488.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0489.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0490.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0491.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0492.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0493.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0494.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0495.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0496.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 8
+    },
+    "batch_0497.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0498.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0499.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0500.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0501.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0502.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0503.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0504.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0505.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0506.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0507.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0508.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0509.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0510.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0511.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0512.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0513.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0514.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0515.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0516.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0517.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0518.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0519.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0520.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0521.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0522.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0523.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0524.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0525.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0526.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0527.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0528.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0529.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0530.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0531.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0532.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0533.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0534.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0535.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0536.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0537.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0538.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0539.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0540.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0541.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0542.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0543.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0544.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0545.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0546.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0547.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0548.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0549.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0550.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0551.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0552.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0553.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0554.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0555.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0556.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0557.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0558.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0559.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0560.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0561.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0562.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0563.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0564.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0565.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0566.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0567.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0568.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0569.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0570.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0571.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0572.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0573.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0574.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0575.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0576.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0577.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0578.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0579.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0580.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0581.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0582.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0583.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0584.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0585.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0586.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0587.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0588.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0589.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0590.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0591.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0592.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0593.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 5
+    },
+    "batch_0594.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0595.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0596.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0597.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0598.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0599.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0600.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0601.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0602.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0603.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0604.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0605.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 5
+    },
+    "batch_0606.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0607.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0608.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0609.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0610.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0611.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0612.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0613.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0614.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0615.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0616.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0617.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0618.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0619.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0620.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0621.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 2
+    },
+    "batch_0622.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 6
+    },
+    "batch_0623.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0624.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0625.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 5
+    },
+    "batch_0626.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0627.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 4
+    },
+    "batch_0628.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0629.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0630.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0631.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0632.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0633.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0634.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0635.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0636.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0637.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0638.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0639.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0640.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 3
+    },
+    "batch_0641.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0642.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0643.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0644.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0645.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0646.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0647.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0648.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0649.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0650.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0651.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0652.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0653.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0654.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0655.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0656.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0657.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0658.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0659.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0660.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0661.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0662.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0663.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 1
+    },
+    "batch_0664.json": {
+      "n_in": 40,
+      "n_out": 40,
+      "low_coverage": 0
+    },
+    "batch_0665.json": {
+      "n_in": 36,
+      "n_out": 36,
+      "low_coverage": 0
     }
   },
   "offenders": [
+    {
+      "seqid": 7614,
+      "word": "джашлыкъ",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "iпасынок",
+        "приёмныйсын"
+      ]
+    },
+    {
+      "seqid": 8119,
+      "word": "джолукъдуруу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "джолукъдурургъа"
+      ]
+    },
+    {
+      "seqid": 11325,
+      "word": "кёрюнюу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "кёрюнюрге"
+      ]
+    },
+    {
+      "seqid": 14351,
+      "word": "къууандырылыу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "къууандырылыргъа"
+      ]
+    },
+    {
+      "seqid": 22312,
+      "word": "саугъалатыу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "саугъалатыргъа"
+      ]
+    },
+    {
+      "seqid": 22692,
+      "word": "сериуюнлетиу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "сериуюнлетирге"
+      ]
+    },
+    {
+      "seqid": 23156,
+      "word": "сокъурандырыу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "сокъурандырыргъа"
+      ]
+    },
+    {
+      "seqid": 25298,
+      "word": "тебчилдетиу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "тебчилдетирге"
+      ]
+    },
+    {
+      "seqid": 25720,
+      "word": "тёбелешиу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "тёбелеширге"
+      ]
+    },
+    {
+      "seqid": 25860,
+      "word": "тёртгюллетиу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "тёртгюллетирге"
+      ]
+    },
+    {
+      "seqid": 26924,
+      "word": "тургъузтуу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "тургъузтургъа"
+      ]
+    },
+    {
+      "seqid": 28821,
+      "word": "халеклениу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "халекленирге"
+      ]
+    },
+    {
+      "seqid": 28826,
+      "word": "халеклетиу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "халеклетирге"
+      ]
+    },
+    {
+      "seqid": 29619,
+      "word": "чакъдыртыу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "чакъдыртыргъа"
+      ]
+    },
+    {
+      "seqid": 29893,
+      "word": "чачдырыу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "чачдырыргъа"
+      ]
+    },
+    {
+      "seqid": 30022,
+      "word": "чёблетиу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "чёблетирге"
+      ]
+    },
+    {
+      "seqid": 32185,
+      "word": "эшитдириу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "эшитдирирге"
+      ]
+    },
+    {
+      "seqid": 32372,
+      "word": "юрдюрюу",
+      "coverage": 0.0,
+      "missing_tokens": [
+        "юрдюрюрге"
+      ]
+    },
+    {
+      "seqid": 19320,
+      "word": "мыккылланыу",
+      "coverage": 0.333,
+      "missing_tokens": [
+        "увядание",
+        "хирение"
+      ]
+    },
+    {
+      "seqid": 1014,
+      "word": "акъылсызланыу",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "акъылсызланыргъа"
+      ]
+    },
+    {
+      "seqid": 2227,
+      "word": "ататмакълыкъ",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "ататыргъа"
+      ]
+    },
+    {
+      "seqid": 6686,
+      "word": "джабышдырмакълыкъ",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "джабышдырыгъа"
+      ]
+    },
+    {
+      "seqid": 12695,
+      "word": "къайырлыкъ",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "гъы",
+        "злостьж"
+      ]
+    },
+    {
+      "seqid": 12953,
+      "word": "къанау",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "iкровотечение"
+      ]
+    },
+    {
+      "seqid": 20189,
+      "word": "омакъланыу",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "кокетничанье"
+      ]
+    },
+    {
+      "seqid": 23088,
+      "word": "согъуу",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "iiiбитьё"
+      ]
+    },
+    {
+      "seqid": 23981,
+      "word": "сымарлау",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "iнаблюдение"
+      ]
+    },
     {
       "seqid": 24959,
       "word": "тартыныу",
@@ -131,181 +3560,276 @@
       ]
     },
     {
-      "seqid": 24375,
-      "word": "табакълыкъ",
+      "seqid": 30772,
+      "word": "шашхынлашыу",
+      "coverage": 0.5,
+      "missing_tokens": [
+        "шашхынлашыргъа"
+      ]
+    },
+    {
+      "seqid": 2863,
+      "word": "аякълыкъ",
+      "coverage": 0.6,
+      "missing_tokens": [
+        "ii",
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 6117,
+      "word": "демагогиялыкъ",
+      "coverage": 0.6,
+      "missing_tokens": [
+        "гъы",
+        "демагогический"
+      ]
+    },
+    {
+      "seqid": 12927,
+      "word": "къаназирлик",
+      "coverage": 0.6,
+      "missing_tokens": [
+        "ги",
+        "iiнадменность"
+      ]
+    },
+    {
+      "seqid": 14265,
+      "word": "къусуу",
+      "coverage": 0.6,
+      "missing_tokens": [
+        "ii",
+        "iii"
+      ]
+    },
+    {
+      "seqid": 704,
+      "word": "айтдырыу",
       "coverage": 0.667,
       "missing_tokens": [
-        "гы"
+        "суфлирование",
+        "театр"
       ]
     },
     {
-      "seqid": 24543,
-      "word": "тайгъакълыкъ",
+      "seqid": 1047,
+      "word": "алагъа",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "iим"
+      ]
+    },
+    {
+      "seqid": 1068,
+      "word": "алалыкь",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "iiпестрота"
+      ]
+    },
+    {
+      "seqid": 1815,
+      "word": "арбачылыкъ",
       "coverage": 0.667,
       "missing_tokens": [
         "гъы"
       ]
     },
     {
-      "seqid": 7029,
-      "word": "джалыныу",
-      "coverage": 0.8,
-      "missing_tokens": [
-        "джалбарыргьа"
-      ]
-    },
-    {
-      "seqid": 24388,
-      "word": "табалдырыкъ",
-      "coverage": 0.8,
+      "seqid": 2836,
+      "word": "аязлылыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
         "гъы"
       ]
     },
     {
-      "seqid": 24443,
-      "word": "табсашарлыкъ",
-      "coverage": 0.8,
+      "seqid": 2864,
+      "word": "аякълылыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
         "гъы"
       ]
     },
     {
-      "seqid": 24561,
-      "word": "таймазлыкъ",
-      "coverage": 0.8,
-      "missing_tokens": [
-        "гъы"
-      ]
-    },
-    {
-      "seqid": 24615,
-      "word": "талакъ",
-      "coverage": 0.8,
+      "seqid": 3933,
+      "word": "битдиртиу",
+      "coverage": 0.667,
       "missing_tokens": [
         "ii"
       ]
     },
     {
-      "seqid": 24708,
-      "word": "тамалсызлыкъ",
-      "coverage": 0.8,
+      "seqid": 4305,
+      "word": "бракчылыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
         "гъы"
       ]
     },
     {
-      "seqid": 24947,
-      "word": "тартындырыргъа",
-      "coverage": 0.8,
+      "seqid": 6724,
+      "word": "джагъачыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
-        "iконфузить"
+        "iiворотничок"
       ]
     },
     {
-      "seqid": 24950,
-      "word": "тартынмакълыкъ",
-      "coverage": 0.8,
+      "seqid": 6804,
+      "word": "джазылмакълыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
-        "iзастенчивость"
+        "ii",
+        "iii"
       ]
     },
     {
-      "seqid": 24423,
-      "word": "табкъарынлыкъ",
-      "coverage": 0.833,
+      "seqid": 6805,
+      "word": "джазылыныргъа",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "ii",
+        "iii"
+      ]
+    },
+    {
+      "seqid": 7351,
+      "word": "джаргьакълыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
         "гъы"
       ]
     },
     {
-      "seqid": 24587,
-      "word": "такы",
-      "coverage": 0.833,
+      "seqid": 7377,
+      "word": "джаркъмалыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 7403,
+      "word": "джармалыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
         "ii"
       ]
     },
     {
-      "seqid": 25093,
-      "word": "тау",
-      "coverage": 0.833,
+      "seqid": 7553,
+      "word": "джаулукъ",
+      "coverage": 0.667,
       "missing_tokens": [
-        "магъадан"
+        "iжирность"
       ]
     },
     {
-      "seqid": 24532,
-      "word": "тазирлик",
-      "coverage": 0.857,
+      "seqid": 7831,
+      "word": "джерчик",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "iместечко"
+      ]
+    },
+    {
+      "seqid": 8852,
+      "word": "джырыкълыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 9240,
+      "word": "ёрюшлюк",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гю"
+      ]
+    },
+    {
+      "seqid": 9631,
+      "word": "зиянлыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 9634,
+      "word": "зиянсызлыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 9752,
+      "word": "зымпыкъланмакълыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 9881,
+      "word": "изотоплукъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъу"
+      ]
+    },
+    {
+      "seqid": 9991,
+      "word": "ийнарчылыкъ",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "гъы"
+      ]
+    },
+    {
+      "seqid": 10137,
+      "word": "инджигенлик",
+      "coverage": 0.667,
       "missing_tokens": [
         "ги"
       ]
     },
     {
-      "seqid": 24556,
-      "word": "тайлыкъ",
-      "coverage": 0.857,
+      "seqid": 10278,
+      "word": "ирклик",
+      "coverage": 0.667,
+      "missing_tokens": [
+        "ги"
+      ]
+    },
+    {
+      "seqid": 10427,
+      "word": "кабиналыкъ",
+      "coverage": 0.667,
       "missing_tokens": [
         "гъы"
       ]
     },
     {
-      "seqid": 24948,
-      "word": "тартындырыргъа",
-      "coverage": 0.857,
+      "seqid": 10436,
+      "word": "кабрикотлукъ",
+      "coverage": 0.667,
       "missing_tokens": [
-        "iiвызывать"
-      ]
-    },
-    {
-      "seqid": 6949,
-      "word": "джалгъанлыкъ",
-      "coverage": 0.889,
-      "missing_tokens": [
-        "гъы"
-      ]
-    },
-    {
-      "seqid": 24958,
-      "word": "тартыныу",
-      "coverage": 0.889,
-      "missing_tokens": [
-        "iсмущение"
-      ]
-    },
-    {
-      "seqid": 24440,
-      "word": "табмазлыкъ",
-      "coverage": 0.923,
-      "missing_tokens": [
-        "гъы"
-      ]
-    },
-    {
-      "seqid": 24872,
-      "word": "таракълыкъ",
-      "coverage": 0.929,
-      "missing_tokens": [
-        "гъы"
-      ]
-    },
-    {
-      "seqid": 25212,
-      "word": "таянчакъ",
-      "coverage": 0.977,
-      "missing_tokens": [
-        "гъы"
+        "гъу"
       ]
     }
   ],
   "missing_outputs": [],
   "missing_entries": [],
   "summary": {
-    "total_in": 951,
-    "total_out": 951,
-    "mean_coverage": 0.9957,
-    "entries_below_98pct": 22,
+    "total_in": 26636,
+    "total_out": 26636,
+    "mean_coverage": 0.9961,
+    "entries_below_98pct": 468,
     "missing_entries": 0,
     "missing_outputs": 0
   }
