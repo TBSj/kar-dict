@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "entry_id": "e_17250",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17251",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17252",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17253",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17254",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17255",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17256",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17257",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17258",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17259",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17260",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17261",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17262",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17263",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17264",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17265",
+   "lextag": "logic_and_function_words",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17266",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17267",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17268",
+   "lextag": "space_and_time",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_17269",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17270",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17271",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17272",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17273",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17274",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17275",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17276",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17277",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17278",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17279",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17280",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17281",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17282",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17283",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_17284",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17285",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17286",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17287",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17288",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17289",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17290",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17291",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17292",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17293",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17294",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17295",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17296",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17297",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17298",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_17299",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  }
+ ]
+}

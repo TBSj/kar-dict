@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "entry_id": "e_20900",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20901",
+   "lextag": "emotions_and_will",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20902",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20903",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20904",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20905",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20906",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20907",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20908",
+   "lextag": "objects_and_technology",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_20909",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20910",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20911",
+   "lextag": "living_things",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_20912",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20913",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20914",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20915",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20916",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_20917",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20918",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20919",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_20920",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20921",
+   "lextag": "logic_and_function_words",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20922",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20923",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20924",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20925",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20926",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20927",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20928",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20929",
+   "lextag": "human_body",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20930",
+   "lextag": "language_and_communication",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20931",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20932",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20933",
+   "lextag": "language_and_communication",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20934",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20935",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20936",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20937",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20938",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20939",
+   "lextag": "living_things",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20940",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20941",
+   "lextag": "living_things",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20942",
+   "lextag": "living_things",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_20943",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20944",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20945",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20946",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20947",
+   "lextag": "language_and_communication",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_20948",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_20949",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  }
+ ]
+}

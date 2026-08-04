@@ -1,0 +1,5690 @@
+{
+ "items": [
+  {
+   "entry_id": "e_29110",
+   "word": "тартылмакълыкъ",
+   "tags": "отвлеч. к тартылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тартыб",
+     "def": "волоком, юзом",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъ",
+     "def": "стянутый, перекошенный",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъерин",
+     "def": "Кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыкълыкъ",
+     "def": "стянутость",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъэрин",
+     "def": "кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыл",
+     "def": "1. страд. от тарт 2. Сократиться (о мышцах) 3. энчи. Подтянуться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29117",
+   "word": "тартындырмакълыкъ2",
+   "tags": "отвлеч. к тартындырыргъа I",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "тартыб",
+     "def": "волоком, юзом",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъ",
+     "def": "стянутый, перекошенный",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъерин",
+     "def": "Кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыкълыкъ",
+     "def": "стянутость",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъэрин",
+     "def": "кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыл",
+     "def": "1. страд. от тарт 2. Сократиться (о мышцах) 3. энчи. Подтянуться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29140",
+   "word": "тартышдырмакълыкъ",
+   "tags": "отвлеч. к тартышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тартыб",
+     "def": "волоком, юзом",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъ",
+     "def": "стянутый, перекошенный",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъерин",
+     "def": "Кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыкълыкъ",
+     "def": "стянутость",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъэрин",
+     "def": "кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыл",
+     "def": "1. страд. от тарт 2. Сократиться (о мышцах) 3. энчи. Подтянуться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29141",
+   "word": "тартышдырыу",
+   "tags": "и, д. к тартышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тартыб",
+     "def": "волоком, юзом",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъ",
+     "def": "стянутый, перекошенный",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъерин",
+     "def": "Кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыкълыкъ",
+     "def": "стянутость",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъэрин",
+     "def": "кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыл",
+     "def": "1. страд. от тарт 2. Сократиться (о мышцах) 3. энчи. Подтянуться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29143",
+   "word": "тартышмакълыкъ",
+   "tags": "отвлеч. к тартышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тартыб",
+     "def": "волоком, юзом",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъ",
+     "def": "стянутый, перекошенный",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъерин",
+     "def": "Кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыкълыкъ",
+     "def": "стянутость",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тартыкъэрин",
+     "def": "кривогубый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "тартыл",
+     "def": "1. страд. от тарт 2. Сократиться (о мышцах) 3. энчи. Подтянуться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29147",
+   "word": "тарх3",
+   "tags": "",
+   "def1": "выстрелы",
+   "def2": "",
+   "misc1": "-турх; тарх тауушла перестрелка, выстрелы",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тарх1",
+     "def": "цифра, знак",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тарх2",
+     "def": "тарх о выстреле бах!",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29149",
+   "word": "тархлы",
+   "tags": "",
+   "def1": "значный",
+   "def2": "",
+   "misc1": "юч тархлы сан трёхзначное число",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_29160",
+   "word": "тарыгъыусуз",
+   "tags": "",
+   "def1": "благополучный, безбедный || благополучно, безбедно",
+   "def2": "",
+   "misc1": "тарыгъыусуз джашайды он живёт безбедно",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тарыгъыу1",
+     "def": "1) и. д.к тарыгъыргъа жалоба, сетование, нытьё",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыу2",
+     "def": "2) жалоба; апелляция юр. 3) беда",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулу1",
+     "def": "1) тяжёлый, неблагополучный 2) жалобный, жалостный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулу2",
+     "def": "Жалостно, жалобно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29161",
+   "word": "тарыгъыусузлукъ",
+   "tags": "отвлеч. к тарыгъыусуз",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тарыгъыу1",
+     "def": "1) и. д.к тарыгъыргъа жалоба, сетование, нытьё",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыу2",
+     "def": "2) жалоба; апелляция юр. 3) беда",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулу1",
+     "def": "1) тяжёлый, неблагополучный 2) жалобный, жалостный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулу2",
+     "def": "Жалостно, жалобно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тарыгъыулулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29171",
+   "word": "тарыл",
+   "tags": "страд. к тарыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тарылт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылтыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылы",
+     "def": "имеющий просо, с просом",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "тарылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29172",
+   "word": "тарылт",
+   "tags": "понуд. к тарылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "джерни тарылтыргъа заставить обрабатывать землю",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тарыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылтыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылы",
+     "def": "имеющий просо, с просом",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "тарылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29173",
+   "word": "тарылтыу",
+   "tags": "и. д.к тарылтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тарыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылы",
+     "def": "имеющий просо, с просом",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "тарылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29175",
+   "word": "тарылыу",
+   "tags": "и. д.к тарылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тарыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылтыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тарылы",
+     "def": "имеющий просо, с просом",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29177",
+   "word": "тарытдыр",
+   "tags": "понуд. к тарытыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тарыт",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "тарытдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тарытыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29178",
+   "word": "тарытдырыу",
+   "tags": "и. д. к тарытдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тарыт",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "тарытдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тарытыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29182",
+   "word": "тарых2",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "История 1. 2. Совокупность наук, изучающих прошлое человеческого общества 3. 4. Ход развития, движения чего-л.",
+   "misc1": "",
+   "misc2": "1. Барлыкъны, дуния кертиликни айныуу, къымылдауу. Тарыхны жорукълары. Тарыхны, сагъат ургъанча, барып тургъан чархын тохтатыргъа болмайды. Байчоралан",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "тарых1",
+     "def": "1. Цифра 2. Цифровые данные, сведения 3. Дата",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29201",
+   "word": "тата",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. атта, аття. «Тата тюнене ишден кеч келгенди», - деди Майрусхан.",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_29215",
+   "word": "татий",
+   "tags": "ат.",
+   "def1": "прополис",
+   "def2": "Прополис",
+   "misc1": "",
+   "misc2": "Бал чибинле чагъа, ачыла башлагъан битимледен жыйыучу эм бал таракъла этер ючюн хайырланыучу, кючлю ийиси болгъан, чайыргъа ушагъан зат. Зепеш, Къуршо",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_29229",
+   "word": "татлысёз",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Татлы тилли, къ. татлы 2. Излесенг да табалмазса, Аны кибик татлы сёз. Гуртуланы Б., Шуёхла арасында, 112.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "татлы1",
+     "def": "1) прям., перен. сладкий 2) вкусный 3) приятный, милый",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татлы2",
+     "def": "1) прям., перен. сладко 2) вкусно 3) приятно, ласково",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татлыаууз",
+     "def": "вежливый, ласковый; сладкоречивый",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "татлыкъарын",
+     "def": "см. татлычы",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татлыкъсын",
+     "def": "Заинтересоваться, проявить интерес, разохотиться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "татлыкъсындыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29232",
+   "word": "татлытил",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Татлы тилли къ. татлы 2. Татлытил ынна. Татлытил къартла.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "татлы1",
+     "def": "1) прям., перен. сладкий 2) вкусный 3) приятный, милый",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татлы2",
+     "def": "1) прям., перен. сладко 2) вкусно 3) приятно, ласково",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татлыаууз",
+     "def": "вежливый, ласковый; сладкоречивый",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "татлыкъарын",
+     "def": "см. татлычы",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татлыкъсын",
+     "def": "Заинтересоваться, проявить интерес, разохотиться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "татлыкъсындыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29234",
+   "word": "таттий",
+   "tags": "ц. диал. саб.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. датти. Жашчыкъгъа анасы: «Таттий, балачыгъым»,- деди.",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_29236",
+   "word": "татхан",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. чыпын, тиреу. Бауну татханлары чиригендиле.",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_29250",
+   "word": "татытмакълыкъ",
+   "tags": "отвлеч. к татытыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "татыт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "татытыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29256",
+   "word": "татыуланыу",
+   "tags": "и. д. к татыуланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "татыу1",
+     "def": "1) вкус 2) перен. сладость, что-л. хорошее",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татыу2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "татыу3",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "татыулан",
+     "def": "приобретать вкус, становиться вкусным",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "татыулу1",
+     "def": "1) вкусный 2) имеющий какой-л. вкус 3) сочный, питательный (о кормах) 4) перен. хороший, п",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "татыулу2",
+     "def": "1. Вкусно, со смаком. 2. кёч. Интересно. 3. кёч. От всей души (смеяться, играть и т. п.)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29264",
+   "word": "тау2",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. малкъар, къарачай. [Семён], тау тилни билмегенине бушуу эте тохтады. Аппаланы Х., Къара кюбюр, 179. Князны орусча сёзюн тау тилге тогъуз тилни бил",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "тау1",
+     "def": "гора || горный; горнорудный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29270",
+   "word": "тауаф",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тауаф эт къ. табын 1. Эфенди, къолунда да мынчакълары бла, тауаф эте турады. «Коммунизмге жол», 1977, № 209.",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_29304",
+   "word": "таурухлу",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. айтхылы. [Альпинистле] Таурухлу курт маулада, уллу буз ыранлада, Кийиклеча, жюрюйдюле Чынгыл буз чыранлада. «Жашауубузну байрагъы», 49.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "таурух",
+     "def": ") сказка; предание, сказание, легенда 2) рассказ, история",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "таурухдача",
+     "def": "сказочный, как в сказке",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "таурухла",
+     "def": "рассказывать что",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "таурухламакълыкъ",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "таурухлау",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "таурухлукъ",
+     "def": "1. отвлеч. к таурух 2. легендарный, сказочный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29334",
+   "word": "таууш-туууш",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Всякий звук, шум",
+   "misc1": "",
+   "misc2": "Тюрлю-тюрлю тауушла. Элден узакъ кетгенден сора таууш-туууш да эшитилмей башлады. (Фольк.)",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "таууш1",
+     "def": "1) звук || звуковой 2) лингв. звук 3) голос || голосовой",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "таууш2",
+     "def": "-тюйюш возня, драка",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "таууш-тюйюн",
+     "def": "Драка, возня",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "тауушлу1",
+     "def": "1) имеющий какой-л. голос 2) звучный, звонкий 3) звуковой 4) перен. известный, знаменитый",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "тауушлу2",
+     "def": "Звонко, шумно, звучно",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "тауушлукъ1",
+     "def": "известный, знаменитый",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29354",
+   "word": "тахсын",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тангсын. Бешикни сюйюп бай накъышларын, Бешик жыр жырлайдыла тахсынып. Гуртуланы Б., Жарыкъ танг, 70.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тахсыныу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29355",
+   "word": "тахсыныу",
+   "tags": "и. д. от тахсын",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тахсын дегенден этим ат.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тахсын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29364",
+   "word": "тахтандырмакълыкъ",
+   "tags": "карач. отвлеч. к тахтандырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тахта1",
+     "def": "грядка",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тахта2",
+     "def": "престол, трон",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тахта3",
+     "def": "скамейка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "тахта4",
+     "def": "боковая ниша на дне могилы (для покойника)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "тахталыкъ",
+     "def": "",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тахтан",
+     "def": "повадиться (что-л. делать), приучаться к чему",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29366",
+   "word": "тахтанмакълыкъ",
+   "tags": "карач. отвлеч. к тахтаныргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тахта1",
+     "def": "грядка",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тахта2",
+     "def": "престол, трон",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тахта3",
+     "def": "скамейка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "тахта4",
+     "def": "боковая ниша на дне могилы (для покойника)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "тахталыкъ",
+     "def": "",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тахтан",
+     "def": "повадиться (что-л. делать), приучаться к чему",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29375",
+   "word": "таша1",
+   "tags": "ат.",
+   "def1": "1) секрет, тайна 2) скрытое, укромное место; тайник",
+   "def2": "1. Укрытие, прикрытие, заслон 2. Скрытое, укромное место",
+   "misc1": "ташангы билдирме не выдавай свою тайну; таша джерде в укромном месте; ташагъа букъ спрячься куда-нибудь (напр. в игре)",
+   "misc2": "1. Кёзге кёрюнмеген жер. «Кел, ташадан къарайыкъ»,- деп, Азирет Далхатны чегет таба тартды. Къобанланы А., Кюн таякъла, 95. Чалман къатында, ташада ол",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "таша2",
+     "def": "секретный, тайный, скрытый, негласный",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "таша3",
+     "def": "секретно, тайно, скрыто, негласно",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29376",
+   "word": "таша2",
+   "tags": "сыф.",
+   "def1": "секретный, тайный, скрытый, негласный",
+   "def2": "Скрытый, тайный, затаенный",
+   "misc1": "закондан таша нелегальный; закондан таша литература нелегальная литература; таша эшик потайная дверь; таша агент тайный агент; таша типография тайная ",
+   "misc2": "Кёрюнмеген, эсленмеген, жашырылгъан, букъдурулгъан. Акъыллы кесине ышаныр, акъылсыз таша насыпха ышаныр. (Нарт сёз.) ◊ Къарачайда патчах къуллукъчула ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "таша1",
+     "def": "1) секрет, тайна 2) скрытое, укромное место; тайник",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "таша3",
+     "def": "секретно, тайно, скрыто, негласно",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29377",
+   "word": "таша3",
+   "tags": "хал. сёзл.",
+   "def1": "секретно, тайно, скрыто, негласно",
+   "def2": "1. Скрытно, тайно, тайком, украдкой 2. За глаза",
+   "misc1": "кёзден ташада за глаза; таша сёлеширге а)вести переговоры; б) секретничать; таша айтхан тутулур, туру айтхан къутулур посл. кто скажет за глаза, того ",
+   "misc2": "1. Букъдуруп, билдирмей, айтмай, кёргюзтмей. Жууугъунга таша бер да, туура ал. (Нарт сёз.) ◊ ...Бусагъатха деричи кеси сагъышына кетип, тынгылап тургъ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "таша1",
+     "def": "1) секрет, тайна 2) скрытое, укромное место; тайник",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "таша2",
+     "def": "секретный, тайный, скрытый, негласный",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29379",
+   "word": "ташаймакълыкъ",
+   "tags": "отвлеч. к ташайыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташайт",
+     "def": "1. понуд. от ташай 2. кёч. къ. урла",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдыр",
+     "def": "понуд. от ташайт",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29380",
+   "word": "ташайт",
+   "tags": "эт.; понуд. к ташайыргъа",
+   "def1": "",
+   "def2": "1. понуд. от ташай 2. кёч. къ. урла",
+   "misc1": "кёзюмден ташайт убери с глаз моих; суугъа ташайт погрузи в воду; окуни в воду; адам кёзден ташайтыргъа скрыть от чужих глаз; хычынланы ташайтыргъа уми",
+   "misc2": "1. Ташай дегенни къатланыучу айырмасы. Адамны ташайтхан, къара агъашча, бу будайланы кёремисиз! Хубийланы О., Аманат, I, 42. Жашчыкъ эмегенни ургъанды",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташаймакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдыр",
+     "def": "понуд. от ташайт",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29381",
+   "word": "ташайтдыр",
+   "tags": "эт.; понуд. к ташайтыргъа",
+   "def1": "",
+   "def2": "понуд. от ташайт",
+   "misc1": "",
+   "misc2": "Ташайт дегенни къатланыучу айырмасы. Кёзден ташайтдыр.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташаймакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайт",
+     "def": "1. понуд. от ташай 2. кёч. къ. урла",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29382",
+   "word": "ташайтдырмакълыкъ",
+   "tags": "отвлеч. к ташайтдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташаймакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайт",
+     "def": "1. понуд. от ташай 2. кёч. къ. урла",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдыр",
+     "def": "понуд. от ташайт",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29383",
+   "word": "ташайтдырыу",
+   "tags": "и. д. от ташайтдыр; и. д. к ташайтдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ташайтдыр дегенден этим ат. Биреуню арбаздан ташайтдырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташаймакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайт",
+     "def": "1. понуд. от ташай 2. кёч. къ. урла",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдыр",
+     "def": "понуд. от ташайт",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29384",
+   "word": "ташайтыл",
+   "tags": "эт. страд. от ташайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ташайт дегенни зорлаучу айырмасы.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташаймакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайт",
+     "def": "1. понуд. от ташай 2. кёч. къ. урла",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдыр",
+     "def": "понуд. от ташайт",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29386",
+   "word": "ташайтыу",
+   "tags": "и. д. от ташайт; и. д. к ташайтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ташайт дегенден этим ат. Жюкню юйге ташайтыу. Малланы агъачха ташайтыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташай",
+     "def": "скрываться тж. перен.; исчезать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ташаймакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайт",
+     "def": "1. понуд. от ташай 2. кёч. къ. урла",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдыр",
+     "def": "понуд. от ташайт",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ташайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29391",
+   "word": "ташал",
+   "tags": "",
+   "def1": "см. ташайыргъа",
+   "def2": "",
+   "misc1": "ташалыб кетдиле они скрылись из виду",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ташалыкъ",
+     "def": "1. Скрытость, тайность, затаенность 2. къарач. Тайна, секрет",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29393",
+   "word": "ташатын",
+   "tags": "хал. сёзл.",
+   "def1": "1) по укромным местам, по закоулкам 2) секретно, тайно, скрытно; тайком",
+   "def2": "Тайком, секретно, скрытно, тайно",
+   "misc1": "ташатын кел иди по закоулкам; иди там, где тебя не заметят; ташатын айтды он сказал по секрету",
+   "misc2": "Жашыртын, кишиге билдирмей, букъдуруп. Бюгюн ташатын этилген зат тамбла ачыкъ болиды. Гыттыуланы М., Ачыкъ жюрекле, 109. Жаш, ташатын келип, атланы къ",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_29423",
+   "word": "ташсынмакълыкъ",
+   "tags": "отвлеч. к ташсыныргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ташсын",
+     "def": "хромать",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ташсындыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ташсындырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ташсындырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ташсындырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ташсыныу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29431",
+   "word": "ташылмакълыкъ",
+   "tags": "отвлеч. к ташылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "ташыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29433",
+   "word": "ташымакълыкъ",
+   "tags": "отвлеч. к ташыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_29436",
+   "word": "ташытдырылыу",
+   "tags": "и. д. от ташытдырыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ташытдырыл дегенден этим ат.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "ташыт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытдыр",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытдырыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытыу1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29441",
+   "word": "ташытыу2",
+   "tags": "и. д. от ташыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ташыш дегенден этим ат.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "ташыт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытдыр",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытдырылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "ташытдырыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ташытылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29459",
+   "word": "таяндырмакълыкъ",
+   "tags": "отвлеч. к таяндырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "таяндыр",
+     "def": "1. понуд. от таян 2. Прислонить",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "таяндырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "таяндыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "таяндырыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "таяндырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "таяндырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29473",
+   "word": "таянышмакълыкъ",
+   "tags": "отвлеч. к таянышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "таяныу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "таяныучу",
+     "def": "то же, что таянчакъ",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "таяныш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "таянышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29497",
+   "word": "тебермеклик",
+   "tags": "отвлеч. к теберирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тебер",
+     "def": "1) толкать кого-что 2) двигать, сдвигать что 3) перен. есть, уминать (пищу)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "теберил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "теберилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебериу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебериш",
+     "def": "толкаться, толкать друг друга",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "теберишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29500",
+   "word": "тебертдириу",
+   "tags": "и. д. к тебертдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тебер",
+     "def": "1) толкать кого-что 2) двигать, сдвигать что 3) перен. есть, уминать (пищу)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "теберил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "теберилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебериу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебериш",
+     "def": "толкаться, толкать друг друга",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "теберишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29501",
+   "word": "тебертиу",
+   "tags": "и. д. к тебертирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тебер",
+     "def": "1) толкать кого-что 2) двигать, сдвигать что 3) перен. есть, уминать (пищу)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "теберил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "теберилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебериу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебериш",
+     "def": "толкаться, толкать друг друга",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "теберишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29532",
+   "word": "теблемеклик",
+   "tags": "отвлеч. к теблерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблетдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29533",
+   "word": "теблендир",
+   "tags": "понуд. к тебленирге 2",
+   "def1": "",
+   "def2": "",
+   "misc1": "унну теблендириб къуй насыпай муку приминая",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблетдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29534",
+   "word": "теблендириу",
+   "tags": "и. д. к теблендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблетдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29535",
+   "word": "теблендирмеклик",
+   "tags": "отвлеч. к теблендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблетдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29537",
+   "word": "тебленмеклик",
+   "tags": "отвлеч. к тебленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "теблетдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29539",
+   "word": "теблетил",
+   "tags": "страд. к теблетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29540",
+   "word": "теблетилиу",
+   "tags": "и. д. к теблетилирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "теблемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "теблениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тебленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29543",
+   "word": "тебмей",
+   "tags": "",
+   "def1": "1) деепр. отриц. от теберге 2) неподвижно",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тебмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29565",
+   "word": "тебчилдемеклик",
+   "tags": "отвлеч. к тебчилдерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тебчилдетдир",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "тебчилдетдириу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "тебчилдетиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдеу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдеуюк",
+     "def": "непоседливый [человек], егоза, непоседа",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдешиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29566",
+   "word": "тебчилдетдир",
+   "tags": "понуд. к тебчилдетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тебчилдемеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "тебчилдетдириу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "тебчилдетиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдеу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдеуюк",
+     "def": "непоседливый [человек], егоза, непоседа",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдешиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29567",
+   "word": "тебчилдетдириу",
+   "tags": "и. д. к тебчилдетдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тебчилдемеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "тебчилдетдир",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "тебчилдетиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдеу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдеуюк",
+     "def": "непоседливый [человек], егоза, непоседа",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тебчилдешиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29580",
+   "word": "тегерей",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "тегерей кюбе прочная кольчуга; кёк чепкенинг тегерей кюбеден бек болду фольк. [твой] синий бешмет оказался прочнее кольчуги; тегерей джамчы плотная (в",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_29581",
+   "word": "теджемеклик",
+   "tags": "отвлеч. к теджерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "теджетиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "теджеу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29582",
+   "word": "теджетиу",
+   "tags": "и. д. от тежет, ат.; и. д. к теджетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тежет дегенден этим ат. Биреуню депутатха тежетиу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "теджемеклик",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "теджеу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29591",
+   "word": "тезгек",
+   "tags": "ат. къ. тазгек.; балк.",
+   "def1": "то же, что тазгек",
+   "def2": "",
+   "misc1": "",
+   "misc2": "[Мазан] Къара ажирни тезгегин ашай тургъан бир акъ ажирни да кёрдю. «Малкъар халкъ жомакъла», II, 192. [Таулула] малны этин, сютюн, къылын, жюнюн да, ",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_29602",
+   "word": "тезлендириу",
+   "tags": "карач. и. д. к тезлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тезле",
+     "def": "торопить кого",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлен",
+     "def": "торопиться; убыстряться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендир",
+     "def": "торопить кого",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлениу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тезлет",
+     "def": "1) понуд. к тезлерге; 2) то же, что тезлерге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29603",
+   "word": "тезлениу",
+   "tags": "карач. и. д. к тезленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тезле",
+     "def": "торопить кого",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлен",
+     "def": "торопиться; убыстряться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендир",
+     "def": "торопить кого",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тезлет",
+     "def": "1) понуд. к тезлерге; 2) то же, что тезлерге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29605",
+   "word": "тезлетиу",
+   "tags": "карач. и. д. к тезлетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тезле",
+     "def": "торопить кого",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлен",
+     "def": "торопиться; убыстряться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендир",
+     "def": "торопить кого",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тезлениу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тезлет",
+     "def": "1) понуд. к тезлерге; 2) то же, что тезлерге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29606",
+   "word": "тезлеу",
+   "tags": "карач. и. д. к тезлерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тезле",
+     "def": "торопить кого",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлен",
+     "def": "торопиться; убыстряться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендир",
+     "def": "торопить кого",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тезлендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тезлениу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тезлет",
+     "def": "1) понуд. к тезлерге; 2) то же, что тезлерге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29621",
+   "word": "теккил",
+   "tags": "карач. парн. к аккыл-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_29629",
+   "word": "текшермеклик",
+   "tags": "карач. отвлеч. к текшерирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "текшее",
+     "def": "Подсчитывать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "текшер",
+     "def": "подсчитывать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "текшериу",
+     "def": "подсчёт",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29663",
+   "word": "телилендирмеклик",
+   "tags": "отвлеч. к телилендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "телилен",
+     "def": "дурачиться, валять дурака; паясничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телиленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "телилик",
+     "def": "1) дурость, глупость 2) нелепость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29665",
+   "word": "телиленмеклик",
+   "tags": "отвлеч. к телиленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "телилен",
+     "def": "дурачиться, валять дурака; паясничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилендирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "телилениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телилик",
+     "def": "1) дурость, глупость 2) нелепость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29670",
+   "word": "телисиниу",
+   "tags": "и. д. к телисинирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "телисин",
+     "def": "1)оставить кого в дураках, одурачить кого 2) принимать кого за дурака",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "телисине",
+     "def": "1) сдуру 2) нелепо",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "телисыман",
+     "def": "придурковатый, глуповатый",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29673",
+   "word": "телтек",
+   "tags": "карач.",
+   "def1": "то же, что тентек",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_29691",
+   "word": "темирчилемеклик",
+   "tags": "отвлеч. к темирчилерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29693",
+   "word": "темирчилендир",
+   "tags": "понуд. к темирчиленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги биреуге темирчилендирирге злиться на кого-л., грозить кому-л. (кулаком); кесин меннге темирчилендиреди он злится на меня",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29694",
+   "word": "темирчилендириу",
+   "tags": "и. д. к темирчилендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29695",
+   "word": "темирчилендирмеклик",
+   "tags": "отвлеч. к темирчилендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29697",
+   "word": "темирчилениш",
+   "tags": "взаимн.-возвр. к темирчиленирге",
+   "def1": "см. темирчилеширге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29698",
+   "word": "темирчиленишиу",
+   "tags": "и. д. к темирчилениширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29699",
+   "word": "темирчиленмеклик",
+   "tags": "отвлеч. к темирчиленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "темир",
+     "def": "железо (тж. химический элемент) || железный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темир-бетон",
+     "def": "1. Железобетон 2. В позиции определения: железобетонный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "темирбет",
+     "def": "бессовестный, бесстыжий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "темиреу",
+     "def": "лишай (на лице)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазакъ",
+     "def": "Полярная звезда",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "темиркъазыкъ",
+     "def": "то же, что Темиркъазакъ",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29706",
+   "word": "темп",
+   "tags": "",
+   "def1": "темп",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_29714",
+   "word": "тенгиз2",
+   "tags": "",
+   "def1": "то же, что терк-тенгиз",
+   "def2": "",
+   "misc1": "-терк",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "тенгиз1",
+     "def": "море || морской",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "тенгизчи",
+     "def": "моряк || моряцкий",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "тенгиш1",
+     "def": "1. 1) ровесник 2) спорт. ничья 3) редко мат. уравнение 2. 1) почти равный, почти одинаковы",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "тенгиш2",
+     "def": "равняться, сравниваться с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгишдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгишдирил",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29716",
+   "word": "тенгиш1",
+   "tags": "сыф. къарач.; карач.",
+   "def1": "1. 1) ровесник 2) спорт. ничья 3) редко мат. уравнение 2. 1) почти равный, почти одинаковый || почти одинаково 2) равномерный, ритмичный || равномерно, ритмично",
+   "def2": "",
+   "misc1": "ала тенгишдиле они ровесники; оюнда тенгиш болургъа сыграть вничью, сделать ничью в игре; бир белгисизи болгъан тенгиш уравнение с одним неизвестным; ",
+   "misc2": "къ. тенгши. 1. Тенгиш жашла. Аланы бойлары тенгишди. ▯ Тенгиш бол къарач. Сыграть в ничью / тенг бол. Оналтынчы оюнда эки гроссмейстер да тенгиш болду",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "тенгиз1",
+     "def": "море || морской",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "тенгиз2",
+     "def": "то же, что терк-тенгиз",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "тенгизчи",
+     "def": "моряк || моряцкий",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "тенгиш2",
+     "def": "равняться, сравниваться с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгишдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгишдирил",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29730",
+   "word": "тенгле",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тенг эт. 3 къ. тенг III. Балаларын суу элтген Айыуну жылагъаныны юсюнден жырлай эдинг, Кесипге тенглей аны. Къулийланы Къ., Жаралы таш, 36. Тенглерим,",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "тенглет",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглетиу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеш1",
+     "def": "равняться, сравниваться, соперничать с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенглеш2",
+     "def": "см. тенгиш",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "тенглешдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29731",
+   "word": "тенглет",
+   "tags": "эт. понуд. от тенгле; понуд. к тенглерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тенгле дегенни къатланыучу айырмасы.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "тенгле",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглетиу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеш1",
+     "def": "равняться, сравниваться, соперничать с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенглеш2",
+     "def": "см. тенгиш",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "тенглешдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29732",
+   "word": "тенглетиу",
+   "tags": "и. д. от тенглет; и. д. к тенглетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тенглет дегенден этим ат.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "тенгле",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглет",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеш1",
+     "def": "равняться, сравниваться, соперничать с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенглеш2",
+     "def": "см. тенгиш",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "тенглешдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29733",
+   "word": "тенглеу",
+   "tags": "и. д. от тенгле; и. д. к тенглерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тенгле дегенден этим ат.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "тенгле",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглет",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглетиу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеш1",
+     "def": "равняться, сравниваться, соперничать с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенглеш2",
+     "def": "см. тенгиш",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "тенглешдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29735",
+   "word": "тенглеш2",
+   "tags": "",
+   "def1": "см. тенгиш",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "тенгле",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглет",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглетиу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеш1",
+     "def": "равняться, сравниваться, соперничать с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенглешдир",
+     "def": "равнять, сравнивать, сопоставлять кого-что с кем-чем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29749",
+   "word": "тенгли",
+   "tags": "",
+   "def1": "1. ровесник, сверстник 2. равный, одинаковый || одинаково, столько же 3. вровень с чем; наравне с кем-чем",
+   "def2": "",
+   "misc1": "ала мени тенглидиле они - мои сверстники; ол мени тенглиди он мне ровесник; мени тенгли а) столько, сколько я; мени тенгли ол да кёлтюреди столько, ск",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "тенгле",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглет",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглетиу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "тенглеш1",
+     "def": "равняться, сравниваться, соперничать с кем",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "тенглеш2",
+     "def": "см. тенгиш",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29753",
+   "word": "тенгсин",
+   "tags": "эт.",
+   "def1": "равнять кого-что с кем-чем",
+   "def2": "Считаться с кем",
+   "misc1": "кесинге тенгсинирге равнять с собой; тенгсинмегеннге бойсунма погов. кто не считает тебя равным, перед тем не сгибайся",
+   "misc2": "Кесинге тенгнге сана. Жерин жерсинмейди, Элин элсинмейди. Тенгин тенгсинмейди, Башын башсынады. Байрамукъланы Н., Назму бла жазсала, 124. [Хамызат жаш",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тенгсизлик",
+     "def": "1) неравенство, неравноправие 2) редко мат. неравенство",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгсиниу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тенгсинмеклик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29754",
+   "word": "тенгсиниу",
+   "tags": "и. д. от тенгсин; и. д. к тенгсинирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тенгсин дегенден этим ат. Биреуню кесине тенгсиниу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тенгсизлик",
+     "def": "1) неравенство, неравноправие 2) редко мат. неравенство",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгсин",
+     "def": "равнять кого-что с кем-чем",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тенгсинмеклик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29755",
+   "word": "тенгсинмеклик",
+   "tags": "отвлеч. к тенгсинирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тенгсизлик",
+     "def": "1) неравенство, неравноправие 2) редко мат. неравенство",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тенгсин",
+     "def": "равнять кого-что с кем-чем",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "тенгсиниу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29759",
+   "word": "тенденциялы",
+   "tags": "",
+   "def1": "тенденциозный",
+   "def2": "",
+   "misc1": "болгъан ишлени тенденциялы кёргюзюу тенденциозное освещение событий",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тенденция",
+     "def": "тенденция",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "тендер",
+     "def": "то же, что гырджын",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тендерлик",
+     "def": "то же, что гырджынлыкъ",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29762",
+   "word": "тенке",
+   "tags": "",
+   "def1": "то же, что кенгке",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_29771",
+   "word": "тентеклендир",
+   "tags": "понуд. к тентекленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "кесинги тентеклендирирге поступить глупо, сглупить",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "тентек",
+     "def": "1) глупый, полоумный 2) угнетённый, подавленный; удручённый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклен",
+     "def": "говорить глупости; делать глупости",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклендириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклениу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклик",
+     "def": "1) глупость 2) удручённость",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентер",
+     "def": "1) исходить, обойти (всё, много мест); ходить до изнеможения 2) выливать, высыпать что (ра",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29772",
+   "word": "тентеклендириу",
+   "tags": "и. д. к тентеклендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "тентек",
+     "def": "1) глупый, полоумный 2) угнетённый, подавленный; удручённый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклен",
+     "def": "говорить глупости; делать глупости",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклендир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклениу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклик",
+     "def": "1) глупость 2) удручённость",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентер",
+     "def": "1) исходить, обойти (всё, много мест); ходить до изнеможения 2) выливать, высыпать что (ра",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29773",
+   "word": "тентеклениу",
+   "tags": "и. д. к тентекленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "тентек",
+     "def": "1) глупый, полоумный 2) угнетённый, подавленный; удручённый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклен",
+     "def": "говорить глупости; делать глупости",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклендир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклендириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклик",
+     "def": "1) глупость 2) удручённость",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентер",
+     "def": "1) исходить, обойти (всё, много мест); ходить до изнеможения 2) выливать, высыпать что (ра",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29783",
+   "word": "тентермеклик",
+   "tags": "отвлеч. к тентерирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тентек",
+     "def": "1) глупый, полоумный 2) угнетённый, подавленный; удручённый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклен",
+     "def": "говорить глупости; делать глупости",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тентеклендир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклендириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклениу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "тентеклик",
+     "def": "1) глупость 2) удручённость",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29787",
+   "word": "тентиремеклик",
+   "tags": "отвлеч. к тентирерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тентире",
+     "def": "1) шататься, качаться 2) приходить в замешательство, теряться; затрудняться, испытывать за",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентирет",
+     "def": "1) шатать, качать что 2) ставить кого в затруднительное положение, вызывать растерянность",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29792",
+   "word": "тентиретмеклик",
+   "tags": "отвлеч. к тентиретирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тентире",
+     "def": "1) шататься, качаться 2) приходить в замешательство, теряться; затрудняться, испытывать за",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиремеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тентирет",
+     "def": "1) шатать, качать что 2) ставить кого в затруднительное положение, вызывать растерянность",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тентиретиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29801",
+   "word": "теорема",
+   "tags": "ат.",
+   "def1": "теорема",
+   "def2": "Теорема",
+   "misc1": "теореманы чыгъарыргъа доказать теорему",
+   "misc2": "Кертилиги фатыуа бла тохташдырылгъан математика болум. Теоремалачы пени юсюнден болгъанын да биллей эдинг, сора устаз санга айырмамы саллыкъ эди? Шама",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "теоретик",
+     "def": "теоретик",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29812",
+   "word": "тепер",
+   "tags": "",
+   "def1": "парн. к хапар-",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_29828",
+   "word": "теппе",
+   "tags": "",
+   "def1": "-тенг точь-в-точь; тютелька в тютельку; ровно; как раз",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "теппе-тенг1",
+     "def": "1. Совершенно одинаковый, равный 2. Точь-в-точь соответствующий, подходящий",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "теппе-тенг2",
+     "def": "Совершенно одинаково, поровну",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29849",
+   "word": "тепси табакъ",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сахан. Уручу къонакъбайла тюрлю-тюрлю ашла этап, бирлери биринчи тепси табакъны альт киргенде, билгич къууанды. «Малкъар халкъ жомакъла», II, 293.",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "тепси",
+     "def": "1) круглый столик (треногий, низкий для еды) 2) стол, еда, пища",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29850",
+   "word": "тепсукъа",
+   "tags": "",
+   "def1": "то же, что тесукъа",
+   "def2": "",
+   "misc1": "теп-тенг точь-в-точь; тютелька в тютельку, как раз; тепсукъа юлюшле совершенно равные доли",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_29855",
+   "word": "тепчиле",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тепчи 2. Юйге келген адам Сосланны уллу къоллары бла къучакълай юйню арасында тепчилдейди. Байрамукъланы Х., Чолпан, 279. Солдат, тепчилей келип, ",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тепчи",
+     "def": "1. Подвинуться, отодвинуться, подойти, отойти, двигаться немного 2. Переминаться, переступ",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тепчилде",
+     "def": "1) переминаться, переступать с ноги на ногу 2) плестись; семенить 3) ёрзать (напр. на стул",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тепчилдет",
+     "def": "гарцевать",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тепчилдеш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тепчилеу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тепчит",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29930",
+   "word": "терклет",
+   "tags": "эт.; понуд. к терклерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. терклендир. Ишни терклет. Машинаны барыуун терклет.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "теркле",
+     "def": "убыстрять",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклен",
+     "def": "убыстряться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендир",
+     "def": "Убыстрять, ускорять что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендирил",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендирилиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендириу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29931",
+   "word": "терклетиу",
+   "tags": "и. д. от терклет; и. д. к терклетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Терклет дегенден этим ат. Чабыуну терклетиу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "теркле",
+     "def": "убыстрять",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклен",
+     "def": "убыстряться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендир",
+     "def": "Убыстрять, ускорять что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендирил",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендирилиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "терклендириу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29934",
+   "word": "терлеген",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тер. Гондай, таягъына да хазна таянмай, терлегенлерин къалпагъы бла сюрте, жолну ортасы бла ашыгъып барады. Залийханланы Ж., Таукъушла, 11. Бетами",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "терле",
+     "def": "1) потеть 2) перен. беспокоиться; переживать",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "терлемеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "терлет",
+     "def": "вгонять кого в пот, заставлять кого потеть, распарить кого",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "терлетген",
+     "def": "1) прич. от терлетирге; 2) потогонный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "терлетдир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "терлетдириу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29935",
+   "word": "терлемеклик",
+   "tags": "отвлеч. к терлерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "терле",
+     "def": "1) потеть 2) перен. беспокоиться; переживать",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "терлеген",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "терлет",
+     "def": "вгонять кого в пот, заставлять кого потеть, распарить кого",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "терлетген",
+     "def": "1) прич. от терлетирге; 2) потогонный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "терлетдир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "терлетдириу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29943",
+   "word": "терлетмеклик",
+   "tags": "отвлеч. к терлетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "терле",
+     "def": "1) потеть 2) перен. беспокоиться; переживать",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "терлеген",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "терлемеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "терлет",
+     "def": "вгонять кого в пот, заставлять кого потеть, распарить кого",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "терлетген",
+     "def": "1) прич. от терлетирге; 2) потогонный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "терлетдир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_29969",
+   "word": "термоядро",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Термоядерный",
+   "misc1": "",
+   "misc2": "Водородну, литийни ядросун ауур элементин ядросуна бургъан реакцияны мурдорунда къуралгъан. Термоядро реакторланы продуктлары адамланы саулукъларына з",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "термодинамика",
+     "def": "термодинамика",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "термометр",
+     "def": "термометр, градусник",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "термос",
+     "def": "термос",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30004",
+   "word": "терслемеклик",
+   "tags": "отвлеч. к терслерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терсле",
+     "def": "обвинять, винить кого; считать кого виноватым; осуждать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслеген",
+     "def": "1.1) прич. от терсленирге; 2) обвинительный 2. обвинитель",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслен",
+     "def": "обвиняться, быть обвиняемым, считаться виноватым",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендир",
+     "def": "обвинять кого, считать кого виновным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендириу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терслениу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30007",
+   "word": "терслендириу",
+   "tags": "и. д. к терслендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терсле",
+     "def": "обвинять, винить кого; считать кого виноватым; осуждать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслеген",
+     "def": "1.1) прич. от терсленирге; 2) обвинительный 2. обвинитель",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслемеклик",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терслен",
+     "def": "обвиняться, быть обвиняемым, считаться виноватым",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендир",
+     "def": "обвинять кого, считать кого виновным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслениу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30010",
+   "word": "терслет1",
+   "tags": "понуд. к терслерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терсле",
+     "def": "обвинять, винить кого; считать кого виноватым; осуждать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслеген",
+     "def": "1.1) прич. от терсленирге; 2) обвинительный 2. обвинитель",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслемеклик",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терслен",
+     "def": "обвиняться, быть обвиняемым, считаться виноватым",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендир",
+     "def": "обвинять кого, считать кого виновным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендириу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30011",
+   "word": "терслет2",
+   "tags": "взаимн.-возвр. к терслерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терсле",
+     "def": "обвинять, винить кого; считать кого виноватым; осуждать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслеген",
+     "def": "1.1) прич. от терсленирге; 2) обвинительный 2. обвинитель",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслемеклик",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терслен",
+     "def": "обвиняться, быть обвиняемым, считаться виноватым",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендир",
+     "def": "обвинять кого, считать кого виновным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендириу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30012",
+   "word": "терслетиу",
+   "tags": "и. д. к терслетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терсле",
+     "def": "обвинять, винить кого; считать кого виноватым; осуждать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслеген",
+     "def": "1.1) прич. от терсленирге; 2) обвинительный 2. обвинитель",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслемеклик",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терслен",
+     "def": "обвиняться, быть обвиняемым, считаться виноватым",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендир",
+     "def": "обвинять кого, считать кого виновным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "терслендириу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30021",
+   "word": "терссин",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. терсле. Эрлери къоюп кетселе, Ала башхаланы сюедиле, Дагъыда аланы терссинип, таякъла бла тюедиле. (Фольк.)",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терссиз",
+     "def": "невиновный, безвинный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссизлик",
+     "def": "безвинность, невиновность",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссиниу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссиниш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссинишиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30022",
+   "word": "терссиниу",
+   "tags": "и. д. от терссин",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Терссин дегенден этим ат. Биреуню керексизге терссиниу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терссиз",
+     "def": "невиновный, безвинный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссизлик",
+     "def": "безвинность, невиновность",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссин",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссиниш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссинишиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30023",
+   "word": "терссиниш",
+   "tags": "эт. взаимн-совм. от терссин",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Терссин дегенни араш айырмасы. Ала экиси да мени терссинишедиле.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терссиз",
+     "def": "невиновный, безвинный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссизлик",
+     "def": "безвинность, невиновность",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссин",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссиниу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссинишиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30024",
+   "word": "терссинишиу",
+   "tags": "и. д. от терссиниш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Терссиниш дегенден этим ат. Бир бирни терссинишиу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терссиз",
+     "def": "невиновный, безвинный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссизлик",
+     "def": "безвинность, невиновность",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "терссин",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссиниу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "терссиниш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30025",
+   "word": "терстамгъа",
+   "tags": "ат. эфе. бош тил.",
+   "def1": ": терстамгъа адам человек незнатного рода",
+   "def2": "Немецкий фашист, оккупант",
+   "misc1": "",
+   "misc2": "Немис фашист, ууучлаучу оккупант. Бир он-онбеш дегенлей атламда аскер мотоциклни кёргенде, терстамгъаланы бу юйде орналгъанларын арсарсыз ангыладыкъ. ",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "терсторсукъ",
+     "def": "1. смутьян, баламут 2. 1) бессмысленный 2) норовистый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30040",
+   "word": "тех",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": тех-тех возглас, которым подзывают овец",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_30064",
+   "word": "тешдирмеклик",
+   "tags": "отвлеч. к тешдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тешдир1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдир2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирил1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирил2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирилиу1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирилиу2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30069",
+   "word": "тешдиртмеклик",
+   "tags": "отвлеч. к тешдиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тешдир1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдир2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирил1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирил2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирилиу1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тешдирилиу2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30076",
+   "word": "тешиклениу",
+   "tags": "и. д. к тешикленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тешик",
+     "def": "1. 1) отверстие, дыра, дырка 2) жерло 3) щель ж, скважина 4) глазок, смотровое окошко 5) н",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешик-телик",
+     "def": "Всякая дыра, дырка, отверстие",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикбаш",
+     "def": "пустоголовый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикле",
+     "def": "дырявить, делать отверстия",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклен",
+     "def": "продырявливаться, быть продырявленным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30077",
+   "word": "тешиклет",
+   "tags": "понуд. к тешиклерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тешик",
+     "def": "1. 1) отверстие, дыра, дырка 2) жерло 3) щель ж, скважина 4) глазок, смотровое окошко 5) н",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешик-телик",
+     "def": "Всякая дыра, дырка, отверстие",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикбаш",
+     "def": "пустоголовый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикле",
+     "def": "дырявить, делать отверстия",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклен",
+     "def": "продырявливаться, быть продырявленным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30078",
+   "word": "тешиклетиу",
+   "tags": "и. д. к тешиклетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тешик",
+     "def": "1. 1) отверстие, дыра, дырка 2) жерло 3) щель ж, скважина 4) глазок, смотровое окошко 5) н",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешик-телик",
+     "def": "Всякая дыра, дырка, отверстие",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикбаш",
+     "def": "пустоголовый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикле",
+     "def": "дырявить, делать отверстия",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклен",
+     "def": "продырявливаться, быть продырявленным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30079",
+   "word": "тешиклеу",
+   "tags": "и. д. к тешиклерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тешик",
+     "def": "1. 1) отверстие, дыра, дырка 2) жерло 3) щель ж, скважина 4) глазок, смотровое окошко 5) н",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешик-телик",
+     "def": "Всякая дыра, дырка, отверстие",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикбаш",
+     "def": "пустоголовый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "тешикле",
+     "def": "дырявить, делать отверстия",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклен",
+     "def": "продырявливаться, быть продырявленным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тешиклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30092",
+   "word": "тешиндирмеклик",
+   "tags": "отвлеч. к тешиндирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "тешин",
+     "def": "раздеваться, снимать одежду",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "тешиндир",
+     "def": "раздевать",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "тешиндирил",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндирилиу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндириу",
+     "def": "раздевание",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндирт",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30093",
+   "word": "тешиндирт",
+   "tags": "понуд. к тешиндирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "тешин",
+     "def": "раздеваться, снимать одежду",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "тешиндир",
+     "def": "раздевать",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "тешиндирил",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндирилиу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндириу",
+     "def": "раздевание",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндирмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30094",
+   "word": "тешиндиртиу",
+   "tags": "и. д. к тешиндиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "тешин",
+     "def": "раздеваться, снимать одежду",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "тешиндир",
+     "def": "раздевать",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "тешиндирил",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндирилиу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндириу",
+     "def": "раздевание",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "тешиндирмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30129",
+   "word": "тигилмеклик",
+   "tags": ", II отвлеч. к тигилирге I, II",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "тигил1",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "тигил2",
+     "def": "1) падать 2) проиграть, промахнуться (в игре)",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тигилген",
+     "def": "1. прич. от тигилирге I 2.... тигилгени шов; фальц",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тигилиу1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тигилиу2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тигилиш",
+     "def": "1) упасть (о многих) 2) проиграть (о многих)",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30144",
+   "word": "тигиш2",
+   "tags": "",
+   "def1": "(способ вышивки)",
+   "def2": "",
+   "misc1": "къаты тигиш настил, шитьё настилом; чий тигиш гладь ж, вышивание гладью; филе с нескл.",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тигиш1",
+     "def": "шить (о многих)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "тигишиу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30146",
+   "word": "тиежек",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "То, что положено",
+   "misc1": "",
+   "misc2": "Тийиншли зат. [Мырзабек Ибрахимге:] Соруулагъа тюз жууап этсенг, - насыбынг, сандыракъланса нг а, - тиежегинги табарса. Гуртуланы Б., Жангы талисман, ",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_30151",
+   "word": "тизген",
+   "tags": "",
+   "def1": "1. прич. от тизерге; 2. составитель",
+   "def2": "",
+   "misc1": "сёзлюкню тизген составитель словаря",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_30152",
+   "word": "тизгиилетиу",
+   "tags": "и. д. к тизгинлетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "тизгин1",
+     "def": "2) ряд, шеренга, цепь ж",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тизгин2",
+     "def": "В ряд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин3",
+     "def": "1) строка, строчка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин4",
+     "def": "Порядок, убранство",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин5",
+     "def": "Поводок, повод, чембур",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин-тизгин",
+     "def": "Рядами",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30156",
+   "word": "тизгин4",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Порядок, убранство",
+   "misc1": "",
+   "misc2": "Адамны кесини юсюн-башын, юйюн д.а.к. башха затын жюрютгени, жыйышдыра, жасай билгени. Керти, окъуу терен болмаса да, Шамдарий тизгини, адеби бла элде",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "тизгиилетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин1",
+     "def": "2) ряд, шеренга, цепь ж",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тизгин2",
+     "def": "В ряд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин3",
+     "def": "1) строка, строчка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин5",
+     "def": "Поводок, повод, чембур",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин-тизгин",
+     "def": "Рядами",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30171",
+   "word": "тизгинлик",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тизгинлилик. Школну лабораториясына кирсенг, анда хар заманда тизгинликни кёресе. «Коммунизмге жол», 1979, № 184.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тизгиилетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин1",
+     "def": "2) ряд, шеренга, цепь ж",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тизгин2",
+     "def": "В ряд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин3",
+     "def": "1) строка, строчка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин4",
+     "def": "Порядок, убранство",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин5",
+     "def": "Поводок, повод, чембур",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30174",
+   "word": "тизгинсиз2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Беспорядочно, как попало",
+   "misc1": "тизгинсиз джюрюйдю он проявляет невоспитанность",
+   "misc2": "Тизгини болмагъанча, хылы-мылыды дерча, тап угъай, низамгъа, жорукъгъа сыйынмай. Кубрик башындан тагъылгъан гитче чыракъ къызгъылдым, тизгинсиз кёрюне",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "тизгиилетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин1",
+     "def": "2) ряд, шеренга, цепь ж",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тизгин2",
+     "def": "В ряд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин3",
+     "def": "1) строка, строчка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин4",
+     "def": "Порядок, убранство",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин5",
+     "def": "Поводок, повод, чембур",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30176",
+   "word": "тизгинчи",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "тизгинчи санау грам. порядковое числительное",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "тизгиилетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин1",
+     "def": "2) ряд, шеренга, цепь ж",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тизгин2",
+     "def": "В ряд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин3",
+     "def": "1) строка, строчка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "тизгин4",
+     "def": "Порядок, убранство",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "тизгин5",
+     "def": "Поводок, повод, чембур",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30194",
+   "word": "тизиу2",
+   "tags": "ат.",
+   "def1": "2) низка; связка 3) ряд, вереница",
+   "def2": "Связка",
+   "misc1": "алма тизиу низка [сушёных] яблок; ачхыч тизиу связка ключей; къалач тизиу связка бубликов; тизиу болуб вереницей; тизиу-тизиу рядами, вереницей",
+   "misc2": "Чыбыкъгъа чанчылгъан, халыгъа сууурулгъан д.а.к. башха бир къауум бирча зат. Бекболат... бутакълы чыбыкъны чабакъ тизиуден толтуруп, юйге келе турады.",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "тизиу1",
+     "def": "1) и. д. к тизерге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тизиуле",
+     "def": "низать, нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "тизиулеу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тизиулюк",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "тизиуюн",
+     "def": "1. 1) аккуратный, опрятный 2) порядочный 2. толком, как следует",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_30201",
+   "word": "тизме",
+   "tags": "ат.",
+   "def1": "1) низка; связка 2) список, регистр; реестр",
+   "def2": "Список (напр. книг, избирателей)",
+   "misc1": "керек китабланы тизмеси список нужных книг",
+   "misc2": "Адамланы неда бир башха затланы къагъытха бир бири ызындан тизилип жазылгъаны. Жанчыкъ ма бу къанлы Вильгельмден азапха тюше тургъан адамланы тизмесин",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_30247",
+   "word": "тик5",
+   "tags": "",
+   "def1": "выиграть, победить (в игре)",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "тик1",
+     "def": "круча, обрыв, косогор, склон, скат",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "тик2",
+     "def": "1) крутой, обрывистый 2) перен. напряжённый, натянутый, обострённый 3) перен. грубый, резк",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тик3",
+     "def": "1) круто, резко 2) грубо, резко 3) пристально",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "тик4",
+     "def": "шить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  }
+ ]
+}

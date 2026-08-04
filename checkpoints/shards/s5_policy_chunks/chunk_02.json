@@ -1,0 +1,504 @@
+{
+ "items": [
+  {
+   "entry_id": "e_19491",
+   "word": "кёз1",
+   "tags": "ат.",
+   "def1": "1) глаз; око || глазной 2) зрение 3) взгляд, взор 4) дурной глаз, сглаз 5) перен. отверстие, проушина, глазок",
+   "def2": "1. Глаз 2. Зрение 3. В течение (месяца, года и т.д.) 4. Глазок, отверстие, ячея в чем-л.",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_22396",
+   "word": "нюрлен",
+   "tags": "эт.",
+   "def1": "расцветать, хорошеть",
+   "def2": "Светиться, испуская лучи; излучаться",
+   "current": "universe_and_nature",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23223",
+   "word": "осалла",
+   "tags": "эт.",
+   "def1": "1) ухудшать что; портить что, приводить что в негодность 2) перен. охаивать, порочить кого-что",
+   "def2": "Ухудшать что, портить что, приводить что в негодность",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23225",
+   "word": "осаллан",
+   "tags": "эт.; возвр. -страд. к осалларгъа",
+   "def1": "ухудшаться, портиться, приходить в негодность",
+   "def2": "Ухудшаться, портиться, приходить в негодность",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23226",
+   "word": "осалландыр",
+   "tags": "эт. къ. осалла.",
+   "def1": "ухудшать; портить, приводить в негодность",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23296",
+   "word": "отличник",
+   "tags": "ат.",
+   "def1": "отличник",
+   "def2": "Отличник (учащийся)",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23297",
+   "word": "отлично",
+   "tags": "шк.",
+   "def1": "отлично",
+   "def2": "",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23351",
+   "word": "охо2",
+   "tags": "хоул. кес.",
+   "def1": "",
+   "def2": "Хорошо, ладно",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_23408",
+   "word": "оюусуз",
+   "tags": "",
+   "def1": "гладкий, без рисунка, без узора",
+   "def2": "",
+   "current": "culture_and_spirituality",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_23462",
+   "word": "палатоклукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Материал, годный или предназначенный на носовой платок",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_24798",
+   "word": "саблыкъ",
+   "tags": "",
+   "def1": "1) отвлеч. к саб; 2) что-л. годное для изготовления ручки (рукоятки)",
+   "def2": "",
+   "current": "objects_and_technology",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_25450",
+   "word": "сарытамыр",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Трава, растущая по берегам ручьев, речушек, на подзолистых почвах, с колючей головкой",
+   "current": "living_things",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_25578",
+   "word": "сауул",
+   "tags": "эт. страд. от сау 3; страд. к сауаргъа",
+   "def1": "1)доиться 2) перен. дать себя обобрать (попусту потратиться в надежде на хороший исход дела)",
+   "def2": "",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_26485",
+   "word": "созукъ",
+   "tags": "сыф. къарач.",
+   "def1": "1) тягучий, вязкий 2) протяжный 3) лингв. долгий",
+   "def2": "1. Тягучий 3. Густой, вязкий 4. Протяжный (звук, крик и т. п.)",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_26486",
+   "word": "созукълукъ",
+   "tags": "ат. къарач.; отвлеч. к созукъ",
+   "def1": "1)тягучесть, вязкость 2) протяжность 3) лингв. долгота (звуков)",
+   "def2": "1. Тягучесть, вязкость 2. Протяжность",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_26489",
+   "word": "созулма",
+   "tags": "сыф.",
+   "def1": "тягучий, вязкий",
+   "def2": "1. Растянутый 2. Тягучий, вязкий",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_27449",
+   "word": "сыйдам1",
+   "tags": "сыф.",
+   "def1": "1) гладкий, ровный 2) красивый, миловидный (напр. о женском лице)",
+   "def2": "Ровный, гладкий",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_27450",
+   "word": "сыйдам2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Ровно, гладко",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_27451",
+   "word": "сыйдамла",
+   "tags": "эт.",
+   "def1": "1) делать что гладким; сглаживать, выравнивать что, шлифовать что 2) перен. налаживать (напр. отношения), устранять разногласия между кем",
+   "def2": "Выравнивать, заравнивать, полировать",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_27461",
+   "word": "сыйдамлыкъ",
+   "tags": "ат.; отвлеч. к сыйдам",
+   "def1": "1) гладкость, ровность 2) миловидность (лица)",
+   "def2": "Гладкость",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_27494",
+   "word": "сыйпалакъ1",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "Гладкий",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_27966",
+   "word": "сюзюл",
+   "tags": "эт.",
+   "def1": "1) страд. к сюзерге 2) отстояться; делаться гладким, ровным (напр. о поверхности воды в водоёме) 3) рваться, расползаться (о ткани) 4) жеманиться; кокетничать",
+   "def2": "1. страд. от сюз 2. Устояться 3. Спокойно, тихо, плавно, медленно течь (о воде) 4. Лететь, парить 5. Нестись, двигаться быстро 6. Жеманиться, кокетничать 7. къарач. къ. сизил.",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_28516",
+   "word": "тай4",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "1. Скользить 2. Съезжать, сдвигаться 3. кёч. Уходить, убираться, удаляться, исчезать 4. кёч. Отходить, отклоняться от чего",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_28521",
+   "word": "тайгъакъла",
+   "tags": "",
+   "def1": "скользить, поскользнуться",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_29252",
+   "word": "татыу1",
+   "tags": "ат.",
+   "def1": "1) вкус 2) перен. сладость, что-л. хорошее",
+   "def2": "1. Вкус (пищи) 2. кёч. Суть, содержание чего",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_29260",
+   "word": "татыусуз1",
+   "tags": "сыф.",
+   "def1": "1)безвкусный, невкусный 2) перен. плохой, скверный",
+   "def2": "1. Безвкусный, невкусный 2. кёч. Бессмысленный, безынтересный, бессодержательный 3. кёч. Легкомысленный, несерьезный, ветреный 4. кёч. Плохой, скверный",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_29374",
+   "word": "таш-агъач",
+   "tags": "къауум. ат.",
+   "def1": "",
+   "def2": "Все, что попало, всякие твердые предметы (камень, палка и т. п.)",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_29447",
+   "word": "тая",
+   "tags": "",
+   "def1": "1) скользить 2) съезжать, сдвигаться 3) перен. отходить, отклоняться, отрекаться от чего 4) перен. уходить (откуда-л.), покидать кого-что",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_29658",
+   "word": "телибаш",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Глупый, дурной",
+   "current": "mind_and_cognition",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_29986",
+   "word": "терсей",
+   "tags": "эт.",
+   "def1": "1) портиться, становиться плохим; негодным; становиться на неправильный путь 2) расстраиваться, принимать дурной оборот (о деле)",
+   "def2": "1. Портиться, становиться плохим, негодным, становиться на неправильный путь 2. Разбередиться (о ране) 3. Расстраиваться, принимать дурной оборот (о деле) 4. Сбиться (потерять дорогу)",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_31297",
+   "word": "тукъумсуз1",
+   "tags": "",
+   "def1": "1) безродный 2) беспородный, плохой породы",
+   "def2": "",
+   "current": "social_relations",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_31556",
+   "word": "тууартыймаз",
+   "tags": "ат.",
+   "def1": "лентяй, бездельник, ни на что негодный человек",
+   "def2": "Ни на что негодный человек, бездельник",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_31751",
+   "word": "тыкълыкъ",
+   "tags": "ат.; отвлеч. к тыкъ",
+   "def1": "",
+   "def2": "Плотность, упругость",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_31866",
+   "word": "тынч1",
+   "tags": "сыф.",
+   "def1": "1) смирный, тихий, спокойный 2) лёгкий, простой 3) благополучный; хороший 4) смирный, скромный",
+   "def2": "1. Спокойный, ведущий себя тихо, не раздражающий 2. Лишенный тревог, забот 3. Мирный, миролюбивый 4. Легкий, нетрудный 5. Доступный, понятливый",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_31867",
+   "word": "тынч2",
+   "tags": "хал. сёзл.",
+   "def1": "1) смирно, тихо, спокойно 2) легко, просто 3) благополучно, хорошо",
+   "def2": "1. Тихо, медленно 2. Спокойно, беззаботно 3. Мирно 4. Негромко",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_32717",
+   "word": "тёшеме",
+   "tags": "ат.",
+   "def1": "мягкая, удобная постель",
+   "def2": "То, что разложено по поверхности чего-л., постлано, уложено плотно в ряд",
+   "current": "daily_life_and_food",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_33394",
+   "word": "учхала",
+   "tags": "эт.",
+   "def1": "скользить",
+   "def2": "1. Скользить 2. кёч. сёл. тил. Оступиться, совершить какую-нибудь ошибку в жизни 3. Быстро, плавно перемещаться по какой-либо поверхности",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_33395",
+   "word": "учхалакъ",
+   "tags": "сыф. къарач.; карач.",
+   "def1": "скользкий",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_33397",
+   "word": "учхалат2",
+   "tags": "взаимн.-возвр. к учхаларгъа",
+   "def1": "скользить (о многих)",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_33932",
+   "word": "фуй",
+   "tags": "межд.",
+   "def1": "выражает недовольство дурным запахом",
+   "def2": "",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_34284",
+   "word": "харттылы",
+   "tags": "",
+   "def1": "-мырттылы шершавый, неровный",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_34483",
+   "word": "хора",
+   "tags": "ат.",
+   "def1": "1) гнедой 2) породистая лошадь; хороший верховой скакун",
+   "def2": "1. Породистая лошадь",
+   "current": "living_things",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_34757",
+   "word": "хылджи",
+   "tags": "",
+   "def1": ": хылджи айран плохо заквашенный айран",
+   "def2": "",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_34888",
+   "word": "хырттылан",
+   "tags": "эт.",
+   "def1": "стать шероховатым (напр. при отделочных работах о штукатурке и т. п.)",
+   "def2": "Стать шероховатым",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_35077",
+   "word": "чагъыдый2",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Хорошая беговая лошадь",
+   "current": "living_things",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_35098",
+   "word": "чагъымсыз",
+   "tags": "",
+   "def1": "дающий плохие всходы",
+   "def2": "",
+   "current": "living_things",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_35256",
+   "word": "чалдыр1",
+   "tags": "эт. понуд. от чал 2; понуд. к чалыргъа I; понуд. к чалыргъа II",
+   "def1": "1) понуд. к чалыргъа II 2) говорить с акцентом; говорить плохо (на каком-л. языке)",
+   "def2": "",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_35350",
+   "word": "чанчакъла",
+   "tags": "эт.",
+   "def1": "1)исколоть, изрешетить кого -что 2) плохо выполнить (работу)",
+   "def2": "1. Исколоть, изрешетить кого-что 2. Изрывать, выбивать (углубление в дороге гусеницами трактора, колесами вездехода)",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_36727",
+   "word": "шау",
+   "tags": "сыф.",
+   "def1": "1) мёртвый || мертвец 2) плохой, скверный",
+   "def2": "1. Мёртвый 2. Плохой, скверный",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_37225",
+   "word": "шыбырттон",
+   "tags": "",
+   "def1": "плохо одетый; оборванец",
+   "def2": "",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  }
+ ]
+}

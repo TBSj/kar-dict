@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "entry_id": "e_30050",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30051",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30052",
+   "lextag": "actions_and_activities",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30053",
+   "lextag": "actions_and_activities",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30054",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30055",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30056",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30057",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30058",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30059",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30060",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30061",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30062",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30063",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30064",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30065",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30066",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30067",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30068",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30069",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30070",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30071",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30072",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30073",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30074",
+   "lextag": "actions_and_activities",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30075",
+   "lextag": "actions_and_activities",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30076",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30077",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30078",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30079",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30080",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30081",
+   "lextag": "space_and_time",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30082",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30083",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30084",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30085",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30086",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30087",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30088",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_30089",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30090",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30091",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30092",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30093",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30094",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30095",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30096",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_30097",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30098",
+   "lextag": "daily_life_and_food",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_30099",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  }
+ ]
+}

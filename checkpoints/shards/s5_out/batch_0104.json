@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "entry_id": "e_05200",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_05201",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05202",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05203",
+   "lextag": "mind_and_cognition",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_05204",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05205",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05206",
+   "lextag": "objects_and_technology",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_05207",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05208",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05209",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05210",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05211",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05212",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05213",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05214",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05215",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05216",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05217",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05218",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05219",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05220",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05221",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05222",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05223",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05224",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05225",
+   "lextag": "culture_and_spirituality",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_05226",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05227",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05228",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05229",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05230",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05231",
+   "lextag": "logic_and_function_words",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05232",
+   "lextag": "culture_and_spirituality",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_05233",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05234",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05235",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05236",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05237",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05238",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05239",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05240",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05241",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05242",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05243",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05244",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05245",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05246",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_05247",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05248",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_05249",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  }
+ ]
+}

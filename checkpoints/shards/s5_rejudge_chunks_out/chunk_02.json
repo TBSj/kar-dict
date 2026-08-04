@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "entry_id": "e_03043",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03059",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03071",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03072",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03074",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03083",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03085",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03086",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03087",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03090",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03091",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03098",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03099",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03110",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03139",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03147",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03148",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03150",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03153",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03158",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03160",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03204",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03229",
+   "lextag": "mind_and_cognition",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03230",
+   "lextag": "mind_and_cognition",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03244",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03271",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03272",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03273",
+   "lextag": "mind_and_cognition",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03274",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03275",
+   "lextag": "mind_and_cognition",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03308",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03310",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03316",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03324",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03362",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03418",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03428",
+   "lextag": "daily_life_and_food",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03448",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03458",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03459",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03464",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03465",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03466",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03467",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03468",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03472",
+   "lextag": "social_relations",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03492",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03494",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03495",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03511",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03513",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03516",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03520",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03525",
+   "lextag": "social_relations",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_03555",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03594",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03595",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03601",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03616",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03665",
+   "lextag": "logic_and_function_words",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03666",
+   "lextag": "logic_and_function_words",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03739",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03753",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03759",
+   "lextag": "living_things",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03764",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03767",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03793",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03794",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03806",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03807",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03813",
+   "lextag": "mind_and_cognition",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03824",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03825",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03830",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03837",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03840",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03842",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03865",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03867",
+   "lextag": "logic_and_function_words",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_03870",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03877",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03879",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03903",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03910",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03911",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03914",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03915",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03916",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03917",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03918",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03919",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03920",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03925",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03977",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03979",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03980",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03983",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03984",
+   "lextag": "space_and_time",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_03990",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03997",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_03998",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04001",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04004",
+   "lextag": "language_and_communication",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_04010",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04027",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_04053",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04059",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04065",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04066",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04073",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04079",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04080",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04081",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04082",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04093",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_04094",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04097",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04115",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04116",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04119",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_04123",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04129",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_04138",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04140",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04149",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_04159",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04166",
+   "lextag": "language_and_communication",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_04189",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_04192",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04193",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04199",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04201",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04205",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04218",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04230",
+   "lextag": "living_things",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04233",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04246",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04247",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04249",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04252",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04257",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04258",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04259",
+   "lextag": "actions_and_activities",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_04285",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04300",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04309",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04310",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04316",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04318",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_04319",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  }
+ ]
+}

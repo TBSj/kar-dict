@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "entry_id": "e_08750",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08751",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08752",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08753",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08754",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08755",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08756",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08757",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08758",
+   "lextag": "universe_and_nature",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08759",
+   "lextag": "universe_and_nature",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_08760",
+   "lextag": "universe_and_nature",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_08761",
+   "lextag": "universe_and_nature",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_08762",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08763",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08764",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08765",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08766",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08767",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08768",
+   "lextag": "human_body",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08769",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08770",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08771",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08772",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08773",
+   "lextag": "living_things",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08774",
+   "lextag": "daily_life_and_food",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08775",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08776",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08777",
+   "lextag": "emotions_and_will",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_08778",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08779",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08780",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08781",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08782",
+   "lextag": "logic_and_function_words",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_08783",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08784",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08785",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08786",
+   "lextag": "universe_and_nature",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08787",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08788",
+   "lextag": "culture_and_spirituality",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08789",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08790",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08791",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08792",
+   "lextag": "space_and_time",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08793",
+   "lextag": "objects_and_technology",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08794",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08795",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08796",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08797",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_08798",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_08799",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  }
+ ]
+}

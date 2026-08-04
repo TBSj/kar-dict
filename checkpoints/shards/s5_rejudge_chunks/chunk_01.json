@@ -1,0 +1,5982 @@
+{
+ "items": [
+  {
+   "entry_id": "e_01987",
+   "word": "азмычландыр",
+   "tags": "понуд. к азмычланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги азмычландырыргъа прорицать, пророчествовать",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "азмыч1",
+     "def": "1. 1)заморыш 2) уст. вундеркинд, высокоодарённый ребёнок 2. худосочный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "азмыч2",
+     "def": "Человек, плохие предсказания которого якобы сбывались",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычлан",
+     "def": "не по возрасту умно рассуждать (о ребёнке)",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычландырмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычланмакълыкъ",
+     "def": "см. азмычланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_01988",
+   "word": "азмычландырмакълыкъ",
+   "tags": "отвлеч. к азмычландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "азмыч1",
+     "def": "1. 1)заморыш 2) уст. вундеркинд, высокоодарённый ребёнок 2. худосочный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "азмыч2",
+     "def": "Человек, плохие предсказания которого якобы сбывались",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычлан",
+     "def": "не по возрасту умно рассуждать (о ребёнке)",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычландыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычланмакълыкъ",
+     "def": "см. азмычланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_01989",
+   "word": "азмычландырыу",
+   "tags": "и. д. к азмычландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "азмыч1",
+     "def": "1. 1)заморыш 2) уст. вундеркинд, высокоодарённый ребёнок 2. худосочный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "азмыч2",
+     "def": "Человек, плохие предсказания которого якобы сбывались",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычлан",
+     "def": "не по возрасту умно рассуждать (о ребёнке)",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычландыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычланмакълыкъ",
+     "def": "см. азмычланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_01990",
+   "word": "азмычланмакълыкъ",
+   "tags": "отвлеч. к азмычланыргъа",
+   "def1": "см. азмычланыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "азмыч1",
+     "def": "1. 1)заморыш 2) уст. вундеркинд, высокоодарённый ребёнок 2. худосочный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "азмыч2",
+     "def": "Человек, плохие предсказания которого якобы сбывались",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычлан",
+     "def": "не по возрасту умно рассуждать (о ребёнке)",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычландыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_01991",
+   "word": "азмычланыу",
+   "tags": "отвлеч. к азмычланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "азмыч1",
+     "def": "1. 1)заморыш 2) уст. вундеркинд, высокоодарённый ребёнок 2. худосочный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "азмыч2",
+     "def": "Человек, плохие предсказания которого якобы сбывались",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычлан",
+     "def": "не по возрасту умно рассуждать (о ребёнке)",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "азмычландыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "азмычландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02017",
+   "word": "азырейлендириу",
+   "tags": "карач. отвлеч. к азырейлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "азырейлен",
+     "def": "безобразничать, вести себя мерзко",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейлендир",
+     "def": "безобразничать, вести себя недостойно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейлендирмеклик",
+     "def": "см. азырейлендириу",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "азырейлениу",
+     "def": "безобразничание",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейленмеклик",
+     "def": "см. азырейлениу",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "азырейли",
+     "def": "противный, мерзкий, безобразный; возмутительный (о поступке)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02018",
+   "word": "азырейлендирмеклик",
+   "tags": "отвлеч. к азырейлендирирге",
+   "def1": "см. азырейлендириу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "азырейлен",
+     "def": "безобразничать, вести себя мерзко",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейлендир",
+     "def": "безобразничать, вести себя недостойно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейлендириу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "азырейлениу",
+     "def": "безобразничание",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейленмеклик",
+     "def": "см. азырейлениу",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "азырейли",
+     "def": "противный, мерзкий, безобразный; возмутительный (о поступке)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02020",
+   "word": "азырейленмеклик",
+   "tags": "карач. отвлеч. к азырейленирге",
+   "def1": "см. азырейлениу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "азырейлен",
+     "def": "безобразничать, вести себя мерзко",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейлендир",
+     "def": "безобразничать, вести себя недостойно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейлендириу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "азырейлендирмеклик",
+     "def": "см. азырейлендириу",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "азырейлениу",
+     "def": "безобразничание",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "азырейли",
+     "def": "противный, мерзкий, безобразный; возмутительный (о поступке)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02023",
+   "word": "азысы",
+   "tags": "",
+   "def1": "см. азы",
+   "def2": "",
+   "misc1": "эки тенгден азысы меньше половины",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_02033",
+   "word": "айбат3",
+   "tags": "",
+   "def1": "-айбат: айбат къызла девушки одна краше другой",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатландыр",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02035",
+   "word": "айбатламакълыкъ",
+   "tags": "отвлеч. к айбатларгъа",
+   "def1": "см. айбатлау",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатландыр",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02038",
+   "word": "айбатландырмакълыкъ",
+   "tags": "отвлеч. к айбатландырыргъа",
+   "def1": "см. айбатландырыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02040",
+   "word": "айбатланмакълыкъ",
+   "tags": "отвлеч. к айбатланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02043",
+   "word": "айбатлатмакълыкъ",
+   "tags": "отвлеч. к айбатлатыргъа",
+   "def1": "см. айбатлатыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02046",
+   "word": "айбатлаш",
+   "tags": "эт. взаим.-совм. от айбатла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Айбатла дегенни араш айырмасы.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02051",
+   "word": "айбатсын",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "Считать более симпатичным, нарядным, принимать за более красивого",
+   "misc1": "",
+   "misc2": "Айбатха сана. Къыздан эсе, жашны айбатсыннганла да болгъандыла.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02052",
+   "word": "айбатсыныу",
+   "tags": "и. д. от айбатсын",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Айбатсын дегенден этим ат. Къызланы барындан да бирин айбатсыныу.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айбат1",
+     "def": "1) симпатичный, смазливый, красивый 2) довольно хороший 3) нарядный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат2",
+     "def": "Красиво, нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айбат3",
+     "def": "-айбат: айбат къызла девушки одна краше другой",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айбатла",
+     "def": "украшать что; наряжать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айбатламакълыкъ",
+     "def": "см. айбатлау",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айбатлан",
+     "def": "украшаться, наряжаться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02054",
+   "word": "айбет",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. айж аякъ. Жыр башланса уа, жарый халкъ, сениди къууанчлы тёрю, Чакъырырса ариуланы сен, айбетлени! «Шуёхлукъ», № 22, 6.",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_02056",
+   "word": "айгъаксыу",
+   "tags": "и. д. к айгъакъсыргъа",
+   "def1": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырский конь",
+   "def2": "",
+   "misc1": "айгъаксыу адам злой человек; Сары айгъаксыу, Тору айгъаксыу астр. две звезды дна ковша Малой Медведицы; Джетегейли - джети джулдуз, Темиркъазакъ - джа",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланнган",
+     "def": "разоблачённый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02064",
+   "word": "айгъакълат",
+   "tags": "понуд. к айгъакъларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айгъаксыу",
+     "def": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырск",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02065",
+   "word": "айгъакълатмакълыкъ",
+   "tags": "отвлеч. к айгъакълатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айгъаксыу",
+     "def": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырск",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02066",
+   "word": "айгъакълатыу",
+   "tags": "и. д. к айгъакълатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айгъаксыу",
+     "def": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырск",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02070",
+   "word": "айгъакъсы",
+   "tags": "",
+   "def1": "то же, что аякъсыргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айгъаксыу",
+     "def": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырск",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02071",
+   "word": "айгъакъсыт",
+   "tags": "",
+   "def1": "то же, что аякъсытыргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айгъаксыу",
+     "def": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырск",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02072",
+   "word": "айгъакъсытыу",
+   "tags": "и. д. к айгъакъсытыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айгъаксыу",
+     "def": "айгьыр 1. 1) карач. злой, сердитый 2) неудержимый, необузданный 2. уст. жеребец, богатырск",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъакъ",
+     "def": "известный, очевидный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъла",
+     "def": "1) вскрывать, обнаруживать, выяснять, выявлять что 2) разоблачать, бичевать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъламакълыкъ",
+     "def": "см. айгъакълау",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакълан",
+     "def": "вскрыться, обнаружиться, выясниться, выявиться",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъакъланмакълыкъ",
+     "def": "см. айгъакьланыу",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02076",
+   "word": "айгъырландырмакълыкъ",
+   "tags": "отвлеч. к айгъырландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "айгъыр",
+     "def": "1. эск. къ. ажир. 2. кёч. Необузданный, неукротимый (о женщине)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъырлан",
+     "def": "злиться; неистовствовать",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "айгъырландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъырландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъырланмакълыкъ",
+     "def": "см. айгъырланыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъырланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02077",
+   "word": "айгъырландырыу",
+   "tags": "и. д. к айгъырландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "айгъыр",
+     "def": "1. эск. къ. ажир. 2. кёч. Необузданный, неукротимый (о женщине)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъырлан",
+     "def": "злиться; неистовствовать",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "айгъырландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъырландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "айгъырланмакълыкъ",
+     "def": "см. айгъырланыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "айгъырланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02084",
+   "word": "айдакку",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "айдаккуну отлукъ ташларыча, не этеме быллай бирни? на что мне столько [негодного, плохого], что мне с ним делать?",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_02086",
+   "word": "айдан",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "-джылдан: айдан бир редко, не часто; через час по чайной ложке",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_02098",
+   "word": "айландырмакълыкъ",
+   "tags": "отвлеч. к айландырыргъа",
+   "def1": "см. айландырыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02100",
+   "word": "айландыртмакълыкъ",
+   "tags": "отвлеч. к айландыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02106",
+   "word": "айландырыш",
+   "tags": "взаимн. к айландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "хойнух айландырышыргъа состязаться в запуске волчков",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02107",
+   "word": "айландырышыу",
+   "tags": "и. д. к айландырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02110",
+   "word": "айланмакълыкъ",
+   "tags": "отвлеч. к айланыргъа",
+   "def1": "см. айланыу",
+   "def2": "",
+   "misc1": "аллы айланмакълыкъ заинтересованность",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02116",
+   "word": "айланч-бойланч",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. айланч 1. Бойланч деген сёз кеси аллына жюрюмейди. Жол, айланч-бойланчлары болмай, тюз эди. Толгъурланы З., Айыуташ, 38.\n2. сыф. къ. айланч 2. ",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02117",
+   "word": "айланч-къыйланч",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. айланч 1. Тансыкъ болгъанма мен may жоллагъа, Аланы айланч-къыйланчларына. Къулийланы Къ., Сайлама, I, 225.\n2. къ. айланч 2. Тёрт атлы Тырнаууз",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02120",
+   "word": "айланчукъ",
+   "tags": "",
+   "def1": "то же, что айланджюк",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02121",
+   "word": "айланыб",
+   "tags": "",
+   "def1": "1) деепр. от айланыргъа 2) снова, повторно, вторично",
+   "def2": "",
+   "misc1": "айланыб сордум я спросил ещё раз; айланыб джюрюу кругооборот; капиталны айланыб джюрюую кругооборот капитала",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02123",
+   "word": "айланыу2",
+   "tags": "ат. грам.",
+   "def1": "1) обращение тж. грам. 2) связь ж(любовная)",
+   "def2": "Обращение",
+   "misc1": "джайылгъан айланыу распространённое обращение; биреуге айланыу а) поворот в чью-л. сторону; б) обращение к кому-л.; къатынгдагъына айланыу обращение к",
+   "misc2": "Биреуню эсин бурдурур ючюн, аны атын айтып сёлешиучю сёз неда сёзле. Айланыу, кесине бойсуннган, сёзлени да къошуп, запятой бла айырылады. «Малкъар ти",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02127",
+   "word": "айланыш",
+   "tags": "взаимн. к айланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "бир бирлерине айланышыб олтурадыла [они] сидят, повернувшись друг к другу",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02128",
+   "word": "айланышмакълыкъ",
+   "tags": "отвлеч. к айланышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02129",
+   "word": "айланышыу",
+   "tags": "и. д. к айланышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айлан",
+     "def": "1) ходить, ездить 2) шататься, слоняться без дела, бездельничать; бродить, скитаться 3) па",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "айланджюк",
+     "def": "1) юла, волчок 2) уст. приспособление в виде веретена, прикрепляемое в садах на шестах для",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "айландыр",
+     "def": "1) понуд. к айланыргъа 2) вертеть, вращать, крутить кого-что 3) поворачивать кого-что, нап",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айландыргъан",
+     "def": "1. 1) прич. от айландырыргъа; 2) вращательный; вращающий; 3) ведущий; приводной; 2. назван",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "айландырмакълыкъ",
+     "def": "см. айландырыу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "айландырт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02137",
+   "word": "айнан",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "аллах айнан, бир тюрлю бир сёз эшитмегенме клянусь аллахом, ни одного слова не слышал",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_02139",
+   "word": "айнымакълыкъ",
+   "tags": "отвлеч. к айныргъа",
+   "def1": "см. айныу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_02142",
+   "word": "айнытдырмакълыкъ",
+   "tags": "отвлеч. к айнытдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айныт",
+     "def": "1) откармливать, подкармливать кого 2) обогащать, делать богатым кого 3) перен. развивать,",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытмакълыкъ",
+     "def": "см. айнытыу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айнытыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытылын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02144",
+   "word": "айнытмакълыкъ",
+   "tags": "отвлеч. к айнытыргъа",
+   "def1": "см. айнытыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айныт",
+     "def": "1) откармливать, подкармливать кого 2) обогащать, делать богатым кого 3) перен. развивать,",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айнытдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айнытылын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02204",
+   "word": "айтылгьан",
+   "tags": "",
+   "def1": "1. 1) прич. от айтылыргъа; 2) прославленный, знаменитый, известный, знатный 3) сказанный, упомянутый, указанный; обещанный",
+   "def2": "",
+   "misc1": "айтылгьан адам знаменитый (прославленный) человек; дуниягъа айтылгьан известный миру; айтылгьан композитор известный композитор; къралны айтылгьан ада",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "айтыл",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "айтылгъан",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "айтылгъанлыкъ",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "айтылмакълыкъ",
+     "def": "известность, популярность, прославленность",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "айтылын",
+     "def": "см. айтылыргьа",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "айтылынмакълыкъ",
+     "def": "см. айтылыныу",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02214",
+   "word": "айтыр",
+   "tags": "",
+   "def1": "-айтмаз как только сказал, сразу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "айтыргъа",
+     "def": "1) говорить, сказать 2) исполнять, рассказывать что 3) сообщать что кому; оповещать, преду",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "айтырча",
+     "def": "значительный, заметный || заметно, изрядно",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02216",
+   "word": "айтырча",
+   "tags": "",
+   "def1": "значительный, заметный || заметно, изрядно",
+   "def2": "",
+   "misc1": "адам айтырча зат джокъду ничего значительного нет",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айтыр",
+     "def": "-айтмаз как только сказал, сразу",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "айтыргъа",
+     "def": "1) говорить, сказать 2) исполнять, рассказывать что 3) сообщать что кому; оповещать, преду",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02223",
+   "word": "айтыутос",
+   "tags": "балк.",
+   "def1": "то же, что атайпыс",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "айтыу1",
+     "def": "говорение; сообщение; оповещение; изложение; произнесение",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "айтыу2",
+     "def": "1) предание, сказание, легенда 2) слухи, молва 3) пословица, поговорка",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айтыу3",
+     "def": "грам. уст. предложение",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "айтыуда айтылгъан",
+     "def": "известный, знаменитый",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "айтыулу",
+     "def": "славный, известный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "айтыулукъ",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02239",
+   "word": "айыблатыу",
+   "tags": "и. д. от айыплат; и. д. к айыблатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Айыплат дегенден этим ат. Биреуню терслигин айтып, тенглерине айыплатыу.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "айыбламакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыблатмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыблау",
+     "def": "1) и. д. к айыбларгъа 2) порицание, выговор, осуждение, обвинение; хула",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыблашмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айыблашыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02241",
+   "word": "айыблашмакълыкъ",
+   "tags": "отвлеч. к айыблатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "айыбламакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыблатмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыблатыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айыблау",
+     "def": "1) и. д. к айыбларгъа 2) порицание, выговор, осуждение, обвинение; хула",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыблашыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02242",
+   "word": "айыблашыу",
+   "tags": "и. д. от айыплаш; и. д. к айыблашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Айыплаш дегенден этим ат. Аманлыкъчыны айыплашыу.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "айыбламакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыблатмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыблатыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "айыблау",
+     "def": "1) и. д. к айыбларгъа 2) порицание, выговор, осуждение, обвинение; хула",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыблашмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02252",
+   "word": "айыбсызланмакълыкъ",
+   "tags": "отвлеч. к айыбсызланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "айыбсыз1",
+     "def": "1) невиновный; невинный 2) безукоризненный, безупречный; добросовестный 3) не имеющий недо",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыбсыз2",
+     "def": "безукоризненно, безупречно; добросовестно",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыбсызла",
+     "def": "оправдывать, обелять кого",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыбсызламакълыкъ",
+     "def": "см. айыбсызлау",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбсызлан",
+     "def": "быть оправданным, оправдаться",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбсызланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02253",
+   "word": "айыбсызланыу",
+   "tags": "и. д. к айыбсызланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "айыбсыз1",
+     "def": "1) невиновный; невинный 2) безукоризненный, безупречный; добросовестный 3) не имеющий недо",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыбсыз2",
+     "def": "безукоризненно, безупречно; добросовестно",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыбсызла",
+     "def": "оправдывать, обелять кого",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айыбсызламакълыкъ",
+     "def": "см. айыбсызлау",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбсызлан",
+     "def": "быть оправданным, оправдаться",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айыбсызланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02279",
+   "word": "айыргъанлыкъ",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "адам айыргъанлыкъ этеди он неодинаково относится к людям (к одним хорошо, к другим плохо)",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айыргъан",
+     "def": "1) различительный; отличающийся чем 2): айыргъан белги разделительный знак",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02280",
+   "word": "айырма1",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. башжалы. Алай Хажимырзаны къалгъан къартладан бир айырма заты бар эди. Хочуланы С., Хапарла, 28. ◊ [Бийберд Идирисни юсюнден:] Экибизни арабызда о",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айырма2",
+     "def": "залог",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "айырма3",
+     "def": "отличный, превосходный || отлично (тж. оценка), превосходно",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айырмай",
+     "def": "1) деепр. отриц. от айырыргъа 2) подряд, без разбора",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырмакълыкъ",
+     "def": "см. айырыу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айырмалан",
+     "def": "Выделяться (среди других), отличаться чем",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айырмаланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02284",
+   "word": "айырмакълыкъ",
+   "tags": "отвлеч. к айырыргъа",
+   "def1": "см. айырыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айырма1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "айырма2",
+     "def": "залог",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "айырма3",
+     "def": "отличный, превосходный || отлично (тж. оценка), превосходно",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "айырмай",
+     "def": "1) деепр. отриц. от айырыргъа 2) подряд, без разбора",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырмалан",
+     "def": "Выделяться (среди других), отличаться чем",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "айырмаланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02303",
+   "word": "айыртлан",
+   "tags": "эт. возвр. от айыртла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Айыртла дегенни къайтыучу айырмасы. Неда болсун айыртланып сакъланнган бир кочан нартюх да керексизге къорамазына, бир жанына кетмезине... [колхозчула",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айырт1",
+     "def": "понуд. к айырыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырт3",
+     "def": "пояснять, комментировать что; втолковывать что; давать понять кому",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айыртдыр1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айыртдыр2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айыртдыр3",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02304",
+   "word": "айыртланыу",
+   "tags": "и. д. от айыртлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Айыртлан дегенден этим ат. Урлукъну айыртланыуу.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "айырт1",
+     "def": "понуд. к айырыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырт3",
+     "def": "пояснять, комментировать что; втолковывать что; давать понять кому",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айыртдыр1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айыртдыр2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айыртдыр3",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02320",
+   "word": "айырылыб",
+   "tags": "",
+   "def1": "1) деепр. от айырылыргъа; 2) врозь; 3) особенно, именно",
+   "def2": "",
+   "misc1": "айырылыб джашайбыз мы живём врозь; тюнене халкъ айырылыб кёб эди вчера было особенно много народу; кёгетле, алмала бла кертмеле айырылыб, иги битгенди",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "айыры",
+     "def": "то же, что айры",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб1",
+     "def": "1) деепр. от айырыргъа 2) особенно, в особенности",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб2",
+     "def": "врозь, вразбивку",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыл1",
+     "def": "1) страд. к айырыргъа; 2) отделяться, выделяться, разъединяться, расчленяться; 3) отличать",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "айырыл2",
+     "def": "Разрываться, раздваиваться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырылгъан",
+     "def": "1) прич. от айырылыргъа 2) отборный, лучший, сортовой 3) избранный, выбранный 4) разлучённ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02323",
+   "word": "айырылыучу",
+   "tags": "",
+   "def1": "разводной",
+   "def2": "",
+   "misc1": "айырылыучу кёпюр разводной мост",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айыры",
+     "def": "то же, что айры",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб1",
+     "def": "1) деепр. от айырыргъа 2) особенно, в особенности",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб2",
+     "def": "врозь, вразбивку",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыл1",
+     "def": "1) страд. к айырыргъа; 2) отделяться, выделяться, разъединяться, расчленяться; 3) отличать",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "айырыл2",
+     "def": "Разрываться, раздваиваться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырылгъан",
+     "def": "1) прич. от айырылыргъа 2) отборный, лучший, сортовой 3) избранный, выбранный 4) разлучённ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02325",
+   "word": "айырылышмакълыкъ",
+   "tags": "отвлеч. к айырылышыргъа",
+   "def1": "см. айырылышыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айыры",
+     "def": "то же, что айры",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб1",
+     "def": "1) деепр. от айырыргъа 2) особенно, в особенности",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб2",
+     "def": "врозь, вразбивку",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыл1",
+     "def": "1) страд. к айырыргъа; 2) отделяться, выделяться, разъединяться, расчленяться; 3) отличать",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "айырыл2",
+     "def": "Разрываться, раздваиваться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырылгъан",
+     "def": "1) прич. от айырылыргъа 2) отборный, лучший, сортовой 3) избранный, выбранный 4) разлучённ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02335",
+   "word": "айырышмакълыкъ",
+   "tags": "отвлеч. к айырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "айыры",
+     "def": "то же, что айры",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб1",
+     "def": "1) деепр. от айырыргъа 2) особенно, в особенности",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыб2",
+     "def": "врозь, вразбивку",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "айырыл1",
+     "def": "1) страд. к айырыргъа; 2) отделяться, выделяться, разъединяться, расчленяться; 3) отличать",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "айырыл2",
+     "def": "Разрываться, раздваиваться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "айырылгъан",
+     "def": "1) прич. от айырылыргъа 2) отборный, лучший, сортовой 3) избранный, выбранный 4) разлучённ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02394",
+   "word": "аккыллы2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. аккыл II. Ныгъышда, лахорну бардыра, къырау къакъгъан сакъалларын сагъышлы сылай, [къартла] кёкге аккыллы къарасала да, эрттени ариу болду. Сылпаг",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "аккыл1",
+     "def": "Неуверенный, нерешительный, сомневающийся",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "аккыл2",
+     "def": "Неуверенно, нерешительно",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "аккыл3",
+     "def": "сомнение, колебание, нерешительность",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "аккыллан",
+     "def": "сомневаться, колебаться, быть в нерешительности",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "аккылландыр",
+     "def": "поколебать, внушить сомнение (нерешительность)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "аккылландырмакълыкъ",
+     "def": "см. аккылландырыу",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02460",
+   "word": "акъжыйрыкъ",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Одетая в белое платье",
+   "misc1": "",
+   "misc2": "Акъ жыйрыкълы, юсюнде акъ жыйрыгъы болгъан. Мен, бийик терезеден паркга къарай, Сеними кёрдюм акъжыйрыкъ къызчыкъда? Ол кетип барады кеси жангызлай Кы",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_02466",
+   "word": "акъкъулакъ",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Белоухий 2. кёч. сёл. тил. Свинья",
+   "misc1": "",
+   "misc2": "1. Къулакълары (неда къулагъы) акъ болгъан, акъ къулакълы. Акъкъулакъ бузоучукъ. 2. къ. тонгуз. Ваняланы акъкъулакълары къоншуларыны бахчасына киргенд",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "акъкъай",
+     "def": "Беленький",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "акъкъалай",
+     "def": "1. Алюминий 2. В позиции определения: алюминиевый",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "акъкъаш",
+     "def": "Белобровый (обычно о домашних животных)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "акъкъол",
+     "def": "Белоручка",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "акъкъуйрукъ",
+     "def": "Белохвостый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02478",
+   "word": "акълы-кёклю1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Нарядный, красиво одетый 2. Нарядный; яркий",
+   "misc1": "",
+   "misc2": "1. Ариу, омакъ кийиннген. Мени ариуум акълы-кёклю кийимли, Чырайы, саны барысындан сюйюмлю. (Фольк.) □ Акълы-кёклю тиширыула орамны ёрге-энишге озадыл",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "акълы-кёклю2",
+     "def": "Нарядно",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "акълыкъ",
+     "def": "1. Белизна 2. Бледность",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02479",
+   "word": "акълы-кёклю2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Нарядно",
+   "misc1": "",
+   "misc2": "Ариу, омакъ кийиниу. Сюйгенибиз сюйюнсюн, Акълыкёклю кийинсин. (Фольк.)",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "акълы-кёклю1",
+     "def": "1. Нарядный, красиво одетый 2. Нарядный; яркий",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "акълыкъ",
+     "def": "1. Белизна 2. Бледность",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02506",
+   "word": "акъсыман",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. акъсыл. Акъсыман чепкен. Акъсыман бояу.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "акъсыл",
+     "def": "Беловатый, белёсый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "акъсылдым",
+     "def": "Белесоватый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "акъсын",
+     "def": "Считать что-л. слишком светлым, принимать что-л. за белое",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "акъсыныу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02536",
+   "word": "акъылсызландыр",
+   "tags": "понуд. к акъылсызланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги акъылсызландырыргъа прикидываться дурачком",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "акъыл",
+     "def": "1. Ум, рассудок, разум, сознание, интеллект. 2. Мнение, точка зрения. 3. Цель; желание, на",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "акъылбалыкъ",
+     "def": "Совершеннолетие",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "акъыллаш",
+     "def": "1) намереваться, собираться 2) беспокоиться 3) взаимн. к акъылланыргъа советоваться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02537",
+   "word": "акъылсызландырмакълыкъ",
+   "tags": "отвлеч. к акъылсызландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "акъыл",
+     "def": "1. Ум, рассудок, разум, сознание, интеллект. 2. Мнение, точка зрения. 3. Цель; желание, на",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "акъылбалыкъ",
+     "def": "Совершеннолетие",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "акъыллаш",
+     "def": "1) намереваться, собираться 2) беспокоиться 3) взаимн. к акъылланыргъа советоваться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02538",
+   "word": "акъылсызландырыу",
+   "tags": "и. д. к акъылсызландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "акъыл",
+     "def": "1. Ум, рассудок, разум, сознание, интеллект. 2. Мнение, точка зрения. 3. Цель; желание, на",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "акъылбалыкъ",
+     "def": "Совершеннолетие",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "акъыллаш",
+     "def": "1) намереваться, собираться 2) беспокоиться 3) взаимн. к акъылланыргъа советоваться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02539",
+   "word": "акъылсызланмакълыкъ",
+   "tags": "отвлеч. к акъылсызланыргъа",
+   "def1": "см. акъылсызланыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "акъыл",
+     "def": "1. Ум, рассудок, разум, сознание, интеллект. 2. Мнение, точка зрения. 3. Цель; желание, на",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "акъылбалыкъ",
+     "def": "Совершеннолетие",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "акъыллаш",
+     "def": "1) намереваться, собираться 2) беспокоиться 3) взаимн. к акъылланыргъа советоваться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыллашыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02564",
+   "word": "акъырынлатмакълыкъ1",
+   "tags": "отвлеч. к акъырьшлатыргъа",
+   "def1": "см. акъырынлатыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "акъырап",
+     "def": "Скорпион",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "акъыртыклашдыр",
+     "def": "см. акъырынлашдырыргъа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртын1",
+     "def": "то же, что акъырын",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртын2",
+     "def": "-акъыртын см. акъырын-акьырын",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртынла",
+     "def": "см. акъырынларгъа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртынлат",
+     "def": "см. акъырьшлатыргъа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02565",
+   "word": "акъырынлатмакълыкъ2",
+   "tags": "отвлеч. к акъырынлашыргъа",
+   "def1": "см. акъырынлатыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "акъырап",
+     "def": "Скорпион",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "акъыртыклашдыр",
+     "def": "см. акъырынлашдырыргъа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртын1",
+     "def": "то же, что акъырын",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртын2",
+     "def": "-акъыртын см. акъырын-акьырын",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртынла",
+     "def": "см. акъырынларгъа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "акъыртынлат",
+     "def": "см. акъырьшлатыргъа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02576",
+   "word": "ал3",
+   "tags": "",
+   "def1": "-арт: ал деб къарамай не думая о последствиях",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "ал1",
+     "def": "1.1) передний 2) начальный, первичный, первый 3) вступительный, вводный 2. перёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "ал2",
+     "def": "1) прям., перен. брать, взять кого-что 2) брать что, получать что в пользование 3) достава",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02580",
+   "word": "ала4",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алан. [Къонакъ (адам):] Ала, председатель, не айтырыкъ эсенг да айт да, бизге эшитдир. Залийханланы Ж., Жаннган жюрекле, 100. □ [Налжан Абидатха:]",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "ала1",
+     "def": "1) пёстрый, разноцветный; пятнистый 2) светлый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "ала2",
+     "def": "1) мест. личн. 3 л. мн. ч. они 2) мест. указ. мн. ч. те",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "ала3",
+     "def": "К, около, под",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "ала5",
+     "def": "1)аляповатый 2) пёстрый; разноцветный; пегий",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "ала6",
+     "def": "тяп-ляп, кое-как; бегло, мельком",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02584",
+   "word": "ала-чола1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Поверхностный, неглубокий",
+   "misc1": "",
+   "misc2": "Тынгылы, терен болмагъан; Ол махтанса да, аны билими ала-чола эди. □ Ала-чола хапарлагъа ийнанмай туруп, энди [Гыжы] терен билирге дыгалас этеди. Хуби",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "ала-чола2",
+     "def": "Поверхностно, кое-как, тяп-ляп, через пень колоду",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02587",
+   "word": "алагоджа",
+   "tags": "карач.",
+   "def1": "1. неуклюжий 2. барахло, скарб",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_02602",
+   "word": "алайлай1",
+   "tags": "хал. сёзл.",
+   "def1": "2) даром, бесплатно",
+   "def2": "Бесплатно, даром, безвозмездно",
+   "misc1": "алайлай бермезле бесплатно не дадут; джукъ алмады, алайлай берди он плату не взял, дал бесплатно",
+   "misc2": "Хакъ алмай, хакъсыз, къурлай. [Экинчи киши Дюгербийге:] Керекли кезиуюбюзде хакъы бла бергенинг да алайлай берген кибикди. Гуртуланы Б., Жангы талисма",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алайла",
+     "def": "те места",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлада",
+     "def": "там, в тех местах",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлай2",
+     "def": "1)так, в таком виде, по-прежнему; такой",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "алайлай3",
+     "def": "Вдруг, внезапно, неожиданно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алайлайын",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "алайлайына",
+     "def": "см. алайлай",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02605",
+   "word": "алайлайын",
+   "tags": "хал. сёзл. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алайлай 3. Алайлайын Мустафир: \"Сен жигит эсенг, къарыусуз къызчыкъ бла кюрешмей, манга бир тийчи,\"- дей, солдотну аллын тыяды. Толгъурланы З., Ай",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "алайла",
+     "def": "те места",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлада",
+     "def": "там, в тех местах",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлай1",
+     "def": "2) даром, бесплатно",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алайлай2",
+     "def": "1)так, в таком виде, по-прежнему; такой",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "алайлай3",
+     "def": "Вдруг, внезапно, неожиданно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алайлайына",
+     "def": "см. алайлай",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02606",
+   "word": "алайлайына",
+   "tags": "",
+   "def1": "см. алайлай",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "алайла",
+     "def": "те места",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлада",
+     "def": "там, в тех местах",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлай1",
+     "def": "2) даром, бесплатно",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алайлай2",
+     "def": "1)так, в таком виде, по-прежнему; такой",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "алайлай3",
+     "def": "Вдруг, внезапно, неожиданно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алайлайын",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02607",
+   "word": "алайлыкъ",
+   "tags": "отелем, к алай",
+   "def1": "",
+   "def2": "",
+   "misc1": "алайлыкъы это так, это точнотак; алайлыкъына ажым джокъду нет сомнения в том, что это так",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "алайла",
+     "def": "те места",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлада",
+     "def": "там, в тех местах",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайлай1",
+     "def": "2) даром, бесплатно",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алайлай2",
+     "def": "1)так, в таком виде, по-прежнему; такой",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "алайлай3",
+     "def": "Вдруг, внезапно, неожиданно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алайлайын",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02612",
+   "word": "алайына1",
+   "tags": "сёзл. сёл. тил.",
+   "def1": "1)даром, бесплатно, безвозмездно",
+   "def2": "",
+   "misc1": "алайына берди он дал даром (бесплатно); алайына табылгъан даровой",
+   "misc2": "къ. алайлай у. «Мен аны санга ёнкюч угъай, алайына, башы бла бергенме»,- деди къарт ол жашха. (Фольк.)",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алайы",
+     "def": "там, то место",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына2",
+     "def": "2) вдруг",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына3",
+     "def": "3) см. алайгъа",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "алайынлай1",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "алайынлай2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02614",
+   "word": "алайына3",
+   "tags": "",
+   "def1": "3) см. алайгъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "алайы",
+     "def": "там, то место",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына1",
+     "def": "1)даром, бесплатно, безвозмездно",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алайына2",
+     "def": "2) вдруг",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алайынлай1",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "алайынлай2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02615",
+   "word": "алайынлай1",
+   "tags": "хал. сёзл. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алайлай Г. Сатмай, алайынлай сен алыкъа манга бир зат бергенмисе деди Хамит Мухтаргъа. «Коммунизмге жол», 1978, № 35.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "алайы",
+     "def": "там, то место",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына1",
+     "def": "1)даром, бесплатно, безвозмездно",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алайына2",
+     "def": "2) вдруг",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына3",
+     "def": "3) см. алайгъа",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "алайынлай2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02616",
+   "word": "алайынлай2",
+   "tags": "хал. сёзл. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алайлай 3. Ай, алайынлай, [айыу] эки ал аягъы бла ол терекчикни иничке жанындан тутуп, алай тёгерек айландырып башлады. Тёппеланы С., Жаралы зурну",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "алайы",
+     "def": "там, то место",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына1",
+     "def": "1)даром, бесплатно, безвозмездно",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алайына2",
+     "def": "2) вдруг",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алайына3",
+     "def": "3) см. алайгъа",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "алайынлай1",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02622",
+   "word": "аламан",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "къатын аламаны кьурумайды он всё твердит, что женится; аламаннга бараман погов. идущая [замуж] за того, кто берёт",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "аламат1",
+     "def": "прекрасный, изумительный; интересный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "аламат2",
+     "def": "прекрасно, изумительно; интересно",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "аламатлыкъ",
+     "def": "изумительность, великолепие, величие, красота; совершенство",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "аламатсын",
+     "def": "Считать кого, что-л. прекрасным",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "аламатсыныу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "аламаты",
+     "def": "прекрасное",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02636",
+   "word": "алас-булас",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алас; булас деген сёз кеси аллына жюрютюлмейди. [Юсюпню] кёзлери алас-булас кёрюп, башы тёгерек айланды. Шауаланы М., Мурат, 45. □ Ахырында тиширы",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_02637",
+   "word": "аласы",
+   "tags": "-къарасы",
+   "def1": "",
+   "def2": "",
+   "misc1": "тонгузну аласы джокъду погов: свинья пятнистая или чёрная - всё равно свинья",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_02657",
+   "word": "албугъартыш",
+   "tags": "эт. взаим.совм. от албугъарт; балк. взаимн. к албугъартыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Албугъарт дегенни араш айырмасы. Жашла экиси да, халкъ бла бирге атламай, ара ишден, бир бирге эришгенча, албугъартыша эдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "албугъарт",
+     "def": "уклоняться от чего",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "албугъартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "албугъартышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02658",
+   "word": "албугъартышыу",
+   "tags": "и. д. от албугъартыш; балк. и. д. к албугъартышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Албугъартыш дегенден этим ат.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "албугъарт",
+     "def": "уклоняться от чего",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "албугъартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "албугъартыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02659",
+   "word": "албукъдур",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. албугъарт. [Томата кесини ишчисине:] Мен буюргъан затланы кёбюсюнден сен албукъдуруп нек тургъанса? Кацийланы Х., Салам алейкум, 108.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "албукъдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02660",
+   "word": "албукъдуруу",
+   "tags": "и. д. от албукъдур",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Албукъдур дегенден этим ат. Ара ишден албукъдуруу айыпды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "албукъдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02662",
+   "word": "алгебра",
+   "tags": "ат.",
+   "def1": "алгебра || алгебраический",
+   "def2": "1. Алгебра 2. В позиции определения: алгебраический",
+   "misc1": "алгебра формула алгебраическая формула; алгебра амал алгебраическое действие",
+   "misc2": "1. Математиканы санланы, аланы магъаналарына къарамай, тарыхла бла белгилеп тинтиучю бёлюмю. Биз жаш заманлада сабийле, башларын физика, алгебра бла а",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "алгебралыкъ",
+     "def": "1. отвлеч. к алгебра 2. алгебраический",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02663",
+   "word": "алгебралыкъ",
+   "tags": "",
+   "def1": "1. отвлеч. к алгебра 2. алгебраический",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "алгебра",
+     "def": "алгебра || алгебраический",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02668",
+   "word": "алгъан",
+   "tags": "",
+   "def1": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: алгъаны приобретение; то, что приобретено (взято, куплено, получено)",
+   "def2": "",
+   "misc1": "айтханынгы алгъан адам понятливый человек; къоркъуу алгъан одержимый страхом; джюн алгъан джер пункт приёма шерсти; базардан алгъаным буду вот, что я ",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъаракъда",
+     "def": "недавно; незадолго до, чуть раньше",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02669",
+   "word": "алгъанлыкъ",
+   "tags": "отвлеч. к алгъан",
+   "def1": "",
+   "def2": "",
+   "misc1": "сатыб алгъанлыкъгъа... хотя [и] купил...",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъаракъда",
+     "def": "недавно; незадолго до, чуть раньше",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02674",
+   "word": "алгъаса",
+   "tags": "эт. къарач.; карач.",
+   "def1": "1) ослабеть (напр. от болезни) 2) перен. прийти в замешательство, растеряться, оробеть",
+   "def2": "1. Ослабевать (напр., от болезни)",
+   "misc1": "алгъасагъан къой ослабевшая овца; алгъасаб къалыргъа прийти в замешательство",
+   "misc2": "1. Къарыусуз бол (сёз ючюн, ауруудан). Молла жаз башына алгъасагъандыла. 2. къ. абызыра, жунчу. Кюн абыннган жыл алгъасар. (Нарт сёз.) □ «Ура» тауушда",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02675",
+   "word": "алгъасаб",
+   "tags": "карач.",
+   "def1": "1) деепр. от алгъасаргъа 2) поспешно, второпях",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02676",
+   "word": "алгъасат",
+   "tags": "эт. понуд. от алгъаса",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъаса дегенни къатланыучу айырмасы. Экибизни тауушубуз да жолоучугъа бир бири ызларындан къъгсха эшитилип, аны бек алгъасатхан болур эдиле. Семенлан",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02677",
+   "word": "алгъасатдыр",
+   "tags": "эт. понуд. от алгъасат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасат дегенни къатланыучу айырмасы.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02678",
+   "word": "алгъасатдырыу",
+   "tags": "и. д. от алгъасатдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасатдыр дегенден этим ат.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02679",
+   "word": "алгъасатыу",
+   "tags": "и. д. от алгъасат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасат дегенден этим ат.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02681",
+   "word": "алгъасын",
+   "tags": "эт. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алгъаса. Умар томам сагъайтды, Бюгюн жетгенди болумуна: Ол алжайды, алгъасынады, Ангы келеди орунуна. Байрамукъланы А., Юйге игилик, 64.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02682",
+   "word": "алгъасындыр",
+   "tags": "эт. понуд. от алгъасын",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасын дегенни къатланыучу айырмасы. Бу къуллукъ басхычына Жабыраны аллы аллай бир айланнган эди, аны терсге санап, ким сёлешсе да, алгъасындырыргъа",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02683",
+   "word": "алгъасындырыу",
+   "tags": "и. д. от алгъасындыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасындыр дегенден этим ат.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02684",
+   "word": "алгъасыныу",
+   "tags": "и. д. от алгъасын",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасын дегенден этим ат.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02685",
+   "word": "алгъасыныш",
+   "tags": "эт. взаим.-совм. от алгъасын",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасын дегенни араш айырмасы.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02686",
+   "word": "алгъасынышыу",
+   "tags": "и. д. от алгъасыныш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алгъасыныш дегенден этим ат.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алгъа1",
+     "def": "1) раньше, прежде 2) сначала, сперва 3) послелог Исх. раньше чего",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъа2",
+     "def": "вперёд; вперёд (о многих); -артха взад и вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъадан",
+     "def": "Заранее, заблаговременно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъалыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алгъан",
+     "def": "1. 1) прич. от алыргъа; 2) восприимчивый; 3) одержимый чем; 4) приёмный, приёмочный 2.: ал",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "алгъанлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02702",
+   "word": "алгъышланмакълыкъ",
+   "tags": "отвлеч. к алгъышланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "алгъы",
+     "def": "1) передний 2) первый 3) предыдущий",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъын",
+     "def": "1. 1) сперва, сначала 2) раньше, прежде; давно; в прежнее время 2. 1) былой, прежний 2) пе",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъында",
+     "def": "прежде, тогда, в прежнее время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъындан",
+     "def": "издавна",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъынлада",
+     "def": "прежде, в прежние времена",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъыннгы",
+     "def": "прежний, бывший, прошлый, былой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02703",
+   "word": "алгъышланыу",
+   "tags": "и. д. к. алгъышланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "алгъы",
+     "def": "1) передний 2) первый 3) предыдущий",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъын",
+     "def": "1. 1) сперва, сначала 2) раньше, прежде; давно; в прежнее время 2. 1) былой, прежний 2) пе",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъында",
+     "def": "прежде, тогда, в прежнее время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъындан",
+     "def": "издавна",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъынлада",
+     "def": "прежде, в прежние времена",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алгъыннгы",
+     "def": "прежний, бывший, прошлый, былой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02719",
+   "word": "алдамакълыкъ",
+   "tags": "отвлеч. к алдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "адамны алдамакълыкъ иги тюлдю нехорошо обманывать человека",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдам",
+     "def": "обман",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдамай",
+     "def": "искренне, не кривя душой",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02722",
+   "word": "алданмакълыкъ",
+   "tags": "отвлеч. к алданыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдан1",
+     "def": "1) сначала, сперва 2) спереди; -алгъа всё дальше вперёд",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "алдан2",
+     "def": "1. Обманываться. 2. Ошибаться, надеясь на осуществление чего-л., ожидая чего-л.",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алданырча",
+     "def": "заманчивый || заманчиво",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алданыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02729",
+   "word": "алдатмакълыкъ",
+   "tags": "отвлеч. к алдатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдат",
+     "def": "1) понуд. к алдаргъа 2) поддаться на обман, дать себя обмануть",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02756",
+   "word": "алджаусуз1",
+   "tags": "сыф.",
+   "def1": "1)безошибочный, правильный 2) здравомыслящий (человек)",
+   "def2": "Неуклонный",
+   "misc1": "",
+   "misc2": "Ышаннгылы, таукел. [Темирбек Биймырзагъа:] Сенден бийикде киши жокъ, сенден суху киши жумулмайды, сенден терк киши атылмайды, жолу сенден алжаусуз киш",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "алджамакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатмакълыкъ",
+     "def": "см. алджатыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатыу",
+     "def": "приведение кого в замешательство",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алджау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулу",
+     "def": "1) растерянный 2) сошедший с ума",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02757",
+   "word": "алджаусуз2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Неуклонно",
+   "misc1": "юйню алджаусуз табды он безошибочно нашёл дом",
+   "misc2": "Ышанырча, таукеллик бла. Мамырлыкъда, жарашып, жашауну тюз принциплери жашауда алжаусуз бардырыладыла. \"Коммунизмге жол\", 1972, № 82. □ Юйретиу ишни б",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "алджамакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатмакълыкъ",
+     "def": "см. алджатыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатыу",
+     "def": "приведение кого в замешательство",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алджау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулу",
+     "def": "1) растерянный 2) сошедший с ума",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02758",
+   "word": "алджаусузлукъ",
+   "tags": "отвлеч. к алджаусуз",
+   "def1": "",
+   "def2": "",
+   "misc1": "къартны алджаусузлукъу здравый ум (букв. здравость ума) старика",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "алджамакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатмакълыкъ",
+     "def": "см. алджатыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатыу",
+     "def": "приведение кого в замешательство",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алджау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулу",
+     "def": "1) растерянный 2) сошедший с ума",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02759",
+   "word": "алджашдырмакълыкъ",
+   "tags": "карач. отвлеч. к алджашдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "алджамакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатмакълыкъ",
+     "def": "см. алджатыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатыу",
+     "def": "приведение кого в замешательство",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алджау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулу",
+     "def": "1) растерянный 2) сошедший с ума",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02760",
+   "word": "алджашдырыу",
+   "tags": "и. д. от алжашдыр; карач. и. д. к алджашдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алжашдыр дегенден этим ат. Ётюрюк айтып адамланы алжашдырыу бизни душманларыбызны сюйген ишлериди.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "алджамакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатмакълыкъ",
+     "def": "см. алджатыу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджатыу",
+     "def": "приведение кого в замешательство",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алджау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулу",
+     "def": "1) растерянный 2) сошедший с ума",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алджаулукъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02765",
+   "word": "алдыр4",
+   "tags": "",
+   "def1": "то же, что алдыр-гюлдюр",
+   "def2": "",
+   "misc1": "-чылдыр",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдыр1",
+     "def": "1) льстивый 2) располагающий к себе, приятный, общительный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдыр2",
+     "def": "1) понуд. к алыргъа 2) просмотреть, прозевать, проморгать кого-что 3) приучать (корову к ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр3",
+     "def": "-гюлдюр льстец, подхалим",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр-гюлдюр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыргьыч",
+     "def": "см. алдыр",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдырлан",
+     "def": "1)льстить кому, лицемерить, подхалимничать, лебезить, заискивать перед кем 2) кокетничать",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02766",
+   "word": "алдыр-гюлдюр",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алдыр. Алдыр-гюлдюр адам. ▯ Алдыр-гюлдюр эт къарач. къ. алдырлан. Баракъ турду кесин алдыр-гюлдюр этил, Алларында тюлкюча, кесин чёмелтип. Ертенла",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдыр1",
+     "def": "1) льстивый 2) располагающий к себе, приятный, общительный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдыр2",
+     "def": "1) понуд. к алыргъа 2) просмотреть, прозевать, проморгать кого-что 3) приучать (корову к ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр3",
+     "def": "-гюлдюр льстец, подхалим",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр4",
+     "def": "то же, что алдыр-гюлдюр",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыргьыч",
+     "def": "см. алдыр",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдырлан",
+     "def": "1)льстить кому, лицемерить, подхалимничать, лебезить, заискивать перед кем 2) кокетничать",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02770",
+   "word": "алдырландырмакълыкъ",
+   "tags": "отвлеч. к алдырландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдыр1",
+     "def": "1) льстивый 2) располагающий к себе, приятный, общительный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдыр2",
+     "def": "1) понуд. к алыргъа 2) просмотреть, прозевать, проморгать кого-что 3) приучать (корову к ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр3",
+     "def": "-гюлдюр льстец, подхалим",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр4",
+     "def": "то же, что алдыр-гюлдюр",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыр-гюлдюр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыргьыч",
+     "def": "см. алдыр",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02771",
+   "word": "алдырландырыргьа",
+   "tags": "понуд. к алдырланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги алдырландырыргьа льстить, подхалимничать",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдыр1",
+     "def": "1) льстивый 2) располагающий к себе, приятный, общительный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдыр2",
+     "def": "1) понуд. к алыргъа 2) просмотреть, прозевать, проморгать кого-что 3) приучать (корову к ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр3",
+     "def": "-гюлдюр льстец, подхалим",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр4",
+     "def": "то же, что алдыр-гюлдюр",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыр-гюлдюр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыргьыч",
+     "def": "см. алдыр",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02773",
+   "word": "алдырланмакълыкъ",
+   "tags": "отвлеч. к алдырланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "алдыр1",
+     "def": "1) льстивый 2) располагающий к себе, приятный, общительный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдыр2",
+     "def": "1) понуд. к алыргъа 2) просмотреть, прозевать, проморгать кого-что 3) приучать (корову к ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр3",
+     "def": "-гюлдюр льстец, подхалим",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр4",
+     "def": "то же, что алдыр-гюлдюр",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыр-гюлдюр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыргьыч",
+     "def": "см. алдыр",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02780",
+   "word": "алдырмакълыкъ",
+   "tags": "отвлеч. к алдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "алдыр1",
+     "def": "1) льстивый 2) располагающий к себе, приятный, общительный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "алдыр2",
+     "def": "1) понуд. к алыргъа 2) просмотреть, прозевать, проморгать кого-что 3) приучать (корову к ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр3",
+     "def": "-гюлдюр льстец, подхалим",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "алдыр4",
+     "def": "то же, что алдыр-гюлдюр",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыр-гюлдюр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "алдыргьыч",
+     "def": "см. алдыр",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02787",
+   "word": "алдыу",
+   "tags": "",
+   "def1": "-гылдыу: алдыу бёрк плохо связанная шапочка",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_02797",
+   "word": "алжан",
+   "tags": "эт. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алжа 2. Мен сеннге сен тюлсе деп Ажашдым терен, Балыкъ суугъа бауурланып, Бек алжандым мен. Батчаланы М., Сагъышла, 30.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "алжаныу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02798",
+   "word": "алжаныу",
+   "tags": "и. д. от алжан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Алжан дегенден этим ат. Ишни man ангыламай алжаныу.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "алжан",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02805",
+   "word": "аликум",
+   "tags": "",
+   "def1": "см. алейкум",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_02830",
+   "word": "алланмакълыкъ",
+   "tags": "отвлеч. к алланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "аллан",
+     "def": "настроиться, нацелиться, захотеть (сделать что-л.)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алландыр",
+     "def": "настроить, нацелить, уговорить кого на что, склонить кого к чему",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "алландырт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алландыртыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "алланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02839",
+   "word": "аллахутала",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. аллах. [Хажомар Аскерге:] Буслийман адам чагъыр этип ким эшитгенди, аны юсюнден аллахуталаны сыйлы китабы — къуран не айтханын билемисе? Гуртуланы",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "аллах1",
+     "def": "аллах; бог",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "аллах2",
+     "def": "все",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "аллахсыз",
+     "def": "неверующий, безбожный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "аллахсызлыкъ",
+     "def": "безбожие, богоотступничество",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02857",
+   "word": "аллыннгы",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алгъыннгы. Ол аллыннгы жеринде ишлейди.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "аллын",
+     "def": "-артын: аллын эслемей необдуманно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "аллына",
+     "def": "1)вперёд; навстречу 2) см. аллы 2",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "аллында",
+     "def": "1) вначале, сначала 2) прежде, раньше 3) см. аллы 2",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "аллындагъы",
+     "def": "1) передний 2) предыдущий; предшествующий чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "аллындан",
+     "def": "1) спереди 2) заранее 3) сначала 4) см. аллы 2",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "аллынтын",
+     "def": "спереди, с передней стороны",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02864",
+   "word": "алма4",
+   "tags": "",
+   "def1": "то же, что алма-малма",
+   "def2": "",
+   "misc1": "-чалма",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "алма1",
+     "def": "1) яблоко || яблочный 2) (тж. алма терек яблоня || яблоневый",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "алма2",
+     "def": "фрукты",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "алма3",
+     "def": "какие-то фрукты",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02956",
+   "word": "алтыхыр",
+   "tags": "",
+   "def1": "см. алтаякъ",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_02966",
+   "word": "алчаи",
+   "tags": "эт. сёл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "тил. къ. ёл 1. Атны сермегени бла бугъаны алчайгъаны бирча болдула. Теппеланы С., Къарашауай бла Ёрюзмек, 12.",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_02982",
+   "word": "алчылыкъ",
+   "tags": "ат.",
+   "def1": "1. отвлеч. к алчы 2. авангардный",
+   "def2": "Первенство, первое место в чем-л.",
+   "misc1": "алчылыкъ этерге быть передовиком; быть вожаком; главенствовать; алчылыкъны алыргъа завоевать первенство; коммунистлени алчылыкъ рольлары авангардная р",
+   "misc2": "Эришиуде биринчилик. Асият тёрт жылдан бери звено башчы болуп, алчылыкъны кишиге бермей келеди. Токъумаланы Ж., Нартланы туудукълары, 127. ◊ Батырлыкъ",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_02984",
+   "word": "алыкъын",
+   "tags": "заман. сёзл. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алыкъа. Гыдай эчки суугъа къарай эди да, Алыкъын жашма дей эди. (Нарт сёз.) ◊ Халиймат беш сабийни анасы болгъанлыкъгъа, алыкъын асыры жаш эди. Гу",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алыкъа",
+     "def": "см. алкъын",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алыкъынчы",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02985",
+   "word": "алыкъынчы",
+   "tags": "заман. сёзл. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алыкъа. \"Мен ашыгъып келгенликге, алыкъынчы сен тёшегингден да къопмай тура кёреме\",- деди Фатиймат Аминатха.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "алыкъа",
+     "def": "см. алкъын",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "алыкъын",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02986",
+   "word": "алым1",
+   "tags": "ат.",
+   "def1": "1) пчел. взяток 2) карт. взятка 3) этн. выкуп (плата мужчины за танец)",
+   "def2": "1. этн. Выкуп (плата мужчин за танец) 2. бал. Взяток (добыча пчелы) 3. карт. Взятка (в карточной игре)",
+   "misc1": "алым ачха собранная сумма (в пользу девушек)",
+   "misc2": "1. Тойда ойнагъан заманда жыйылгъан ахча неда башха затла. Акъсакъал чамы, ложъырдасы бла жыйынны кёзюн ачханлай, не узакъда болса да, адам излемегенл",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "алым2",
+     "def": "-берим купля-продажа; обмен",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_02988",
+   "word": "алым-берим",
+   "tags": "къауум. ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. алыш-бериш. Жыйырманчы жыллада алым-берим бек къыстау бара эди. ◊ Ол алым-берим бла кюрешгенледен тюйюлдю.",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_02994",
+   "word": "алындырмакълыкъ",
+   "tags": "отвлеч. к алындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "алындыр",
+     "def": "III) свести кого с ума, довести кого до потери рассудка 2) перен. взбесить, разъярить кого",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "алындырт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "алындыртыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "алындырыл",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "алындырылыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "алындырыу",
+     "def": "1) доведение до сумасшествия (до безумия) 2) перен. приведение в ярость (в бешенство)",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03025",
+   "word": "алышдырт",
+   "tags": "понуд. к алышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышдыр",
+     "def": "1) понуд. к алышыргъа 2) меняться, обмениваться",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышдырмакьлыкъ",
+     "def": "обмен, мёна",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "алышдыртыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырыл",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылмакълыкъ",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03026",
+   "word": "алышдыртыу",
+   "tags": "и. д. к алышдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышдыр",
+     "def": "1) понуд. к алышыргъа 2) меняться, обмениваться",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышдырмакьлыкъ",
+     "def": "обмен, мёна",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "алышдырт",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырыл",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылмакълыкъ",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03027",
+   "word": "алышдырыл",
+   "tags": "страд. к алышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышдыр",
+     "def": "1) понуд. к алышыргъа 2) меняться, обмениваться",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышдырмакьлыкъ",
+     "def": "обмен, мёна",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "алышдырт",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдыртыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылмакълыкъ",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03028",
+   "word": "алышдырылмакълыкъ",
+   "tags": "отвлеч. к алышдырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышдыр",
+     "def": "1) понуд. к алышыргъа 2) меняться, обмениваться",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышдырмакьлыкъ",
+     "def": "обмен, мёна",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "алышдырт",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдыртыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырыл",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03029",
+   "word": "алышдырылыу",
+   "tags": "и. д. к алышдырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышдыр",
+     "def": "1) понуд. к алышыргъа 2) меняться, обмениваться",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышдырмакьлыкъ",
+     "def": "обмен, мёна",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "алышдырт",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдыртыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырыл",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "алышдырылмакълыкъ",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03032",
+   "word": "алышмакълыкъ",
+   "tags": "отвлеч. к алышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышмакъ",
+     "def": "суу алышмакъ игра, при которой участники обливают друг друга водой, чтобы вызвать дождь",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_03037",
+   "word": "алышындырмакълыкъ",
+   "tags": "отвлеч. к алышындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "алышын",
+     "def": "1) меняться, сменяться, обмениваться кем-чем 2) заменяться кем-чем",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышындыр",
+     "def": "1) менять, обменивать что 2) заменять кого-что чем",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышындырт",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышындыртыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышындырыл",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "алышындырылыу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  }
+ ]
+}

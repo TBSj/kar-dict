@@ -1,0 +1,4857 @@
+{
+ "items": [
+  {
+   "entry_id": "e_10382",
+   "word": "джумуу",
+   "tags": "и. д. к джумаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кёз джумуу закрытие глаз, смыкание глаз; къол джумуу сжатие руки в кулак",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джумукъкъулакъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "джумукълукъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джумулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумулт",
+     "def": "1) закрывать, смыкать, щурить (глаза) 2) сжимать, сгибать кого-что; прижимать что 3) посыл",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джумултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумултуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10389",
+   "word": "джумушалыу",
+   "tags": "и. д. к джумушалыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джумукъкъулакъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "джумукълукъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джумулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумулт",
+     "def": "1) закрывать, смыкать, щурить (глаза) 2) сжимать, сгибать кого-что; прижимать что 3) посыл",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джумултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумултуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10392",
+   "word": "джумушатдырмакълыкъ",
+   "tags": "отвлеч. к джумушатдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джумукъкъулакъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "джумукълукъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джумулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумулт",
+     "def": "1) закрывать, смыкать, щурить (глаза) 2) сжимать, сгибать кого-что; прижимать что 3) посыл",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джумултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумултуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10393",
+   "word": "джумушатмакълыкъ",
+   "tags": "отвлеч. к джумушатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джумукъкъулакъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "джумукълукъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джумулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумулт",
+     "def": "1) закрывать, смыкать, щурить (глаза) 2) сжимать, сгибать кого-что; прижимать что 3) посыл",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джумултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумултуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10394",
+   "word": "джумушатылмакълыкъ",
+   "tags": "отвлеч. к джумушатылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джумукъкъулакъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "джумукълукъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джумулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумулт",
+     "def": "1) закрывать, смыкать, щурить (глаза) 2) сжимать, сгибать кого-что; прижимать что 3) посыл",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джумултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джумултуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10398",
+   "word": "джундурукъ",
+   "tags": "редко",
+   "def1": "см. джумдурукъ I",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_10400",
+   "word": "джунчутдурмакълыкъ",
+   "tags": "отвлеч. к джунчутду-рургъа джунчутдурургъа понуд. к джунчутургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джунчумакълыкъ",
+     "def": "1) замешательство, смущение, растерянность 2) нужда",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10404",
+   "word": "джурунлатдырмакълыкъ",
+   "tags": "отвлеч. к джурунлатдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джурунламакълыкъ",
+     "def": "разрезание на лоскуты",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джурунлатмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джурунлукъ",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10405",
+   "word": "джурунлатмакълыкъ",
+   "tags": "отвлеч. к джурунлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джурунламакълыкъ",
+     "def": "разрезание на лоскуты",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "джурунлатдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джурунлукъ",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10407",
+   "word": "джутдурмакълыкъ",
+   "tags": "отвлеч. к джутдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джутдуртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10408",
+   "word": "джутдуртмакълыкъ",
+   "tags": "отвлеч. к джутдуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джутдурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10409",
+   "word": "джутландырмакълыкъ",
+   "tags": "отвлеч. к джутландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джутланмакълыкъ",
+     "def": "проявление алчности (ненасытности)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "джутланышмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "джутланышыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10411",
+   "word": "джутланышмакълыкъ",
+   "tags": "отвлеч. к джутланышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джутландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "джутланмакълыкъ",
+     "def": "проявление алчности (ненасытности)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "джутланышыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10412",
+   "word": "джутланышыу",
+   "tags": "и. д. к джутланышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джутландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "джутланмакълыкъ",
+     "def": "проявление алчности (ненасытности)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "джутланышмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10418",
+   "word": "джутулмакълыкъ",
+   "tags": "отвлеч. к джутулургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_10424",
+   "word": "джууашмакьлыкъ",
+   "tags": "отвлеч. к джууашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джууаблаш",
+     "def": "возражать кому; пререкаться, ссориться с кем",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "джууаблашмакълыкъ",
+     "def": "возражение, пререкание",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "джууаблашыу",
+     "def": "пререкание; ссора",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "джууаблашыучу",
+     "def": "склонный к пререканиям; скандальный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "джууалы",
+     "def": "грибной",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10426",
+   "word": "джуудурмакълыкъ",
+   "tags": "отвлеч. к джуудурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джуудуртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джуудурулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10427",
+   "word": "джуудуртмакълыкъ",
+   "tags": "отвлеч. к джуудуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джуудурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джуудурулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10428",
+   "word": "джуудурулмакълыкъ",
+   "tags": "отвлеч. к джуудурулургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джуудурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джуудуртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10429",
+   "word": "джуумакълыкъ",
+   "tags": "отвлеч. к джууаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_10432",
+   "word": "джууукълашдырмакълыкъ",
+   "tags": "отвлеч. к джууукълашдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууулдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10437",
+   "word": "джууулдат1",
+   "tags": "понуд. к джууулдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "окъланы джууулдатыргъа пускать пули, стрелять",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10439",
+   "word": "джууулдатыу",
+   "tags": "и. д. к джууулдатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10441",
+   "word": "джууулдашмакълыкъ",
+   "tags": "отвлеч. к джууулдашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10442",
+   "word": "джууулдашыу",
+   "tags": "и. д. к джуулдашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10443",
+   "word": "джууулмакълыкъ",
+   "tags": "отвлеч. к джууулургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10445",
+   "word": "джууундурмакълыкъ",
+   "tags": "отвлеч. к джууундурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10446",
+   "word": "джууунмакълыкъ",
+   "tags": "отвлеч. к джууунургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10450",
+   "word": "джуууучу",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "къол джуууучу рукомойник; кийим джуууучу прачка",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "джууукъдагъы",
+     "def": "ближний, находящийся близко",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъдан",
+     "def": "с близкого расстояния",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукълашдырмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джууукълашмакълыкъ",
+     "def": "приближение чего, к кому-чему",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъсуз",
+     "def": "безродный, не имеющий родственников",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "джууукъчукъда",
+     "def": "рядом, близко, невдалеке",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10459",
+   "word": "джыгъышдырмакълыкъ",
+   "tags": "отвлеч. к джыгъышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыгъал",
+     "def": "джыгъал о лязге, грохоте",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыгъыла",
+     "def": "-къоба падая и опять вставая",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джыгъылмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "джыгъылтмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыгъылыш",
+     "def": "падать",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "джыгъылышмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10467",
+   "word": "джызе",
+   "tags": "балк.",
+   "def1": "см. джыз 2",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_10469",
+   "word": "джызтдыу",
+   "tags": "карач. прост.",
+   "def1": "1) склонный пускать газы 2) болтун",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "джызт",
+     "def": "1. см. джыз 1 2. дет. пук",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джызтдыулукъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10470",
+   "word": "джызтдыулукъ",
+   "tags": "карач. отвлеч. к джызтдыу",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "джызт",
+     "def": "1. см. джыз 1 2. дет. пук",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "джызтдыу",
+     "def": "1) склонный пускать газы 2) болтун",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10471",
+   "word": "джызылдамакълыкъ",
+   "tags": "отвлеч. к джызылдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джызылдатмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10472",
+   "word": "джызылдатмакълыкъ",
+   "tags": "отвлеч. к джызылдатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джызылдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10480",
+   "word": "джыйрыкълы",
+   "tags": "карач.",
+   "def1": "1) в складку, с оборками 2) морщинистый",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "джыйрыкълылыкъ",
+     "def": "1) складчатость 2) морщинистость",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10481",
+   "word": "джыйрыкълылыкъ",
+   "tags": "карач. отвлеч. к джыйрыкълы",
+   "def1": "1) складчатость 2) морщинистость",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "джыйрыкълы",
+     "def": "1) в складку, с оборками 2) морщинистый",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10485",
+   "word": "джыйылышмакълыкъ",
+   "tags": "отвлеч. к джыйылышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымчы",
+     "def": "скопидом, скряга м, ж",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10486",
+   "word": "джыйымды",
+   "tags": "карач.",
+   "def1": "1. сборный, неоднородный 2. редко сборник",
+   "def2": "",
+   "misc1": "хапчюк джыйымды разные вещи; таурух джыйымды сборник сказок",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымчы",
+     "def": "скопидом, скряга м, ж",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10487",
+   "word": "джыйымдыкълыкъ",
+   "tags": "отвлеч. к джыйымдыкъ",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымчы",
+     "def": "скопидом, скряга м, ж",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10493",
+   "word": "джыйырылмакълыкъ",
+   "tags": "отвлеч. к джыйырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10494",
+   "word": "джыйырылтмакълыкъ",
+   "tags": "отвлеч. к джыйырылтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10495",
+   "word": "джыйырылышмакълыкъ",
+   "tags": "отвлеч. к джыйырылышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10499",
+   "word": "джыйырышыу",
+   "tags": "и. д. к джыйырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10502",
+   "word": "джыйышдырт",
+   "tags": "понуд. к джыйышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10503",
+   "word": "джыйышдыртмакълыкъ",
+   "tags": "отвлеч. к джыйышдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10504",
+   "word": "джыйышдыртыу",
+   "tags": "и. д. к джыйышдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10505",
+   "word": "джыйышмакълыкъ",
+   "tags": "отвлеч. к джыйышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыйылгъан",
+     "def": "1. прич. от джыйылыргъа; 2.:... джыйылгъаны а) сбор; собрание; б) скопление; накопление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылыучу",
+     "def": "1) складной, откидной 2) сборный (пункт и т. п.)",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джыйылышмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымды",
+     "def": "1. сборный, неоднородный 2. редко сборник",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "джыйымдыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10507",
+   "word": "джыкъдырмакълыкъ",
+   "tags": "отвлеч. к джыкьдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыкъдыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10508",
+   "word": "джыкъдыртмакълыкъ",
+   "tags": "отвлеч. к джыкъдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джыкъдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10509",
+   "word": "джыкьдыртыу",
+   "tags": "и. д. к джыкъдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_10534",
+   "word": "джылтыр",
+   "tags": "",
+   "def1": "см. джыртылыргьа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джылтыра",
+     "def": "блестеть; искриться",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "джылтырамакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылтыратдырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылтыратмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылтыратыучу",
+     "def": "1) то, что даёт блеск 2) отражатель (напр. зеркало)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10541",
+   "word": "джылындырмакълыкъ",
+   "tags": "отвлеч. к джылындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "джылымдылыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылынмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылыннган",
+     "def": "1) прич. от джылыныргъа; 2) подогретый, согретый; 3) под хмельком; под мухой; тёпленький р",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылысыман",
+     "def": "тепловатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылытдырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылытмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10542",
+   "word": "джылынмакълыкъ",
+   "tags": "отвлеч. к джылыныргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "джылымдылыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылындырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылыннган",
+     "def": "1) прич. от джылыныргъа; 2) подогретый, согретый; 3) под хмельком; под мухой; тёпленький р",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылысыман",
+     "def": "тепловатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылытдырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылытмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10545",
+   "word": "джылытдырмакълыкъ",
+   "tags": "отвлеч. к джылытдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "джылымдылыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылындырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылынмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылыннган",
+     "def": "1) прич. от джылыныргъа; 2) подогретый, согретый; 3) под хмельком; под мухой; тёпленький р",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылысыман",
+     "def": "тепловатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылытмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10546",
+   "word": "джылытмакълыкъ",
+   "tags": "отвлеч. к джылытыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "джылымдылыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылындырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылынмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылыннган",
+     "def": "1) прич. от джылыныргъа; 2) подогретый, согретый; 3) под хмельком; под мухой; тёпленький р",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылысыман",
+     "def": "тепловатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылытдырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10548",
+   "word": "джылытылмакълыкъ",
+   "tags": "отвлеч. к джылытылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "джылымдылыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылындырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылынмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "джылыннган",
+     "def": "1) прич. от джылыныргъа; 2) подогретый, согретый; 3) под хмельком; под мухой; тёпленький р",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылысыман",
+     "def": "тепловатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "джылытдырмакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10557",
+   "word": "джырбыландыр",
+   "tags": "карач.",
+   "def1": "то же, что джырмыландырыргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джырбылын",
+     "def": "то же, что джырмыланыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10558",
+   "word": "джырбылын",
+   "tags": "карач.",
+   "def1": "то же, что джырмыланыргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джырбыландыр",
+     "def": "то же, что джырмыландырыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10559",
+   "word": "джыргъакъ",
+   "tags": "",
+   "def1": "то же, что джаргъакъ",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_10562",
+   "word": "джырды",
+   "tags": "",
+   "def1": "то же, что чырды",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "джырджыр",
+     "def": "роскошный, шикарный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "джырджырлыкъ",
+     "def": "шик, роскошь ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "джырдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10573",
+   "word": "джырмык",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "джырмыкын алды [он] содрал [с него] шкуру",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "джырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джырмачлы",
+     "def": "с разрезом, имеющий разрез",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "джырмачлыкъ",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "джырмыландырмакълыкь",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джырмыланмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джырмылыкъ",
+     "def": "1) отвлеч. к джырмы I 2) материал для изготовления тороков",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10589",
+   "word": "джырылдамакълыкъ",
+   "tags": "отвлеч. к джырылдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джырыкълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джырылдатмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джырылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джырыучу",
+     "def": "разрезающий",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10596",
+   "word": "джюген",
+   "tags": "карач. редко",
+   "def1": "см. джюгюнюрге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джюгениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенлемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенли",
+     "def": "1) взнузданный 2) перен. обузданный, послушный 3) перен. женатый",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "джюгенлик",
+     "def": "1) отвлеч. к джюген 2) материал для узды",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10600",
+   "word": "джюгенли",
+   "tags": "",
+   "def1": "1) взнузданный 2) перен. обузданный, послушный 3) перен. женатый",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "джюген",
+     "def": "см. джюгюнюрге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джюгениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенлемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенлик",
+     "def": "1) отвлеч. к джюген 2) материал для узды",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10603",
+   "word": "джюгенсиз",
+   "tags": "",
+   "def1": "1) невзнузданный 2) перен. необузданный, непослушный, неудержимый",
+   "def2": "",
+   "misc1": "джюгенсиз ат невзнузданный конь; ишленмеген джаш - джюгенсиз ат посл. невоспитанный парень, что конь без узды",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джюген",
+     "def": "см. джюгюнюрге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джюгениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенлемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенли",
+     "def": "1) взнузданный 2) перен. обузданный, послушный 3) перен. женатый",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "джюгенлик",
+     "def": "1) отвлеч. к джюген 2) материал для узды",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10604",
+   "word": "джюгенсизлик",
+   "tags": "",
+   "def1": "1) отвлеч. к джюгенсиз; 2) необузданность, непослушность, неудержимость",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "джюген",
+     "def": "см. джюгюнюрге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джюгениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенлемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "джюгенли",
+     "def": "1) взнузданный 2) перен. обузданный, послушный 3) перен. женатый",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "джюгенлик",
+     "def": "1) отвлеч. к джюген 2) материал для узды",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10606",
+   "word": "джюгюнмеклик",
+   "tags": "отвлеч. к джюгюнюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_10640",
+   "word": "джёбелемеклик",
+   "tags": "отвлеч. к джёбелерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "джёбелетдир",
+     "def": "то же, что джёбелетирге",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетмеклик1",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетмеклик2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелеучю",
+     "def": "название птицы",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10641",
+   "word": "джёбелетдир",
+   "tags": "",
+   "def1": "то же, что джёбелетирге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "джёбелемеклик",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетмеклик1",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетмеклик2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелеучю",
+     "def": "название птицы",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10642",
+   "word": "джёбелетмеклик1",
+   "tags": "отвлеч. к джёбелетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "джёбелемеклик",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетдир",
+     "def": "то же, что джёбелетирге",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетмеклик2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелеучю",
+     "def": "название птицы",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10643",
+   "word": "джёбелетмеклик2",
+   "tags": "отвлеч. к джёбелеширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "джёбелемеклик",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетдир",
+     "def": "то же, что джёбелетирге",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелетмеклик1",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "джёбелеучю",
+     "def": "название птицы",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10650",
+   "word": "джёнемеклик",
+   "tags": "отвлеч. к джёнерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёнетдир",
+     "def": "то же, что джёнетирге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10651",
+   "word": "джёнетдир",
+   "tags": "",
+   "def1": "то же, что джёнетирге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёнемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10652",
+   "word": "джёнетмеклик",
+   "tags": "отвлеч. к джёнетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёнемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетдир",
+     "def": "то же, что джёнетирге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10653",
+   "word": "джёнешиу",
+   "tags": "и. д. к джёнеширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёнемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетдир",
+     "def": "то же, что джёнетирге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10654",
+   "word": "джёнешмеклик",
+   "tags": "отвлеч. к джёнеширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёнемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетдир",
+     "def": "то же, что джёнетирге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнетмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёнешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10655",
+   "word": "джёрмелемеклик",
+   "tags": "отвлеч. к джёрмелерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёрмеленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёрмелетдир",
+     "def": "то же,что джёрмелетирге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10656",
+   "word": "джёрмеленмеклик",
+   "tags": "отвлеч. к джёрмеленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёрмелемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёрмелетдир",
+     "def": "то же,что джёрмелетирге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10657",
+   "word": "джёрмелетдир",
+   "tags": "",
+   "def1": "то же,что джёрмелетирге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "джёрмелемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "джёрмеленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10710",
+   "word": "дикгич",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тикгич. Жумушакъ сахтиян кёнчекни улакъ дикгич бла омакъ тикген къолла сау болсунла. Къобанланы Д., Таулада таууш, 320.",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_10786",
+   "word": "дифференциация",
+   "tags": "",
+   "def1": "дифференциация",
+   "def2": "",
+   "misc1": "(тж. дифференциация этиу); дифференциация этерге дифференцировать что; дифференциация этиу дифференцирование",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_10798",
+   "word": "доверна",
+   "tags": "",
+   "def1": "см. даверна 1",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "доверенность",
+     "def": "доверенность",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10839",
+   "word": "донг",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание падению чего-л. с шумом",
+   "misc1": "",
+   "misc2": "Бир зат жерге тюшгенде этген тауушну кёргюзтеди. «Донг! Дыгъар-дугъур, дыгъар-дугъур» деген тауушла юйню тепдиредиле. Гуртуланы Б., Жангы талисман, 21",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_10840",
+   "word": "донг-дунг",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание беспрерывному удару падающих предметов, длительным ударам предмета о предмет",
+   "misc1": "",
+   "misc2": "Бир тохтаусуз тюшюп тургъан затны тауушларын неда эки затны бир бирге урулуп тургъанын кёргюзтеди. Лезгинка башланнганда уа, аякъ бюкгенле юй тюбю къа",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_10849",
+   "word": "доп1",
+   "tags": "подр.",
+   "def1": "бух!",
+   "def2": "",
+   "misc1": "доп деб тюшерге бухнуться; доп деб эшикден тюшдю он тут как тут",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "доп2",
+     "def": "-доп",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10850",
+   "word": "доп2",
+   "tags": "балк.",
+   "def1": "-доп",
+   "def2": "",
+   "misc1": "доп этерге оговориться",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "доп1",
+     "def": "бух!",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10858",
+   "word": "дордан",
+   "tags": "ат. къарач.; карач.",
+   "def1": "1) (тж. таш дордан) зоб (у птиц) 2) грудь ж",
+   "def2": "",
+   "misc1": "дорданын тургъузуб турады (он) стоит, выпятив грудь; он стоит грудь колесом",
+   "misc2": "1. къ. дёрден 1. 2. кёч. къ. дёрден 2. Жаш, дорданын тургъузуп, аллыбызгъа сюелди.",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_10904",
+   "word": "дробландырыу",
+   "tags": "и. д. к дробландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "дроблан",
+     "def": "превращаться в дробь",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дробландыр",
+     "def": "превращать в дробь",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дробланыу",
+     "def": "превращение в дробь",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10905",
+   "word": "дробланыу",
+   "tags": "и. д. к дробланыргъа",
+   "def1": "превращение в дробь",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "дроблан",
+     "def": "превращаться в дробь",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дробландыр",
+     "def": "превращать в дробь",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дробландырыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10909",
+   "word": "дружинник",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дружиначы. Дружинниклени штабы. ▯ Дружинникле ичгичиле, уручула эм башха аманлыкъ ишле этгенле бла къаты кюреш бардырадыла.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "дружина",
+     "def": "дружина, отряд",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "дружиначы",
+     "def": "дружинник",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10914",
+   "word": "дубликат",
+   "tags": "ат.",
+   "def1": "дубликат",
+   "def2": "Дубликат",
+   "misc1": "дипломну дубликаты дубликат диплома; дубликат берирге выдать дубликат",
+   "misc2": "Документни, аны толу магъанасын тутхан экинчи экземпляры. Аттестатны дубликаты. Дипломну дубликаты.",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_10919",
+   "word": "дубукъ",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дуппукъ, гумух. Элге жити болта, кесине дубукъ болта. (Нарт сёз).",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_10945",
+   "word": "дукъурлу-чунгурлу",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дукъур-мукъур. Дукъурлу-чунгурлу жер.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "дукъур",
+     "def": "1) желвак, шишка 2) выступ, бугор; выпуклость || выпуклый",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "дукъур-мукъур",
+     "def": "Неровный, бугристый",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дукъурлу",
+     "def": "бугристый, выпуклый; узловатый",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дукъуш",
+     "def": "1) выпуклость, неровность 2) горб",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дукъушлу",
+     "def": "неровный, бугристый",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10950",
+   "word": "дум",
+   "tags": "балк.",
+   "def1": "см. тум",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_10953",
+   "word": "думада",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "думада къама разновидность кинжала",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "думадулла",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "думадылан",
+     "def": "Телёнок, сосущий двух коров",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10954",
+   "word": "думадулла",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. думадылан. Жыл санлары, бойлары кеси тенгли болгъан элли жашлагъа ала думадулланыушкуладан не башхалыгъы болгъанын ангылатадыла. Гуртуланы Б., Жан",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "думада",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "думадылан",
+     "def": "Телёнок, сосущий двух коров",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10965",
+   "word": "думпай",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думп бол (къ. думп). «Аллымдан думпай!» - деди жашчыкъ нёгерине.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10966",
+   "word": "думпайт",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думп эт (къ. думп). Еге ана сабийлени думпайтыр ючюн тюрлю-тюрлю амалла излеп тебирегенди. (Фольк.)",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10967",
+   "word": "думпайтдыр",
+   "tags": "эт. понуд. от думпайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпайт дегенни къатланыучу айырмасы. Сатлыкъ адамла жашчыкъны атасын, фашистлени къолларына берип, дуниядан думпайтдыргъан эдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10968",
+   "word": "думпайтдырыу",
+   "tags": "и. д. от думпайтдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпайтдыр дегенден этим ат. Малланы думпайтдырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10969",
+   "word": "думпайтыл",
+   "tags": "эт. страд. от думпайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпайт дегенни зорлаучу айырмасы. Бригадир эки гебенни думпайтылып тургъанларын билди.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10970",
+   "word": "думпайтылыу",
+   "tags": "и. д. от думпайтыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпайтыл дегенден этим ат. Гебенлени думпайтылыулары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10971",
+   "word": "думпайтыу",
+   "tags": "и. д. от думпайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпайт дегенден этим ат. Террористле, жашауну игилендирир ючюн, патчахны дуниядан думпайтыудан сора зат керек болмагъан суннгандыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10972",
+   "word": "думпайыу",
+   "tags": "и. д. от думпай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпай дегенден этим ат. Агъачха думпайыу. Малланы думпайыулары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10973",
+   "word": "думпайыш",
+   "tags": "эт. взаимн.-совм. от думпай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпай дегенни араш айырмасы. Сабийле къайры эсе да думпайышдыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10974",
+   "word": "думпайышыу",
+   "tags": "и. д. от думпайыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Думпайыш дегенден этим ат. Агъачха думпайышыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "думпай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "думпайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_10976",
+   "word": "дунг-дунг",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дып-дып. Ол [Хамит] къолунда жютю бичакъны къаты къысады, жюрегини дунг-дунг деп ургъан тауушун эшитеди. Толгъурланы З., Айыуташ, 17.",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_11026",
+   "word": "дууулдагъан",
+   "tags": "",
+   "def1": "1. прич. от дууулдаргъа; 2. гул, шум",
+   "def2": "",
+   "misc1": "дууулдагъан таууш гул; моторну дууулдагъан тауушу гул мотора; ол дууулдагъан неди? что это за гул?",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "дууулда",
+     "def": "1) издавать гул, гудеть 2) шуметь (в ушах); жужжать (о пчёлах и т. п.); выть, завывать (о ",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдат1",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдат2",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "дууулдатдыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдатдырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдатыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11028",
+   "word": "дууулдат2",
+   "tags": "взаимн.-возвр. к дууулдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "тёгерекде бал чибинле дууулдашадыла вокруг жужжат пчёлы",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "дууулда",
+     "def": "1) издавать гул, гудеть 2) шуметь (в ушах); жужжать (о пчёлах и т. п.); выть, завывать (о ",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдагъан",
+     "def": "1. прич. от дууулдаргъа; 2. гул, шум",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "дууулдат1",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдатдыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдатдырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дууулдатыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11040",
+   "word": "духлау",
+   "tags": "и. д. к духларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "духла",
+     "def": "надушить кого-что духами",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11055",
+   "word": "дыбал-дубул",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание шуму какого-л. упавшего тяжёлого предмета",
+   "misc1": "",
+   "misc2": "Бир ауур затны жерге къаллай таууш этип тюшгенин кёргюзтеди. Къабыргъа оюлуп, жерге дыбал-дубул деп тийди. ▯ Дыбал-дубул эт къ. дыбылда. Экижыллыкъ къ",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_11057",
+   "word": "дыббыз",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": дыббызындан олтурургъа пренебр. сесть в калошу; сесть в лужу",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_11069",
+   "word": "дыбыр-дубур",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дыбар-дубур. Арбазда не эсе да бир дыбыр-дубур бар эди.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "дыбыр",
+     "def": "дыбыр о топанье при беге",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "дыбырда",
+     "def": "бежать, топая",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "дыбырдагъан",
+     "def": "1. прич. от дыбырдаргъа 2. топот, топанье",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "дыбырдат1",
+     "def": "1) понуд. к дыбырдаргъа 2) топать",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "дыбырдат2",
+     "def": "бегать, топая; мчаться (всем сразу)",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "дыбырдатыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11098",
+   "word": "дыгъар-мугъур",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дыгъар-дугъур. Арбазда дыгъар-мугъур тауушла чыкъдыла. ◊ Дыгъар-мугъур эт дыгъар-дугъур эт (къ. дыгъар-дугъур). Ол тегене дыгъар-мугъур этгенлей, ",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "дыгъар",
+     "def": "1) подр. дыгъар о шуме, грохоте 2) шум, грохот",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дыгъар-дугъур",
+     "def": "Звукоподражание шуму взрыва, падению предметов и т. п.",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дыгъарт-дугъурт",
+     "def": "Звукоподражание шуму, хрусту в зубах животного, едящего грубый корм",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11101",
+   "word": "дыгъыза",
+   "tags": "карач.",
+   "def1": "см. дигиза",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыр-дыгъыр",
+     "def": "Звукоподражание тарахтению",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11105",
+   "word": "дыгъыр",
+   "tags": "",
+   "def1": "то же, что дыгъар-дугъур",
+   "def2": "",
+   "misc1": "-дугъур",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр-дыгъыр",
+     "def": "Звукоподражание тарахтению",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11107",
+   "word": "дыгъырай",
+   "tags": "эт. эриши сёз.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ёл. [Аслан:] Оллахий, асыры ачдан, дыгъырайып къалабыз. «Коммунизмге жол». О [Шаухал:] Сёз ючюн, мен былай, шапталла бишген заманда дыгъырайыргъа ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11108",
+   "word": "дыгъырайт",
+   "tags": "эт. эриши сёз.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ёлтюр. Партизанла фашистни дыгъырайтдыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11109",
+   "word": "дыгъырайтдыр",
+   "tags": "эт. понуд. от дыгъырайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дыгъырайт дегенни къатланыучу айырмасы. Ол сатлыкъ адам, фашистлеге айтып, кёп иги адамны дыгъырайтдыргъанды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11110",
+   "word": "дыгъырайтдырыу",
+   "tags": "и. д. от дыгъырайтдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дыгъырайтдыр дегенден этим ат. Чычханланы уу берип дыгъырайтдырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11111",
+   "word": "дыгъырайтыл",
+   "tags": "эт. страд. от дыгъырайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дыгъырайт дегенни зорлаучу айырмасы. Бахчада кёп колорад къамыжакъ дыгъырайтылгъанды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11112",
+   "word": "дыгъырайтылыу",
+   "tags": "и. д. от дыгъырайтыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дыгъырайтыл дегенден этим ат. Заранлы къурт-къумурсхаланы дыгъырайтылыулары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11113",
+   "word": "дыгъырайтыу",
+   "tags": "и. д. от дыгъырайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дыгъырайт дегенден этим ат. Фашистни дыгъырайтыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11114",
+   "word": "дыгъырайыу",
+   "tags": "и. д. от дыгъырай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Дыгъырай дегенден этим ат. Жубуранланы уу берилип дыгъырайыулары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыгъы",
+     "def": "щекотка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыза",
+     "def": "см. дигиза",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "дыгъыл",
+     "def": "то же, что дыгъы",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъылен",
+     "def": "ежевика",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъынел",
+     "def": "то же, что дыгъылен",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "дыгъыр",
+     "def": "то же, что дыгъар-дугъур",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11126",
+   "word": "дыгылау",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сангырау. Дыгылау къочхар кибик. (Нарт сёз).",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_11150",
+   "word": "дыкъырдаш",
+   "tags": "взаимн.-возвр. к дыкъырдаргъа",
+   "def1": "то же, что дыгъырдашыргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыкъырда",
+     "def": "см. дыгъырдаргъа",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "дыкъырдагъан",
+     "def": "см. дыгъырдагъан",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "дыкъырдат",
+     "def": "см. дыгъырдатыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "дыкъырдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дыкъырдау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дыкъырдауукъ",
+     "def": "то же, что дыгъырдауукъ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11151",
+   "word": "дыкьырдашыу",
+   "tags": "и. д. к дыкъырдашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_11155",
+   "word": "дылкъ",
+   "tags": "эрикл. сёз.; карач. подр.",
+   "def1": "дылкъ о звуке при глотании",
+   "def2": "Подражание звуку проглатывания",
+   "misc1": "дылкъ деб джутаргъа шумно проглотить что",
+   "misc2": "Бир затны жутхан заманда эшитилиучю тауушну билдиреди. Къазауат адамланы, сарыубекча, дылкъ деп тамагъындан жутады. Кобанланы Д., Таулада таууш, 218.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "дылкъыла",
+     "def": "Булькать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дылкъылау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дылкъылда",
+     "def": "булькать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11160",
+   "word": "дым1",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "дым эсирибди пьян в дымину",
+   "misc2": "▯ Дым эсир къарач. опъянеть в дымину / бек эсир, жугъунгу билмезча эсир. Ол адам дым эсирип эди.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "дым2",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11161",
+   "word": "дым2",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "дым джабыу пикейное одеяло",
+   "misc2": "▯ Дым жабыу къарач. пикейное одеяло / мамукъ къумачдан этилген жабыу; дым деген сёз кеси аллына жюрюмейди. Екатерина [Мариягъа] кёл эте, юсюнден тюшюп",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "дым1",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11166",
+   "word": "дыммылдыу",
+   "tags": "ат. сёлеш. тил. къарач.; карач. разг.",
+   "def1": "тра-ля-ля",
+   "def2": "Тра-ля-ля",
+   "misc1": "дыммылдыуну согъуб тепсерге танцевать под тра-ля-ля; эки къымылдыу, эки дыммылдыу загадка двое движутся, а двое танцуют (отгидка атла бла арбаны чархл",
+   "misc2": "Тартыуну, макъамны ауаз бла айтылыуу. Эки къымылдау, тёрт дыммылдыу. (Фольк.) Жашла, дыммылдыуну согъуп, тепсейдиле.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "дыммыз",
+     "def": "пузатый, жирный (чаще о женщине)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "дыммызлыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "дыммый",
+     "def": "то же, что дыммыз",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "дыммыл",
+     "def": "1) мед. ветряная оспа 2) этн. хлебец (печётся после высыпания у больного ветряной оспы)",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11176",
+   "word": "дынгырдамакълыкъ",
+   "tags": "отвлеч. к дынгырдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "замансыз дынгырдамакълыкъ преждевременное старение",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дынгыл",
+     "def": "Голый, без растительности",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "дынгырда1",
+     "def": "1) постукивать; издавать шум; звенеть, греметь 2) перен. зачахнуть, постареть",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дынгырда2",
+     "def": "2. Надоедать разговорами, излишне говорить. 4. Зачахнуть, постареть.",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "дынгырдагъан",
+     "def": "1. прич. от дынгырдаргъа; 2. стук; шум, грохот (напр. падающей посуды)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дынгырдат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "дынгырдатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11187",
+   "word": "дыппыдыгылык",
+   "tags": "къарач.",
+   "def1": "",
+   "def2": "полностью уничтожиться, не остаться ни единой души",
+   "misc1": "",
+   "misc2": "◊ Дыппыдыгылык бол. Жаны болгъан зат къалмай къырыл, жокъ бол; дыппыдыгылык деген сёз кеси аллына жюрюмейди. Сюрюу жардан кетип, дыппыдыгылык болгъан ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыппыллыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11188",
+   "word": "дыппыллыкъ",
+   "tags": "къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "◊ Дыппыллыкъ бол. Дырхам бол (къ. дырхам); дыппыллыкъ деген сёз кеси аллына жюрюмейди. Не айтыргъа да билалмай, Биз дыппыллыгъы болдукъ, Чауул тешикде",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "дыппыдыгылык",
+     "def": "полностью уничтожиться, не остаться ни единой души",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11214",
+   "word": "дюгеркъыт",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дюгер. Жашла сыннган дюгеркъытны алышындырдыла.",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "дюгер1",
+     "def": "осетинский",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "дюгер2",
+     "def": "кладовка, кладовая (в доме)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "дюгер3",
+     "def": "Деталь, соединяющая между собой полозья саней",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "дюгерли",
+     "def": "осетин",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "дюгерлик",
+     "def": "Защитная решетка над дымоходом для удерживания искр",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "дюгерча",
+     "def": "по-осетински",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11218",
+   "word": "дюгюрчек",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. чарх. Эки жашчыкъ дюгюрчекни тёнгеретип бара эдиле.",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_11222",
+   "word": "дюкгюч",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тюкгюч. Бутагъы кетсе да, терекни дюкгючючагъар. (Нарт сёз). ◊ Жел тепдирмез орунумдан, Барды менде уллу кюч,- Деп, махтау чакъырады Чегетде эски дюкг",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_11223",
+   "word": "дюккюч",
+   "tags": "карач.",
+   "def1": "1) пень м, коряга; чурбан 2) пренебр. бочка, тумба",
+   "def2": "",
+   "misc1": "эмен дюккюч дубовый пень; семизден дюккюч кибик толстый как бочка",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_11261",
+   "word": "дёрденли",
+   "tags": "балк.",
+   "def1": "то же, что дорданлы",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "дёрден",
+     "def": "то же, что дордан",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11290",
+   "word": "жабу-жаха",
+   "tags": "ат. ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жабу-жубу; жаха деген сёз кеси аллына жюрюмейди. Жашла жыйылгъан жерден жабу-жаха чыгъадыла. Сабийлени жабу-жахалары тохтамай кёпге турду. ▯ Жабу-",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "жабу-жубу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11291",
+   "word": "жабу-жубу",
+   "tags": "къауум. ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. дауур-сюйюр; жубу деген сёз кеси аллына жюрюмейди. Акъ къалпагъын, чырпа бёркюн Соллоуну битеу эл биледи, Аны жабу-жубусуна Бригадасы юйреннгенди.",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "жабу-жаха",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11295",
+   "word": "жабышыуукъ",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жабышмакъ1 (1-чи магъ.). Жабышыуукъ балчыкъ. ▯ Макъаны тили битву жабышыуукъ тюкюрюк бла жабылыпды. Е. Фортунатова, Окъуу книга, 13.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "жабышдырылын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жабышдырылыныу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11310",
+   "word": "жазчы",
+   "tags": "ат. ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мараучу, уучу. Атабыз уста жазчыды. «Жазчы агъачны, тауну да иги биледи.»",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_11315",
+   "word": "жазыш",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "взаимн.-совм. от жаз 3",
+   "misc1": "",
+   "misc2": "Жаз 3 дегенни араш айырмасы. Сатаны адресин табып, аны бла да бир бирге къагъыт жазышып тебирегенбиз. Токъумаланы Ж., Ексюзню къадары, 73.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жазышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11316",
+   "word": "жазышыу",
+   "tags": "и. д. от жазыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жазыш дегенден этим ат. Къагъыт жазышыу. Диктант жазышыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жазыш",
+     "def": "взаимн.-совм. от жаз 3",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11317",
+   "word": "жаиымлы",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Обильный, богатый, щедрый",
+   "misc1": "",
+   "misc2": "Бай, берекетли. Жай жайымлы, къыш къысымлы. (Нарт сёз).",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_11327",
+   "word": "жайракълай",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жайракъ II. Къолан белауаз атда жайракълай, жел этдирип, къапхакъдан биреу къарады. Кацийланы Х., Жер жулдузлары, 31. ▯ Жантуугъан, атасыны жалчыс",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "жайралтдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жайралтдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11330",
+   "word": "жайыгъыш",
+   "tags": "эт. взаимн.совм. от жайыкъ",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жайыкъ дегенни араш айырмасы. Эсиргенле жайыгъыша башладыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жайыгъышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11331",
+   "word": "жайыгъышыу",
+   "tags": "и. д. от жайыгъыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жайыгъыш дегенден этим ат. Кефликден жайыгъышыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жайыгъыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  }
+ ]
+}

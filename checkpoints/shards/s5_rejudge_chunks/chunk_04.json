@@ -1,0 +1,5000 @@
+{
+ "items": [
+  {
+   "entry_id": "e_05406",
+   "word": "барас",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "барас кюн среда (день недели)",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_05408",
+   "word": "барда",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Барда",
+   "misc1": "",
+   "misc2": "Спиртни, аракъыны, сыраны сюзгенде тхобюнде къалгъан къалыны, мал ашха хайырланылыучу худуру. Хар ийнекге мюлкню специалистлери жарашдыргъан рационнга",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_05409",
+   "word": "бардух",
+   "tags": "балк.",
+   "def1": "то же, что бурдух",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_05468",
+   "word": "басдырлыкъ",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. басдырыкъ. Бичен ташыгъанда басдырлыкъ бек керек болады.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "басдыр1",
+     "def": "1) понуд. к басаргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "басдыр2",
+     "def": "2) закапывать, зарывать что; прятать что 3) засыпать, заваливать что 4) хоронить кого, пре",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "басдыргъыч",
+     "def": "заплат [к]а",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырмакълыкъ",
+     "def": "то же,что басдырыу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05472",
+   "word": "басдыртмакълыкъ",
+   "tags": "отвлеч. к басдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "басдыр1",
+     "def": "1) понуд. к басаргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "басдыр2",
+     "def": "2) закапывать, зарывать что; прятать что 3) засыпать, заваливать что 4) хоронить кого, пре",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "басдыргъыч",
+     "def": "заплат [к]а",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "басдырмакълыкъ",
+     "def": "то же,что басдырыу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05477",
+   "word": "басдырыкъланмакълыкъ",
+   "tags": "отвлеч. к басдырыкъланыргъа",
+   "def1": "то же, что басдырыкъланыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "басдыр1",
+     "def": "1) понуд. к басаргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "басдыр2",
+     "def": "2) закапывать, зарывать что; прятать что 3) засыпать, заваливать что 4) хоронить кого, пре",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "басдыргъыч",
+     "def": "заплат [к]а",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "басдырмакълыкъ",
+     "def": "то же,что басдырыу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басдырт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05493",
+   "word": "басмакълыкъ",
+   "tags": "отвлеч. к басаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "басма1",
+     "def": "1) печать ж в разн. знач.; пресса || печатный 2) издательство || издательский",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басма2",
+     "def": "ситец || ситцевый",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "басмала",
+     "def": "печатать что, в разн. знач.; издавать, выпускать, публиковать что",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басмаламакълыкъ",
+     "def": "то же,что басмалау",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "басмалан",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "басмаланнган",
+     "def": "1) прич. от басмаланыргъа 2) печатный; напечатанный, изданный, опубликованный",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05506",
+   "word": "басмач",
+   "tags": "ат. эск. ист.",
+   "def1": "басмач",
+   "def2": "Басмач",
+   "misc1": "",
+   "misc2": "Орта Азияда совет властьны биринчи жылларында жангы низамгъа сауут алып къажау кюрешген къауумлагъа къатышхан адам. Асхат басмачла бла кюрешни юсюнден",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "басма1",
+     "def": "1) печать ж в разн. знач.; пресса || печатный 2) издательство || издательский",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басма2",
+     "def": "ситец || ситцевый",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "басмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "басмала",
+     "def": "печатать что, в разн. знач.; издавать, выпускать, публиковать что",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басмаламакълыкъ",
+     "def": "то же,что басмалау",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "басмалан",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05518",
+   "word": "басылмакълыкъ",
+   "tags": "отвлеч. к басылыргъа",
+   "def1": "то же, что басылыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "басыл",
+     "def": "1) страд. к басаргъа 2-7 2) возвр. к басаргъа униматься, утихать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "басылмазлыкъ",
+     "def": "неутешный, безутешный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "басылыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05526",
+   "word": "басымлыкъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. басымлылыкъ. Басымлыкъ акъылны бир шорты. (Нарт сёз.) ◊ Бу адетле гитчеликден окъуна тёзюмге, басымлыкъгъа юренирча болум къурагъандыла. ''Ленинни",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "басым1",
+     "def": "давление",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "басым2",
+     "def": "лингв. ударение",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басым3",
+     "def": "выдержка",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "басымлы1",
+     "def": "сдержанный, выдержанный, терпеливый, степенный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "басымлы2",
+     "def": "Выдержанно, спокойно",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "басымлы3",
+     "def": "ударный",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05538",
+   "word": "басындырмакълыкъ",
+   "tags": "отвлеч. к басындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "басын",
+     "def": "1)собираться, толпиться вокруг кого-чего, обступать, окружать кого-что 2) налететь, набежа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басындыр1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басындыр2",
+     "def": "говорить скороговоркой (невнятно)",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басындырт",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "басындыртыу",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "басындырыл",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05546",
+   "word": "басыннган",
+   "tags": "карач.",
+   "def1": "1.1) прич. от басыныргъа; 2) пасмурный (о погоде) 2. скопление, сборище",
+   "def2": "",
+   "misc1": "басыннган кюн пасмурный день; халкъны басыннганы скопление людей; не басыннганды бу, чачылыгъыз! груб. что ещё за сборище, расходитесь!",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "басын",
+     "def": "1)собираться, толпиться вокруг кого-чего, обступать, окружать кого-что 2) налететь, набежа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басындыр1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "басындыр2",
+     "def": "говорить скороговоркой (невнятно)",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "басындырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "басындырт",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "басындыртыу",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05572",
+   "word": "батарей",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. батарея 2. Паровоз чархы бла ... темир жипчикни басханлай, батарейден келген токга замыкание этилликди. «Шуёхлукъ», № 28, 69. Рацияны батарейлери ",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "батарейка",
+     "def": "батарейка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "батарея",
+     "def": "в разн. знач. батареябатарёйный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "батареялы",
+     "def": "батарейный",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05577",
+   "word": "батдырмакълыкъ",
+   "tags": "отвлеч. к батдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "батдыр",
+     "def": "1) топить кого-что; погружать что во что 2) вдавливать что; делать вмятину 3) перен. увлек",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "батдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "батдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "батдырыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "батдырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "батдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05595",
+   "word": "батнар",
+   "tags": "ат. сёл. тил. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. нар. Абдул-Къадыр къарынын тутуп, кюлюп, батнаргъа аунады. Аппаланы Х., Къаракюбюр, 86. ▯ [Абдул-Къадырны] батнарда таянып тургъан нёгерлерини кёз",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_05604",
+   "word": "батыл",
+   "tags": "эт. возвр. от бат",
+   "def1": "го же, что батаргъа 2-5",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бат дегенни къатланыучу айырмасы. [Хасан] Къара тенгизни толкъунларына батыллыгъын, жууунуругъун, кемеде жюзеригин кёз туурасына келтиреди. Къоджакъла",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "батылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05605",
+   "word": "батылыу",
+   "tags": "и. д. от батыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Батыл дегенден этим ат. Балчыкъгъа батылыу. Куртха батылыу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "батыл",
+     "def": "го же, что батаргъа 2-5",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05606",
+   "word": "батылыш",
+   "tags": "эт. взаимн.-совм. от батыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Батыл дегенни араш айырмасы. Жашчыкъла, бир бирлери бла эришип, суугъа батылышадыла.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "батыл",
+     "def": "го же, что батаргъа 2-5",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05607",
+   "word": "батылышыу",
+   "tags": "и. д. от батылыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Батылыш дегенден этим ат. Суугъа батылышыу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "батыл",
+     "def": "го же, что батаргъа 2-5",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "батылыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05651",
+   "word": "бауурундан",
+   "tags": "",
+   "def1": "1) Исх. от бауур 2) ничком",
+   "def2": "",
+   "misc1": "бауурундан джатыб джукълайды [он] спит на животе; бауурундан къабланыб лёжа ничком; бауурундан къабланыб, окъуб кюрешеди читает не отрываясь; бауурунд",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "бауур",
+     "def": "1) анат. печень ж 2) грудь ж; живот",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "бауурлан",
+     "def": "лечь ничком (на живот)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бауурландыр",
+     "def": "1) понуд. к бауурланыргъа 2) класть (укладывать) кого ничком (на живот)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бауурландырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бауурландыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бауурландырыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05653",
+   "word": "бахса",
+   "tags": "ат. сёл. тил.; балк.",
+   "def1": "то же, что басха",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. басха. Къол устала сенеклени къурайдыла, Тизедиле бахсаланы тишлерин. Шахмырзаланы С., Таулуну календары, 77. О Къара бурма сакъалы бла бир къарт ",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "бахсар",
+     "def": "Овца, у которой рога похожи на грабли (ручные)",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05670",
+   "word": "баш3",
+   "tags": "",
+   "def1": "-тюб: баш билиргеузнать всю подноготную",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "баш1",
+     "def": ". 1) голова || головной 2) сознание; ум 3) перен. способность, талант, ум 4) верх, поверхн",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "баш2",
+     "def": "голова и ноги (забитого животного)",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05673",
+   "word": "башала",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "башала бармакъ указательный палец",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_05675",
+   "word": "башил",
+   "tags": "эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Башил ай къ. январь. Башил деген сёз кеси аллына жюрюмейди. Шахмырзаланы Саид башил айны юсюнден хапар айтхан эди.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_05711",
+   "word": "башсыз-тюпсюз1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. башсыз-аякъсыз. Хар ишни ачыкъ белгилегиз, башсыз-тюпсюз келишим этмегиз. «Коммунизмге жол». ◊ [Музафар:] Бу башсыз-тюпсюз хапарланы ким жайгъанын",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "башсыз",
+     "def": "1) безголовый, не имеющий головы (напр. рыба в магазине) 2) ирон. рассеянный, забывчивый 3",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "башсыз-аякъсыз",
+     "def": "Неконкретный, неопределенный, бессистемный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "башсыз-тюпсюз2",
+     "def": "Неконкретно, неопределенно, бессистемно",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "башсызлыкъ",
+     "def": "Безумство, нерассудительность, бестолковость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "башсын",
+     "def": "Считать себя слишком умным, толковым, ставить себя выше других",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "башсыныу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05742",
+   "word": "башылы",
+   "tags": "",
+   "def1": "то же, что башала",
+   "def2": "",
+   "misc1": "башылы бармакъ указательный палец",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_05755",
+   "word": "баямлатмакалыкъ",
+   "tags": "отвлеч. к баямлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кесинги баямлатмакалыкъ навлечь на себя позор, вызвать осуждение [по отношению к себе]",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "баямла",
+     "def": "1)объявлять, оглашать, разглашать что 2) опозорить, ославить кого; разоблачать кого",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "баямламакълыкъ",
+     "def": "см. баямлау",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "баямлан",
+     "def": "1) страд. к баямларгъа становиться явным, становиться известным 2) возвр. к баямларгъа 2 о",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "баямланыу",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "баямлат",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "баямлатдыр",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05760",
+   "word": "баян2",
+   "tags": "",
+   "def1": "то же, что баям",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "баян1",
+     "def": "баян",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05768",
+   "word": "бегеймеген",
+   "tags": "",
+   "def1": "неустойчивый, шаткий",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегей",
+     "def": "крепнуть, укрепляться; становиться крепким (устойчивым)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бегейиу",
+     "def": "укрепление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бегеймеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегейт",
+     "def": "крепить, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бегейтдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бегейтдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05769",
+   "word": "бегеймеклик",
+   "tags": "отвлеч. к бегейирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегей",
+     "def": "крепнуть, укрепляться; становиться крепким (устойчивым)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бегейиу",
+     "def": "укрепление",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бегеймеген",
+     "def": "неустойчивый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегейт",
+     "def": "крепить, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бегейтдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бегейтдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05775",
+   "word": "бегемчек",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. иочсауар. [Халиймат:] Жангы къозлагъан къунажинибиз бегемчекди, къыйналып сауама. \"Коммунизмге жол\", 1978, № 18.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "бегемот",
+     "def": "бегемот, гиппопотам",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05782",
+   "word": "бегиген",
+   "tags": "",
+   "def1": "1) прич. от бегирге 2) постоянный, укоренившийся, установившийся 3) закупоренный; забитый",
+   "def2": "",
+   "misc1": "бегиген адет укоренившийся обычай; бегиген джорукъ устоявшееся правило; бегиген къылыкъ а) стойкий характер; б) укоренившаяся привычка; башы бегиген ш",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_05785",
+   "word": "бегимеген",
+   "tags": "",
+   "def1": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+   "def2": "",
+   "misc1": "бир сёзде бегимеген адам не твёрдый на слово человек; алкъын бегимеген хали ещё не устоявшийся характер; бегимеген хат нетвёрдый почерк; бегимеген чюй",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05786",
+   "word": "бегимеклик",
+   "tags": "отвлеч. к бегирге",
+   "def1": "см. бегиу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05787",
+   "word": "бегимле",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бегит 3. Властны бегимле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05788",
+   "word": "бегимлен",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. беги. Къоркъуулуду къанлы душманны кючю, Ёкюлле тутаргъа кёп керекди хакъ, Къабарты чекле бегимленир ючюн, Не зат керек болгъанын биледи халкъ. От",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05789",
+   "word": "бегимлендир",
+   "tags": "эт. понуд. от бегимлен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бегимлен дегенни къатланыучу айырмасы. Чеклени бегимлендирдиле. Хар звеногъа бирер трактор бегимлендирдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05790",
+   "word": "бегимлендирил",
+   "tags": "эт. страд. от бегимлендир",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бегимлендир дегенни зорлаучу айырмасы. Урлукъ сабанлада хар сабанчы бригадагъа битву урлукъ салыуну болжалында таймай тургъан жер бегимлендириледи. ”Э",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05791",
+   "word": "бегимлендирилиу",
+   "tags": "и. д. от бегимлендирил",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бегимлендирил дегенден этим ат. Жерлени колхозлагъа бегимлендирилиулери.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05792",
+   "word": "бегимлениу",
+   "tags": "и. д. от бегимлен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бегимлен дегенден этим ат. Чеклени бегимлениулери.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05793",
+   "word": "бегимлеу",
+   "tags": "и. д. от бегимле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бегимле дегенден этим ат. Властны бегимлеу. Айтхан затынгы бегимлеу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05794",
+   "word": "бегимли1",
+   "tags": "сыф.",
+   "def1": "1) обоснованный; достоверный, точный 2) собранный, организованный, деловитый (о человеке)",
+   "def2": "Основательный, крепкий, прочный, твердый",
+   "misc1": "бегимли хапар обоснованные сведения; бегимли зат айтмайды [он] ничего достоверного не говорит; толу бегимли достоверный; бегимли тиширыу деловитая жен",
+   "misc2": "Бек, къаты. Кёпню сёзю бегимли. (Нарт сёз.). ◊ Бегимли иш. Бегимли юй.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05795",
+   "word": "бегимли2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Основательно, крепко, прочно, твердо",
+   "misc1": "",
+   "misc2": "Тынгылы, тал. Школ юйлеринги тохтамай къала, Ариу, асыл къылыкъны бегимли сала. Теммоланы Х., Хорлауланы жырлары, 21. ▯ Иш ишлейсе усталыкъгъа тюшюнюп",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05796",
+   "word": "бегимлилик",
+   "tags": "ат.; отвлеч. к бегимли",
+   "def1": "1) достоверность, точность 2) собранность, организованность, деловитость",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. беклик. Бегимлилик бир заманда шашдырмаз. Отарланы К., Сайлама, I, 83. ◊ Бек анасы жилямаз, Бегимлилик апчытмаз. Шахмырзаланы С., Сырыйна, 73.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05797",
+   "word": "бегимсиз1",
+   "tags": "сыф.",
+   "def1": "1)необоснованный, беспочвенный 2) прям., перен. неустойчивый, шаткий 3) несобранный, расхлябанный (о человеке)",
+   "def2": "Непрочный, неустойчивый",
+   "misc1": "бегимсиз иш неоправданный поступок; бегимсиз сёзле беспочвенные разговоры; бегимсиз болум шаткое положение",
+   "misc2": "Иги бегимеген, ышаннгысыз. Бегимсиз иш. Бегимсиз сёз.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05798",
+   "word": "бегимсиз2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Непрочно, неустойчиво",
+   "misc1": "",
+   "misc2": "Иги, тап, тынгылы угъай. Родиону жиплери бегимсиз тартылып къалгъан эдиле. ▯ Бегимсиз сюелген чыпын аууп кетерге къоркъуу эди.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05799",
+   "word": "бегимсизлик",
+   "tags": "отвлеч. к бегимсиз",
+   "def1": "1)необоснованность, беспочвенность 2) прям., перен. неустойчивость, шаткость 3) несобранность, неорганизованность, расхлябанность",
+   "def2": "",
+   "misc1": "болумну бегимсизлики неустойчивость положения; ишде бегимсизлик заран этеди расхлябанность вредит работе",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05800",
+   "word": "бегимсизликъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Неустойчивость, непрочность",
+   "misc1": "",
+   "misc2": "Бегимегенлик, къаты орналмагъанлыкъ. Болумну бегимсизлиги. Экономиканы бегимсизлиги. Ниет бегимсизлик. Аден жорукъланы бегимсизликлери.",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "бегим1",
+     "def": "1)решение, постановление 2) юр. приговор, решение, определение 3) условие, уговор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "бегим2",
+     "def": "Укрепление (оборонительное сооружение)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "бегимеген",
+     "def": "1) прич. в отриц. форме от бегирге 2) прям., перен. неустойчивый, нетвёрдый, шаткий",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимеклик",
+     "def": "см. бегиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "бегимлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05828",
+   "word": "бегиусюз",
+   "tags": "",
+   "def1": "1) зыбкий, непрочный 2) беспрепятственный 3) необоснованный; необдуманный || необоснованно; необдуманно",
+   "def2": "",
+   "misc1": "ара бегиусюз болду сообщение наладилось; бегиусюз кириб-чыгъыб турургъа беспрепятственно заходить и выходить; бегиусюз оноу необдуманное решение; беги",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "бегиу",
+     "def": "закрепление, укрепление; обоснование",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бегиулю",
+     "def": "твёрдый, прочный, устойчивый",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "бегиулюлюк",
+     "def": "твёрдость, прочность, устойчивость",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "бегиусюзлюк",
+     "def": "1) зыбкость, непрочность 2) беспрепятственность (общения и т. п.) 3) необоснованность",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05829",
+   "word": "бегиусюзлюк",
+   "tags": "отвлеч. к бегиусюз",
+   "def1": "1) зыбкость, непрочность 2) беспрепятственность (общения и т. п.) 3) необоснованность",
+   "def2": "",
+   "misc1": "(гю); араны бегиусюзлюкю неупроченность отношений; оноуда бегиусюзлюк ишге заран болады необоснованность решений вредит делу",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "бегиу",
+     "def": "закрепление, укрепление; обоснование",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бегиулю",
+     "def": "твёрдый, прочный, устойчивый",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "бегиулюлюк",
+     "def": "твёрдость, прочность, устойчивость",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "бегиусюз",
+     "def": "1) зыбкий, непрочный 2) беспрепятственный 3) необоснованный; необдуманный || необоснованно",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05878",
+   "word": "бези1",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. без2. Хажимырза узакъ жолоучулукъдан безигенден, башын суугъа атарыкъ болуп келе эди. Хочуланы С., Хапарла, 35. ◊ Эригиу неда тансыкълыкъ азабында",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "бези2",
+     "def": "1) забавляться 2) бездельничать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05883",
+   "word": "безимеклик",
+   "tags": "отвлеч. к безирге",
+   "def1": "см. безиу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_05886",
+   "word": "безирет",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. понуд. от безире/ Безире дегенни къатланыучу айырмасы. Бу кезиуде нюр жана ариулукъдан, Эки къыз чыкъгъан эдиле къаладан, Ойнай-кюле кеслерин безир",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "безире",
+     "def": "Забавляться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "безирек",
+     "def": "Избалованный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "безиретдир",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретдириу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретиу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиреу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05887",
+   "word": "безиретдир",
+   "tags": "эт. понуд. от безирет",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Безирет дегенни къатланыучу айырмасы. - Муну мындан кёп безиретдирме! - деди къыз жашчыкъ бла ойнай тургъан эгечине.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "безире",
+     "def": "Забавляться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "безирек",
+     "def": "Избалованный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "безирет",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретдириу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретиу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиреу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05888",
+   "word": "безиретдириу",
+   "tags": "и. д. от безиретдир",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Безиретдир дегенден этим ат. Сабийни безиретдириу.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "безире",
+     "def": "Забавляться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "безирек",
+     "def": "Избалованный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "безирет",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретдир",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретиу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиреу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05889",
+   "word": "безиретиу",
+   "tags": "и. д. от безирет",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Безирет дегенден этим ат. Кесин безиретиу.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "безире",
+     "def": "Забавляться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "безирек",
+     "def": "Избалованный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "безирет",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретдир",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиретдириу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "безиреу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05908",
+   "word": "бекисай",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "бекисай джыккыр кадушка",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_05918",
+   "word": "бекле3",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. бегит 2. Аты урланнган арбазын беклей эди. (Нарт сёз.) ◊ Жашла, кёпюрню беклеп, тыяргъа да кюрешедиле, алай ол антсызла жолларын ачдырдыла. Хуб",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бекле1",
+     "def": "1) закрывать, запирать что засорять что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бекле2",
+     "def": "груб. жрать, лопать что 4) ударить",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "беклен1",
+     "def": "1)застревать 2) забиваться, засоряться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "беклен2",
+     "def": "страд. от бекле 2",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "беклен3",
+     "def": "страд. от бекле 3",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "беклендир",
+     "def": "1) понуд. к бекленирге 2)укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05949",
+   "word": "бектир",
+   "tags": "ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бектур. Алгъын сабийле бектир ойнаучу эдиле.",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_05951",
+   "word": "бекшай",
+   "tags": "",
+   "def1": "то же, что бекисай",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_05954",
+   "word": "бела",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "не бела болду? какая беда приключилась?, что случилось?",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_05959",
+   "word": "белги4",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. багъа2. «Беш» белгиден дневниги къуру тюйюлдю, къарагъыз. Гыттуланы М., Космонартла, 12. □ Айнюр онунчу классха аман белгиле бла кёчмегенди. Тёппе",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "белги1",
+     "def": "знак, условное обозначение; сигнал",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "белги2",
+     "def": "этн. подарок девушки парню (в знак согласия стать его женой)",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "белги3",
+     "def": "признак, примета",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "белги5",
+     "def": "черта; карач. граница, межа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "белгиле",
+     "def": "1)обозначать, помечать что, делать пометку на чём 2) намечать, определять, устанавливать ч",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "белгилеген",
+     "def": "типичный, характерный",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_05974",
+   "word": "белгилетиу",
+   "tags": "и. д. к белгилетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "белги1",
+     "def": "знак, условное обозначение; сигнал",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "белги2",
+     "def": "этн. подарок девушки парню (в знак согласия стать его женой)",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "белги3",
+     "def": "признак, примета",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "белги4",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "белги5",
+     "def": "черта; карач. граница, межа",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "белгиле",
+     "def": "1)обозначать, помечать что, делать пометку на чём 2) намечать, определять, устанавливать ч",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06007",
+   "word": "белляу2",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. беля. Белляу ийнекге кёз тиймез. (Нарт сёз) ◊ Белляу ёгюзню терисин тигип, жассы къайишле этдим. Къобанланы Д., Таулада таууш, 289. ◊ Эшик артында",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "белляу1",
+     "def": "1) колыбельная (песня) 2) дет. люлька, колыбель ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "белляу3",
+     "def": "баю-бай",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "белляучукъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06009",
+   "word": "белляучукъ",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "белляучукъ айтайым дет. баюшки спою",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "белляу1",
+     "def": "1) колыбельная (песня) 2) дет. люлька, колыбель ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "белляу2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "белляу3",
+     "def": "баю-бай",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06025",
+   "word": "белхум",
+   "tags": "балк.",
+   "def1": "то же, что мелкум",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "белхумлу",
+     "def": "то же, что мелхумлу",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "белхумлукъ",
+     "def": "то же, что мелхумлукъ",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06026",
+   "word": "белхумлу",
+   "tags": "балк.",
+   "def1": "то же, что мелхумлу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "белхум",
+     "def": "то же, что мелкум",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "белхумлукъ",
+     "def": "то же, что мелхумлукъ",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06027",
+   "word": "белхумлукъ",
+   "tags": "балк.",
+   "def1": "то же, что мелхумлукъ",
+   "def2": "",
+   "misc1": "(гъу)",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "белхум",
+     "def": "то же, что мелкум",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "белхумлу",
+     "def": "то же, что мелхумлу",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06059",
+   "word": "береджек",
+   "tags": "уст.",
+   "def1": "",
+   "def2": "",
+   "misc1": ": кеси ёледжек, кимге не береджек? погов. что можно взять с бедняка (букв. сам он умирающий, кому он что может дать?)",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_06067",
+   "word": "беремени",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": беремени къурумайды [он] кормит обещаниями, он всё обещает и берет берёт; пух беремени пуховый берёт",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_06072",
+   "word": "бериген",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": бериген юй бай болсун! фольк. да обогатится дающий (угощающий) дом!",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_06082",
+   "word": "бериучю",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": бериучю болуш грам. дательный падёж",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бериу1",
+     "def": "1)выдача чего 2) вручение; преподнесение чего кому 3) выделение, отведение чего кому 4) вы",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бериу2",
+     "def": "6) передача",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "бериу-алыу",
+     "def": "Преподнесение подарков родственниками жениха и невесты друг другу",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06094",
+   "word": "берлик",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": берликим барды я должен; яимею долг; берликим-аллыгъым джокъду за мной долгов не водится; сизни бир тюмен берликигиз барды вы должны десять рублей",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_06122",
+   "word": "бети",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "-къуту; бети аман тюлдю [он] на лицо выглядит неплохо; бети кетиб побледнев",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_06261",
+   "word": "биле-биле",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Заметно",
+   "misc1": "",
+   "misc2": "Иги кесек, эсленирча. Илипинде суу биле-биле аз болгъанды. О Кюн биле-биле къысхаргъанды.",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_06268",
+   "word": "билекли",
+   "tags": "парн. к джакълы-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "билек",
+     "def": "1) рука (конечность) 2) перен. опора, надежда; поддержка 3) поводок (уздечки)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "билекле",
+     "def": "1)катать, валять что 2) перен. сматывать (ремень на локоть и большой палец)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "билеклет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "билеклетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "билеклеу",
+     "def": "1) катание, валяние (войлока и т. п.) 2) сматывание (ремня, верёвки)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "билеклик1",
+     "def": "Повод (узды)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06289",
+   "word": "билеулю",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "билеулю билибау пояс с бляхами",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "билеу1",
+     "def": "и. д. к билерге а) точка чего; б) перен. натравливание кого; подстрекательство",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "билеу2",
+     "def": "оселок, брусок, точило || точильный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "билеу3",
+     "def": "бляха (на мужском поясе)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "билеучю",
+     "def": "точильщик || точильный",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06309",
+   "word": "билмегенлей",
+   "tags": "",
+   "def1": "1)неожиданно, вдруг 2) нечаянно; неумышленно",
+   "def2": "",
+   "misc1": "билмегенлей келиб къалыргъа неожиданно приехать; кеси билмегенлей неожиданно для себя; билмегенлей уруб иерге нечаянно ударить; билмегенлей джанына ти",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "билмеген",
+     "def": "1) прич. отриц. от билирге 2) несведущий, незнающий",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "билмегенлик",
+     "def": "незнание; неосведомлённость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "билмез",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "билмей",
+     "def": "нечаянно, неумышленно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "билмеу",
+     "def": "1)незнание, неведение 2) неумение (что-л. делать)",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "билмечи",
+     "def": "Профан, незнайка",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06311",
+   "word": "билмез",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. билмечи. Билмезни кёзю кёрмез. (Нарт сёз.) ◊ Билмез от аша упрёк за невнимательность, незнание / адамгъа ол бир затны билмегени, этмегени ючюн айт",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "билмеген",
+     "def": "1) прич. отриц. от билирге 2) несведущий, незнающий",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "билмегенлей",
+     "def": "1)неожиданно, вдруг 2) нечаянно; неумышленно",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "билмегенлик",
+     "def": "незнание; неосведомлённость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "билмей",
+     "def": "нечаянно, неумышленно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "билмеу",
+     "def": "1)незнание, неведение 2) неумение (что-л. делать)",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "билмечи",
+     "def": "Профан, незнайка",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06317",
+   "word": "биляк",
+   "tags": "",
+   "def1": "парн. с сангырау-",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_06321",
+   "word": "бином",
+   "tags": "мат.",
+   "def1": "бином",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_06326",
+   "word": "биология",
+   "tags": "ат.",
+   "def1": "биология || биологический",
+   "def2": "1. Биология 2. В позиции определения: биологический",
+   "misc1": "биологиядан окъутургъа преподавать биологию; биология илмула биологические науки",
+   "misc2": "1. Жанлы затланы жашау, ёсюу жорукъларыны юсюнден илмуланы барысы да. Кёп школлада физиканы, химияны, биологияны ахшы къуралгъан кабинетлери бардыла. ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "биолог",
+     "def": "биолог",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06329",
+   "word": "биофизика",
+   "tags": "ат.",
+   "def1": "биофизика || биофизический",
+   "def2": "Биофизика",
+   "misc1": "",
+   "misc2": "Жанлы затлада болуучу физика эм физика-химия процесслени юсюнден илму.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "биофизик",
+     "def": "Биофизик",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06331",
+   "word": "биохимия",
+   "tags": "ат.",
+   "def1": "биохимия || биохимический",
+   "def2": "1. Биохимия 2. В позиции определения: биохимический",
+   "misc1": "биохимия анализ биохимический анализ",
+   "misc2": "1. Жанлы материяда болуучу химия процесслени юсюнден илму. Тенгим университетде биохимиядан окъутады. 2. Биохимия бла байламлы. Нарткъаладагъы биохими",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "биохимик",
+     "def": "Биохимик",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06335",
+   "word": "бир4",
+   "tags": "",
+   "def1": "один-два; раз-другой, разок-другой",
+   "def2": "",
+   "misc1": "-эки; бир джолда один-два раза; бир джолда келиб кетгенди он раза два приезжал; бир кере раза два",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "бир1",
+     "def": "1. один 2. в сонет, с различными именами передаёт значение кратности действия 3. в сочет. ",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "бир2",
+     "def": "-бир по одному",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "бир3",
+     "def": "-бирде иногда, время от времени",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06340",
+   "word": "бирге",
+   "tags": "хал. сёзл.",
+   "def1": "1)вместе, совместно с... 2) в сочет. с послелогом бла наряду с, сочетая с, параллельно с; а также",
+   "def2": "Вместе, совместно, воедино",
+   "misc1": "биргемде вместе со мной; биргенгде вместе с тобой; биргесине вместе с ним; ол мени биргесине алыб кетерикди он возьмёт меня с собой; биргесине ёсген т",
+   "misc2": "Бирлешип, къошулуп, бёлюнмей. Бушуу келсе, бирге жыларбыз. Бабаланы И., Жетегейле, 8. ▯ Барысы да бирге жырлайдыла. Кацийланы Х., Тамата, 48.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "биргелей",
+     "def": "то же, что бирге",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "биргелеш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "биргелешиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "биргелик",
+     "def": "Совместность",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06342",
+   "word": "биргелеш",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бирлеш. Адамла, бир бирин таный, биргелеше башладыла. ’’Коммунизмге жол”, 1970, № 79.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирге",
+     "def": "1)вместе, совместно с... 2) в сочет. с послелогом бла наряду с, сочетая с, параллельно с; ",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "биргелей",
+     "def": "то же, что бирге",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "биргелешиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "биргелик",
+     "def": "Совместность",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06343",
+   "word": "биргелешиу",
+   "tags": "и. д. от биргелеш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Биргелеш дегенден этим ат. Адамланы биргелешиулери.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирге",
+     "def": "1)вместе, совместно с... 2) в сочет. с послелогом бла наряду с, сочетая с, параллельно с; ",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "биргелей",
+     "def": "то же, что бирге",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "биргелеш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "биргелик",
+     "def": "Совместность",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06348",
+   "word": "бирем-бирем",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бир-бир 1. Танг атаргъа жулдузла, мутхуз бетли бола, бирем-бирем кёкню кёгюнде тумаланадыла. Шауаланы М., Кечерлеми?, 113. ▯ Устазла, бирем-бирем ",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "бирем",
+     "def": "-бирем по одному, поодиночке; один за другим",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "биремле",
+     "def": "брать что по одной штуке",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "биремлеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06349",
+   "word": "биремле",
+   "tags": "",
+   "def1": "брать что по одной штуке",
+   "def2": "",
+   "misc1": "китабларымы хар ким биремлеб кетдиле мои книги по одной разобрали все",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бирем",
+     "def": "-бирем по одному, поодиночке; один за другим",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "бирем-бирем",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "биремлеу",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06350",
+   "word": "биремлеу",
+   "tags": "и. д. от биремле; и. д. к биремлерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Биремле дегенден этим ат.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "бирем",
+     "def": "-бирем по одному, поодиночке; один за другим",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "бирем-бирем",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "биремле",
+     "def": "брать что по одной штуке",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06376",
+   "word": "бирикдирт",
+   "tags": "понуд. к бирикдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирик",
+     "def": "объединяться, сплачиваться",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикген",
+     "def": "1) сплочённый, дружный, спаянный 2).объединённый",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикгенлик",
+     "def": "сплочённость, спаянность",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикдир",
+     "def": "1)сплачивать, спаивать кого-что 2) объединять кого-что; сливать что [воедино]",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикдирил",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "бирикдирилиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06377",
+   "word": "бирикдиртиу",
+   "tags": "и. д. к бирикдиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирик",
+     "def": "объединяться, сплачиваться",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикген",
+     "def": "1) сплочённый, дружный, спаянный 2).объединённый",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикгенлик",
+     "def": "сплочённость, спаянность",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикдир",
+     "def": "1)сплачивать, спаивать кого-что 2) объединять кого-что; сливать что [воедино]",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирикдирил",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "бирикдирилиу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06396",
+   "word": "бирлешдирт",
+   "tags": "понуд. к бирлешдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирле",
+     "def": "2. Кто-нибудь",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "бирлеш",
+     "def": "1) объединяться, соединяться 2) сплачиваться",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешген",
+     "def": "1) прич. от бирлеширге объединившийся, соединившийся 2) объединённый; соединённый 3) сплоч",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешгенлик",
+     "def": "сплочённость, спаянность",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешдир",
+     "def": "1) сплачивать, спаивать 2) объединять, соединять; сливать воедино",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешдирил",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06397",
+   "word": "бирлешдиртиу",
+   "tags": "и. д. к бирлешдиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирле",
+     "def": "2. Кто-нибудь",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "бирлеш",
+     "def": "1) объединяться, соединяться 2) сплачиваться",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешген",
+     "def": "1) прич. от бирлеширге объединившийся, соединившийся 2) объединённый; соединённый 3) сплоч",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешгенлик",
+     "def": "сплочённость, спаянность",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешдир",
+     "def": "1) сплачивать, спаивать 2) объединять, соединять; сливать воедино",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешдирил",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06399",
+   "word": "бирлешлик",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. биригиу II. Машиналаны бузукъсуз жюрютюуде область бирлешликни уллу юлюшю барды. «Ленинни байрагъы», 1972, № 4. ◊ Къурулуш керекле чыгъарыучу бирл",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "бирле",
+     "def": "2. Кто-нибудь",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "бирлеш",
+     "def": "1) объединяться, соединяться 2) сплачиваться",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешген",
+     "def": "1) прич. от бирлеширге объединившийся, соединившийся 2) объединённый; соединённый 3) сплоч",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешгенлик",
+     "def": "сплочённость, спаянность",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешдир",
+     "def": "1) сплачивать, спаивать 2) объединять, соединять; сливать воедино",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "бирлешдирил",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06416",
+   "word": "биссектриса",
+   "tags": "ат. мат.",
+   "def1": "биссектриса",
+   "def2": "Биссектриса",
+   "misc1": "",
+   "misc2": "Математикада мюйюшню экиге бёлген тюз ызлыкъ.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_06432",
+   "word": "битдириш1",
+   "tags": "эт. взаимн. совм. от битдир 1",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Битдир 1 дегенни араш айырмасы. Эки бригада да, эришип, тахта кёгетле битдиришедиле.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "битдир1",
+     "def": "растить, выращивать, возделывать что",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битдир2",
+     "def": "1) завершать, заканчивать что 2) перен. погубить кого",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "битдирил1",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битдирил2",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битдирилиу1",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битдирилиу2",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06445",
+   "word": "бителиу",
+   "tags": "и. д. к бителирге",
+   "def1": "1) закупоривание, засорение 2) заживание (раны)",
+   "def2": "",
+   "misc1": "джюрек джараны бителиую заживание сердечной раны",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "бител",
+     "def": "1) закрываться, закупориваться, забиваться, засариваться 2) прям., перен. зарубцовываться,",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бителген",
+     "def": "1) прич. от бителирге 2) прям., перен. заживший, зарубцевавшийся",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "бителмеклик",
+     "def": "см. бителиу",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "бителт",
+     "def": "закрывать, закупоривать, забивать что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бителтиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06446",
+   "word": "бителмеклик",
+   "tags": "отвлеч. к бителирге",
+   "def1": "см. бителиу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "бител",
+     "def": "1) закрываться, закупориваться, забиваться, засариваться 2) прям., перен. зарубцовываться,",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бителген",
+     "def": "1) прич. от бителирге 2) прям., перен. заживший, зарубцевавшийся",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "бителиу",
+     "def": "1) закупоривание, засорение 2) заживание (раны)",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "бителт",
+     "def": "закрывать, закупоривать, забивать что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бителтиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06448",
+   "word": "бителтиу",
+   "tags": "и. д. к бителтирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "бител",
+     "def": "1) закрываться, закупориваться, забиваться, засариваться 2) прям., перен. зарубцовываться,",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "бителген",
+     "def": "1) прич. от бителирге 2) прям., перен. заживший, зарубцевавшийся",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "бителиу",
+     "def": "1) закупоривание, засорение 2) заживание (раны)",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "бителмеклик",
+     "def": "см. бителиу",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "бителт",
+     "def": "закрывать, закупоривать, забивать что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06449",
+   "word": "битемеклик",
+   "tags": "отвлеч. к битерге I, 3",
+   "def1": "то же, что битеу I",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_06456",
+   "word": "битеуаскер",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Общевойсковой",
+   "misc1": "",
+   "misc2": "Аскерлени хар тюрлюсюне да бирча тийишли, аланы хар тюрлюсюн да бирикдирген. Битеуаскер кенгеш кесини ишин бошады. ▯ Хар аскерчи битеуаскер уставны те",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "битеу1",
+     "def": "то же, что бютеу",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "битеу2",
+     "def": "1) закрывание, закупоривание, закупорка 2) загораживание, огораживание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "битеудуния",
+     "def": "то же, что бютеудуния",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "битеулей",
+     "def": "то же, что бютеулей",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "битеулю",
+     "def": "1. Общий 2. Всеобщий",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "битеумиллет",
+     "def": "Общенациональный",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06464",
+   "word": "битеуюнлей",
+   "tags": "мард. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. битеулей Павка болгъан ишни битеуюнлей хапарлады. Н. Островский, Къурч къалай къатханды, 20. ▯ Москвада Кермахан тюкенледен бла Махмутундан бош за",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "битеу1",
+     "def": "то же, что бютеу",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "битеу2",
+     "def": "1) закрывание, закупоривание, закупорка 2) загораживание, огораживание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "битеуаскер",
+     "def": "Общевойсковой",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "битеудуния",
+     "def": "то же, что бютеудуния",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "битеулей",
+     "def": "то же, что бютеулей",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "битеулю",
+     "def": "1. Общий 2. Всеобщий",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06479",
+   "word": "битиу1",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. битген. Битиуню ауругъанын сау этерге бишген соханны уллу магъанасы барды. ◊ Врач жашчыкъны боюнунда битиуюн байлады.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "битиу2",
+     "def": "1) произрастание 2) урожай",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битиу3",
+     "def": "завершение, окончание",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битиулю",
+     "def": "то же, что битимли 1",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "битиусюз",
+     "def": "то же, что битимсиз 1",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06496",
+   "word": "биттай",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. битли. Биттай къанатлычыкъ. Биттай кючюкчюк.",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_06498",
+   "word": "биттиркоч",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. биттир. Дорбунну къарангысына жетгенде, бизни тауушубуздан къоркъуп, биттиркочла, «ур-р-р» деп, учдула.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "биттир",
+     "def": "летучая мышь",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06499",
+   "word": "биттёш",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. битли. Биттёш жаныуар.",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_06521",
+   "word": "биченли",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "биченли джер сенокос (место)",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "бичен",
+     "def": "сено || сенной",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "биченлик",
+     "def": "покос, луг, сенокосное угодье",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "биченчи",
+     "def": "Косарь",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06531",
+   "word": "бичимли",
+   "tags": "сыф.; карач.",
+   "def1": "1) обдуманный, продуманный; осмысленный 2) осанистый, ладно сложенный",
+   "def2": "1. Складный (об одежде). 2. Стройный, статный (о фигуре). 3. къарач. Обдуманный, продуманный; осмысленный",
+   "misc1": "бичимли оноу обдуманное решение",
+   "misc2": "1. Тап бичилип, ариу тигилген, юсге жарашхан. Бир бичимли кийим кийген, Кёп жашаргъа бирча сюйген, Бушуу келсе, бирча кюйген, Адам улу жашайды жерде. ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бичим1",
+     "def": "1) покрой; фасон, выкройка 2) складка одежды на пояснице 4) перен. план, замысел",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "бичим2",
+     "def": "3) перен. телосложение, осанка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "бичимлилик",
+     "def": "1)обдуманность 2) осанистость",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимсиз",
+     "def": "1) бесплановый, непродуманный 2) нескладный, неуклюжий",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимсизлик",
+     "def": "1) бесплановость; необдуманность 2) нескладность, неуклюжесть",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06532",
+   "word": "бичимлилик",
+   "tags": "отвлеч. бичимли",
+   "def1": "1)обдуманность 2) осанистость",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бичим1",
+     "def": "1) покрой; фасон, выкройка 2) складка одежды на пояснице 4) перен. план, замысел",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "бичим2",
+     "def": "3) перен. телосложение, осанка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "бичимли",
+     "def": "1) обдуманный, продуманный; осмысленный 2) осанистый, ладно сложенный",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимсиз",
+     "def": "1) бесплановый, непродуманный 2) нескладный, неуклюжий",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимсизлик",
+     "def": "1) бесплановость; необдуманность 2) нескладность, неуклюжесть",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06533",
+   "word": "бичимсиз",
+   "tags": "сыф.; карач.",
+   "def1": "1) бесплановый, непродуманный 2) нескладный, неуклюжий",
+   "def2": "1. Нескладный (об одежде). 2. Нестройный, некрасиво сложенный. 3. къарач. Бесплановый, непродуманный",
+   "misc1": "бичимсиз оноу непродуманное решение; бичимсиз джаш нескладный юноша",
+   "misc2": "1. Тап бичилмеген, ариу тигилмеген, юсге жарашмагъан. Бичимсиз жыйрыкъ. Бичимсиз кёнчек. 2. Къарамсыз, жапысыз. Бичимсиз Мыртаз, тута-тута, къатынланы",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бичим1",
+     "def": "1) покрой; фасон, выкройка 2) складка одежды на пояснице 4) перен. план, замысел",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "бичим2",
+     "def": "3) перен. телосложение, осанка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "бичимли",
+     "def": "1) обдуманный, продуманный; осмысленный 2) осанистый, ладно сложенный",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимлилик",
+     "def": "1)обдуманность 2) осанистость",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимсизлик",
+     "def": "1) бесплановость; необдуманность 2) нескладность, неуклюжесть",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06534",
+   "word": "бичимсизлик",
+   "tags": "отвлеч. к бичимсиз",
+   "def1": "1) бесплановость; необдуманность 2) нескладность, неуклюжесть",
+   "def2": "",
+   "misc1": "(ги); ишни бичимсизлики необдуманность дела",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "бичим1",
+     "def": "1) покрой; фасон, выкройка 2) складка одежды на пояснице 4) перен. план, замысел",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "бичим2",
+     "def": "3) перен. телосложение, осанка",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "бичимли",
+     "def": "1) обдуманный, продуманный; осмысленный 2) осанистый, ладно сложенный",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимлилик",
+     "def": "1)обдуманность 2) осанистость",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "бичимсиз",
+     "def": "1) бесплановый, непродуманный 2) нескладный, неуклюжий",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06544",
+   "word": "биш2",
+   "tags": "дет.",
+   "def1": "",
+   "def2": "",
+   "misc1": "бишш-ш тийме отха! не трогай огонь, обожжёшься!; бишш-ш, иссиди, тийме! горячий, не трогай, горячо!; биш болдунг, къач! обожжёшься, отойди!",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "биш1",
+     "def": "1)вариться; печься; жариться 2) спеть, поспевать, зреть, созревать 3) перен. зреть, закаля",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06552",
+   "word": "бишеклен",
+   "tags": "эт. ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бишгеклен. Жашла шишликни бишекленнгенлей ашаргъа сюйюучюдюле. □ Къыз чоюндан бир бишекленнген эт кесекни алып эгечине узатды.",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_06567",
+   "word": "бишли",
+   "tags": "парн. к чийли-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_06577",
+   "word": "биядак",
+   "tags": "уст.",
+   "def1": "пятак, грош 8) в знач. соединительного союза и 9) с личными формами причастий передаёт значение то ли..., то ли...;... или нет",
+   "def2": "",
+   "misc1": "багъасы бир биядакды стоит-то всего грош, образует сочетания с временным значением; кюнню джылыннганы биядак с наступлением тепла, как только наступит",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_06607",
+   "word": "богъуталкъы",
+   "tags": "эт. эриши сёз.; груб.",
+   "def1": "беспорядок, кавардак",
+   "def2": "перевернуть все вверх дном",
+   "misc1": "болгъанны богъуталкъы этерге перевернуть всё вверх дном",
+   "misc2": "богъуталкъы эт: болгъанны башын тюбюне эт, къара къатыш эт. Сабийле отоуну богъуталкъы этдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "богъурдакъ",
+     "def": "трахея, дыхательное горло, гортань || гортанный",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "богъурса",
+     "def": "воображать, зазнаваться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "богъурсат",
+     "def": "воображать, корчить из себя, чваниться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "богъурсатыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "богъурсау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06609",
+   "word": "боевой",
+   "tags": "",
+   "def1": "",
+   "def2": "Боевой листок",
+   "misc1": "",
+   "misc2": "Кюн сайын ишни къалай баргъаныны юсюнден жазылгъан гитче къабыргъа газет. Боевой деген сёз кеси аллына жюрюмейди. Предприятиени агитаторуна Люся Бозие",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_06617",
+   "word": "бозалан",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "Мутнеть, приобрести цвет бузы",
+   "misc1": "",
+   "misc2": "Кирлен, боза бетли бол. Кюн къызыудан буз чыранла эрип, чучхурладан шыр-шырлап агъадыла, Бозаланып, жагъаларын керип, Къакъсыгъан ёзенлеге багъадыла. ",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозаланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06618",
+   "word": "бозаланыу",
+   "tags": "и. д. от бозалан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозалан дегенден этим ат. Сууну бозаланыуу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозалан",
+     "def": "Мутнеть, приобрести цвет бузы",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06631",
+   "word": "бозгъулдум",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бозгъул. Бозгъулдум жюн. Бозгъулдум булутла.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозгъул",
+     "def": "Сероватый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "бозгъулла",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллау",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06632",
+   "word": "бозгъулла",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бозар. Аяз урса, толкъун бёлюне, бозгъуллай. Ахматланы А., Жаз келди, 24. ◊ Ургъуюкъдан жауун келди, сууну бозгъуллады. «Коммунизмге жол», 1976, №",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозгъул",
+     "def": "Сероватый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "бозгъулдум",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллау",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06633",
+   "word": "бозгъуллан",
+   "tags": "эт. возвр. от бозгъулла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозгъулла дегенни къайтыучу айырмасы. Суу бозгъулланганды.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозгъул",
+     "def": "Сероватый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "бозгъулдум",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулла",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллау",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06634",
+   "word": "бозгъулланыу",
+   "tags": "и. д. от бозгъуллан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозгъуллан дегенден этим ат. Сууну бозгъулланыуу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозгъул",
+     "def": "Сероватый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "бозгъулдум",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулла",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллау",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06635",
+   "word": "бозгъуллау",
+   "tags": "и. д. от бозгъулла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозгъулла дегенден этим ат. Букъуну тёгерекни бозгъуллауу. Жауунну сууну бозгъуллауу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозгъул",
+     "def": "Сероватый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "бозгъулдум",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулла",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъуллан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозгъулланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06637",
+   "word": "бозлан",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бозар. Жауун жауса, Буруу къолну сууу бозланып келеди.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыл",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырылыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06638",
+   "word": "бозландыр",
+   "tags": "эт. понуд. от бозлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозлан дегенни къатланыучу айырмасы. Къара суу, уллу къолну ичинде келген ырхыгъа къошулуп, аны бозландыра эди. Къудайланы Х., Бизни заманны адамлары,",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозлан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыл",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырылыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06639",
+   "word": "бозландырыл",
+   "tags": "эт. страд. от бозландыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозландыр дегенни зорлаучу айырмасы. Къыз къабакъ эшикни бозландырылгъан болу бла боягъанды.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозлан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырылыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06640",
+   "word": "бозландырылыу",
+   "tags": "и. д. от бозландырыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозландырыл дегенден этим ат.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозлан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыл",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06641",
+   "word": "бозландырыу",
+   "tags": "и. д. от бозландыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозландырыл дегенден этим ат. Сууну бозландырыу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозлан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыл",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырылыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозланыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06642",
+   "word": "бозланыу",
+   "tags": "и. д. от бозлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бозлан дегенден этим ат. Сууну бозланыуу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "бозлан",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыл",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырылыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "бозландырыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06644",
+   "word": "бозсыман",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бозгъул. Бозсыман ат. Бозсыман эркеч.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_06649",
+   "word": "бойкот",
+   "tags": "",
+   "def1": "бойкот",
+   "def2": "",
+   "misc1": "бойкот ачаргъа объявить бойкот; бойкот этерге бойкотировать",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_06707",
+   "word": "бокъур2",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. эбизе. Игп бокъурла келгендиле, Кёп малы м и сюргендиле. (Фольк.)",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "бокъур1",
+     "def": "1. Зоб 2. кёч. Нарост (напр. на дереве, на сломанном месте кости); наледь",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06731",
+   "word": "болжалла",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "болжал эт (къ. болжал). Жашла биченнге къачан чыгъарыкъларын болжалладыла.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болжаллан",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжалланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллау",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллаш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллашыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06732",
+   "word": "болжаллан",
+   "tags": "эт. страд. от болжалла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Болжалла дегенни зорлаучу айырмасы. Иш болжалланды.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болжалла",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжалланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллау",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллаш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллашыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06733",
+   "word": "болжалланыу",
+   "tags": "и. д. от болжаллан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Болжаллан дегенден этим ат. Этиллик ишни болжалланыуу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болжалла",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллан",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллау",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллаш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллашыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06734",
+   "word": "болжаллау",
+   "tags": "и. д. от болжалла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Болжалла дегенден этим ат. Ишни болжаллау.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болжалла",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллан",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжалланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллаш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллашыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06735",
+   "word": "болжаллаш",
+   "tags": "эт. взаимн., совм. от болжалла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Болжалла дегенни араш айырмасы. [Мазан:] Школну бошагъан кюн биз артда хар жылдан бир кере тюбей турургъа болжаллашып айырылгъан эдик. «Коммунизмге жо",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болжалла",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллан",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжалланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллау",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллашыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06736",
+   "word": "болжаллашыу",
+   "tags": "и. д. от болжаллаш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Болжаллаш дегенден этим ат. Эки мюлк да, не ишни тамамларгъа тюшсе да, ишлерин эришиулерин болжаллашыудан башлайдыла.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болжалла",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллан",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжалланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллау",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "болжаллаш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06739",
+   "word": "боллукъ2",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "-къаллыкъ (-гъы): боллугъу-къаллыгъы белгили тюлдю неизвестно, состоится или нет",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "боллукъ1",
+     "def": "1. будущий, предстоящий 2. будущее, грядущее",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "боллукъду",
+     "def": "! можно!",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06747",
+   "word": "болон",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. болонья. Болондан этилген кийимле. Болон плащ.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "болонья",
+     "def": "Болонья (ткань)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06760",
+   "word": "болумунлай",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. болушунлай. Хан хапарын болумунлай айтханды. (Фольк.)",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болум1",
+     "def": "1) обстановка, положение, условия, обстоятельства 2) среда; условия мн",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "болум2",
+     "def": "грам. обстоятельство",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "болум3",
+     "def": "данные, какие-л. качества (деловитость, предприимчивость и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "болумлу1",
+     "def": "обстоятельный, деловитый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "болумлу2",
+     "def": "1. Деятельно, действенно 2. Обеспеченно, состоятельно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "болумлулукъ",
+     "def": "обстоятельность, деловитость",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06761",
+   "word": "болумуча",
+   "tags": "хал. сёзл. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. болушунлай. Назбийни уятып, хапарын болумуча айтыргъа къоркъду. Хубийланы О., Жукъусуз кечеле, 30. ◊ Кесини юйде болгъан бушууун тюз болумуча жаза",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "болум1",
+     "def": "1) обстановка, положение, условия, обстоятельства 2) среда; условия мн",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "болум2",
+     "def": "грам. обстоятельство",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "болум3",
+     "def": "данные, какие-л. качества (деловитость, предприимчивость и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "болумлу1",
+     "def": "обстоятельный, деловитый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "болумлу2",
+     "def": "1. Деятельно, действенно 2. Обеспеченно, состоятельно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "болумлулукъ",
+     "def": "обстоятельность, деловитость",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06812",
+   "word": "боппа-бош2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Совершенно зря, напрасно, ни за что ни про что",
+   "misc1": "",
+   "misc2": "Керексизге, чыртда бошуна. Бизни къошха хош келдинг, боппа-бош келдинг. (Нарт сёз.) ◊ Былайда боппа-бош турмагъанлай, бир сууукъ суучукъ болса да жууу",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "боппа-бош1",
+     "def": "Совершенно пустой, свободный",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "боппа-бошуна",
+     "def": "Нипочём, по очень дешевой цене",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06815",
+   "word": "бора",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. боранла. Ой, орайда, орайда, Къар жауады, борайды, Ханны неси къорайды? Тоханада жукълайды. (Фольк.) □ Боран желсиз борамаз, Жан сылтаусуз къорама",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_06839",
+   "word": "боркъсуратыу",
+   "tags": "карач. и. д. к боркъсуратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "боркъ",
+     "def": "подражание кипению",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъ-боркъ",
+     "def": "Звукоподражание звуку сильно кипящей жидкости, бьющегося ключа",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсура",
+     "def": "клубиться, подниматься клубами",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсурат",
+     "def": "дымить чем, пускать что клубами, клубить что",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсурау",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "боркъулда",
+     "def": "1) клокотать, бурлить 2) перен. жить в довольстве, преуспевать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06840",
+   "word": "боркъсурау",
+   "tags": "карач. и. д. к боркъсураргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "боркъ",
+     "def": "подражание кипению",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъ-боркъ",
+     "def": "Звукоподражание звуку сильно кипящей жидкости, бьющегося ключа",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсура",
+     "def": "клубиться, подниматься клубами",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсурат",
+     "def": "дымить чем, пускать что клубами, клубить что",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсуратыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "боркъулда",
+     "def": "1) клокотать, бурлить 2) перен. жить в довольстве, преуспевать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_06846",
+   "word": "боркъулдаш",
+   "tags": "эт. взаимн, совм. от боркъулда",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Боркъулда дегенни араш айырмасы. Балыкъ башында Гаралы къолда гара суула бир бирге жууукъ тёрт-беш жердей боркъулдашып чыгъадыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "боркъ",
+     "def": "подражание кипению",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъ-боркъ",
+     "def": "Звукоподражание звуку сильно кипящей жидкости, бьющегося ключа",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсура",
+     "def": "клубиться, подниматься клубами",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсурат",
+     "def": "дымить чем, пускать что клубами, клубить что",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "боркъсуратыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "боркъсурау",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  }
+ ]
+}

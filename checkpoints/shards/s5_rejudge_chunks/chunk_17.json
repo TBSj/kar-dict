@@ -1,0 +1,5446 @@
+{
+ "items": [
+  {
+   "entry_id": "e_21778",
+   "word": "мырттылы",
+   "tags": "парн. к хырттылы-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "мыртты",
+     "def": "Куда макар телят не гонял",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21787",
+   "word": "мыс",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "мыс-мыс этиб айланыргъа вынюхивать, выуживать, разузнавать что",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21792",
+   "word": "мыстыкъулакъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. къозукъулакъ. Кюн сайын адам башха затла бла бирге салат, сохан, мыстыкъулакъ, петрушка, лимон, гедигин ашаса хайырлыды. «Коммунизмге жол», 1981, ",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мысты1",
+     "def": "Кислица обыкновенная",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мысты2",
+     "def": "кул. приправа",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "мысты3",
+     "def": "кислый",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "мыстыла1",
+     "def": "класть приправу во что; заправлять что чем",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "мыстыла2",
+     "def": "Кислить, класть приправу во что, заправлять что чем",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "мыстылау",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21804",
+   "word": "мысхаллау",
+   "tags": "и. д. к мысхалларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мысхал",
+     "def": "1) золотник (мера веса, около 4,26 г) 2) перен. ничтожное (мизерное) количество 3) редко д",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхалла",
+     "def": "1) уст. измерить в золотниках 2) перен. думать, мыслить",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхаллы",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "мысхаллыкъ",
+     "def": "1. отвлеч. к мысхал 2. золотниковый, весом в золотник",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхам",
+     "def": "глуповатый, умственно неполноценный",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "мысхамлы",
+     "def": "умственно неполноценный, глуповатый",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21805",
+   "word": "мысхаллы",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "терен мысхаллы адам тюлдю он недалёкий человек; он не отличается глубоким умом",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "мысхал",
+     "def": "1) золотник (мера веса, около 4,26 г) 2) перен. ничтожное (мизерное) количество 3) редко д",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхалла",
+     "def": "1) уст. измерить в золотниках 2) перен. думать, мыслить",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхаллау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мысхаллыкъ",
+     "def": "1. отвлеч. к мысхал 2. золотниковый, весом в золотник",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхам",
+     "def": "глуповатый, умственно неполноценный",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "мысхамлы",
+     "def": "умственно неполноценный, глуповатый",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21812",
+   "word": "мысхылдат",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мысхылла. Мысхылдатыл айтыу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатышыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21813",
+   "word": "мысхылдатдыр",
+   "tags": "эт. понуд. от мысхылдат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхылдат дегенни къатланыучу айырмасы. Жашны юсюнден мысхылдатдырыл сёлешдир.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатышыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21814",
+   "word": "мысхылдатдырыу",
+   "tags": "и. д. от мысхылдатдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхылдатдыр дегенден этим ат. Биреуню мысхылдатдырыу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатышыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21815",
+   "word": "мысхылдатыу",
+   "tags": "и. д. от мысхылдат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхылдат дегенден этим ат. Биреуню мысхылдатыу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатышыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21816",
+   "word": "мысхылдатыш",
+   "tags": "эт. взаимн.-совм. от мысхылдат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхылдат дегенни араш айырмасы. Жашла бири бирин мысхылдатышадыла.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатышыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21817",
+   "word": "мысхылдатышыу",
+   "tags": "и.д. от мысхылдатыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхылдатыш дегенден этим ат. Жашланы бири бирин мысхылдатышыулары.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21828",
+   "word": "мысхыртыш",
+   "tags": "эт. взаимн., совм. от мысхырт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхырт дегенни араш айырмасы. Атланы мысхыртышыргъа.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21829",
+   "word": "мысхыртышыу",
+   "tags": "и.д. от мысхыртыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мысхыртыш дегенден этим ат. Къойну мысхыртышыу.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мысхыл",
+     "def": "насмешка, унижение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "мысхылдат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "мысхылдатыш",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21830",
+   "word": "мыт",
+   "tags": "балк.",
+   "def1": "",
+   "def2": "",
+   "misc1": "мыт-мыт этерге мешкать, медлить",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_21847",
+   "word": "мыхыдау",
+   "tags": "",
+   "def1": "то же, что мигидау",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_21848",
+   "word": "мыхыз",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "мыхыз этерге а) зачесть одно вместо другого (напр. при уплате долга); б) списать, погасить (напр. задолженность); борчунгу мыхыз этеме я прощаю тебе т",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21849",
+   "word": "мычкы",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "мыт-мыт эт (къ. мыт-мыт). Не терк къуралырбыз да душманны хорларбыз, неда мычкы эте, арсар бола къалырбыз. «Шуёхлукъ», № 41, 51. Энди мычкы этиуден ха",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мычкыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21850",
+   "word": "мычкыу",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мыт-мыт. [Зарият эрине:] Ий, Гонай, сен бир мычкыу адамса. «Коммунизмге жол», 1979, № 54.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "мычкы",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21873",
+   "word": "мышау",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мишау II. [Асланкир жашына:] Ай, аман хомух, былай мышау некое? Къоркъмазланы К., Горда бычакъ, I, 171. Тенглери кёл этап кюрешедиле, алай а Къасы",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_21874",
+   "word": "мышт",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "бютеу аскер мышт болду погибло всё войско; мышт этерге а) перебить, истребить кого; б) победить всех; тутушургьа излегенлени барын мышт этди он поборо",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21878",
+   "word": "мюджю",
+   "tags": "парн. к аджю-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_21910",
+   "word": "мюрт",
+   "tags": "парн. к тюрт-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21918",
+   "word": "мюх",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "мюх дери, чюх дери болмагъан неимущий (букв. не имеющий ни того, что мычит, ни того, что погоняют); ни кола, ни двора",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21965",
+   "word": "назик2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жютю I, 2. Белгилисича, поэт къалгъанладан эсе кёп билирге, къалгъанладан жютю кёрюрге, назик сезерге керекди. Байрамукъланы Н., Назму бла жазсала",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "назик1",
+     "def": "1) тонкий, щуплый, худой 2) нежный, женственный 3) муз. высокий",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "назикбел",
+     "def": "Имеющий тонкую талию",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "назикбоюн",
+     "def": "Тонкошеий",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "назикбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "назиккъол",
+     "def": "Тонкорукий, с нежными руками",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "назиклик",
+     "def": "1) тонкость, щуплость, худоба 2) нежность, женственность",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21991",
+   "word": "накъышламакълыкъ",
+   "tags": "отвлек, к накъышларгьа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "накъырда",
+     "def": "1) шутка; острота; насмешка 2) юмор; прибаутка; забава",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "накъырдасыз",
+     "def": "кроме шуток, без шуток, серьёзно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "накъырдачы",
+     "def": "шутник, балагур, весельчак; остряк",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "накъырдачылыкъ",
+     "def": "остроумие, острословие",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "накъыш",
+     "def": "узор; резной узор, насечка; чеканка; вышивка",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "накъышла",
+     "def": "украшать что узорами (орнаментом), вырезать узоры на чём, наносить узоры на что; вышивать ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22006",
+   "word": "налатла",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Налат эт (къ. налат). Халкъла барысы да налатлайдыла урушну.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22008",
+   "word": "налатландыр",
+   "tags": "понуд. к налатланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кесинги налатландырыргъа а) проказничать, шалить; б) плутовать, мошенничать",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатла",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22009",
+   "word": "налатландырыу",
+   "tags": "и. д. к налатландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатла",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22010",
+   "word": "налатланмакълыкъ",
+   "tags": "отвлеч. к налатланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатла",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22013",
+   "word": "налатлат",
+   "tags": "эт. понуд. от налатла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Налатла дегенни къатланыучу айырмасы. Уручуну налатлат.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатла",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22014",
+   "word": "налатлатыу",
+   "tags": "и. д. от налатлат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Налатлат дегенден этим ат. Сатхычны налатлатыу.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатла",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22015",
+   "word": "налатлау",
+   "tags": "и. д. от налатла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Налатла дегенден этим ат. Хыйлачылыкъны налатлау. Урушну отун къыздырыргъа сюйгенлени налатлау.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "налат",
+     "def": "1. 1)проклятие 2) бестия ж, плут, мошенник; шельма, пройдоха м, ж 2. 1) проклятый, ненавис",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатла",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатлан",
+     "def": "1) проказничать, шалить 2) плутовать, мошенничать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "налатландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "налатланмакълыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22019",
+   "word": "налив",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": белый налив белый налив (сорт яблок)",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "наливка",
+     "def": "наливка",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22044",
+   "word": "намурут",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": дуния намыс намурутну отундан кючлю посл. нравы этого света страшнее, чем огонь ада",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_22048",
+   "word": "намыслан",
+   "tags": "эт. возвр. от намысла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Намысла дегенни къайтыучу айырмасы. Илму бла намысланса, Аны жашаугъа салса, Иши бла намысланса, Андан сыйлы болурму. Отарланы С., Назмула бла поэмала",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "намыс",
+     "def": "1) нравственность; нормы поведения; хорошее воспитание; порядочность, воспитанность 2) чес",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "намысла",
+     "def": "почитать, чтить кого, быть почтительным с кем",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "намысламакълыкъ",
+     "def": "уважение, почтение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "намысланыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "намыслау",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "намыслы1",
+     "def": "1) высоконравственный; воспитанный, учтивый; порядочный 2) совестливый, скромный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22049",
+   "word": "намысланыу",
+   "tags": "и. д. от намыслан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Намыслан дегенден этим ат. Нигде жетишимле бла намысланыу.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "намыс",
+     "def": "1) нравственность; нормы поведения; хорошее воспитание; порядочность, воспитанность 2) чес",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "намысла",
+     "def": "почитать, чтить кого, быть почтительным с кем",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "намысламакълыкъ",
+     "def": "уважение, почтение",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "намыслан",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "намыслау",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "намыслы1",
+     "def": "1) высоконравственный; воспитанный, учтивый; порядочный 2) совестливый, скромный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22074",
+   "word": "напча",
+   "tags": "ат. аз жюр.",
+   "def1": "",
+   "def2": "Отделка",
+   "misc1": "",
+   "misc2": "Бир затны омакъ, ариу этилиую. Жыр Къарачайда этилир, Басханда жырланыр, напчасы Чегемде чыгъар. (Нарт сёз.)",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "напчала",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "напчалан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "напчаланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "напчалат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "напчалатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "напчалау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22081",
+   "word": "напыс",
+   "tags": "ат. аз жюр.",
+   "def1": "см. нафыс",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. нафыс. [Зурум:] Мен да чегетде, къуу тюзде тюл, адамланы арасында шойма да, нек алжадым былай деп, кесиме урушдум, напысымы бошламайым ансы ... Сы",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_22100",
+   "word": "нарсюд",
+   "tags": "",
+   "def1": "то же, что нарсуд",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22108",
+   "word": "нарша",
+   "tags": "карач.",
+   "def1": "то же, что наша",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "наршаb",
+     "def": "металл (кроме благородных)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "наршан",
+     "def": ": наршан адам ненадёжный (не вызывающий доверия) человек",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "наршапчы",
+     "def": "Человек, который делает украшения из наршапа",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22115",
+   "word": "насапа",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": о насапа, насапа, насапада беш бутакъ загадка насапа, насапа, на насапе пять веток (отгадка къол рука)",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22124",
+   "word": "насият",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. насийхат. Эгечим, бу насиятланы айтмаз эдим Мен, керексизге башынгы аурутмаз эдим, Жюрегимде къоймасала эдиле тапларын Акъылсыз ариуну салгъан жар",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_22129",
+   "word": "настик",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ластик. Палтону ичи настикденди.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22139",
+   "word": "насымайчы",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Насвайщик",
+   "misc1": "",
+   "misc2": "Насымайны хайырланыучу адам. Насымайчы кесини саулугъуну жаууду.",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "насымай",
+     "def": "Насвай",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22140",
+   "word": "насыплыкъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. насып I. Къыйынлыкъ, насыплыкъ хар кимда кёрюр. Каракетланы Ю., Булутла, 51.",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_22145",
+   "word": "натуралыкъ",
+   "tags": "",
+   "def1": "натуральный",
+   "def2": "",
+   "misc1": "натуралыкъ мюлк натуральное хозяйство",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "натура",
+     "def": "1) натура (как платёжное средство) 2) иск. натура",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "натурализм",
+     "def": "натурализм",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "натуралист",
+     "def": "натуралист",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "натуральна",
+     "def": "1. Натуральный 2. Относящийся к оплате натурой",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "натурачы",
+     "def": "натурщик",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "натуроплата",
+     "def": "натуроплата",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22146",
+   "word": "натуральна",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Натуральный 2. Относящийся к оплате натурой",
+   "misc1": "",
+   "misc2": "1. Табийгъатда болгъан хадлы; таза, къошулгъаны, тюрленнгени болмагъан. Жалгъан терилени бар бирлери, асыры иги этилгенден, натуральнадан башхалыгъы э",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "натура",
+     "def": "1) натура (как платёжное средство) 2) иск. натура",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "натурализм",
+     "def": "натурализм",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "натуралист",
+     "def": "натуралист",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "натуралыкъ",
+     "def": "натуральный",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "натурачы",
+     "def": "натурщик",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "натуроплата",
+     "def": "натуроплата",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22168",
+   "word": "начасландыр",
+   "tags": "понуд. к начасланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги начасландырыргъа проказничать",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "начас",
+     "def": "1)шалун, проказник; пострел 2) проныра м, ж; пройдоха м, ж 3) груб. негодяй, мерзавец, под",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "начаслан",
+     "def": "проказничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "начасландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22169",
+   "word": "начасландырмакълыкъ",
+   "tags": "отвлеч. к начасландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "начас",
+     "def": "1)шалун, проказник; пострел 2) проныра м, ж; пройдоха м, ж 3) груб. негодяй, мерзавец, под",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "начаслан",
+     "def": "проказничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "начасландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22170",
+   "word": "начасландырыу",
+   "tags": "и. д. к начасландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "начас",
+     "def": "1)шалун, проказник; пострел 2) проныра м, ж; пройдоха м, ж 3) груб. негодяй, мерзавец, под",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "начаслан",
+     "def": "проказничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "начасландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22171",
+   "word": "начасланмакълыкъ",
+   "tags": "отвлеч. к начасланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "начас",
+     "def": "1)шалун, проказник; пострел 2) проныра м, ж; пройдоха м, ж 3) груб. негодяй, мерзавец, под",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "начаслан",
+     "def": "проказничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "начасландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22172",
+   "word": "начасланыу",
+   "tags": "и. д. к начасланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "начас",
+     "def": "1)шалун, проказник; пострел 2) проныра м, ж; пройдоха м, ж 3) груб. негодяй, мерзавец, под",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "начаслан",
+     "def": "проказничать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "начасландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "начасландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "начасланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22203",
+   "word": "нейтральный",
+   "tags": "",
+   "def1": "нейтральный",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "нейтрал",
+     "def": "нейтральный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "нейтрализация",
+     "def": "нейтрализация",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "нейтралитет",
+     "def": "нейтралитет",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "нейтрон",
+     "def": "нейтрон",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22220",
+   "word": "нелляйлыкъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Положение, состояние",
+   "misc1": "",
+   "misc2": "Нелляй халда болгъаны. Ишни нелляйлыгъын кёпле сурадыла. Ауругъанны нелляйлыгъын тенглери билдиле.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "нелляй",
+     "def": "вопр. и относ, какой, каков",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "нелляй бир",
+     "def": "сколько?",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "нелляйча",
+     "def": "вопр. как, какой, каков",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22228",
+   "word": "немет",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "(употребляется, когда говорящий забывает название действия); ары-бери неметме! ты не увиливай (не виляй)!; джукъ неметирге что-то предпринять",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22229",
+   "word": "неметдир",
+   "tags": "понуд. к неметирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "кесинги ары-бери неметдирирге а) делать какой-л. вид, прикидываться (напр. непонимающим) б) увиливать от чего",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22230",
+   "word": "неметдириу",
+   "tags": "и. д. к неметдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22231",
+   "word": "неметдирмеклик",
+   "tags": "отвлеч. к неметдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22232",
+   "word": "неметиу",
+   "tags": "и. д. к неметирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22233",
+   "word": "неметиш",
+   "tags": "взаимн.-возвр. к неметирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22234",
+   "word": "неметишиу",
+   "tags": "и. д. к неметиширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22235",
+   "word": "неметмеклк",
+   "tags": "отвлеч. к неметирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "немет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметдирмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "неметиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22238",
+   "word": "немечи",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "джыйылыугъа тракторчула немечиле бары да келген эдиле на собрание пришли трактористы и другие специалисты",
+   "misc2": "",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_22307",
+   "word": "никкола",
+   "tags": "эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. июнь. Къышны сууукъ айлары, жазны жауунлу, киршили кюнлери кетип,... никкола айы кирди. Шахмырзаланы С., Танг аласында, 159. Адамланы ними хычаума",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22310",
+   "word": "ним",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "(ср. мин); атха ним садись на коня; терекге ним лезь на дерево",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22357",
+   "word": "ноский",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Носок",
+   "misc1": "",
+   "misc2": "Тобукъгъа жетмеген чындай. Хамызат, аягъындан носкийлерин да тешмей, сыртындан тюшюп, хурулдап жукълайды. Къагъыйланы Н., Жулдузла жукъланмайдыла, 222",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_22377",
+   "word": "нурдуу",
+   "tags": "редко",
+   "def1": "то же, что нардыу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_22388",
+   "word": "нюзюрле",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Нюзюр эт (къ. нюзюр 2). Нюзюрлеген эсе назмучу, Айтханыча болгъанды, Ол неси да ёмюрлюкге Бизни бла къалгъанды. «Ленинни байрагъы», 1978, № 162.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "нюзюр",
+     "def": "1) рел. обет 2) клятва, клятвенное обещание 3) цель ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "нюзюрлен",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлениу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлеу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлю",
+     "def": "целенаправленный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "нюзюрсюз",
+     "def": "бесцельный, не имеющий определённой цели, определённого намерения",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22389",
+   "word": "нюзюрлен",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Нюзюр эт (къ. нюзюр 2). «Жюрюген асыуду»,- деп [Салиймат], Нюзюрленди базынып. Отарланы С., Назмула бла поэмала, 116. [Тютюнню] къояма деп нюзюрленир,",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "нюзюр",
+     "def": "1) рел. обет 2) клятва, клятвенное обещание 3) цель ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "нюзюрле",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлениу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлеу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлю",
+     "def": "целенаправленный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "нюзюрсюз",
+     "def": "бесцельный, не имеющий определённой цели, определённого намерения",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22390",
+   "word": "нюзюрлениу",
+   "tags": "и. д. от нюзюрлен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Нюзюрлен дегенден этим ат. Бир зат этерге нюзюрлениу.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "нюзюр",
+     "def": "1) рел. обет 2) клятва, клятвенное обещание 3) цель ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "нюзюрле",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлен",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлеу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлю",
+     "def": "целенаправленный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "нюзюрсюз",
+     "def": "бесцельный, не имеющий определённой цели, определённого намерения",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22391",
+   "word": "нюзюрлеу",
+   "tags": "и. д. от нюзюрле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Нюзюрле дегенден этим ат. Бир ишни этерге нюзюрлеу.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "нюзюр",
+     "def": "1) рел. обет 2) клятва, клятвенное обещание 3) цель ж",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "нюзюрле",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлен",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлениу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "нюзюрлю",
+     "def": "целенаправленный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "нюзюрсюз",
+     "def": "бесцельный, не имеющий определённой цели, определённого намерения",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22404",
+   "word": "няння",
+   "tags": "ат. саб. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ана. Омар нянняны жашыды, манга да дунияда андан багъалы адам болмагъанды. Гулайланы Б., Жаяу жолчукъ, 7.",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_22420",
+   "word": "об",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "-соб: об эте айланыргъа груб. ходить и трепать языком",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22451",
+   "word": "образ",
+   "tags": "",
+   "def1": "образ",
+   "def2": "",
+   "misc1": "литература образ литературный образ; осал образ отрицательный образ, тюз образ положительный образ; суратлау образ художественный образ; чыгъарманы об",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "образлы",
+     "def": "образный || образно",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "образлылыкъ",
+     "def": "образность",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "образование",
+     "def": "образование",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22452",
+   "word": "образлы",
+   "tags": "",
+   "def1": "образный || образно",
+   "def2": "",
+   "misc1": "образлы сёлешиу образная речь; образлы сёлеширге говорить образно",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "образ",
+     "def": "образ",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "образлылыкъ",
+     "def": "образность",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "образование",
+     "def": "образование",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22453",
+   "word": "образлылыкъ",
+   "tags": "отвлеч. к образлы",
+   "def1": "образность",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "образ",
+     "def": "образ",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "образлы",
+     "def": "образный || образно",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "образование",
+     "def": "образование",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22468",
+   "word": "обходной",
+   "tags": "",
+   "def1": "обходной лист",
+   "def2": "",
+   "misc1": "(тж. обходной лист)",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "обход",
+     "def": "обход",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22469",
+   "word": "общежит",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. общежитие. Юйюбюзден жюрюп ишлерге узакъ болгъаны себепли, общежитге жарашдым. Хапчаланы М., Мени насыбым, 6. Жашланы жашла болгъан, къызланы къыз",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "общежитие",
+     "def": "общежитие",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22496",
+   "word": "огъайламакълыкъ",
+   "tags": "карач. отвлеч. к огъайларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "огъай",
+     "def": "1) отриц. не, нет 2) усилит, ну, а ну, ну-ка 3) не только [но]...; напротив, наоборот",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "огъайла",
+     "def": "отрицать что, отказываться от чего",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "огъайлау",
+     "def": "1) и. д. к огъайларгъа 2) грам. отрицание",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "огъайлаучу",
+     "def": "отрицательный",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "огъайсыз",
+     "def": "безотказный || безотказно",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "огъайсызлыкъ",
+     "def": "безотказность",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22516",
+   "word": "огъурат",
+   "tags": "",
+   "def1": "1) понуд. к огъураргъа 2) то же, что огъураргъа",
+   "def2": "",
+   "misc1": "оноуну огъуратыргъа заставить кого одобрить чьё-л. решение",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "огъур",
+     "def": "1) доброта 2) счастье || счастливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъура",
+     "def": "одобрять кого-что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурамакълыкъ",
+     "def": "одобрение",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъуратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22517",
+   "word": "огъуратдыр",
+   "tags": "понуд. к огъуратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "огъур",
+     "def": "1) доброта 2) счастье || счастливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъура",
+     "def": "одобрять кого-что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурамакълыкъ",
+     "def": "одобрение",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурат",
+     "def": "1) понуд. к огъураргъа 2) то же, что огъураргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22518",
+   "word": "огъуратдырыу",
+   "tags": "и. д. к огъуратдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "огъур",
+     "def": "1) доброта 2) счастье || счастливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъура",
+     "def": "одобрять кого-что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурамакълыкъ",
+     "def": "одобрение",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурат",
+     "def": "1) понуд. к огъураргъа 2) то же, что огъураргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22519",
+   "word": "огъуратыу",
+   "tags": "и. д. к огъуратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "огъур",
+     "def": "1) доброта 2) счастье || счастливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъура",
+     "def": "одобрять кого-что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурамакълыкъ",
+     "def": "одобрение",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурат",
+     "def": "1) понуд. к огъураргъа 2) то же, что огъураргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22530",
+   "word": "огъурсузланмакълыкъ",
+   "tags": "отвлеч. к огьурсуз ланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "огъур",
+     "def": "1) доброта 2) счастье || счастливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъура",
+     "def": "одобрять кого-что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурамакълыкъ",
+     "def": "одобрение",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "огъурат",
+     "def": "1) понуд. к огъураргъа 2) то же, что огъураргъа",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "огъуратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22537",
+   "word": "одал",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "одал чапрак бот. мать-и-мачеха",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_22558",
+   "word": "озгъур1",
+   "tags": "сыф.",
+   "def1": "чрезмерный",
+   "def2": "1. Непомерный, чрезмерный, безмерный 2. Развязный, фамильярный, бесцеремонный",
+   "misc1": "озгъур кюч мощь; озгъур кючю болгъан адам человек могучей силы; бири биринден озгъур превосходящий один другого",
+   "misc2": "1. Мардасыз, асыры уллу. Сени озгъур хунеринг кёкде къанат кереди. Отарланы С., Назмула бла поэмала, 9. - Зарны тили учхан окъну сууутады, - дегенча, ",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "озгъун",
+     "def": "1) пренебр. нескромный, развязный; наглый || нескромно, развязно; нагло 2) непомерный, бол",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунлан",
+     "def": "вести себя развязно (нагло)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22559",
+   "word": "озгъур2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "1. Смело, решительно 2. Развязно, фамильярно, бесцеремонно",
+   "misc1": "",
+   "misc2": "1. Таукел, батыр, жигер. Бу бирлешген деу иш бла Къыралыбыз озгъур атлайды. Ахматланы А., Жаз келди, 40. 2. Уялмай, тартынмай, асыры оздуруп, адепсиз.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "озгъун",
+     "def": "1) пренебр. нескромный, развязный; наглый || нескромно, развязно; нагло 2) непомерный, бол",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунлан",
+     "def": "вести себя развязно (нагло)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22560",
+   "word": "озгъурлу",
+   "tags": "хал. сёзл.",
+   "def1": "то же, что озгъур",
+   "def2": "С лихвой",
+   "misc1": "",
+   "misc2": "Артыгъы бла, оздуруп. Берилген борчну озгъурлу толтургъаны ючюн, командование батальонну алгъышлады. Кацийланы Х., Жер жулдузлары, 84. Биринчи итоглаг",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "озгъун",
+     "def": "1) пренебр. нескромный, развязный; наглый || нескромно, развязно; нагло 2) непомерный, бол",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунлан",
+     "def": "вести себя развязно (нагло)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22561",
+   "word": "озгъурлукъ",
+   "tags": "ат.; отвлеч. к озгъур",
+   "def1": "",
+   "def2": "Отличительные качества кого-чего, превосходство, преимущество",
+   "misc1": "",
+   "misc2": "Айырмалыкъ, башхалыкъ, онглулукъ, артыкълыкъ. Эмен терек былайда битмесе эди, бу тёшню бирси тёшледен башхалыгъы озгъурлугъу эсленмезге боллукъ эди. Г",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "озгъун",
+     "def": "1) пренебр. нескромный, развязный; наглый || нескромно, развязно; нагло 2) непомерный, бол",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунлан",
+     "def": "вести себя развязно (нагло)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "озгъунланыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22563",
+   "word": "оздурмакълыкъ",
+   "tags": "отвлеч. к оздурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "ашарыкъны оздурмакълыкъ переедание",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "оздур",
+     "def": "1) понуд. к озаргъа 1 2) проводить, провозить кого-что 3) перен. переходить меру (границу)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздурт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздуртдур",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртдуруу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртуу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22565",
+   "word": "оздуртдур",
+   "tags": "понуд. к оздуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "оздур",
+     "def": "1) понуд. к озаргъа 1 2) проводить, провозить кого-что 3) перен. переходить меру (границу)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздурмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздурт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздуртдуруу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртуу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22566",
+   "word": "оздуртдуруу",
+   "tags": "и. д. к оздуртдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "оздур",
+     "def": "1) понуд. к озаргъа 1 2) проводить, провозить кого-что 3) перен. переходить меру (границу)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздурмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздурт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздуртдур",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртуу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22567",
+   "word": "оздуртмакълыкъ",
+   "tags": "отвлеч. к оздуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "оздур",
+     "def": "1) понуд. к озаргъа 1 2) проводить, провозить кого-что 3) перен. переходить меру (границу)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздурмакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздурт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "оздуртдур",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртдуруу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "оздуртуу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22583",
+   "word": "ойдам",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. чели. Туристле къалын ойдамны ичи бла барадыла. Ойдам агъач къыйырлада, мылы жерледе ёседи.",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_22584",
+   "word": "ойдара",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "ойдарасындан тюшюб турургъа бездельничать (букв. валяться на спине)",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_22587",
+   "word": "ойдурмакълыкъ",
+   "tags": "отвлеч. к ойдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойдур",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдурт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдуртдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртуу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22589",
+   "word": "ойдуртдур",
+   "tags": "понуд. к ойдуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойдур",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдурт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдуртдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртуу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22590",
+   "word": "ойдуртдуруу",
+   "tags": "и. д. к ойдуртдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойдур",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдурт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдуртдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртуу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22591",
+   "word": "ойдуртмакълыкъ",
+   "tags": "отвлеч. к ойдуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойдур",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдурт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойдуртдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойдуртуу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22641",
+   "word": "оймакълыкъ",
+   "tags": "отвлеч. к ояргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "(гъы)",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "оймакъ",
+     "def": "1) напёрсток 2) деталь мельничного оборудования",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "оймакъаууз",
+     "def": "С маленьким ртом (о женщине)",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22658",
+   "word": "ойнатдыр2",
+   "tags": "понуд. к ойнашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "бири бири бла ойнатдырыргъа заставить кого играть друг с другом",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойнат",
+     "def": "1) понуд. к ойнаргъа; 2)забавлять, развлекать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатдыр1",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойнатыл",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатылыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22660",
+   "word": "ойнатмакълыкъ",
+   "tags": "отвлеч. к ойнатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойнат",
+     "def": "1) понуд. к ойнаргъа; 2)забавлять, развлекать",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатдыр1",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатдыр2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойнатдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатыл",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнатылыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22671",
+   "word": "ойнашдырыу",
+   "tags": "и. д. к ойнашдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойнаш",
+     "def": "играть друг с другом; забавляться друг с другом",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнашмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойнашыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22672",
+   "word": "ойнашмакълыкъ",
+   "tags": "отвлеч. к ойнашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ойнаш",
+     "def": "играть друг с другом; забавляться друг с другом",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "ойнашдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "ойнашыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22676",
+   "word": "ойсуз2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. оюмсуз II. Ойсуз сёлешген сокъураныр. (Нарт сёз.) ◊ Ойсуз башланнган иш къууанчлы бошалмаз. (Фольк.)",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "ойсуз1",
+     "def": "1) неумный 2) безрассудный, неблагоразумный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсузлукъ",
+     "def": "безрассудство, неблагоразумие",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22679",
+   "word": "ойсурамакълыкъ",
+   "tags": "отвлеч. к ойсураргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ойсура",
+     "def": "падать в обморок",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсурат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсуратдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсуратдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсуратмакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ойсуратыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22683",
+   "word": "ойсуратмакълыкъ",
+   "tags": "отвлеч. к ойсуратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ойсура",
+     "def": "падать в обморок",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсурамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ойсурат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсуратдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсуратдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ойсуратыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22710",
+   "word": "оклад",
+   "tags": "",
+   "def1": "оклад",
+   "def2": "",
+   "misc1": "айлыкъ оклад месячный оклад; окладын ёсдюрюрге повысить оклад",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_22730",
+   "word": "окъабаш",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. окъабёрк. Темир бетли чепкенли, алтын къамалы, бухар бёрклю жаш чыкъса, тепсерге не къобузчу, неда окъабаш къызланы бири чыгъады. Аппаланы Х., Къа",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "окъабёрк",
+     "def": "В шапочке украшенной золотым (серебряным) шитьём (о женщине)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22736",
+   "word": "окъсуз",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Незаряженный",
+   "misc1": "",
+   "misc2": "Жерленмеген (атылгъан сауутну юсюнден). Ажаллыгъа окъсуз ушкок атылыр. (Нарт сёз.) Окъсуз ушкок экеуленни къоркъутур. (Нарт сёз.) ◊ Окъсуз ушкокга юйр",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_22741",
+   "word": "окъугъанлагъа",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "ОКЪУГЪАНЛАГЪА:\nОЮМУГЪУЗНУ ЖАЗАРЫГЪЫЗНЫ ТИЛЕЙБИЗ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "окъугъан",
+     "def": "1) прич. от окъургъа; 2) образованный, грамотный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22745",
+   "word": "окъумакълыкъ",
+   "tags": "отвлеч. к окъургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "окъумагъан",
+     "def": "1) прич. отриц. от окъургъа; 2) неграмотный, необразованный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22764",
+   "word": "окъуу2",
+   "tags": "ат.",
+   "def1": "1) учёба 2) образование; знания 3) учение 4) грамота, письменность 5) учёба, обучение || учебный",
+   "def2": "1. Учёба, обучение, учение 2. В позиции определения: учебный: а) относящийся к учёбе; б) связанный с организацией процесса обучения 3. Образование 4. Учение (напр. Павлова, Дарвина)",
+   "misc1": "школда окъуу учёба в школе; медицина окъуу медицинское образование; орта окъуу среднее образование; уллу окъуу высшее образование; окъуу алыргъа получ",
+   "misc2": "1. Адамны билим алыуу. Окъуу — билим азыгъы, билим а ырысхы къазыгъы. (Нарт сёз.) О Жанымдссн сюйген мени окъууум, Энди окъуууму атама, Жашлай кесилге",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "окъуу1",
+     "def": "и. д. к окъургъа чтение, читка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "окъуу3",
+     "def": "-билимобразование, просвещение",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "окъуу4",
+     "def": "грамота, письменность",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "окъуу-билим",
+     "def": "Просвещение",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "окъуулу",
+     "def": "образованный, грамотный, учёный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "окъуулу-билимли",
+     "def": "Грамотный, образованный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22805",
+   "word": "олтургъан",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "олтургъан къыз засидевшаяся девушка; олтургъанны ит къабмаз погов. сидячего собака не кусает; олтургъан къыз окъа тигер погов. засидевшаяся девушка га",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "олтур",
+     "def": "1) садиться, усаживаться 2) поселиться, осесть (где-л.) 3) потерпеть неудачу; провалиться ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтургъуч",
+     "def": "Сиденье",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "олтурмакълыкъ",
+     "def": "см. олтуруу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтурт",
+     "def": "1) понуд. к олтурургъа 2) усаживать, размещать кого",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "олтуртдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "олтуртдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22809",
+   "word": "олтуртдур",
+   "tags": "понуд. к олтуртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "тюрме ге олтуртдурургъа засадить кого в тюрьму",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "олтур",
+     "def": "1) садиться, усаживаться 2) поселиться, осесть (где-л.) 3) потерпеть неудачу; провалиться ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтургъан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "олтургъуч",
+     "def": "Сиденье",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "олтурмакълыкъ",
+     "def": "см. олтуруу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтурт",
+     "def": "1) понуд. к олтурургъа 2) усаживать, размещать кого",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "олтуртдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22810",
+   "word": "олтуртдуруу",
+   "tags": "и. д. к олтуртдурурггъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "олтур",
+     "def": "1) садиться, усаживаться 2) поселиться, осесть (где-л.) 3) потерпеть неудачу; провалиться ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтургъан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "олтургъуч",
+     "def": "Сиденье",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "олтурмакълыкъ",
+     "def": "см. олтуруу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтурт",
+     "def": "1) понуд. к олтурургъа 2) усаживать, размещать кого",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "олтуртдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22815",
+   "word": "олтурушмакълыкъ",
+   "tags": "отвлеч. к олтурушургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "олтур",
+     "def": "1) садиться, усаживаться 2) поселиться, осесть (где-л.) 3) потерпеть неудачу; провалиться ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтургъан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "олтургъуч",
+     "def": "Сиденье",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "олтурмакълыкъ",
+     "def": "см. олтуруу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "олтурт",
+     "def": "1) понуд. к олтурургъа 2) усаживать, размещать кого",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "олтуртдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22837",
+   "word": "омакъсын",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. омакълан. Тойгъанларын селейте, кюнлерин оздура айланнган чанкала бла офицерле, омакъсынып, ёрге-энишге жюрюйдюле. Гуртуланы Б., Адилгерий, 75.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "омакъ1",
+     "def": "1) нарядный 2) причудливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъ2",
+     "def": "1) нарядно 2) причудливо",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъла",
+     "def": "разукрашивать, наряжать кого-что; украшать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "омакълан",
+     "def": "1. страд. от омакъла 2. Наряжаться 3. Кокетничать, рисоваться, ломаться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22838",
+   "word": "омакъсыныу",
+   "tags": "и. д. от омакъсын",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Омакъсын дегенден этим ат.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "омакъ1",
+     "def": "1) нарядный 2) причудливый",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъ2",
+     "def": "1) нарядно 2) причудливо",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъла",
+     "def": "разукрашивать, наряжать кого-что; украшать кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "омакълан",
+     "def": "1. страд. от омакъла 2. Наряжаться 3. Кокетничать, рисоваться, ломаться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъландыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "омакъландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22872",
+   "word": "онгаймакълыкъ",
+   "tags": "отвлеч. к онгайыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгай",
+     "def": "1) идти на лад, улучшаться, поправляться (о делах и т. п.) 2) посчастливиться, повезти ком",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайгъан",
+     "def": "1) прич. от онгайыргъа 2) счастливый, везучий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймагъан",
+     "def": "1) прич. отриц. от онгайыргъа; 2) несчастливый, невезучий, злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайт",
+     "def": "принести удачу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайтдыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгайтдырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22874",
+   "word": "онгайтдыр",
+   "tags": "понуд. к онгайтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгай",
+     "def": "1) идти на лад, улучшаться, поправляться (о делах и т. п.) 2) посчастливиться, повезти ком",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайгъан",
+     "def": "1) прич. от онгайыргъа 2) счастливый, везучий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймагъан",
+     "def": "1) прич. отриц. от онгайыргъа; 2) несчастливый, невезучий, злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгайт",
+     "def": "принести удачу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайтдырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22875",
+   "word": "онгайтдырыу",
+   "tags": "и. д. к онгайтдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгай",
+     "def": "1) идти на лад, улучшаться, поправляться (о делах и т. п.) 2) посчастливиться, повезти ком",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайгъан",
+     "def": "1) прич. от онгайыргъа 2) счастливый, везучий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймагъан",
+     "def": "1) прич. отриц. от онгайыргъа; 2) несчастливый, невезучий, злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгайт",
+     "def": "принести удачу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайтдыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22876",
+   "word": "онгайтмакълыкъ",
+   "tags": "отвлеч. к онгайтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгай",
+     "def": "1) идти на лад, улучшаться, поправляться (о делах и т. п.) 2) посчастливиться, повезти ком",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайгъан",
+     "def": "1) прич. от онгайыргъа 2) счастливый, везучий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймагъан",
+     "def": "1) прич. отриц. от онгайыргъа; 2) несчастливый, невезучий, злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгайт",
+     "def": "принести удачу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайтдыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22877",
+   "word": "онгайтыу",
+   "tags": "и. д. к онгайтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгай",
+     "def": "1) идти на лад, улучшаться, поправляться (о делах и т. п.) 2) посчастливиться, повезти ком",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайгъан",
+     "def": "1) прич. от онгайыргъа 2) счастливый, везучий",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймагъан",
+     "def": "1) прич. отриц. от онгайыргъа; 2) несчастливый, невезучий, злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгаймакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгайт",
+     "def": "принести удачу",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгайтдыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22880",
+   "word": "онгармакълыкъ",
+   "tags": "отвлеч. к онгарыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгар",
+     "def": "1) слегка полинять, выцвести (о ткани) 2) подурнеть, стать хуже (на лицо ит. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "онгарт",
+     "def": "1) понуд. к онгарыргъа 2) поправлять, улучшать (положение, дела и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгартыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарыл",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылтыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22882",
+   "word": "онгартыу",
+   "tags": "и. д. к онгартыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгар",
+     "def": "1) слегка полинять, выцвести (о ткани) 2) подурнеть, стать хуже (на лицо ит. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "онгармакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарт",
+     "def": "1) понуд. к онгарыргъа 2) поправлять, улучшать (положение, дела и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгарыл",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылтыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22883",
+   "word": "онгарыл",
+   "tags": "эт. страд., возвр. от онгар",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Онгар дегенни зорлаучу, къайтыучу айырмасы. Бизни ишибиз онгарылды. Аны саулугъу онгарылды.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгар",
+     "def": "1) слегка полинять, выцвести (о ткани) 2) подурнеть, стать хуже (на лицо ит. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "онгармакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарт",
+     "def": "1) понуд. к онгарыргъа 2) поправлять, улучшать (положение, дела и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгартыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылтыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22884",
+   "word": "онгарылт",
+   "tags": "понуд. от онгарыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Онгарыл дегенни къатланыучу айырмасы. Къарындашынгы жашауун онгарылт.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгар",
+     "def": "1) слегка полинять, выцвести (о ткани) 2) подурнеть, стать хуже (на лицо ит. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "онгармакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарт",
+     "def": "1) понуд. к онгарыргъа 2) поправлять, улучшать (положение, дела и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгартыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарыл",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылтыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22885",
+   "word": "онгарылтыу",
+   "tags": "и.д. от онгарылт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Онгарылт дегенден этим ат. Мюлкню онгарылтыу. Саулугъун онгарылтыу.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгар",
+     "def": "1) слегка полинять, выцвести (о ткани) 2) подурнеть, стать хуже (на лицо ит. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "онгармакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарт",
+     "def": "1) понуд. к онгарыргъа 2) поправлять, улучшать (положение, дела и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгартыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарыл",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22886",
+   "word": "онгарылыу",
+   "tags": "и.д. от онгарыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Онгарыл дегенден этим ат. Жашны неси да онгарылыуу бизни къууандырды.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгар",
+     "def": "1) слегка полинять, выцвести (о ткани) 2) подурнеть, стать хуже (на лицо ит. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "онгармакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарт",
+     "def": "1) понуд. к онгарыргъа 2) поправлять, улучшать (положение, дела и т. п.)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгартыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарыл",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгарылт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22890",
+   "word": "онгдурмакълыкъ",
+   "tags": ", II отвлеч. к онгдурургъа I, II",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгдур1",
+     "def": "1) понуд. к онгаргъа II 2) угодить, потрафить кому, осчастливить кого (делая что-л. важное",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгдур2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "онгдурт1",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгдурт2",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгдуртуу1",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "онгдуртуу2",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22909",
+   "word": "онглукъ",
+   "tags": "ат. къ. онг",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. Жерим артыкълыкъдан, зулмудан толуп, Кючлю юочсюзню жекгенин кёреме. «Жарлы халкъыма, бир онглукъ келсин», деп, Аллахдан адамладан да тилейме. Мёчг",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "онглу",
+     "def": "1) превосходящий (по силе, размеру, количеству, качеству и т. п.) 2) выдающийся, известный",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "онглулукъ",
+     "def": "1) превосходство, преобладание, преимущество 2) известность",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22911",
+   "word": "онгмагъан",
+   "tags": "",
+   "def1": "1) прич. отриц. к онгаргъа II 2) невезучий, несчастливый; злополучный",
+   "def2": "",
+   "misc1": "онгмагъан адам неудачник; онгмагъан юйдеги злополучная семья; бир онгмагъан зат болду! а) экая напасть!; б)такой уж неудачник!; онгмагъанлагъа нёгер б",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгмагъанлыкъ",
+     "def": "невезучесть, неудачливость",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмазлыкъ",
+     "def": "непутёвый; злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмау",
+     "def": "провал, неудача, невезение",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22912",
+   "word": "онгмагъанлыкъ",
+   "tags": "отвлеч. к онгмагъан",
+   "def1": "невезучесть, неудачливость",
+   "def2": "",
+   "misc1": "(гъы)",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгмагъан",
+     "def": "1) прич. отриц. к онгаргъа II 2) невезучий, несчастливый; злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмазлыкъ",
+     "def": "непутёвый; злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмау",
+     "def": "провал, неудача, невезение",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22913",
+   "word": "онгмазлыкъ",
+   "tags": "пренебр.",
+   "def1": "непутёвый; злополучный",
+   "def2": "",
+   "misc1": "кет, сен онгмазлыкъ! да ну тебя, непутёвая ты!",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгмагъан",
+     "def": "1) прич. отриц. к онгаргъа II 2) невезучий, несчастливый; злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмагъанлыкъ",
+     "def": "невезучесть, неудачливость",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмау",
+     "def": "провал, неудача, невезение",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22914",
+   "word": "онгмакълыкъ",
+   "tags": ", II отвлеч. к онгаргъа I, II",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "онгмагъан",
+     "def": "1) прич. отриц. к онгаргъа II 2) невезучий, несчастливый; злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмагъанлыкъ",
+     "def": "невезучесть, неудачливость",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмазлыкъ",
+     "def": "непутёвый; злополучный",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "онгмау",
+     "def": "провал, неудача, невезение",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22922",
+   "word": "онгсузла",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Онгсуз эт (къ. онгсуз II). Кюншо иссилиги бизни онгсузлады.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "онгсуз1",
+     "def": "1) немощный, слабый 2) бедный, неимущий",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсуз2",
+     "def": "Слабо",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсузлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "онгсузлукъ",
+     "def": "1) немощность, слабость 2) бедность",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсузсун",
+     "def": "Считать слабым, беспомощным, бедным",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсузсунуу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22923",
+   "word": "онгсузлау",
+   "tags": "и.д. от онгсузла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Онгсузла дегенден этим ат. Ауруу онгсузлау.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "онгсуз1",
+     "def": "1) немощный, слабый 2) бедный, неимущий",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсуз2",
+     "def": "Слабо",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсузла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "онгсузлукъ",
+     "def": "1) немощность, слабость 2) бедность",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсузсун",
+     "def": "Считать слабым, беспомощным, бедным",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "онгсузсунуу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_22959",
+   "word": "оннгундуруу",
+   "tags": "и. д. к онгсундурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_22992",
+   "word": "оп",
+   "tags": "",
+   "def1": "тары-бары",
+   "def2": "",
+   "misc1": "-соп; оп эте айланыргъа разводить тары-бары; ходить и трепать языком",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_23071",
+   "word": "органика",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Органический",
+   "misc1": "органика химия органическая химия; органикагъа тийишмеген неорганический; органикагъа тийишмеген семиртгичле неорганические удобрения",
+   "misc2": "Битимле эм жаныуарла бла байламлы болуучу, алада тюбеучю. Минерал, органика ашаула иги хайыр бергенлерин мюлк сынагъанды. «Ленинни байрагъы», 1981, № ",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "орган1",
+     "def": "орган",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "орган2",
+     "def": "орган || органный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "организатор",
+     "def": "организатор",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организаторлукъ",
+     "def": "1. отвлеч. к организатор 2. организаторский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организацион",
+     "def": "организационный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организация",
+     "def": "организация",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23072",
+   "word": "органикалы",
+   "tags": "сыф.",
+   "def1": "органический",
+   "def2": "",
+   "misc1": "органикалы удобрениеле органические удобрения",
+   "misc2": "къ. органика. Противогазланы «Г» маркалы коробкалары уа органикалы препаратланы ууларын тыядыла. «Коммунизмге жол», 1984, № 139.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "орган1",
+     "def": "орган",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "орган2",
+     "def": "орган || органный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "организатор",
+     "def": "организатор",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организаторлукъ",
+     "def": "1. отвлеч. к организатор 2. организаторский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организацион",
+     "def": "организационный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организация",
+     "def": "организация",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23073",
+   "word": "органикалыкъ",
+   "tags": "",
+   "def1": "органический",
+   "def2": "",
+   "misc1": "органикалыкъ химия органическая химия",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "орган1",
+     "def": "орган",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "орган2",
+     "def": "орган || органный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "организатор",
+     "def": "организатор",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организаторлукъ",
+     "def": "1. отвлеч. к организатор 2. организаторский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организацион",
+     "def": "организационный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организация",
+     "def": "организация",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23074",
+   "word": "органчы",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Органист",
+   "misc1": "",
+   "misc2": "Органны согъуучу музыкант. Килисада ишлеген жарлы органчы Къыш къар басхан орамда баргъанында, Аякълары юшюучю эдиле, аны, Жылы заты жокъ эди аягъында",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "орган1",
+     "def": "орган",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "орган2",
+     "def": "орган || органный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "организатор",
+     "def": "организатор",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организаторлукъ",
+     "def": "1. отвлеч. к организатор 2. организаторский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организацион",
+     "def": "организационный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "организация",
+     "def": "организация",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23077",
+   "word": "орден1",
+   "tags": "ат.",
+   "def1": "орден|| орденский",
+   "def2": "Орден (знак отличия)",
+   "misc1": "орден берирге а) наградить орденом; б) вручить орден; орденле ордена, регалии; бютеу орденлерин тагъыб при всех регалиях; орден алгъан орденоносец; ор",
+   "misc2": "Урушда неда урунууда уллу жетишими болгъаннга берилиучю энчи белги. Хурметни ордени. Орден бла саугъаланыу. ◊ Майор Бычковну махтаулу жигитликлери Къы",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "орден2",
+     "def": "орден",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "орденли",
+     "def": "орденоносный",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "орденоносец",
+     "def": "орденоносец",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23078",
+   "word": "орден2",
+   "tags": "ист.",
+   "def1": "орден",
+   "def2": "",
+   "misc1": "иезуитлени ордени иезуитский орден",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "орден1",
+     "def": "орден|| орденский",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "орденли",
+     "def": "орденоносный",
+     "lextag": "social_relations",
+     "conf": "low"
+    },
+    {
+     "word": "орденоносец",
+     "def": "орденоносец",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23079",
+   "word": "орденли",
+   "tags": "сыф.",
+   "def1": "орденоносный",
+   "def2": "Орденоносный",
+   "misc1": "орденли колхоз орденоносный колхоз",
+   "misc2": "Орден бла саугъаланнган. Орденли колхоз. Орденли институт. ◊ Тёрт орденли Къабарты-Малкъарым Умутла жашната кёлюмде, Ишчини да, ишни да махтадым Дуния",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "орден1",
+     "def": "орден|| орденский",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "орден2",
+     "def": "орден",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "орденоносец",
+     "def": "орденоносец",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23083",
+   "word": "ордината",
+   "tags": "энчи.",
+   "def1": "",
+   "def2": "Ордината",
+   "misc1": "",
+   "misc2": "Кенгликде точканы болгъан жерин кёргюзтюучю эки (юч) ёлчемден бирини аты.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "ординарец",
+     "def": "ординарец",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "ординатор",
+     "def": "ординатор",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "ординаторлукъ",
+     "def": "1. отвлеч. к ординатор; ординаторство 2. ординаторский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "ординаторский",
+     "def": "ординаторская",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "ординатура",
+     "def": "ординатура",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23086",
+   "word": "ординаторский",
+   "tags": "",
+   "def1": "ординаторская",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "ординарец",
+     "def": "ординарец",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "ордината",
+     "def": "Ордината",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "ординатор",
+     "def": "ординатор",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "ординаторлукъ",
+     "def": "1. отвлеч. к ординатор; ординаторство 2. ординаторский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "ординатура",
+     "def": "ординатура",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_23094",
+   "word": "оригинал",
+   "tags": "ат.",
+   "def1": "оригинал|| оригинальный",
+   "def2": "Оригинал (подлинник)",
+   "misc1": "портретни оригиналы оригинал портрета",
+   "misc2": "Бир затны копиясы угъай, кеси, подлинниги. Бек фахмулу кёчюрюучюледен бири: Липкин Кязимни чыгъармаларын оригиналгъа жууукълашдырып, орусчагъа кёчюрюп",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "оригиналлы",
+     "def": "оригинальный, подлинный",
+     "lextag": "objects_and_technology",
+     "conf": "low"
+    },
+    {
+     "word": "оригиналлыкъ",
+     "def": "оригинальность",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  }
+ ]
+}

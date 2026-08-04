@@ -1,0 +1,254 @@
+{
+ "items": [
+  {
+   "entry_id": "e_09500",
+   "lextag": "emotions_and_will",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09501",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09502",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09503",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09504",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09505",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09506",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09507",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09508",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09509",
+   "lextag": "objects_and_technology",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09510",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09511",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09512",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09513",
+   "lextag": "logic_and_function_words",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_09514",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09515",
+   "lextag": "actions_and_activities",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09516",
+   "lextag": "mind_and_cognition",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09517",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09518",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09519",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09520",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09521",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09522",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09523",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09524",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09525",
+   "lextag": "human_body",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_09526",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09527",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09528",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09529",
+   "lextag": "human_body",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_09530",
+   "lextag": "human_body",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09531",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09532",
+   "lextag": "language_and_communication",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09533",
+   "lextag": "language_and_communication",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09534",
+   "lextag": "logic_and_function_words",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09535",
+   "lextag": "objects_and_technology",
+   "confidence": "low"
+  },
+  {
+   "entry_id": "e_09536",
+   "lextag": "social_relations",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09537",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09538",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09539",
+   "lextag": "space_and_time",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09540",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09541",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09542",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09543",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09544",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09545",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09546",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09547",
+   "lextag": "economy_and_society",
+   "confidence": "high"
+  },
+  {
+   "entry_id": "e_09548",
+   "lextag": "economy_and_society",
+   "confidence": "medium"
+  },
+  {
+   "entry_id": "e_09549",
+   "lextag": "culture_and_spirituality",
+   "confidence": "medium"
+  }
+ ]
+}

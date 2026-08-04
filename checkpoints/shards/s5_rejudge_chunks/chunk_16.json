@@ -1,0 +1,4794 @@
+{
+ "items": [
+  {
+   "entry_id": "e_20219",
+   "word": "ма-а-а",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Подражание блеянию мелкого рогатого скота.",
+   "misc1": "",
+   "misc2": "Ууакъ аякълы мал макъыргъанда этген тауушну кёргюзтеди. Къозучукъ, «ма-а-а» деп, анасына чапды. Къой, эчки «ма-а-а», киштик а «мяу» деп макъырадыла.",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_20264",
+   "word": "мадар2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мажар. [Мухаммат:] Агъачны бла шиферни заманында мадарып бералмайбыз да, [юй ишлегенле] бираз чырмаладыла. Боташланы И., Пьесала, 176. Атлыланы ти",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мадар1",
+     "def": "1) возможность 2) способ, средство",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "мадарла",
+     "def": "принимать меры, предпринимать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарламакълыкъ",
+     "def": "принятие мер",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарлау",
+     "def": "принятие мер",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарлаучу",
+     "def": "находчивый, предприимчивый, оборотливый [человек]",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "мадарлаучулукъ",
+     "def": "находчивость, предприимчивость, оборотливость",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20276",
+   "word": "мадарымлы",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мажарыулу. Къасболат бла Аймёлек ишсиз туралмагъан, жигер, мадарымлы адамладыла. «Шуёхлукъ», № 53, 109.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "мадар1",
+     "def": "1) возможность 2) способ, средство",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "мадар2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мадарла",
+     "def": "принимать меры, предпринимать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарламакълыкъ",
+     "def": "принятие мер",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарлау",
+     "def": "принятие мер",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарлаучу",
+     "def": "находчивый, предприимчивый, оборотливый [человек]",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20278",
+   "word": "мадарыулу",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мажарыулу. Мадарыулу саргъыл тёртгюл хан Уммет киеу нёгер атлыланы къурады. Шахмырзаланы С., Ол ёмюрледе, 47.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "мадар1",
+     "def": "1) возможность 2) способ, средство",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "мадар2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мадарла",
+     "def": "принимать меры, предпринимать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарламакълыкъ",
+     "def": "принятие мер",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарлау",
+     "def": "принятие мер",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мадарлаучу",
+     "def": "находчивый, предприимчивый, оборотливый [человек]",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20299",
+   "word": "мажарла",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мажар. Тёрт арба биченни алай терк мажарлап келтиргенине Аубекирге акъла ыспас этген эдиле. Залийханланы Ж., Тау къушла, 285. [Токълу улу:] Ма бу ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20300",
+   "word": "мажарлау",
+   "tags": "и. д. от мажарла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажарла дегенден этим ат. Бир ишни мажарлау.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20301",
+   "word": "мажарт",
+   "tags": "эт. понуд. от мажар",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажар дегенни къатланыучу айырмасы. Чалгъы мажарт. Бичен келтирирге трактор мажарт.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20302",
+   "word": "мажартыл",
+   "tags": "эт. страд. от мажарт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажарт дегенни зорлаучу айырмасы. Аппагъа гулоч таякъ мажартылды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20303",
+   "word": "мажартылыу",
+   "tags": "и. д. от мажартыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажартыл дегенден этим ат. Маллагъа туз мажартылыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20304",
+   "word": "мажартыу",
+   "tags": "и. д. от мажарт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажарт дегенден этим ат. Ауругъаннга дарман мажартыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20305",
+   "word": "мажарыл",
+   "tags": "эт. страд. от мажар",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажар дегенни зорлаучу айырмасы. Ол зат [къылкъы жыйыу] иги мажарылса, кеминде тогъуз-он пуд мирзеу боллукъду. Этезланы О., Тарда, 201. Ыстауат да бек",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20306",
+   "word": "мажарылыу",
+   "tags": "и. д. от мажарыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажарыл дегенден этим ат. Тракторлагъа кереклени мажарылыулары. Ишни кезиуюнде мажарылыуу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20307",
+   "word": "мажарыу",
+   "tags": "и. д. от мажар",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажар дегенден этим ат. Бизде барды уллу къарыу, Тынч болгъанды иш мажарыу. Мёчюланы К., Сайлама чыгъармалары, 145. Адылгерийни насып мажарыуу, Таудан",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20312",
+   "word": "мажарыш",
+   "tags": "эт. взаимн.-совм. от мажар",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажар дегенни араш айырмасы. Жашла, чалгъыла мажарышып, чалгъыгъа чыкъдыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20313",
+   "word": "мажарышыу",
+   "tags": "и. д. от мажарыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мажарыш дегенден этим ат. Бир затны мажарышыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мажарла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажарт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мажартыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20370",
+   "word": "макъы",
+   "tags": "ат. саб.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. къой. Жашчыкъ «макъы», - деп, къойну аллына чабады.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "макъыр",
+     "def": "1. Блеять 2. Мяукать 3. кёч. Плакать",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "макъырда",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "макъырдауукъ",
+     "def": "Часто блеющий (об овце, козе и т.п.)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "макъырт",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "макъыртдыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "макъыртдырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20414",
+   "word": "малхыяр",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. малхуния. Ол малхыяр адамды, аны бла даулашхандан магъана жокъду.",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_20418",
+   "word": "мальдир",
+   "tags": "парн. к шальдир-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_20431",
+   "word": "мамметтир",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. биттир. Тау ичине жангы келген къурулушчулагъа сейирсиннгенча, къымыжа мамметтир къошну тёгерегине эрикмей учады. Тёппеланы А., Отлукъ ташла, 133.",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_20453",
+   "word": "манашхы",
+   "tags": "груб.",
+   "def1": "",
+   "def2": "",
+   "misc1": "не манашхыны излейсе? какого чёрта ты ищешь?",
+   "misc2": "",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_20464",
+   "word": "мангылайлыкъ",
+   "tags": "",
+   "def1": "1) отвлеч. к мангылай 2) налобник (ремень в конской уздечке)",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "мангы",
+     "def": "монета",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "мангылай",
+     "def": "1) лоб || лобный, лобовой 2) фасад || фасадный",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "мангыра",
+     "def": "блеять (об овце)",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мангырамаз",
+     "def": "Козёл или баран после четырёх лет",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мангырамакълыкъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мангырат",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20537",
+   "word": "марамакьлыкъ",
+   "tags": "отвлеч. к мараргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_20553",
+   "word": "мардаламакълыкъ",
+   "tags": "отвлеч. к мардаларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "марда",
+     "def": "1) норма; доза, мера 2) предел, мера, граница",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардала",
+     "def": "1) нормировать, дозировать что 2) ограничивать кого-что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардалан",
+     "def": "приводиться к норме, доводиться до нормы (дозы), нормироваться; ограничиваться, быть огран",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардаланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардалат",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "мардалатыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20556",
+   "word": "мардалат",
+   "tags": "понуд. к мардаларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "марда",
+     "def": "1) норма; доза, мера 2) предел, мера, граница",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардала",
+     "def": "1) нормировать, дозировать что 2) ограничивать кого-что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардаламакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "мардалан",
+     "def": "приводиться к норме, доводиться до нормы (дозы), нормироваться; ограничиваться, быть огран",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардаланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардалатыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20557",
+   "word": "мардалатыу",
+   "tags": "и. д. к мардалатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "марда",
+     "def": "1) норма; доза, мера 2) предел, мера, граница",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардала",
+     "def": "1) нормировать, дозировать что 2) ограничивать кого-что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардаламакълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "мардалан",
+     "def": "приводиться к норме, доводиться до нормы (дозы), нормироваться; ограничиваться, быть огран",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардаланыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мардалат",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20590",
+   "word": "марла",
+   "tags": "эт.",
+   "def1": "см. мараргъа",
+   "def2": "",
+   "misc1": "марлаб тургъанча как на грех",
+   "misc2": "1. къ. мара 1. Къасболат биягъы ушкогун жерлеп, ючюнчю кере ёретинлей илишанны марлады. Шахмырзаланы С., Танг аласында, 34. Уучу, ушкокну терк жерлеп,",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20591",
+   "word": "марламакълыкъ",
+   "tags": "отвлеч. к марларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20592",
+   "word": "марлан",
+   "tags": "эт. страд. от марла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Марла дегенни зорлаучу айырмасы. Къызгъанч кёзден къарамаз Сени къууанчынга къоншунг, Сёзге кирип да марланмаз Жашау-ашау болушунг. Макытланы С., Жаша",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20593",
+   "word": "марланыу",
+   "tags": "и. д. от марлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Марлан дегенден этим ат. Кийикни марланыуу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20594",
+   "word": "марлат1",
+   "tags": "понуд. к марларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20595",
+   "word": "марлат2",
+   "tags": "взаимн.-возвр. к марларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20596",
+   "word": "марлатыу",
+   "tags": "и. д. к марлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20597",
+   "word": "марлау",
+   "tags": "и. д. к марларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20598",
+   "word": "марлаучу",
+   "tags": "",
+   "def1": "см. мараучу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20599",
+   "word": "марлашыу",
+   "tags": "и. д. к марлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "марла",
+     "def": "см. мараргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "марлат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20613",
+   "word": "мартла",
+   "tags": "",
+   "def1": "то же, что март-гурт(ла)",
+   "def2": "",
+   "misc1": "-гуртла",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_20634",
+   "word": "масагъатлы",
+   "tags": "уст.",
+   "def1": "масагъатлы иш поступок [совершённый] по чьему-л. совету, действие по чьему-л. наставлению",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "масагъат",
+     "def": "совет, наставление",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "масагъатсыз",
+     "def": "масагъатсыз иш самовольный поступок, действие без спроса (без совета)",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "масагъатчы",
+     "def": "советчик, наставник",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20635",
+   "word": "масагъатсыз",
+   "tags": "уст.",
+   "def1": "масагъатсыз иш самовольный поступок, действие без спроса (без совета)",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "масагъат",
+     "def": "совет, наставление",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "масагъатлы",
+     "def": "масагъатлы иш поступок [совершённый] по чьему-л. совету, действие по чьему-л. наставлению",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "масагъатчы",
+     "def": "советчик, наставник",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20647",
+   "word": "масса",
+   "tags": "ат.",
+   "def1": "1. масса || массный 2. массовый",
+   "def2": "Масса",
+   "misc1": "",
+   "misc2": "Бир затны къургъан затны саны, кёплюгю эм ол зат кеси. Хар кюн сайын беш жюз тоннадан аслам силослукъ масса чунгурлагъа къуюлгъанлай турады. «Ленинни ",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "массаж",
+     "def": "массаж || массажный",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "массажист",
+     "def": "то же, что массажчы",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "массажчы",
+     "def": "массажист",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20651",
+   "word": "массив",
+   "tags": "",
+   "def1": "массив",
+   "def2": "",
+   "misc1": "чегет массив лесной массив",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_20665",
+   "word": "масхара2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "масхара этерге насмехаться над кем; позорить кого",
+   "misc2": "къ. масхарала. Кацийланы Х. ишлемей, бош айланнганланы масхарайды. «Шуёхлукъ», № 22, 130. Алайдагъыла бары да Хажини масхарап, кюлдюле. Этезланы О., Т",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "масхаb",
+     "def": "1) мус. направление 2) порядок, правило",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "масхаблы",
+     "def": "соответствующий правилам",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "масхаблылыкъ",
+     "def": "соответствие порядку (правилам)",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "масхабсыз1",
+     "def": "бесцеремонный, нарушающий порядок (правила)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "масхабсыз2",
+     "def": "Беспорядочно, хаотично",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "масхабсызлыкъ",
+     "def": "бесцеремонность",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20693",
+   "word": "материаловедение",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Материаловедение",
+   "misc1": "",
+   "misc2": "Производствону бир бёлюмюню материалларыны (1-чи магъ.) юсюнден илму. Къызла бла жашла класслада материаловедениядан, технологиядан, обществоведенияда",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "материал",
+     "def": "материал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "материализм",
+     "def": "материализм || материалистический",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "материалист",
+     "def": "1. материалист 2. материалистический",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "материалистлик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "материк",
+     "def": "материк",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "материя",
+     "def": "1. 1) филос. материя 2) материя, ткань ж 2. филос. материальный, вещественный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20696",
+   "word": "материялы",
+   "tags": "филос.",
+   "def1": "материальный",
+   "def2": "",
+   "misc1": "материялы дуния материальный мир",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "материал",
+     "def": "материал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "материализм",
+     "def": "материализм || материалистический",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "материалист",
+     "def": "1. материалист 2. материалистический",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "материалистлик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "материаловедение",
+     "def": "Материаловедение",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "материк",
+     "def": "материк",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20705",
+   "word": "матушко",
+   "tags": "ат. эриши сёз.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. марушко 1. [Абдуллах:] Мен дертими жетдирип башлагъанма. Энди ол Маржан матушкогъа жетдирликме. Залийханланы Ж., Тау къушла, 262.\n2. къ. марушк",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_20712",
+   "word": "мах",
+   "tags": "",
+   "def1": "возглас, которым подзывают собаку",
+   "def2": "Подстраивать кому-л. шутку",
+   "misc1": "мах-мах! на-на!",
+   "misc2": "Мах деп берди. Алгъадан этерге деп дерт этип туруп, жашартын бир зат этип къойду. [Балдан:] Тобады, къоншу колхозчула дырын жыйыуда мах деп бере тура ",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_20715",
+   "word": "махист",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Махист",
+   "misc1": "",
+   "misc2": "Махизмни тюзге санагъан философ.",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_20748",
+   "word": "махтаулу2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Успешно",
+   "misc1": "махтаулу урунургъа славно трудиться",
+   "misc2": "Махтарча, махтаугъа тийиншли болурча. Коллективде махтаулу ишлегенлени белгилейдиле. «Ленинни байрагъы», 1981, № 72. Жашчыкъ онунчу жылына ючюнчю клас",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "махта",
+     "def": "хвалить, восхвалять кого-что; прославлять кого-что",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "махтал",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "махталгъан",
+     "def": "хвалёный",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "махталмакълыкъ",
+     "def": "похвала, восхваление",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "махталыу",
+     "def": "слава",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "махтамакълыкъ",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20760",
+   "word": "мачукъа",
+   "tags": "балк.",
+   "def1": "то же, что мечукъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_20796",
+   "word": "маёвка",
+   "tags": "ист.",
+   "def1": "маёвка",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_20870",
+   "word": "мелча",
+   "tags": "",
+   "def1": "как мел",
+   "def2": "",
+   "misc1": "мелча акъ белый как мел",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_20899",
+   "word": "мент",
+   "tags": "парн. к сент-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_20908",
+   "word": "мерекеблик",
+   "tags": "отвлеч. к мерекеб",
+   "def1": "",
+   "def2": "",
+   "misc1": "(ги)",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "мерекеb",
+     "def": "чернила || чернильный",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20916",
+   "word": "меси",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мес. [Абдул-Къадыр] жангы этилген сахтиян месилери жырылдай, юйню бир мюйюшюне бурулду. Аппаланы Х., Къара кюбюр, 132. Буту сыннганлы Дауут месиси",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_20919",
+   "word": "мессилик",
+   "tags": "отвлеч..к месси",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "месси",
+     "def": "то же,что мес",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20953",
+   "word": "метрика1",
+   "tags": "ат. лит.",
+   "def1": "метрика || метрический",
+   "def2": "Метрика",
+   "misc1": "метрика джорукъда назму этиу метрическое стихосложение",
+   "misc2": "Литератураны теориясыны назму ёлчемлени эм назму жазыуну юсюнден бёлюмю. Бир-бир поэтле метриканы жорукъларын иги сакълайдыла.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "метрика2",
+     "def": "метрика уст., свидетельство о рождении || метрический",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20996",
+   "word": "мижегели",
+   "tags": "",
+   "def1": "имеющий запасы (богатства)",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мижеге1",
+     "def": "1) [мышиная] норка с запасами 2) перен. запасы, богатства",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мижеге2",
+     "def": "Хлеб из пшенной муки, в тесто которой добавляются сахар и масло",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "мижегелик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "мижеген",
+     "def": "то же, что мижеге",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21008",
+   "word": "мизаякъ",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "мизаякъ буу фольк. олень с острыми копытами",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_21010",
+   "word": "мизгора",
+   "tags": "",
+   "def1": "см. джезгора",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_21038",
+   "word": "милдеуле",
+   "tags": "балк.",
+   "def1": "то же. что миндеулерге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "милдеу1",
+     "def": "то же, что миндеу",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "милдеу2",
+     "def": "то же, что миндеу",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "милдеулеу",
+     "def": "то же, что миндеулеу",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21039",
+   "word": "милдеулеу",
+   "tags": "балк.",
+   "def1": "то же, что миндеулеу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "милдеу1",
+     "def": "то же, что миндеу",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "милдеу2",
+     "def": "то же, что миндеу",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "милдеуле",
+     "def": "то же. что миндеулерге",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21079",
+   "word": "минафык",
+   "tags": "",
+   "def1": "то же, что мынафык",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "минафыклыкъ",
+     "def": "то же, что мынафыкълыкъ",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21080",
+   "word": "минафыклыкъ",
+   "tags": "",
+   "def1": "то же, что мынафыкълыкъ",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "минафык",
+     "def": "то же, что мынафык",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21092",
+   "word": "миндауат эт",
+   "tags": "къарач. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "ууаз бер (къ. ууаз). Жанны къутхарыуну юсюнден динни бу миндауат этиуюн капиталистле хар не мадарла бла да къаты тутадыла. «Естествознание», 129.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "миндаль",
+     "def": "1. Миндаль (плод) 2. В позиции определения: миндальный",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21118",
+   "word": "минералогия",
+   "tags": "ат.",
+   "def1": "минералогия минерге 1) влезать, забираться; подниматься 2) садиться куда-л. (для поездки); подниматься, расти 4) ездить 5) прям., перен. стать, встать",
+   "def2": "Минералогия",
+   "misc1": "терекге минералогия влезть на дерево; таугъа минералогия взойти (или подняться) на гору; дуппургъа минералогия подняться на холм; тырнакълаб минералог",
+   "misc2": "Минералланы юсюнден илму. Студентле минералогияны юсюнден лекциягъа тынгылагъандыла.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "минерал",
+     "def": "минерал || минеральный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "минералог",
+     "def": "Минералог",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21137",
+   "word": "минт",
+   "tags": "парн. к тинт-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_21157",
+   "word": "мисир",
+   "tags": "сыф.",
+   "def1": "1.(М прописная) Египет 2. священный",
+   "def2": "1. Египетский 2. Священный, святой",
+   "misc1": "хар адамны туугъан джери кесине мисир для каждого своя родина священна",
+   "misc2": "1. Мисирлиленики. Сыйлы къонакъны биргесине аны бла келген мисир оноучула да кетгендиле. «Ленинни байрагъы», 1979, № 91. Мекямны къатында, мисир пирам",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "мисирли",
+     "def": "египтянин",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21176",
+   "word": "мичуринчи",
+   "tags": "",
+   "def1": "мичуринец",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_21199",
+   "word": "мкжюллеу",
+   "tags": "карач. и. д. к мюкюллерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_21200",
+   "word": "многочлен",
+   "tags": "мат.",
+   "def1": "многочлен",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21217",
+   "word": "мойта",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. акъсуу. Ыйналукъну гыржыны уа гыржын тюйюлмю эди, айраны быланы мойталарынданмы осал эди? Толгъурланы З., Эрирей, 200.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21223",
+   "word": "молджал",
+   "tags": "ат. сёл.; балк.",
+   "def1": "то же, что болджал",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. болжал. Бир кишиге молжалдан кеч келмедим, Ёлюмден хатыр сурагъан кёрмедим. Къулийланы Къ., Чумла къызарадыла, 140. Алайлада малкъарлы ылышкычыла ",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_21233",
+   "word": "мома",
+   "tags": "ат. саб. ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. маму. «Мома келеди!» - деселе, жашчыкъ, къоркъуп, тёгерегине къарай эди.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21247",
+   "word": "монгай",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "монг бол (къ. монг). [Бай:] Манга ийнанмагъанла, сабий эселе, уллаймазла, уллу эселе монгаймазла. Тёппеланы А., Ташыуул.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21248",
+   "word": "монгайт",
+   "tags": "эт. понуд. от монгай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгай дегенни къатланыучу айырмасы. Гелля жашланы, жангы ургъан жау бла жылы гыржын ашатып, монгайтып жибереди.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21249",
+   "word": "монгайтдыр",
+   "tags": "эт. понуд. от монгайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгайт дегенни къатланыучу айырмасы. Чалгъычыланы шапа монгайтдырады, суусап береди.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21250",
+   "word": "монгайтдырыу",
+   "tags": "и. д. от монгайтдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгайтдыр дегенден этим ат. Къонакъны монгайтдырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21251",
+   "word": "монгайтыл",
+   "tags": "эт. страд. от монгайт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгайт дегенни зорлаучу айырмасы. Монгайтылгъан сабанчыла ишни тири бардырадыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21252",
+   "word": "монгайтылыу",
+   "tags": "и. д. от монгайтыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгайтыл дегенден этим ат.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21253",
+   "word": "монгайыш",
+   "tags": "эт. взаимн.-совм. от монгай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгай дегенни араш айырмасы. Тымлы зат ашагъан болур эдиле: сабийле ингирге дери, монгайышып, ашарыкълары келмей айланадыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21254",
+   "word": "монгайышыу",
+   "tags": "и. д. от монгайыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Монгайыш дегенден этим ат.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "монгай",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайт",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдыр",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "монгайтылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21279",
+   "word": "морг",
+   "tags": "ат.",
+   "def1": "морг; покойницкая",
+   "def2": "Морг",
+   "misc1": "",
+   "misc2": "Больницада ёлюклени кезиуге дери тутуучу жер. Аны [Саматны] ёлюгюн моргда тапдыла. «Коммунизмге жол», 1977, № 188.",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_21290",
+   "word": "морт1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Хрупкий, ломкий 2. кёч. Старый, прежний, не современный, устаревший",
+   "misc1": "",
+   "misc2": "1. Сыныучу, ууалыучу, шатык. [Хамызат:] Тейри, Назычыкъ, бош гынттылы боласа, биз да морт жерклени томура келмегенбиз. Тёппеланы А., Кюн батмайды, 210",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "морт2",
+     "def": "плесень ж || плесенный; плесневой",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "морт3",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21292",
+   "word": "морт3",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "морт, морт, морт, алаша, къуйрукъчугъу чорт алаша загадка рысью, рысью лошадка, хвостик обрубленный у лошадки (отгадка бор сукъ барсук)",
+   "misc2": "къ. чорт. Буз келе келип, терек бутакъгъа тийсе, аны морт юзюп атады. Гуртуланы Б., Жангы талисман, 27.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "морт1",
+     "def": "1. Хрупкий, ломкий 2. кёч. Старый, прежний, не современный, устаревший",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "морт2",
+     "def": "плесень ж || плесенный; плесневой",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21330",
+   "word": "мотоциклист",
+   "tags": "ат.",
+   "def1": "мотоциклист",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мотоциклчи. Почтаны жюрютген мотоциклист къынгыр, къапхакълы жоллада букъу этап ташаяды. Хубийланы О., Аманат, III, 135. Байрам демонстрацияны мот",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мотоцикл",
+     "def": "мотоцикл",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мотоциклет",
+     "def": "мотоциклет || мотоциклетный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мотоциклчи",
+     "def": "Мотоциклист",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "мотоциклчы",
+     "def": "то же, что мотоциклист",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21331",
+   "word": "мотоциклчи",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Мотоциклист",
+   "misc1": "",
+   "misc2": "Мотоциклни жюрютген адам. Эришген мотоциклчилеге старт берилди. «Ленинни байрагъы», 1981, № 163. Жолгъа жюзге жууукъ мотоциклчи чыкъгъанды. Гыттыуланы",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мотоцикл",
+     "def": "мотоцикл",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мотоциклет",
+     "def": "мотоциклет || мотоциклетный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мотоциклист",
+     "def": "мотоциклист",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "мотоциклчы",
+     "def": "то же, что мотоциклист",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21332",
+   "word": "мотоциклчы",
+   "tags": "",
+   "def1": "то же, что мотоциклист",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мотоцикл",
+     "def": "мотоцикл",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мотоциклет",
+     "def": "мотоциклет || мотоциклетный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мотоциклист",
+     "def": "мотоциклист",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "мотоциклчи",
+     "def": "Мотоциклист",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21356",
+   "word": "мугурбоюн",
+   "tags": "сыф. сёл. тил. къ. мугур I (2-чи магъ.)",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугурбоюн, юйю ашсыз, бу кимди? Шахмырзаданы С., Заман жели, 32.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "мугур1",
+     "def": "печальный, унылый, безрадостный; подавленный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "мугур2",
+     "def": "Уныло, печально, грустно, понуро",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "мугурай",
+     "def": "опечалиться, омрачиться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "мугурайт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "мугурайтдыр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "мугурайтдырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21375",
+   "word": "мугутлан",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугут бол. (къ. мугут). Ётмек мугутланнганды. Эски гебенни тюбю Мугутланыр, терк чирир. Ана чычхан уясын Анда этерге кирир. Гуртуланы Б., Жарыкъ танг,",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мугут",
+     "def": "то же, что мукъут",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мугутландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21376",
+   "word": "мугутландыр",
+   "tags": "эт. понуд. от мугутлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугутлан дегенни къатланыучу айырмасы. Жашла биченни, чийлей жыйып, мугутландыргъандыла.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мугут",
+     "def": "то же, что мукъут",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мугутлан",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21377",
+   "word": "мугутландырыл",
+   "tags": "эт. страд. от мугутландыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугутландыр дегенни зорлаучу айырмасы. Киши къарамай къалып, гыржынла, бышлакъла да мугутландырылгъандыла.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мугут",
+     "def": "то же, что мукъут",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мугутлан",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21378",
+   "word": "мугутландырылыу",
+   "tags": "и. д. от мугутландырыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугутландырыл дегенден этим ат. Биченни мугутландырылыуу. Чыккырны мугутландырылыуу.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мугут",
+     "def": "то же, что мукъут",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мугутлан",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21379",
+   "word": "мугутландырыу",
+   "tags": "и. д. от мугутландыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугутландыр дегенден этим ат. Ётмекни, тапсыз жерде тутуп, мугутландырыу. Биченни, чийлей жыйып къоюп, мугутландырыу.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мугут",
+     "def": "то же, что мукъут",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мугутлан",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21380",
+   "word": "мугутланыу",
+   "tags": "и. д. от мугутлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мугутлан дегенден этим ат. Иги къурумай жыйылгъан биченни мугутланыуу. Ётмекни, мылы жерде къалып, мугутланыуу.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мугут",
+     "def": "то же, что мукъут",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "мугутлан",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "мугутландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21400",
+   "word": "муджукъа",
+   "tags": "ат. эск. къарач.; уст.",
+   "def1": "то же, что мечукъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мечукъа. Къарт мужукъасын кишиге бермеучю эди. (Фольк.)",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "муджура",
+     "def": "палка, трость ж, посох",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "муджуралы",
+     "def": "имеющий трость (посох), с тростью, с посохом",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "муджуралыкъ",
+     "def": "отелен, к муджура",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21419",
+   "word": "муккур3",
+   "tags": "хал. сёзл. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гуппур III. Жашчыкъ муккур тхрруп, кимни эсе да эниклей эди. □ Адамланы сыфатлары мыдахдан, бушуудан муккур бюгюлгендиле. Лайпанланы Р., Жолоучулу",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "муккур1",
+     "def": "горб",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "муккур2",
+     "def": "горбатый; сутулый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "муккурлукъ",
+     "def": "горбатость: сутулость",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "муккуш",
+     "def": "неказистый, невзрачный, плюгавый",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21422",
+   "word": "мукул",
+   "tags": "",
+   "def1": "то же, что мюкюл",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_21423",
+   "word": "мукур",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мукур бол, мугъели бол (къ. мугъели). [Сапыра] битеу халкъны аллында Мукур болду, къаралып, Салийматны кёргенде, Къансызланды, агъарып. Отарланы С., Н",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_21437",
+   "word": "мукъут",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "мукъут болургъа а) вспотеть, распариться; б) обратиться в бегство; мукъут болуб барады [он] несётся на всех парах; мукъут болуб кетди он побежал стрем",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "мукъул бол",
+     "def": "Подчиняться кому-л.",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладис",
+     "def": "1. Магнит 2. В позиции определения: магнитный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислен",
+     "def": "Намагничиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мукъуладислениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21438",
+   "word": "мукъутлан",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. мукъут бол 1 (къ. мукъут). Жауун жаууп къалады деп ашыгъып жыядыла дырынны, мукъут болуп.\n2. Мукъут бол 3. Жашла орамны ёрге мукъутланып кетедиле. ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мукъул бол",
+     "def": "Подчиняться кому-л.",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладис",
+     "def": "1. Магнит 2. В позиции определения: магнитный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислен",
+     "def": "Намагничиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мукъуладислениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21439",
+   "word": "мукъутландыр",
+   "tags": "эт. понуд. от мукъутлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мукъутлан дегенни къатланыучу айырмасы. Жашла эл башына атланы мукъутландырып жетдиле. Ана биченни кюннге мукъутландырды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мукъул бол",
+     "def": "Подчиняться кому-л.",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладис",
+     "def": "1. Магнит 2. В позиции определения: магнитный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислен",
+     "def": "Намагничиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мукъуладислениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21440",
+   "word": "мукъутландырыу",
+   "tags": "и.д. от мукъутландыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мукъутландыр дегенден этим ат. Кырдыкны мукъутландырыу. Атланы мукъутландырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мукъул бол",
+     "def": "Подчиняться кому-л.",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладис",
+     "def": "1. Магнит 2. В позиции определения: магнитный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислен",
+     "def": "Намагничиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мукъуладислениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21441",
+   "word": "мукъутланыу",
+   "tags": "и.д. от мукъутлан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мукъутлан дегенден этим ат. Жумушха мукъутланыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мукъул бол",
+     "def": "Подчиняться кому-л.",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладис",
+     "def": "1. Магнит 2. В позиции определения: магнитный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислен",
+     "def": "Намагничиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мукъуладислендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мукъуладислениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21443",
+   "word": "мулахлы",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. эбизе. Мулахлыла муну эмчек анасын, эгечин да алып алай кетдиле. (Фольк.). Цууут сууунда ол [Татаркъан] мулахлыланы жетгенди, Арсланча, чабып, къа",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_21450",
+   "word": "мулдушхулан",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "мулдушху бол (къ. мулдушху). Къутургъан тенгизни толкъунларында кеме мулдушхуланды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мулдушху",
+     "def": "1) опрокидываться, перевернуться (кверху дном); 2) делать что-либо, очень торопясь. Мулдуш",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мулдушхула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мулдушхуланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мулдушхулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мулдушхулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мулдушхулау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21451",
+   "word": "мулдушхуланыу",
+   "tags": "и. д. от мулдушхулан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мулдушхулан дегенден этим ат. Къайыкъны мулдушхуланыуу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мулдушху",
+     "def": "1) опрокидываться, перевернуться (кверху дном); 2) делать что-либо, очень торопясь. Мулдуш",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "мулдушхула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мулдушхулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мулдушхулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мулдушхулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "мулдушхулау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21456",
+   "word": "мулжу",
+   "tags": "эт. сёл. тил.",
+   "def1": "то же, что булджургъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. булжу. Ана сакълайды, алай къонакъ, женгин Ууа, мулжуйду, билмей не айтырын — Сени жашынг Солтан-Муратны тенги эдим, - дейди мудах Олесь акъырын. ",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_21457",
+   "word": "мулта",
+   "tags": "",
+   "def1": "то же, нто малтаргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_21470",
+   "word": "мункар",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "Мункар бла Накир мус. ангелы, которые допрашивают и наказывают умерших грешников на том свете",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_21473",
+   "word": "муну3",
+   "tags": "",
+   "def1": "не мунуы барды? какой может быть [здесь] спор?",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "муну1",
+     "def": "(ср. аны) Р и В от бу а) его, её; б) этого, эту, это",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "муну2",
+     "def": "частица усил. да, же",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21510",
+   "word": "муртазакъ",
+   "tags": "",
+   "def1": "то же, что мыртазакъ",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "муртат",
+     "def": "1) рел. вероотступник 2) перен. отщепенец, предатель",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21512",
+   "word": "муртха",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": муртха илик плечо, плечевая кость; сен муртха иликлеринги ашагъын! проклятие чтоб ты грыз собственное тело!",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "муртху",
+     "def": "калина || калиновый",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21519",
+   "word": "мурула",
+   "tags": "эт. сёл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "тил. муру эт (къ. муру). Жашчыкъ къошунну ташха уруп мурулады. Ётмекни жюжеклеге муруладым.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21520",
+   "word": "мурулан",
+   "tags": "эт. страд. от мурула",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурула дегенни зорлаучу айырмасы. Мияла муруланнганды. Пиалкала, столдан тюшюп, муруландыла. Эт, картоф, хобуста, сохан да муруландыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21521",
+   "word": "муруланыу",
+   "tags": "и.д. от мурулан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурулан дегенден этим ат. Мияланы муруланыуу. Къошунну муруланыуу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21522",
+   "word": "мурулат",
+   "tags": "эт. понуд. от мурула",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурула дегенни къатланыучу айырмасы. Мияланы мурулат. Жауну мурулат. Тютюн чапыракъланы мурулат.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21523",
+   "word": "мурулатдыр",
+   "tags": "эт. понуд. от мурулат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурулат дегенни къатланыучу айырмасы. Ушкокну мурулатдыр. Арбаны мурулатдыр.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21524",
+   "word": "мурулатдырыу",
+   "tags": "и.д. от мурулатдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурулатдыр дегенден этим ат. Бир затны мурулатдырыу. Жау аскерни мурулатдырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21525",
+   "word": "мурулатыу",
+   "tags": "и.д. от мурулат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурулат дегенден этим ат. Маллагъа биченни мурулатыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21526",
+   "word": "мурулау",
+   "tags": "и.д. от мурула",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мурула дегенден этим ат. Дарман хансланы мурулау. Биченни, малтап, мурулау.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21528",
+   "word": "мурулдамакълыкъ",
+   "tags": "отвлеч. к мурулдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "мурула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "муруланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "мурулатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21537",
+   "word": "мурутху",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мурукку. — Менме, — дейди, — кёгетлени ариуу! Мурутху бишип, жаннган отча къызара. Айю айланады аунай-аунай, жолунда, ёрге туруп, чум терекге узал",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21538",
+   "word": "мусал",
+   "tags": "карач.",
+   "def1": "вялый; дряблый",
+   "def2": "",
+   "misc1": "чабакъ этлери мусалдыла мускулы у него дряблые; мусал болуб турады он стал вялым",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_21557",
+   "word": "мусхам",
+   "tags": "ат. къарач.; уст.",
+   "def1": "то же, что мысхам",
+   "def2": "1. Неполноценность, несовершенство, неправильность в чём-л., недостаток, изъян, дефект 2. В позиции определения: неполноценный, глуповатый",
+   "misc1": "",
+   "misc2": "1. Къыяу, бузукълукъ, кемлик, жартылыкъ, бир затда тапсызлыкъ, терслик, жангылыч. - Быллай юйюрде сабий мусхам ёсерине не сёз барды. Дотдуланы Х., Жаш",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "мусхал",
+     "def": "то же, что мысхал",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "мусхамлы",
+     "def": "то же, что мысхамлы",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "мусхамлыкъ",
+     "def": "то же, что мысхамлыкъ",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21564",
+   "word": "мутух",
+   "tags": "карач.",
+   "def1": "то же, что матух",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21569",
+   "word": "мутхузламакълыкъ",
+   "tags": "отвлеч. к мутхузларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "мутхуз1",
+     "def": "1) тусклый; блёклый, неяркий 2) хмурый, пасмурный, серый 3) перен. печальный, мрачный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "мутхуз2",
+     "def": "1. Тускло, неярко 2. кёч. Неясно, нечётко 3. кёч. Смутно, туманно 4. кёч. Невесело, грустн",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "мутхузла",
+     "def": "1) делать тусклым, делать блёклым 2) перен. печалить, омрачать, расстраивать кого",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузлан",
+     "def": "1) тускнеть, блёкнуть 2) хмуриться, становиться пасмурным 3) перен. печалиться, омрачаться",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузландырыл",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21575",
+   "word": "мутхузланмакълыкъ",
+   "tags": "отвлеч. к мутхузланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "мутхуз1",
+     "def": "1) тусклый; блёклый, неяркий 2) хмурый, пасмурный, серый 3) перен. печальный, мрачный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "мутхуз2",
+     "def": "1. Тускло, неярко 2. кёч. Неясно, нечётко 3. кёч. Смутно, туманно 4. кёч. Невесело, грустн",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "мутхузла",
+     "def": "1) делать тусклым, делать блёклым 2) перен. печалить, омрачать, расстраивать кого",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузламакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "мутхузлан",
+     "def": "1) тускнеть, блёкнуть 2) хмуриться, становиться пасмурным 3) перен. печалиться, омрачаться",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21577",
+   "word": "мутхузлау",
+   "tags": "и. д. к мутхузларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "мутхуз1",
+     "def": "1) тусклый; блёклый, неяркий 2) хмурый, пасмурный, серый 3) перен. печальный, мрачный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "мутхуз2",
+     "def": "1. Тускло, неярко 2. кёч. Неясно, нечётко 3. кёч. Смутно, туманно 4. кёч. Невесело, грустн",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "мутхузла",
+     "def": "1) делать тусклым, делать блёклым 2) перен. печалить, омрачать, расстраивать кого",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузламакълыкъ",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "мутхузлан",
+     "def": "1) тускнеть, блёкнуть 2) хмуриться, становиться пасмурным 3) перен. печалиться, омрачаться",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "мутхузландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21591",
+   "word": "мууалланыш",
+   "tags": "эт. взаимн., совм. от мууаллан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мууаллан дегенни араш айырмасы. Арып, мууалланыш.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мууал1",
+     "def": "1) вялый, чахлый 2) дряблый (напр. о мускулах)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууал2",
+     "def": "Вяло; слабо",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууаллан",
+     "def": "1)вянуть, чахнуть, делаться вялым 2) становиться дряблым (напр. о мускулах)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууалландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууалландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууалландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21592",
+   "word": "мууалланышыу",
+   "tags": "и.д. от мууалланыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мууалланыш дегенден этим ат. Къызыу кюнде битимлени мууалланышыулары.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мууал1",
+     "def": "1) вялый, чахлый 2) дряблый (напр. о мускулах)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууал2",
+     "def": "Вяло; слабо",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууаллан",
+     "def": "1)вянуть, чахнуть, делаться вялым 2) становиться дряблым (напр. о мускулах)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууалландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууалландырыл",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "мууалландырылыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21621",
+   "word": "мушмул",
+   "tags": "сыф., сёл., тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мушулдауукъ. Мушмул сабийчик. Мушмул къозучукъ.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "мушмушлукъ",
+     "def": "Привычка к сопению, сопение, шмыгание носом",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21625",
+   "word": "муштукъул",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "муштукъул ийисин чыгьарыргъа задать кому перцу; муштукъул этерге обратить кого в бегство, прогнать кого",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "муштук",
+     "def": "в разн. знач. мундштук",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "муштухул1",
+     "def": "см. муштукъул",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "муштухул2",
+     "def": "см. муштукъул",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "муштухуллукъ",
+     "def": "Торопливость, поспешность, спешность, спешка",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21633",
+   "word": "мушулдатдырыу",
+   "tags": "и. д. от мушулдатдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Мушулдатдыр дегенден этим ат. Картофдан кёпген ийнекни, ары-бери къуууп, мушулдатдырыу.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "мушулда",
+     "def": "1) сопеть, шумно дышать 2) фыркать (о лошади)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мушулдамакълыкъ",
+     "def": "сопение",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "мушулдат1",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мушулдат2",
+     "def": "сопеть, дышать шумно",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "мушулдатыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мушулдатыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21641",
+   "word": "мушшай",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мушулдауукъ. Мушшай улакъчыкъ. Мушшай жашчыкъ.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_21643",
+   "word": "мыггыдау",
+   "tags": "",
+   "def1": "то же, что мигидау",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21644",
+   "word": "мыгыдау",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ыфтау, мыккау. Анна эки ариу мыгыдау эди. Зухура мыгыдаугъа нартюхден къуюп, бахчагъа кетди.",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21645",
+   "word": "мыгылан",
+   "tags": "балк.",
+   "def1": "то же, что мынгылан",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21660",
+   "word": "мыжгьыл2",
+   "tags": "парн. к къыжгъыл-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "мыжгьыл1",
+     "def": "1. маленький (о детях) 2. дитя, ребёнок",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21666",
+   "word": "мызыу ийис",
+   "tags": "▯ ат.",
+   "def1": "",
+   "def2": "Острый, тяжёлый запах, вонь (исходящая от козлов в период случки или от грязного вспотевшего человека)",
+   "misc1": "",
+   "misc2": "Текеден эчкилеге къошулгъан заманда неда кирли, терлеген адамдан чыкъгъан ачы ийис. Теке мызыу ийис этеди. Ол жаш мызыу ийис этеди.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_21676",
+   "word": "мыккыл2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мууал II. Аркъасында къошкъулакъ къауалы бла... Сафар, аякъларын сюйрей, мыккыл барады. Толгъурланы З., Эрирей, 15. (Ичгичини) сабийлери болур зык",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "мыккыл1",
+     "def": "вялый, хилый",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мыккыллан",
+     "def": "становиться вялым; хиреть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мыккылландыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мыккылландырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мыккылланыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "мыккылланыш",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21687",
+   "word": "мыкырау",
+   "tags": "сыф.",
+   "def1": "го же, что мынгырау",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къарач. къ. мынгырау. Мыкырау адам.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "мыкыраулан",
+     "def": "то оке, что мынгырауланыргъа",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "мыкырауланыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "мыкыраулукъ",
+     "def": "глупость, тупость; бестолковость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21688",
+   "word": "мыкыраулан",
+   "tags": "",
+   "def1": "то оке, что мынгырауланыргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "мыкырау",
+     "def": "го же, что мынгырау",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "мыкырауланыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "мыкыраулукъ",
+     "def": "глупость, тупость; бестолковость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21689",
+   "word": "мыкырауланыу",
+   "tags": "и. д. к мынгырауланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "мыкырау",
+     "def": "го же, что мынгырау",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "мыкыраулан",
+     "def": "то оке, что мынгырауланыргъа",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "мыкыраулукъ",
+     "def": "глупость, тупость; бестолковость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21691",
+   "word": "мыла",
+   "tags": "парн. к гыла-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21694",
+   "word": "мыллыкчы",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "мыллыкчы къуш ягнятник (орёл)",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "мыллык",
+     "def": "1) туша 2) падаль ж, труп",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21695",
+   "word": "мылта",
+   "tags": "карач.",
+   "def1": "то же, что малтаргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_21743",
+   "word": "мынтыкъбурун",
+   "tags": "сыф. сёл. тил. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мангкъабурун. [Сох:] Анам, сенден жигит, сенден ариу жокъду. - дегенни бу мынтыкъбурунну [Хеочну] анасы талай кере эшитгенди. Кёбекланы Б., Кюнню ",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_21744",
+   "word": "мынч",
+   "tags": "парн. к хынч-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_21748",
+   "word": "мынчалы",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "мынчалы деб ёгюзню ненчалы болгъанын билмейме может столько, может быть нет - я точно не знаю, сколько лет волу",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "мынча",
+     "def": "столько, вот столько",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "мынчакъ",
+     "def": "1) бусина, бусинка; бусы 2) рел. чётки",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "мынчакълы",
+     "def": "с бусами, в бусах",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "мынчалыкъ",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "мынчанчы",
+     "def": "Вот такой, такой-то по порядку",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "мынчау",
+     "def": "столько-то (людей)",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_21756",
+   "word": "мыр",
+   "tags": "карач.",
+   "def1": "то же, что амыр",
+   "def2": "",
+   "misc1": "мырым тартмайды мне не хочется",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_21774",
+   "word": "мырс",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "мырс болургъа зазнаться, возомнить о себе",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": []
+  }
+ ]
+}

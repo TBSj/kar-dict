@@ -1,27 +1,60 @@
 {
-  "entries": 1404,
+  "entries": 39702,
   "missing": 0,
   "invalid_tags": 0,
   "confidence": {
-    "medium": 606,
-    "high": 486,
-    "low": 312
+    "high": 15533,
+    "medium": 16652,
+    "low": 7517
   },
   "distribution": {
-    "actions_and_activities": 439,
-    "emotions_and_will": 231,
-    "daily_life_and_food": 92,
-    "social_relations": 89,
-    "economy_and_society": 83,
-    "living_things": 75,
-    "culture_and_spirituality": 75,
-    "objects_and_technology": 59,
-    "space_and_time": 56,
-    "human_body": 50,
-    "universe_and_nature": 45,
-    "logic_and_function_words": 42,
-    "language_and_communication": 38,
-    "mind_and_cognition": 30
+    "actions_and_activities": 8871,
+    "emotions_and_will": 4222,
+    "economy_and_society": 3834,
+    "space_and_time": 3241,
+    "culture_and_spirituality": 2667,
+    "human_body": 2567,
+    "objects_and_technology": 2440,
+    "social_relations": 2239,
+    "daily_life_and_food": 2099,
+    "living_things": 1737,
+    "universe_and_nature": 1679,
+    "language_and_communication": 1476,
+    "logic_and_function_words": 1464,
+    "mind_and_cognition": 1166
   },
-  "mixed_families_gt2tags": 24
+  "mixed_families_gt2tags": 536,
+  "final": {
+    "entries": 39702,
+    "confidence": {
+      "high": 16350,
+      "medium": 22999,
+      "low": 353
+    },
+    "distribution": {
+      "actions_and_activities": 8035,
+      "emotions_and_will": 4196,
+      "economy_and_society": 3919,
+      "space_and_time": 3358,
+      "culture_and_spirituality": 2740,
+      "human_body": 2661,
+      "objects_and_technology": 2443,
+      "social_relations": 2272,
+      "daily_life_and_food": 2201,
+      "living_things": 1891,
+      "universe_and_nature": 1855,
+      "language_and_communication": 1498,
+      "logic_and_function_words": 1428,
+      "mind_and_cognition": 1205
+    },
+    "source": {
+      "sonnet": 31314,
+      "opus_rejudge": 4459,
+      "linguist_policy": 47,
+      "family_inheritance": 3882
+    },
+    "policy_retags": 47,
+    "rejudge_changed": 1176,
+    "family_inherited": 3889
+  }
 }

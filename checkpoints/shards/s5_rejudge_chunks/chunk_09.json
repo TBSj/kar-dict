@@ -1,0 +1,4750 @@
+{
+ "items": [
+  {
+   "entry_id": "e_11332",
+   "word": "жайыкъдырыл",
+   "tags": "эт. страд. от жайыкъдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жайыкъдыр дегенни зорлаучу айырмасы. Жукъум жайыкъдырылды. Жашны кефи жайыкъдырылгъанды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жайыкъдырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11333",
+   "word": "жайыкъдырылыу",
+   "tags": "и. д. от жайыкъдырыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жайыкъдырыл дегенден этим ат. Жукъусун жайыкъдырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жайыкъдырыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11413",
+   "word": "жангылыкъчы",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жаыгычы. Бизни жетишимлерибизде специалистлени, жангылыкъчыланы уллу юлюшлери болгъаны баямды. «Коммунизмге жол», 1981, № 155. □ Алмаз заводда жан",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "жангызлай",
+     "def": "Одиноко, в одиночку",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "жангызлыкъ",
+     "def": "Одиночество",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "жангылтдыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "жангылтдырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "жангыртыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жангыртылын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11433",
+   "word": "жанкъылыч",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Тейри къылыч (къ. тейри). - Кюн, ай, жулдузла айтылгъан заманда булутла, тубан, кёк чартлагъан, жанкъылыч да унутулуп къалмайдыла. Хубийланы М., Къара",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "жанкъоз",
+     "def": "Подснежник",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11448",
+   "word": "жаннганкёз",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жандыракёз. Къайдан чыкъды эсе да бир жаннганкёз кёсесакъал киши чыкъды. Байрамукъланы Х., Чолпан, 128. □ Бизге эшикни бир жаннганкёз жашчыкъ ачды",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_11451",
+   "word": "жантайыш",
+   "tags": "эт. взаимн., совм. от жантай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жантай дегенни араш айырмасы. Жантайыша барыу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "жантайышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11452",
+   "word": "жантайышыу",
+   "tags": "и. д. от жантайыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жантайыш дегенден этим ат. Ары-бери жантайышыу.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "жантайыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11458",
+   "word": "жап-жалан",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жаппа-жалан. Эрттенлик чыкъ кюйдюреди жап-жалан аякъларымы. «Шуёхлукъ», № 29, 9.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жап-жангы",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жап-жарыкъ",
+     "def": "1. Очень светлый, пресветлый 2. кёч. Очень радостный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "жап-жашил",
+     "def": "Совершенно зелёный, зелёный-презелёный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11471",
+   "word": "жаппа-жалан",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. къыппа-къымыжа. Жашла, жаппа-жалан болуп, хаманнга ташайдыла. ◊ Къанлы къышда жаппа-жалан аякълай къайры чыгъып келесе, Харун. (Фольк.)",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жаппа-жангы",
+     "def": "Совершенно новый",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангыдан",
+     "def": "Заново",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангыз1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "жаппа-жангыз2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангызлай",
+     "def": "Одиноко, в одиночку",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11474",
+   "word": "жаппа-жангыз1",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жангыз. Эски юйчюгюнде ынна жашайды жаппа-жангыз кеси. «Шуёхлукъ», № 6, 55.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "жаппа-жалан",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жаппа-жангы",
+     "def": "Совершенно новый",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангыдан",
+     "def": "Заново",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангыз2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангызлай",
+     "def": "Одиноко, в одиночку",
+     "lextag": "social_relations",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11476",
+   "word": "жаппа-жангызлай",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Одиноко, в одиночку",
+   "misc1": "",
+   "misc2": "Жангыз кеси, къуру кесинлей, чыртда башха адам къошулмай. Жаш жолгъа жаппа-жангызлай чыкъды. Къыз юйде жаппа-жангызлай къалгъанды.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "жаппа-жалан",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жаппа-жангы",
+     "def": "Совершенно новый",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангыдан",
+     "def": "Заново",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жаппа-жангыз1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "жаппа-жангыз2",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11498",
+   "word": "жаракъ",
+   "tags": "къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жаракъ салам къарач. зарак салам (къ. зарак). Темуркъа жатарны аллы бла тууар баш териден этилген эки чабырына жаракъ салам салып, жарашдырып, алай жа",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_11499",
+   "word": "жарала",
+   "tags": "эт. сёл. тил",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. Жара сал (къ. жара 1). Жаш къабанны жаралады. Фашистни огъурсуз огъу Келеметни жаралады.\n2. Жара сал (къ. жара 1). Жашны чанчхы сёзлери ананы жюрег",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жаралан",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жаралану",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жаралау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жаралы",
+     "def": "Раненый",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11526",
+   "word": "жараула",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жарау эт (къ. жарау 1). Жаш, хар эрттен сайын эртте туруп, жараулап, ишге тири болуп келеди.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жарау1",
+     "def": "1. Тренировка 2. В позиции определения: тренированный",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарау2",
+     "def": "Нужда, потребность в естественном отправлении",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жарау3",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жараулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жарауланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жараулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11527",
+   "word": "жараулан",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жарау эт (къ. жарау). Эрттенликде жашла, стадионнга барып, иги жарауланып келгендиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жарау1",
+     "def": "1. Тренировка 2. В позиции определения: тренированный",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарау2",
+     "def": "Нужда, потребность в естественном отправлении",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жарау3",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жараула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жарауланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жараулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11528",
+   "word": "жарауланыу",
+   "tags": "и. д. от жараулан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жараулан дегенден этим ат. Хар кюнден жарауланыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жарау1",
+     "def": "1. Тренировка 2. В позиции определения: тренированный",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарау2",
+     "def": "Нужда, потребность в естественном отправлении",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жарау3",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жараула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жараулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жараулат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11529",
+   "word": "жараулат",
+   "tags": "эт. понуд. от жараула",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жараула дегенни къатланы учу айырмасы. Стадионну таматасы тренерге: «Жашланы иги жараулат,»- деп тиледи.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жарау1",
+     "def": "1. Тренировка 2. В позиции определения: тренированный",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарау2",
+     "def": "Нужда, потребность в естественном отправлении",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жарау3",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жараула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жараулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жарауланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11530",
+   "word": "жараулатыу",
+   "tags": "и. д. от жараулат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жараулат дегенден этим ат. Жашланы жараулатыу. Атны жараулатыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жарау1",
+     "def": "1. Тренировка 2. В позиции определения: тренированный",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарау2",
+     "def": "Нужда, потребность в естественном отправлении",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жарау3",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "жараула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жараулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жарауланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11547",
+   "word": "жарашыу2",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жарашыулу I. Директорубуз бек жарашыу адамды.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "жараш",
+     "def": "1. Мириться с кем 2. Ладить, уживаться с кем 3. Идти, быть к лицу, гармонировать с чем // ",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдыр1",
+     "def": "1. Помирить кого с кем 2. Устраивать, определять (напр. на работу, учёбу)",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдыр2",
+     "def": "1. Приготовить, сделать годным, готовым для использования 2. Разрабатывать (напр. метод, с",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарашдырыл1",
+     "def": "Быть примиренным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдырыл2",
+     "def": "1. Быть приготовленным 2. Быть устроенным (на работу, учёбу и т. п.)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдырылыу1",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11548",
+   "word": "жарашыу3",
+   "tags": "хал. сёзл. къарач.",
+   "def1": "",
+   "def2": "2. Подходяще",
+   "misc1": "",
+   "misc2": "1. къ. жарашыулу II. Ол [Роза] кёп сёлешмей эди, ауузун ачмагъанлай, бютеу бет тюрсюню бла жарашыу ышарып къоя эди. Семенланы А., Жазыу айла, 53. Кели",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жараш",
+     "def": "1. Мириться с кем 2. Ладить, уживаться с кем 3. Идти, быть к лицу, гармонировать с чем // ",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдыр1",
+     "def": "1. Помирить кого с кем 2. Устраивать, определять (напр. на работу, учёбу)",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдыр2",
+     "def": "1. Приготовить, сделать годным, готовым для использования 2. Разрабатывать (напр. метод, с",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жарашдырыл1",
+     "def": "Быть примиренным",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдырыл2",
+     "def": "1. Быть приготовленным 2. Быть устроенным (на работу, учёбу и т. п.)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жарашдырылыу1",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11559",
+   "word": "жаркъмалат",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жаркъмала. - Жаркъмалатмай айт! Сен кесинг кёргенсе, сора бюлдюргю этерге неге керекди? - деп, темиричиледи [Тетиуню] Мырзабек. Гуртуланы Б., Жанг",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "жаркъалатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жаркъалатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жаркъмалатыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11560",
+   "word": "жаркъмалатыу",
+   "tags": "и. д. от жаркъмалат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жаркъмалат дегенден этим ат. Орус тилни жаркъмалатыу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "жаркъалатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жаркъалатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жаркъмалат",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11600",
+   "word": "жатыкъ",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Эниш сюрем. Полу жатыкъ болгъаны себепли, олтургъанла сахнаны ариу кёредиле. «Ленинни байрагъы», 1977, № 56.",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_11602",
+   "word": "жаубёлек",
+   "tags": "ат. къ. жаубедек",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ингирде сабийле Саркисге эрленни да, жаубёлекни да атдыла, кеслери уа осал кефлери бла дорбуннга къайтдыла. «Шуёхлукъ», №62, 42.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_11605",
+   "word": "жаудуруш",
+   "tags": "эт. взаимн, совм. от жаудур",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жаудур дегенни араш айырмасы. Аскерле аяусуз бир бирлерине окъланы жаудурушадыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жаудурул",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "жаудурулуу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "жаудурушуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11606",
+   "word": "жаудурушуу",
+   "tags": "и. д. от жаудуруш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жаудуруш дегенден этим ат. Бир бирге къар гулмакъланы жаудурушуу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жаудурул",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "жаудурулуу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "жаудуруш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11624",
+   "word": "жашат",
+   "tags": "эт. понуд. от жаша",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жаша дегенни къатланыучу айырмасы. [Келинин] къояма деп, жалындырып, жашатыр, Сабийлерин санга ийип ашатыр. Будайланы Х., Алтын тау, 37. ◊ Тасханы бил",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11625",
+   "word": "жашатдыр",
+   "tags": "эт. понуд. от жашат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жашат дегенни къатланыучу айырмасы. [Къыз:] Мени бюгюннге дери жашатдыргъан да анамы жюрек жылыууду. (Фольк.)",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11626",
+   "word": "жашатдырыл",
+   "tags": "эт. страд. от жашатдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жашатдыр дегенни зорлаучу айырмасы. Ынна юч жылны шахарда, жашында жашатдырылды.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11627",
+   "word": "жашатдырылыу",
+   "tags": "и. д. от жашатдырыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жашатдырыл дегенден этим ат. Элде жашатдырылыу.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11628",
+   "word": "жашатдырыу",
+   "tags": "и. д. от жашатдыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жашатдыр дегенден этим ат. Зауукълукъда жашатдырыу.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11629",
+   "word": "жашатыл",
+   "tags": "эт. страд. от жашат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жашат дегенни зорлаучу айырмасы. Ол кереги тапдырылып жашатылгъанды.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11630",
+   "word": "жашатылыу",
+   "tags": "и. д. от жашатыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жашатыл дегенден этим ат. Зауукълу жашатылыу.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жашат",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырылыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатдырыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "жашатыл",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11638",
+   "word": "жашландыр",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жаш эт. (къ. жаш 2). Ариу кийим адамны жашландырады.",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_11666",
+   "word": "жей",
+   "tags": "эт. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. аша. Балеты тауукъ къурт жеймез. (Нарт сёз). ◊ Балеты къаргъа бокъ жеймез, баласыз къатын кюн кёрмез. (Нарт сёз).",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_11682",
+   "word": "желпегейле",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Желпегей эт (къ. желпегей). Мухаммат къара жамычысын желпегейлеп келеди. «Жюрек жырлайды», 250.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "желпегей1",
+     "def": "Распахнутый, растегнутый, одетый внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегей2",
+     "def": "1. Нараспашку, внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегейлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11683",
+   "word": "желпегейлен",
+   "tags": "эт. возвр. от желпегейле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Желпегейле дегенни къайтыучу айырмасы. Жашны платы, жел ургъанлай, желпегейленди.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "желпегей1",
+     "def": "Распахнутый, растегнутый, одетый внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегей2",
+     "def": "1. Нараспашку, внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегейле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11684",
+   "word": "желпегейлениу",
+   "tags": "и. д. от желпегейлен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Желпегейлен дегенден этим ат. Плащны желпегейлениую.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "желпегей1",
+     "def": "Распахнутый, растегнутый, одетый внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегей2",
+     "def": "1. Нараспашку, внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегейле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11685",
+   "word": "желпегейлет",
+   "tags": "эт. понуд. от желпегейле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Желпегейле дегенни къатланыучу айырмасы. Костюмну желпегейлет.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "желпегей1",
+     "def": "Распахнутый, растегнутый, одетый внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегей2",
+     "def": "1. Нараспашку, внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегейле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11686",
+   "word": "желпегейлетиу",
+   "tags": "и. д. от желпегейлет",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Желпегейлет дегенден этим ат. Жамычыны желпегейлетиу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "желпегей1",
+     "def": "Распахнутый, растегнутый, одетый внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегей2",
+     "def": "1. Нараспашку, внакидку",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "желпегейле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "желпегейлет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11703",
+   "word": "женгил-женгил",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. терк-терк. Ахматны жюреги женгил-женгил тебип, шкогун бёрю чыгъар сыртлыкъгъа айландырып, кесин къолгъа альт сы~марлады. Сюйюнчланы А., Адамлыкъ, ",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "женгидиртиу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "женгилкъанат",
+     "def": "Легкокрылый, быстрый в полёте",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "женгиллендирил",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "женгиллендирилиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "женгиллендирт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "женгиллендиртиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11748",
+   "word": "жижиу",
+   "tags": "къауум. ат. саб.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. къурт-къумурсха. Жижиулени кёрсенг, Кими къызыл къашхады... «Жюрек жырлайды», 236. ◊ Арбазда ойнагъан сабийчик гумулжукну кёрюп: «Жижиу!» - деп, к",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_11749",
+   "word": "жизе1",
+   "tags": "ат. саб.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жара. Жашчыкъ: \"Жизе\",- деп, къолунда жарачыгъын атасына кёргюзтдю.",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "жизе2",
+     "def": "Изнеженный",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11795",
+   "word": "жиляуукъ1",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жилямукъ. Жашчыкъ жиляуукъларын сюртдю. Къызчыкъны жиляуукълары жерге бурчакъ-бурчакъ агъадыла.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "жиляу1",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "жиляу2",
+     "def": "Плач",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "жиляу-сыйыт",
+     "def": "Плач (продолжительный)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "жиляулукъ",
+     "def": "Плачевное состояние",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "жиляуукъ2",
+     "def": "Плаксивый, слезливый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11806",
+   "word": "житчаерин",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. къоянерин. Житчаерин жаш.",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_11818",
+   "word": "жоккула",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жокку эт (къ. жокку). Къызыу кюн малланы терек салкъынлагъа жоккулады.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жоккулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11819",
+   "word": "жоккулан",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жокку бол (къ. жокку). Суу боюнуна тийишдирилген малла жибиген кырдыкны юсюнде абызыраулу жоккуландыла. Этезланы О., Тарда, 63. ▯ Арлакъда уа – къатын",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жоккула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11820",
+   "word": "жоккуландыр",
+   "tags": "эт. понуд. от жоккулан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жоккулан дегенни къатланыучу айырмасы. Жашла малланы бир жерге жоккуландырдыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жоккула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11821",
+   "word": "жоккуландырыу",
+   "tags": "и. д. от жоккуландыр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жоккуландыр дегенден этим ат. Къойланы жоккуландырыу. Адамланы жоккуландырыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жоккула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11822",
+   "word": "жоккуланыу",
+   "tags": "и. д. от жоккулан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жоккулан дегенден этим ат. Бир жерге жоккуланыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жоккула",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккулан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жоккуландырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11849",
+   "word": "жудай",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. жутлан 1. Къозучукъ анасына жудайып къарайды. Кючюк ашха жудайып чабады. 2. кёч. къ. жутлан 2. Майрыш ырысхыгъа, байлыкъгъа жудаймаучуладанды. ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жудайыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11850",
+   "word": "жудайыу",
+   "tags": "и. д. от жудай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жудай дегенден этим ат. Ашха-суугъа жудайыу. Ырысхыгъа жудайыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жудай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11851",
+   "word": "жудайыш",
+   "tags": "эт. взаимн.-совм. от жудай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жудай дегенни араш айырмасы. Ала мюлкге, байлыкъгъа жудайыша эдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жудай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11852",
+   "word": "жудайышыу",
+   "tags": "и. д. от жудайыш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жудайыш дегенден этим ат. Байлыкъгъа жудайышыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жудай",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жудайыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11881",
+   "word": "жумушакъла",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жумушат I. Чабырлыкъ терини жумушакъла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жумушакълан",
+     "def": "страд. от жумушакъла",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушакъланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушакълау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жумушатылын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушатылыныу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушатыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11884",
+   "word": "жумушакълау",
+   "tags": "и. д. от жумушакъла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жумушакъла дегенден этим ат. Къатхан терини жумушакълау.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жумушакъла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жумушакълан",
+     "def": "страд. от жумушакъла",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушакъланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушатылын",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушатылыныу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жумушатыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11897",
+   "word": "жутдайка",
+   "tags": "сыф. бош тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жут 2 (1-чи магъ.). Къызчыкъ ашдан тоя билмеген жутдайкачыкъ эди. (Фольк.)",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "жутдай",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "жутдайлыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11898",
+   "word": "жутдайлыкъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. жутлукъ 1. Сабийни жутдайлыгъы. Кючюкню жутдайлыгъы. 2. кёч. къ. жутлукъ 2. Кёзлени жутлукълары.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "жутдай",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "жутдайка",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11902",
+   "word": "жутулунуу",
+   "tags": "и. д. от жутулун",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жутулун дегенден этим ат. Ашны жутулунуу.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "жутулуп",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11939",
+   "word": "жууушуулу",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илешли 2. Ол жууушуулу сабийди. Жууушуулу къызчыкъ.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "жууушдур",
+     "def": "2. Сплачивать, объединять, спаять",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурт",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдуртуу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурул",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурулуу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдуруу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11940",
+   "word": "жууушуулукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илешлик. Жашланы бир бирге жууушуу лукъл ары.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "жууушдур",
+     "def": "2. Сплачивать, объединять, спаять",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурт",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдуртуу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурул",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурулуу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдуруу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11941",
+   "word": "жууушуусуз",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илешиусюз. Жууушуусуз адом. Жууушуусуз сабий.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "жууушдур",
+     "def": "2. Сплачивать, объединять, спаять",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурт",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдуртуу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурул",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдурулуу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "жууушдуруу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11942",
+   "word": "жуушуусузлукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илешиусюзлюк. Сабийни жууушуусузлугъу. Жуушуусузлукъ осал илишанды.",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_11945",
+   "word": "жыгъар",
+   "tags": "",
+   "def1": "подр. — о грохоте",
+   "def2": "",
+   "misc1": "-жугъур; къая жыгъар деб оюлду скала обвалилась с грохотом",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "жыгъал-мугъул",
+     "def": "Галдёж, шум",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъар-жугъур",
+     "def": "Звукоподражание шуму падающих камней, скальных пород и т. п.",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъарт",
+     "def": "Звукоподражание треску",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11947",
+   "word": "жыгъарт",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание треску",
+   "misc1": "",
+   "misc2": "Терек, буз д. а. к. башха зат сыннганда этген тауушну билдиреди. Алай къарап-къарагъынчы, Буз \"жыгъарт\" деп атылды. Добакъ да, къычырыкъ этип, Суу ичи",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "жыгъал-мугъул",
+     "def": "Галдёж, шум",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъар",
+     "def": "подр. — о грохоте",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "жыгъар-жугъур",
+     "def": "Звукоподражание шуму падающих камней, скальных пород и т. п.",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11948",
+   "word": "жыгъери",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. юзгеле, жоннгурчха. Малжей, сууну жыгъери бла булгъап, кёпдюреуюзюн эритди. Гуртуланы Б., Жангы талисман, 293.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_11961",
+   "word": "жыгъышыучу",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гёжеф. Ала [жашла] бизни футбол оюннга, жыгъышыучуланы эришиулерине къараргъа элтедиле. Лайпанланы Р., Жолоучулукъда, 79. ◊ Казбек жыгъышыучуланы ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жыгъылтдыр",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъылтдырыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъырда",
+     "def": "скрежетать, издавать скрежет",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъырдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъырдат",
+     "def": "Производить скрип, скрежет, звон чем",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жыгъырдатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11964",
+   "word": "жызылдашыу",
+   "tags": "и. д. от жызылдаш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жызылдаш дегенден этим ат. Бал чибинлени жызылдашыулары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жызылдатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_11992",
+   "word": "жылтырауукъбаш",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. чыгырбаш, къашхабаш. Жылтырауукъбаш немча офицер, сын къатып, сора аллына чёмелип, дагъыда ёрге сюелип, артына ауду. «Жанкъылыч», 248. ▯ [Тонлулад",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "жылтыра",
+     "def": "Блестеть, сверкать",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "жылтыратыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жылтыратылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жылтыратыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жылтыратышыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12012",
+   "word": "жырманч",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жырмач. Юсюмдеги жыйрыгъым Тар болады жырманчы. (Фольк.)",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12014",
+   "word": "жырмылат",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жырмыландыр. [Жанкёз:] биз, от этип, этчик жырмылатайыкъ. Къобанланы Д., Таулада таууш, 182. ▯ [Бёрю Айыугъа:] Минг аперим Къояннга! Жырмылатып те",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жырмыландырыу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "жырмылатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12015",
+   "word": "жырмылатыу",
+   "tags": "и. д. от жырмылат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жырмылат дегенден этим ат. Этни жырмылатыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жырмыландырыу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "жырмылат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12046",
+   "word": "жюйрюклюк",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Резвость",
+   "misc1": "",
+   "misc2": "Тирилик, терк жюрюмеклик, женгил аякълылыкъ. [Къарашауай] узайгъанлай, Гемуданы бошлады: Жюйрюклюгюн къуш учханча башлады. «Нартла», 170. ◊ Аны [жашны",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_12073",
+   "word": "жютюжух",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жютюбурун. Жютюжух ракетаны тюбюнден от чыкъды. Гуртуланы Э., Азретни къууанч кюню, 69. Асланны бир жютюжух кючюгю барды.",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_12075",
+   "word": "жютюле",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жютюлен",
+     "def": "Заостряться. 1. Стать острым (о конце, крае чего-л.) 2. кёч. Обостряться, стать более остр",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жютюлендир",
+     "def": "Заострять, сделать более резким, чётко выраженным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жютюлендирил",
+     "def": "страд. от жютюлендир",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жютюлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жютюлендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жютюлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12082",
+   "word": "жютюлеу",
+   "tags": "и. д. от жютюле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жютюле дегенден этим ат. Къарамны жютюлеу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жютюле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жютюлен",
+     "def": "Заостряться. 1. Стать острым (о конце, крае чего-л.) 2. кёч. Обостряться, стать более остр",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жютюлендир",
+     "def": "Заострять, сделать более резким, чётко выраженным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жютюлендирил",
+     "def": "страд. от жютюлендир",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "жютюлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "жютюлендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12085",
+   "word": "жёргеле",
+   "tags": "эт. къ. жёбеле.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Аминат, къолунда да челеклери бла суу къылычы, жёргелеп бара эди. Ахматланы И., Боранда, 14.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жёргелеу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелеш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12086",
+   "word": "жёргелеу",
+   "tags": "и. д. от жёргеле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жёргеле дегенден этим ат. Жюк кётюрюп келе жёргелеу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жёргеле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелеш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12087",
+   "word": "жёргелеш",
+   "tags": "эт. взаимн.-совм. от жёргеле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жёргеле дегенни араш айырмасы. Жашчыкъла ойнаучу жерлерине жёргелешип кетдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жёргеле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелеу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелешиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12088",
+   "word": "жёргелешиу",
+   "tags": "и. д. от жёргелеш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жёргелеш дегенден этим ат. Бир бири ызындан жёргелешиу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жёргеле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелеу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "жёргелеш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12090",
+   "word": "жёткер",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жётел эт (къ. жётел). Уллу бурунунда тарта, жёткере, мыйыкъ тюбюнден ышара [Бийимырза], Хасан эфендини кёлюне жараулу сёлешди. Шауаланы М., Мурат, 155",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жёткериу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12091",
+   "word": "жёткериу",
+   "tags": "и. д. от жёткер",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жёткер дегенден этим ат. Къысха-къысха жёткериу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "жёткер",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12092",
+   "word": "жёткюр",
+   "tags": "эт. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Жётел эт (къ. жётел). [Бийнёгер:] Тамагъы къургъакъсыгъандан жёткюре-жёткюре, Бийимырзагъа кёзлерини бир къыйыры бла жийиргенип къарады. Аппаланы Х., ",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12094",
+   "word": "з",
+   "tags": "подр.",
+   "def1": "о жужжании, свистящем шуме",
+   "def2": "",
+   "misc1": "-з-з; з деб учаргъа жужжать; лететь с жужжанием; чибинле з деб учадыла мухи жужжат; окъла з деб башыбыз бла учадыла пули свистят над головой",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12099",
+   "word": "забиле",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "къыйыкъ забиле один из видов узора на войлоке",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12124",
+   "word": "заговор",
+   "tags": "",
+   "def1": "заговор",
+   "def2": "",
+   "misc1": "заговорну ачаргъа раскрыть заговор; заговоргъа къатышханла участники заговора, заговорщики",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "заговорчу",
+     "def": "1.заговорщик 2. заговорщицкий",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12143",
+   "word": "зайын",
+   "tags": "",
+   "def1": "яйцо-подкладыш, подклад",
+   "def2": "",
+   "misc1": "(тж. зайын гаккы)",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_12168",
+   "word": "зал2",
+   "tags": "подр.",
+   "def1": "зал о звуке удара или падения",
+   "def2": "",
+   "misc1": "залдеб тюшерге упасть с грохотом; шлёпнуться, грохнуться; зал деб къулагъына берирге дать (треснуть) по уху",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "зал1",
+     "def": "зал",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12173",
+   "word": "залимлеидириу",
+   "tags": "и. д. к залимлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги залимлеидириу бравирование",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "залим1",
+     "def": "1. 1) жестокий, злой 2) отличный, превосходный 3) сильный, мощный 2. тиран, угнетатель",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "залим2",
+     "def": "отлично, превосходно; сильно, мощно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "залимле",
+     "def": "Угнетать, тиранить",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "залимлен",
+     "def": "храбриться, хорохориться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "залимлендир",
+     "def": ": кеси кесинги залимлендирирге храбриться, хорохориться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "залимлениу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12181",
+   "word": "залкъыды",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. залыкъылды. Арагъызда [къаяланы] шырылдайдыла чучхур акъгъан тауушла. Башыгъызда сюзюледиле Чыгырбаил къара къушла, Ёшюнюгюзню жасайдыла Залкъыды,",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_12186",
+   "word": "залы2",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Слизь (тягучая и скользкая масса)",
+   "misc1": "",
+   "misc2": "Жанлы организмлени бир къауум клеткалары чыгъаргъан созулуучу, учхалауукъ зат. Жата туруп, [Элбек] кёлекни тешип атды, жётел эте, залы тюкюре жатды. О",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "залы1",
+     "def": "тина",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12188",
+   "word": "залыкъылды2",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бюшкери. Залыкъылды табып [Дауут], аны эзгенди, кюкюртню да къошуп, отну сюзгенди. «Къарачай поэзияны антологиясы», 82. Ибрагимни... аягъы къаяда ",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "залыкъылды1",
+     "def": "азалия",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12219",
+   "word": "занг",
+   "tags": "эрикл. сёз.; подр.",
+   "def1": "занг о звоне, звуке удара",
+   "def2": "Звукоподражание удару предмета о предмет",
+   "misc1": "эшикни занг деб этерге хлопнуть дверью",
+   "misc2": "Затла бир бирине тийген заманда чыкъгъан тауушну билдиреди. Насыра Хожа орамны кетип бара тургъанлай, боюнуна занг деп бир жумдурукъ тийгенди. Ёртелан",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_12220",
+   "word": "занг-зунг",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание длительным ударам предмета о предмет",
+   "misc1": "",
+   "misc2": "Занг деген тауушну кёп кере къатланнганын билдиреди. Гюрбежиде занг-зунг деген тауушла эшитиледиле. Гюрбежичини салтасыны занг-зунгу къулакъларынгы са",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_12230",
+   "word": "зангырдауукъ",
+   "tags": "сыф. къарач.",
+   "def1": "громовой, оглушительный",
+   "def2": "Громовой, оглушительный (о голосе, звуке)",
+   "misc1": "зангырдауукъ аууаз громовой голос",
+   "misc2": "Кючлю, гюрюлдеген (ауазны, тауушну юсюнден). Жашны зангырдауукъ ауазы къулакъларыбызны сангсытады.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зангырда",
+     "def": "звенеть; грохотать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зангырдагъан",
+     "def": "1.1) прич. от зангырдаргъа 2) звенящий 2. звон",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зангырдат",
+     "def": "звенеть, грохотать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зангырдатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зангырдатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зангырдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12235",
+   "word": "зап",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание упавшему с высоты предмету, удару",
+   "misc1": "",
+   "misc2": "Бийикден тюшген затны неда урууну тауушун билдиреди. Къызны къолундан ычхынып, китап юй тюбюне, зап деп, тюшдю.",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_12236",
+   "word": "зап-зап",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание хлопанию крыльев птицы",
+   "misc1": "",
+   "misc2": "Къанатлыланы къанат къакъгъанларында этилген тауушну кёргюзтеди. Къыттай, сехлеге минип, къанатларын зап-зап этдирип, къычырды.\n▯ Зап-зап эт хлопать (",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_12250",
+   "word": "записной",
+   "tags": "",
+   "def1": "записной",
+   "def2": "",
+   "misc1": "записной книжка записная книжка",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "записка",
+     "def": "записка",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "запискалыкъ",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12271",
+   "word": "заранчы",
+   "tags": "ат.",
+   "def1": "вредный, вредоносный",
+   "def2": "1. Вредитель (о человеке) 2. Вредитель (животное, насекомое)",
+   "misc1": "заранчы адам вредный человек",
+   "misc2": "1. Биреуге неда бир затха хата (заран) этиучю адам. Эки термилгеннге заранчы болгъан жаханим отда кюеди. «Малкъар халкъ жырла», 184. Буржуй къыралла б",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "заран",
+     "def": "1)вред 2) убыток, ущерб 3) помеха 4) этн. порча (насланная злым духом, нечистой силой)",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "заранлы",
+     "def": "1)вредный, вредоносный; вредитель 2) убыточный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "заранлыкъ",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "заранлылыкъ",
+     "def": "1) вредность 2) убыточность",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "зарансыз",
+     "def": "1) безвредный, безопасный 2) безубыточный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "зарансызлыкъ",
+     "def": "1) безвредность 2) безубыточность",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12299",
+   "word": "зарф",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. басма (1-чи магъ.). Бу юйюнгде сен [Кязим] жарсый келдинг: «Таулуланы зарфлары жокъду», - деп. Къулийланы Къ., Чумла къызарадыла, 290. [Магомет",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_12311",
+   "word": "зат2",
+   "tags": "кес.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. иш 2. «Тюлкю алайда чычхан затмы марлай болур?» — деп, оюм этдим. Тёппеланы С., Жаралы зурнук, 18. «Къачама зат десе уа, бек терк ёлтюрюрме», — де",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "зат1",
+     "def": "1) в разн. знач. вещь ж 2) объект 3) изделие 4) вещество",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12317",
+   "word": "зауукъ3",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зауукълу II. Салам жазама, анам, тансыкъ болама санга, Бек зауукъ жашайбыз, Жарсыгъан этме манга. Къулийланы Х.-М., Жулдузчукъла, 11. Лакъырда эте",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "зауукъ1",
+     "def": "1.блаженство, наслаждение; счастье; радость;",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зауукъ2",
+     "def": "2. 1) счастливый; радостный 2) забавный, потешный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зауукълан",
+     "def": "наслаждаться, блаженствовать, получать удовольствие",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зауукъландыр",
+     "def": "1) понуд. к зауукъланыргъа 2) доставлять удовольствие кому",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зауукъландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "зауукъландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12329",
+   "word": "заф",
+   "tags": "",
+   "def1": "то же, что зап",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12334",
+   "word": "защищать",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "диссертация защищать этерге защищать диссертацию",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12335",
+   "word": "зая1",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. заран, хата. Бухар кийгенлени тамадалары – Бегеуулланы. Сохтады. Бухар кийгенлени ачы заялары – Тууарчы улу Юнюсде тохтады. «Къарачай халкъ жырла»",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "зая2",
+     "def": "испорченный, негодный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12339",
+   "word": "заядан",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зырафына. Ёрлей, чыкъдыкъ, Атны жыкъдыкъ, Кетди чынгыл къаядан. Къарап къалдыкъ, Аман талдыкъ, Ат жоюлду заядан. Шахмырзаланы С., Заман жели, 12.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12355",
+   "word": "звонить",
+   "tags": "разг.",
+   "def1": "звонить, позвонить",
+   "def2": "",
+   "misc1": "звонить этерге; телефон бла звонить этерге позвонить по телефону",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_12367",
+   "word": "зее",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. заран, хата. Кёгетлени жыйып бошагъынчы, сууукъ келип, юшютюп бошагъанды; колхозгъа ол уллу зееди.",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_12368",
+   "word": "зееле",
+   "tags": "эт. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. заяла. Тюбю бла таза кесдирмесенг [хансны]: «Кекел къойду, къышлыкъны зееледи», - дейдиле. Семенланы А., Жазыу айла, 73.",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12386",
+   "word": "зехле",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. Сехле. Мухтарны да зехледен атлагъаны, Хурметни да, намаз этер къууумда, къумгъан бла арбазгъа чыкъгъаны тенг болду. Тёппеланы А., Ташыуул. Юйге ж",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_12389",
+   "word": "зидан",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зиндан. «Муну [тюкенчини] зиданнга атыгъыз», - деп, буйрукъ бергенди патчах. «Къарачай халкъ таурухла», 116.",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_12430",
+   "word": "зом",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "зом-зом этерге болтать; балаболить; зом къатын балаболка",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12431",
+   "word": "зомзомлукъ",
+   "tags": "карач. отвлеч. к зом",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12458",
+   "word": "зохла",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зох эт. Къочхарла бир бирни зохлайдыла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зохлаш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12459",
+   "word": "зохлаш",
+   "tags": "эт. взаимн.-совм. от зохла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зохла дегенни араш айырмасы. Къочхарла зохлашадыла. Текеле зохлашадыла. ▯ Зох эт бодать / мюйюзюнг бла ур. Къозучукъ жашчыкъны зох этди. Къочхарла, уз",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зохла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12470",
+   "word": "зуйкъун",
+   "tags": "",
+   "def1": ": зуйкъунну итича как бродячая собака",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_12475",
+   "word": "зуккулла",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зуккул эт. Къартчыгъа тауукъну зуккуллады. Бёрю къозуну, зуккуллап, ашайды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зукку1",
+     "def": "косой, косоглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "зукку2",
+     "def": "Косо",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккул",
+     "def": "Растерзанный, умерщвленный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккуллан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12476",
+   "word": "зуккуллан",
+   "tags": "эт. страд. от зуккулла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зуккулла дегённи зорлаучу айырмасы. Атны, бёрюледен къалгъан, зуккулланнган эт кесеклени чыгырбашла ашай тура эдиле.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зукку1",
+     "def": "косой, косоглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "зукку2",
+     "def": "Косо",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккул",
+     "def": "Растерзанный, умерщвленный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккулла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12477",
+   "word": "зуккуллат",
+   "tags": "эт. понуд. от зуккулла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зуккулла дегенни къатланыучу айырмасы. Бёрюню парийлеге зуккуллатыргъа.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зукку1",
+     "def": "косой, косоглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "зукку2",
+     "def": "Косо",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккул",
+     "def": "Растерзанный, умерщвленный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккулла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12478",
+   "word": "зуккуллатыу",
+   "tags": "и. д. от зуккуллат",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зуккуллат дегенден этим ат. Къарамай, къойну шакаллагъа зуккуллатыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зукку1",
+     "def": "косой, косоглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "зукку2",
+     "def": "Косо",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккул",
+     "def": "Растерзанный, умерщвленный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккулла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12479",
+   "word": "зуккуллау",
+   "tags": "и. д. от зуккулла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зуккулла дегенден этим ат. Бёрюлени кийикни зуккуллаулары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зукку1",
+     "def": "косой, косоглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "зукку2",
+     "def": "Косо",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккул",
+     "def": "Растерзанный, умерщвленный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зуккулла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зуккуллат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12500",
+   "word": "зууулдат2",
+   "tags": "взаимн.-возвр. к зууулдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "чибинле зууулдашыб башладыла мухи зажужжали",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зууулда",
+     "def": "издавать звук «зу-у-у», жужжать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдатмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зууулдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдатыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12501",
+   "word": "зууулдатмакълыкъ",
+   "tags": "отвлеч. к зууулдатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зууулда",
+     "def": "издавать звук «зу-у-у», жужжать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдат1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдат2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зууулдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зууулдатыш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12512",
+   "word": "зыбыр1",
+   "tags": "сыф.",
+   "def1": "грубый (напр. о шерсти); шершавый",
+   "def2": "1. Грубый (напр. о шерсти), шершавый, шероховатый на ощупь 2. Неприятный на слух, резкий (о голосе, смехе) 3. Грубый, резкий, неучтивый, нетактичный",
+   "misc1": "зыбыр сакъал колючая борода; зыбыр тюклю щетинистый; зыбыр тюк (или чач) жёсткие волосы; зыбыр къолла шершавые руки; зыбыр джюнлю къой грубошёрстная о",
+   "misc2": "1. Тийип, тутуп кёргенде, хырттылы, сыйдам болмагъан. Зыбыр, къара жюнлю къуйрукълу къарачай къойла Азикде женгил айныйдыла. Хубийланы О., Аманат, III",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "зыбыр2",
+     "def": "Грубо. 1. Жёстко, шероховато 2. Резко, неучтиво, нетактично",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "зыбырла",
+     "def": "делать что жёстким, шершавым",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырлан",
+     "def": "Грубеть, становиться грубым, жёстким",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырланмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыбырланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12513",
+   "word": "зыбыр2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Грубо. 1. Жёстко, шероховато 2. Резко, неучтиво, нетактично",
+   "misc1": "",
+   "misc2": "1. Къолну ачытырча, тырнарча. Чачымы жастыкъ этип салыр эдим, этинге зыбыр тиймесе. Мени сюйдюрген акъ мангылайынг Жай къызыулада кюймесе. «Малкъар ха",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "зыбыр1",
+     "def": "грубый (напр. о шерсти); шершавый",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "зыбырла",
+     "def": "делать что жёстким, шершавым",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырлан",
+     "def": "Грубеть, становиться грубым, жёстким",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырланмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыбырланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12516",
+   "word": "зыбырланмакълыкъ",
+   "tags": "отвлеч. к зыбырланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "(гъы)",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыбыр1",
+     "def": "грубый (напр. о шерсти); шершавый",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "зыбыр2",
+     "def": "Грубо. 1. Жёстко, шероховато 2. Резко, неучтиво, нетактично",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "зыбырла",
+     "def": "делать что жёстким, шершавым",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырлан",
+     "def": "Грубеть, становиться грубым, жёстким",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыбырлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12524",
+   "word": "зыгъар",
+   "tags": "подр.",
+   "def1": "зыгъар о скрежетании",
+   "def2": "",
+   "misc1": "-зугъур; къаядан ташла зыгъар деб къуюлдула со скалы с шумом посыпались камни",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12527",
+   "word": "зыгъырдамакълыкъ",
+   "tags": "отвлеч. к зыгъырдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыгъыр",
+     "def": "галька, гравий; крупный песок",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырда",
+     "def": "скрежетать, скрипеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдат1",
+     "def": "скрежетать, скрипеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдат2",
+     "def": "скрежетать, скрипеть (о чём-л.)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыгъырдау",
+     "def": "скрежет",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12530",
+   "word": "зыгъырдатыу",
+   "tags": "и. д. к зыгъырдатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыгъыр",
+     "def": "галька, гравий; крупный песок",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырда",
+     "def": "скрежетать, скрипеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыгъырдат1",
+     "def": "скрежетать, скрипеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдат2",
+     "def": "скрежетать, скрипеть (о чём-л.)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдау",
+     "def": "скрежет",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12532",
+   "word": "зыгъырдашыу",
+   "tags": "и. д. к зыгъырдатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыгъыр",
+     "def": "галька, гравий; крупный песок",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырда",
+     "def": "скрежетать, скрипеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдамакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыгъырдат1",
+     "def": "скрежетать, скрипеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдат2",
+     "def": "скрежетать, скрипеть (о чём-л.)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зыгъырдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12535",
+   "word": "зыгытла",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зыгыт эт 1 (къ. зыгыт). Жер жауунладан кёбеди, Дуниягъа монглукъ тёгеди: Зыгытлайдыла сабанла, Тюк ариулайдыла малла. Гулийланы М., Кетмегиз, зурнукла",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "зыгыт",
+     "def": "1)побег, глазок, росток 2) молодое хвойное дерева",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зыгытлан",
+     "def": "пустить ростки, прорасти",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зыгытландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "зыгытландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "зыгытланмакълыкъ",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "зыгытланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12539",
+   "word": "зыгытланмакълыкъ",
+   "tags": "отвлеч. к зыгытланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "зыгыт",
+     "def": "1)побег, глазок, росток 2) молодое хвойное дерева",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зыгытла",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "зыгытлан",
+     "def": "пустить ростки, прорасти",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зыгытландыр",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "зыгытландырыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "зыгытланыу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12542",
+   "word": "зыйдан",
+   "tags": "",
+   "def1": "то же, что зийдан",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_12543",
+   "word": "зыйна",
+   "tags": "",
+   "def1": "то же, что зийна",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "зыйналыкъ",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12544",
+   "word": "зыйналыкъ",
+   "tags": "отвлеч. к зыйна",
+   "def1": "",
+   "def2": "",
+   "misc1": "(гъы)",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "зыйна",
+     "def": "то же, что зийна",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12551",
+   "word": "зыккыллат",
+   "tags": "понуд. к зыккылларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыккыл",
+     "def": "Изношенный, пришедший в ветхость, в негодность от носки (об одежде)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "зыккылла1",
+     "def": "1. Лохмотья 2. Рваное место одежды",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "зыккылла2",
+     "def": "разорвать в лохмотья; потрепать (одежду)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккыллан",
+     "def": "порваться, потрепаться (об одежде)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккылланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккыллатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12552",
+   "word": "зыккыллатыу",
+   "tags": "и. д. к зыккыллатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыккыл",
+     "def": "Изношенный, пришедший в ветхость, в негодность от носки (об одежде)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "зыккылла1",
+     "def": "1. Лохмотья 2. Рваное место одежды",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "зыккылла2",
+     "def": "разорвать в лохмотья; потрепать (одежду)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккыллан",
+     "def": "порваться, потрепаться (об одежде)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккылланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккыллат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12553",
+   "word": "зыккыллау",
+   "tags": "и. д. к зыккылларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыккыл",
+     "def": "Изношенный, пришедший в ветхость, в негодность от носки (об одежде)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "зыккылла1",
+     "def": "1. Лохмотья 2. Рваное место одежды",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "зыккылла2",
+     "def": "разорвать в лохмотья; потрепать (одежду)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккыллан",
+     "def": "порваться, потрепаться (об одежде)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккылланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зыккыллат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12563",
+   "word": "зыкъым",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зыкъы. 1. От аны [Мухтарны] артха сюрюшдюрюп, къызбайла, зыкъымла жыйынына къошса, анда Мухтар бла келир заманны арасында бир тюрлю байламлыкъ къа",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "зыкъы1",
+     "def": "1) изнеженный 2) перен. ленивый",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зыкъы2",
+     "def": "1. Трусливо 2. Изнеженно",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зыкъылан",
+     "def": "1)изнежиться 2) облениться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зыкъыландыр",
+     "def": "изнежить кого",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "зыкъыландырыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "зыкъыланнган",
+     "def": "1)изнеженный 2) обленившийся",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12569",
+   "word": "зылдыландырыу",
+   "tags": "и. д. к зылдыландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зылды1",
+     "def": "дёрн",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "зылды2",
+     "def": "1) вялый (о человеке) 2) пренебр. несообразительный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "зылды3",
+     "def": "мякоть с семечками (внутри тыквы, дыни и т. п.)",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зылдылан",
+     "def": "проявлять (показывать) свою несообразительность",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "зылдыландыр",
+     "def": ": кеси кесинги зылдыландырыргъа прикидываться глупым, строить из себя дурачка",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "зылдыланмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12570",
+   "word": "зылдыланмакълыкъ",
+   "tags": "отвлеч. к зылдыланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зылды1",
+     "def": "дёрн",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "зылды2",
+     "def": "1) вялый (о человеке) 2) пренебр. несообразительный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "зылды3",
+     "def": "мякоть с семечками (внутри тыквы, дыни и т. п.)",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зылдылан",
+     "def": "проявлять (показывать) свою несообразительность",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "зылдыландыр",
+     "def": ": кеси кесинги зылдыландырыргъа прикидываться глупым, строить из себя дурачка",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "зылдыландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12573",
+   "word": "зылдысына",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "зылдысына барыргъа идти расхлябанной походкой (с глуповатым видом); зылдысына сёлеширге говорить невпопад; нести чушь (в силу своей несообразительност",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зылды1",
+     "def": "дёрн",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "зылды2",
+     "def": "1) вялый (о человеке) 2) пренебр. несообразительный",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "зылды3",
+     "def": "мякоть с семечками (внутри тыквы, дыни и т. п.)",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "зылдылан",
+     "def": "проявлять (показывать) свою несообразительность",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "зылдыландыр",
+     "def": ": кеси кесинги зылдыландырыргъа прикидываться глупым, строить из себя дурачка",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "зылдыландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12582",
+   "word": "зымпыкъландыр",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги зымпыкъландырыргъа а) прикидываться дурачком; б) кривляться, паясничать",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зымпыгъына",
+     "def": ": зымпыгъына барыргъа идти неуклюжей походкой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпый",
+     "def": "Убегать или уходить тайно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпыйыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыкъ1",
+     "def": "Глупый, дурной",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12583",
+   "word": "зымпыкъландырыу",
+   "tags": "и. д. к зымпыкъландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зымпыгъына",
+     "def": ": зымпыгъына барыргъа идти неуклюжей походкой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпый",
+     "def": "Убегать или уходить тайно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпыйыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыкъ1",
+     "def": "Глупый, дурной",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12584",
+   "word": "зымпыкъланмакълыкъ",
+   "tags": "отвлеч. к зымпыкъланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зымпыгъына",
+     "def": ": зымпыгъына барыргъа идти неуклюжей походкой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпый",
+     "def": "Убегать или уходить тайно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпыйыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыкъ1",
+     "def": "Глупый, дурной",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12587",
+   "word": "зымпылда",
+   "tags": "",
+   "def1": "то же, что зампылдаргъа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зымпыгъына",
+     "def": ": зымпыгъына барыргъа идти неуклюжей походкой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпый",
+     "def": "Убегать или уходить тайно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпыйыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыкъ1",
+     "def": "Глупый, дурной",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12588",
+   "word": "зымпылдау",
+   "tags": "и. д. к зымпылдаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зымпыгъына",
+     "def": ": зымпыгъына барыргъа идти неуклюжей походкой",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпый",
+     "def": "Убегать или уходить тайно",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "зымпыйыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйыш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыйышыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "зымпыкъ1",
+     "def": "Глупый, дурной",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12603",
+   "word": "зынгырдауукъ1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Звонкий, звучный, громкий",
+   "misc1": "",
+   "misc2": "Уллу тауушу болгъан, ачыкъ тауушлу. Къулакъ суучукъну зынгырдауукъ тауушу келеди. Семенланы А., Жазыу айла, 44. Заводда зынгырдауукъ къурчну алып, Не ",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "зынгыр",
+     "def": "зынгыр о звоне, напр. колокольчиков",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "зынгыр-зынгыр",
+     "def": "Звукоподражание звону колокольчика",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "зынгырда",
+     "def": "1)звенеть, лязгать 2) перен. дряхлеть, стареть",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зынгырдагъан",
+     "def": "1. прич. от зынгырдаргъа 2. 1) звон (лёгкий, многократный) 2) звонок",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "зынгырдат",
+     "def": "1) понуд. к зынгырдаргъа 2) звенеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зынгырдатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12605",
+   "word": "зынгырдауукълукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Звонкость, звучность, громкость",
+   "misc1": "",
+   "misc2": "Уллу тауушу барлыкъ, ачыкъ, жарыкъ тауушлулукъ. Ауазны зынгырдауукълугъу. Къонгуроуну зынгырдауукълугъу.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "зынгыр",
+     "def": "зынгыр о звоне, напр. колокольчиков",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "зынгыр-зынгыр",
+     "def": "Звукоподражание звону колокольчика",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "зынгырда",
+     "def": "1)звенеть, лязгать 2) перен. дряхлеть, стареть",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зынгырдагъан",
+     "def": "1. прич. от зынгырдаргъа 2. 1) звон (лёгкий, многократный) 2) звонок",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "зынгырдат",
+     "def": "1) понуд. к зынгырдаргъа 2) звенеть чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "зынгырдатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12611",
+   "word": "зынттыу",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зымпыкъ. Иткъулакъ сары Нухну Жерге урду, Кётюрюп, Амал тапды, къоярча, Зынттыуланы ёлтюрюп. Гыттыуланы М., Жыйырманчы ёмюр, 188. «Къайда болсанг ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зынттыулукъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  }
+ ]
+}

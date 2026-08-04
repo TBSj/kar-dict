@@ -1,0 +1,4929 @@
+{
+ "items": [
+  {
+   "entry_id": "e_19036",
+   "word": "кьампалыу",
+   "tags": "и. д. к къампалыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19041",
+   "word": "кьатланыу",
+   "tags": "и. д. к къатланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19042",
+   "word": "кьашанмакълыкъ",
+   "tags": "карач. отвлеч. к къашаныргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19045",
+   "word": "кьошакъланмакълыкъ",
+   "tags": "отвлеч. к къошакъланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кьошакъланмау",
+     "def": "непосредственность",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "кьошакъланнган",
+     "def": "кокетливый; жеманный, манерный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19052",
+   "word": "кьулакълат",
+   "tags": "понуд. к къулакъларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "айтханынга къулакълат сделай так, чтобы тебя слушались",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19053",
+   "word": "кьуратдырыу",
+   "tags": "и. д. к къуратдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьуратмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19054",
+   "word": "кьуратмакълыкъ",
+   "tags": "отвлеч. к къуратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьуратдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19055",
+   "word": "кьургъакьсыт",
+   "tags": "понуд. к кьургъакъсыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "бу ауузунгу къургъакъсытады это вызывает сухость во рту; это сушит ворту; чыккырны къургъакьсытмагъыз не давайте кадушке рассохнуться",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19056",
+   "word": "кьурдурмакълыкь",
+   "tags": "отвлеч. к къурдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19058",
+   "word": "кьурта",
+   "tags": "балк.",
+   "def1": "",
+   "def2": "",
+   "misc1": "тюлкюню къулакълары кьуртады у лисы уши короткие; кьурта улакъ короткоухий козлёнок",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "кьуртха",
+     "def": "1. уст. старый 2. фольк. баба-яга, ведьма",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19060",
+   "word": "кьуру",
+   "tags": "",
+   "def1": "1. 1) в разн. знач. пустой 2) прям., перен. голый 3) сухой 2. 1) только, лишь, один, всего 2) ни с чем, без ничего",
+   "def2": "",
+   "misc1": "кьуру юй пустой дом; кьуру къарын пустой живот; кьуру шыша пустая бутылка; кьуру къоллары бла келди он пришёл с пустыми руками; къолу кьуру неимущий, ",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кьурулуш",
+     "def": "-монтаж строительно-монтажный",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кьурум",
+     "def": "сажа, копоть ж",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19064",
+   "word": "кьууалатыу",
+   "tags": "и. д. к къууалатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьууалаучу",
+     "def": "погонщик",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19066",
+   "word": "кьуууртмакълыкъ",
+   "tags": "отвлеч. к къуууртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьуууш",
+     "def": "-тюйюш потасовка, драка, избиение",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19071",
+   "word": "кьыздырмакълыкъ",
+   "tags": "отвлеч. к къыздырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьыздыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кьыздырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19072",
+   "word": "кьыздыртмакълыкъ",
+   "tags": "отвлеч. к къыздыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьыздырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кьыздырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19073",
+   "word": "кьыздырылыу",
+   "tags": "и. д. к къыздырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьыздырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кьыздыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19074",
+   "word": "кьызышыу",
+   "tags": "и. д. к къызышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19075",
+   "word": "кьыйпатыу",
+   "tags": "и. д. к къыйпатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19076",
+   "word": "кьыйсайтыу",
+   "tags": "карач. и. д. к къыйсайтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19079",
+   "word": "кьылланмакълыкъ",
+   "tags": "отвлеч. к къылланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19080",
+   "word": "кьымдырмакълыкъ",
+   "tags": "отвлеч. к къымдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19081",
+   "word": "кьымыжаланыу",
+   "tags": "и. д. к къымыжаланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьымыжалау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кьымыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19082",
+   "word": "кьымыжалау",
+   "tags": "и. д. к къымыжаларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьымыжаланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кьымыл",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19085",
+   "word": "кьынгыр2",
+   "tags": "",
+   "def1": "-мынгырына вкривь и вкось",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кьынгыр1",
+     "def": "коромысло",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19091",
+   "word": "кьысхармакълыкъ",
+   "tags": "отвлеч. к кьысхарыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кьысхадан",
+     "def": "1) вкратце 2) быстро, скоро",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кьысхалат",
+     "def": "1) понуд. к къысхаларгьа 2) срезать, укорачивать что 3) завершать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кьысхалыкь",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19092",
+   "word": "кьыталмакълыкъ",
+   "tags": "отвлеч. к къыталыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19098",
+   "word": "кювет",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Кювет",
+   "misc1": "",
+   "misc2": "Жолну эки жанында суу саркъыучу индек, илипин. Шофёрну къолу рульдан тайып, машина кюветге тюшерге аз къалды. Сылпагъарланы К., Кёмеуюл, 19.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_19102",
+   "word": "кюеулеб",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "кюеулеб барыргъа идти (ехать) представляться к родственникам своей молодой жены (после свадьбы по их приглашению)",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "кюеулюк",
+     "def": "1) отвлеч. к кюеу; 2) жених, наречённый м; будущий зять",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19108",
+   "word": "кюзгюде",
+   "tags": "зам. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кюзде. [Пазий Мазаннга:] Кюзгюде уа, атанг: «Ишленген би.ченчигцми арбазгъа ташып къояйым», -  деп, Хораладан эки.ёгюзню бла дингиллерин тилеп алы",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "кюзгю1",
+     "def": "1) зеркало || зеркальный",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "кюзгю2",
+     "def": "2) мед. рентген || рентгеновский",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кюзгю3",
+     "def": "осенний",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кюзгюлен",
+     "def": "Стать зеркальным, блестящим",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кюзгюлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кюзгючю1",
+     "def": "Зеркальщик",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19114",
+   "word": "кюзлюк1",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кюзгю 3. Къарачайгъа бир кюзлюк ёртен ычхынды. «Къарачай-малкъар жырла», 33.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кюзлюк2",
+     "def": "озимый",
+     "lextag": "living_things",
+     "conf": "low"
+    },
+    {
+     "word": "кюзлюкле",
+     "def": "Озимые",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19115",
+   "word": "кюзлюк2",
+   "tags": "къауум. ат. къ. кюзлюкле; с.-х.",
+   "def1": "озимый",
+   "def2": "2. В позиции определения: озимый",
+   "misc1": "кюзлюк арпа озимый ячмень; кюзлюк будай озимая пшеница; кюзлюк сабан озимь ж",
+   "misc2": "1. Кюзлюкню суугъа тирелген къыйырында былтырдан къалгъан будай салам тёбечик саргъалады. «Шуёхлукъ», № 18, 76. Кюзлюк себиллик жерлени хар гектарына ",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "кюзлюк1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кюзлюкле",
+     "def": "Озимые",
+     "lextag": "living_things",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19124",
+   "word": "кюйде",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "ол кюйде в таком же роде, таким же способом",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_19133",
+   "word": "кюйдюрюучю",
+   "tags": "",
+   "def1": "зажигательный",
+   "def2": "",
+   "misc1": "кюйдюрюучю бомба зажигательная бомба",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кюйдюр",
+     "def": "1) понуд. к кюерге 2) в разн. знач. жечь что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кюйдюрген",
+     "def": "1) прич. от кюйдюрюрге; 2) резкий (холод и т. п.); обжигающий",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кюйдюрмеклик",
+     "def": "см. кюйдюрюу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кюйдюрт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кюйдюртюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кюйдюрюл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19136",
+   "word": "кюймеген",
+   "tags": "",
+   "def1": "1) прич. отриц. от кюерге; 2) несгораемый, огнестойкий",
+   "def2": "",
+   "misc1": "кюймеген шкаф несгораемый шкаф",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кюймеклик",
+     "def": "см. кюйюу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19153",
+   "word": "кюйю",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "юйю болгъан кюйю юйюне, юйю болмагъан - кюйюне дет. (так говорят, когда расходятся по домам после игры)",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_19162",
+   "word": "кюйюксюн",
+   "tags": "эт. ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зарлан. Ол тенглерини окъууларына, билимлерине кюйюксюне эди.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кюйюк1",
+     "def": "завистливый",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "кюйюк2",
+     "def": "Пронзительный (о ветре, холоде и т.п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюйюклен",
+     "def": "Завидовать кому, испытывать чувство зависти к кому, ревновать кого",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "кюйюклениу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюйюклюк",
+     "def": "(гю) завистливость",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19170",
+   "word": "кюйюуюл",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бушуу. Айырылып, арбазгъа жол кирген жары юрюлдю жыйылгъан халкъны жартылары. Неле болду жен эди, бу не ишди, Арабин, бир кюйюуюлмю тюшдю? «Жюрек ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кюйюу",
+     "def": "горение",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19172",
+   "word": "кюкюреген",
+   "tags": "",
+   "def1": "1. прич. от кюкюрерге",
+   "def2": "",
+   "misc1": "2.: кёк кюкюреген гром; кёк кюкюреген тауушла раскаты грома",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кюкюре",
+     "def": "1) греметь (о громе) 2) перен. ворчать, гневаться, бушевать",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюремеклик",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кюкюрет1",
+     "def": "1) понуд. к кюкюрерге 2) то же, что кюкюрерге 2",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюрет2",
+     "def": "разгневаться, разбушеваться (о многих)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюретиу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюреу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19173",
+   "word": "кюкюремеклик",
+   "tags": "отвлеч. к кюкюрерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кюкюре",
+     "def": "1) греметь (о громе) 2) перен. ворчать, гневаться, бушевать",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюреген",
+     "def": "1. прич. от кюкюрерге",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кюкюрет1",
+     "def": "1) понуд. к кюкюрерге 2) то же, что кюкюрерге 2",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюрет2",
+     "def": "разгневаться, разбушеваться (о многих)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюретиу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюреу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19178",
+   "word": "кюкюрешиу",
+   "tags": "и. д. к кюкюретирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "сиз биринг биринге кюкюрешиуню къоюгъуз перестаньте злить друг друга",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кюкюре",
+     "def": "1) греметь (о громе) 2) перен. ворчать, гневаться, бушевать",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюреген",
+     "def": "1. прич. от кюкюрерге",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кюкюремеклик",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кюкюрет1",
+     "def": "1) понуд. к кюкюрерге 2) то же, что кюкюрерге 2",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюрет2",
+     "def": "разгневаться, разбушеваться (о многих)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюретиу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19179",
+   "word": "кюкюрешмеклик",
+   "tags": "отвлеч. к кюкюретирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кюкюре",
+     "def": "1) греметь (о громе) 2) перен. ворчать, гневаться, бушевать",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюреген",
+     "def": "1. прич. от кюкюрерге",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кюкюремеклик",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кюкюрет1",
+     "def": "1) понуд. к кюкюрерге 2) то же, что кюкюрерге 2",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюрет2",
+     "def": "разгневаться, разбушеваться (о многих)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюкюретиу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19191",
+   "word": "кюлдюрмеклик",
+   "tags": "отвлеч. к кюлдюрюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кюлдюр",
+     "def": "1) понуд. к кюлюрге 2) смешить, потешать кого",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюрген",
+     "def": "1) прич. от кюлдюрюрге 2) смешной, весёлый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюргюч",
+     "def": "1. комик, шутник 2. 1) комический 2) смехотворный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кюлдюрт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртюу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19192",
+   "word": "кюлдюрт",
+   "tags": "понуд. к кюлдюрюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги кюлдюртюрге заставить себя улыбаться; деланно смеяться; адамланы кесинге кюлдюртме не заставляй людей смеяться над собой, не смеши людей",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кюлдюр",
+     "def": "1) понуд. к кюлюрге 2) смешить, потешать кого",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюрген",
+     "def": "1) прич. от кюлдюрюрге 2) смешной, весёлый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюргюч",
+     "def": "1. комик, шутник 2. 1) комический 2) смехотворный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кюлдюрмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртюу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19193",
+   "word": "кюлдюртмеклик",
+   "tags": "отвлеч. к кюлдюртюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кюлдюр",
+     "def": "1) понуд. к кюлюрге 2) смешить, потешать кого",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюрген",
+     "def": "1) прич. от кюлдюрюрге 2) смешной, весёлый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюргюч",
+     "def": "1. комик, шутник 2. 1) комический 2) смехотворный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кюлдюрмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюрт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртюу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19194",
+   "word": "кюлдюртюу",
+   "tags": "и. д. к кюлдюртюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кюлдюр",
+     "def": "1) понуд. к кюлюрге 2) смешить, потешать кого",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюрген",
+     "def": "1) прич. от кюлдюрюрге 2) смешной, весёлый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюргюч",
+     "def": "1. комик, шутник 2. 1) комический 2) смехотворный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кюлдюрмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюрт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19198",
+   "word": "кюлдюрюшюу",
+   "tags": "и. д. к кюлдюрюшюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кюлдюр",
+     "def": "1) понуд. к кюлюрге 2) смешить, потешать кого",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюрген",
+     "def": "1) прич. от кюлдюрюрге 2) смешной, весёлый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кюлдюргюч",
+     "def": "1. комик, шутник 2. 1) комический 2) смехотворный",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кюлдюрмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюрт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "кюлдюртмеклик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19199",
+   "word": "кюле",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "-ойнай: кюле гокка кёзлеринг, къашларынг да къара къундузча фольк. глаза твой весёлые, а брови твой словно чёрные вороны",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_19240",
+   "word": "кюмюшкъанат",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "Серебрянокрылый (о самолете)",
+   "misc1": "",
+   "misc2": "Къанаты кюмюшча жылтыраучу. Жолоучула, табийгъатны ариулугъуна сейирсинип, бир бирлери бла иги танышхынчы, кюмюшкъанат «лачын», тёгерек айланып, аэрод",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кюмюш",
+     "def": "серебро || серебряный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кюмюшле",
+     "def": "1. Серебрить 2. кёч. Делать, сделать седым",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кюмюшлен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кюмюшлениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кюмюшлет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кюмюшлетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19279",
+   "word": "кюнчыкъгъан",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кюнчыгъыш. [Маржан] ...этиучюсюча, къыбылагъа айланып, намазын этерге уа унутуп, кюнчыкъгъаннга айланып этип бошады... Боташланы А., Жашауум, 49. ",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кюнчыгъыш",
+     "def": "1. Восток 2. В позиции определения: восточный",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19330",
+   "word": "кюсюу",
+   "tags": "",
+   "def1": "см. кисиу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_19375",
+   "word": "кючден1",
+   "tags": "хал. сёзл.",
+   "def1": "насилу, едва, еле",
+   "def2": "Еле, едва, насилу, с трудом",
+   "misc1": "башымы кючден алдым я насилу избавился от чего; кючден аязыдым я еле пришёл в себя; кючден джюрюрге еле передвигаться; ол аякъ юсюнде кючден турады он",
+   "misc2": "Къыйналып. Темуркъа, жаны кючден жетип, юйге киргенлей, юсюне эски кийиз атылгъан болжар салам муржаргъа аунады. Аппаланы Х., Къара кюбюр, 44. Ол [Ибр",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "кючден2",
+     "def": "-бутдан еле-еле; насилу",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден-бутдан",
+     "def": "Еле-еле",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден-мутдан",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19376",
+   "word": "кючден2",
+   "tags": "",
+   "def1": "-бутдан еле-еле; насилу",
+   "def2": "",
+   "misc1": "ол юйюне кючден джетди он едва доплёлся до дому",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "кючден1",
+     "def": "насилу, едва, еле",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден-бутдан",
+     "def": "Еле-еле",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден-мутдан",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19377",
+   "word": "кючден-бутдан",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Еле-еле",
+   "misc1": "",
+   "misc2": "Бек къыйналып, аманны кебинден. [Зауурбек Ашикогъа:] Кече ортасында уяннганымда, санларым, таш бла тюйгенча, ауур болуп, кючден-бутдан аякъ юсюне турд",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "кючден1",
+     "def": "насилу, едва, еле",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден2",
+     "def": "-бутдан еле-еле; насилу",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден-мутдан",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19378",
+   "word": "кючден-мутдан",
+   "tags": "хал. сёзл., сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кючден-бутдан. [Адилгерий], жанын къолуна алып, Жантемирни аскерлеринден кючден-мутдан къутулгъанды. «Малкъар халкъ жомакъла», II, 167. Жаралы ит,",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "кючден1",
+     "def": "насилу, едва, еле",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден2",
+     "def": "-бутдан еле-еле; насилу",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кючден-бутдан",
+     "def": "Еле-еле",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19382",
+   "word": "кючеймеклик",
+   "tags": "отвлеч. к кючейирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючей1",
+     "def": "набраться сил",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючей2",
+     "def": "напрягаться, тужиться, стараться (что-л. сделать)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючейиу",
+     "def": "набирание сил",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючейт",
+     "def": "1) понуд. к кючейирге; 2) давать кому силы, укреплять кого-что",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючейтиу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19386",
+   "word": "кючендир",
+   "tags": "понуд. к кючейирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесин кючендирирге заставить.себя напрячься",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючен",
+     "def": "1. Напрягаться, тужиться, стараться (что-л. сделать)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючендириу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендирмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючениу",
+     "def": "1) и. д. к кючейирге; 2) потуги мн.",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючениш",
+     "def": "напрягаться; напрягать силы, усилия (всем вместе)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кюченишмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19387",
+   "word": "кючендириу",
+   "tags": "и. д. к кючендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючен",
+     "def": "1. Напрягаться, тужиться, стараться (что-л. сделать)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючендир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендирмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючениу",
+     "def": "1) и. д. к кючейирге; 2) потуги мн.",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючениш",
+     "def": "напрягаться; напрягать силы, усилия (всем вместе)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кюченишмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19388",
+   "word": "кючендирмеклик",
+   "tags": "отвлеч. к кючендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючен",
+     "def": "1. Напрягаться, тужиться, стараться (что-л. сделать)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючендир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендириу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючениу",
+     "def": "1) и. д. к кючейирге; 2) потуги мн.",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючениш",
+     "def": "напрягаться; напрягать силы, усилия (всем вместе)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кюченишмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19391",
+   "word": "кюченишмеклик",
+   "tags": "отвлеч. к кючениширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючен",
+     "def": "1. Напрягаться, тужиться, стараться (что-л. сделать)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючендир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендириу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендирмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючениу",
+     "def": "1) и. д. к кючейирге; 2) потуги мн.",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючениш",
+     "def": "напрягаться; напрягать силы, усилия (всем вместе)",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19392",
+   "word": "кюченмеклик",
+   "tags": "отвлеч. к кючейирге",
+   "def1": "см. кючениу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючен",
+     "def": "1. Напрягаться, тужиться, стараться (что-л. сделать)",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючендир",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендириу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючендирмеклик",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючениу",
+     "def": "1) и. д. к кючейирге; 2) потуги мн.",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючениш",
+     "def": "напрягаться; напрягать силы, усилия (всем вместе)",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19394",
+   "word": "кючлемеклик",
+   "tags": "отвлеч. к кючлерге",
+   "def1": "см. кючлеу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кючле",
+     "def": "1) карач. присваивать что, захватывать кого-что, отбирать что силой; 2) карач. прям., пере",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлен",
+     "def": "1) страд. к кючлерге; 2) укрепляться, усиливаться",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендир",
+     "def": "усиливать, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендириу",
+     "def": "усиление, укрепление чего",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19402",
+   "word": "кючлендирт",
+   "tags": "понуд. к кючлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "мизамны кючлендиртирге заставить кого укрепить дисциплину",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кючле",
+     "def": "1) карач. присваивать что, захватывать кого-что, отбирать что силой; 2) карач. прям., пере",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлемеклик",
+     "def": "см. кючлеу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кючлен",
+     "def": "1) страд. к кючлерге; 2) укрепляться, усиливаться",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендир",
+     "def": "усиливать, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19403",
+   "word": "кючлендиртиу",
+   "tags": "и. д. к кючлендиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кючле",
+     "def": "1) карач. присваивать что, захватывать кого-что, отбирать что силой; 2) карач. прям., пере",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлемеклик",
+     "def": "см. кючлеу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кючлен",
+     "def": "1) страд. к кючлерге; 2) укрепляться, усиливаться",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендир",
+     "def": "усиливать, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19407",
+   "word": "кючлетдир",
+   "tags": "понуд. к кючлетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кючле",
+     "def": "1) карач. присваивать что, захватывать кого-что, отбирать что силой; 2) карач. прям., пере",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлемеклик",
+     "def": "см. кючлеу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кючлен",
+     "def": "1) страд. к кючлерге; 2) укрепляться, усиливаться",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендир",
+     "def": "усиливать, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19408",
+   "word": "кючлетдириу",
+   "tags": "и. д. к кючлетдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кючле",
+     "def": "1) карач. присваивать что, захватывать кого-что, отбирать что силой; 2) карач. прям., пере",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлемеклик",
+     "def": "см. кючлеу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кючлен",
+     "def": "1) страд. к кючлерге; 2) укрепляться, усиливаться",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендир",
+     "def": "усиливать, укреплять что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлендирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19413",
+   "word": "кючлю1",
+   "tags": "сыф.",
+   "def1": "1) крепкий, острый (на вкус); 2) сильный, мощный; крепкий",
+   "def2": "1. Обладающий большой жизненной силой 2. Сильный, мощный (о тракторе, технике и т.п.) 3. Сильный (об уме, убеждениях, вере и т.п.) 4. Сильный (об армии, о крепости и т.п.) 5. Влиятельный 6. Сильный (в",
+   "misc1": "кючлю соус острый соус; асыры кючлю слишком острый; агурчала асыры кючлю болгъандыла огурцы получились слишком острые; кючлю адам прям., перен. сильны",
+   "misc2": "1. къ. къарыулу. Кючлю адам. Кючлю ажир. Кючлю кючлюге жолукъса, кючлю бузоу болур. (Нарт сёз.) ◊ Азиреталийни жюреги кимден да бу кючлюдю, батырды де",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючлю2",
+     "def": "|| сильно, мощно, крепко",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлю3",
+     "def": "1) крепкий, острый (на вкус)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "кючлюк",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючлюлюк1",
+     "def": "2) мощь ж, сила чего",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлюлюк2",
+     "def": "1) острота, крепость чего",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19416",
+   "word": "кючлюк",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кюч 15. Бютеу кёрген зулмубузну унутмайын, Бу кючюклени бирин да къурутмайын, Не ёлейик, неда бюгюн къан алайыкъ, Не керти «ит», неда адамгъа сана",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кючлю1",
+     "def": "1) крепкий, острый (на вкус); 2) сильный, мощный; крепкий",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кючлю2",
+     "def": "|| сильно, мощно, крепко",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлю3",
+     "def": "1) крепкий, острый (на вкус)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "кючлюлюк1",
+     "def": "2) мощь ж, сила чего",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "кючлюлюк2",
+     "def": "1) острота, крепость чего",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19425",
+   "word": "кючсюнмеклик",
+   "tags": "отвлеч. к кючсюнюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кючсюз",
+     "def": "немощный, слабый, бессильный",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючсюзлюк",
+     "def": "немощь ж, бессилие, слабость",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кючсюн",
+     "def": "1) карач. тяготиться чем, делать что нехотя, выражать нежелание (что-л. делать); принимать",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "кючсюндюр",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючсюндюрюу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кючсюнюу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19431",
+   "word": "кюштел",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. диал. чыккыр. Бош кюштел бек дыгъырдар. (Нарт сёз.) ◊ Кертиси да, ташны кёп жеринде, от къаралтханча, къара тырмылары барды; тюз да белинде уа, юч",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_19455",
+   "word": "кёбелекке",
+   "tags": "ат., къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гебейек. 1. Ёлюр кёбелекке башын отха атар. (Нарт сёз.) ◊ [Анасы Наурузгъа:] Къышынг, жайынг жолоучулукъда, кёбелекке гокка хансха къона айланнган",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кёбелек",
+     "def": "1. (кёбелек бол) бояться, испытывать страх, тревогу 2. (кёбелек эт) испугать, напугать, ус",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19456",
+   "word": "кёбмеклик",
+   "tags": "отвлеч. к кёберге",
+   "def1": "см. кёбюу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_19511",
+   "word": "кёзлен",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёз тийди (къ. кёз). Амма: «Сабий кёзленнген этгенди», — деп, къартыннагъа тюкюртюрге элтди.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кёзлениу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кёзлеу",
+     "def": "ключ, родник, источник || ключевой, родниковый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "кёзлеулю",
+     "def": "богатый родниками, богатый источниками",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19512",
+   "word": "кёзлениу",
+   "tags": "и. д. от кёзлен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёзлен дегенден этими ат. Дин ахлулары адамны кёзлениуюню юсюнден кёп тюрлю хапар айтадыла.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "кёзлен",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "кёзлеу",
+     "def": "ключ, родник, источник || ключевой, родниковый",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "кёзлеулю",
+     "def": "богатый родниками, богатый источниками",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19520",
+   "word": "кёзсюн",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "кёз тийди (къ. кёз). Сабий кёзсюндю. Юйдегиле барысы да: «Къыз кёзсюннгенди», — деген оюмгъа келишдиле.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёзсюз",
+     "def": "Безглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "кёзсюндюр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюндюрюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюнюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19521",
+   "word": "кёзсюндюр",
+   "tags": "эт. понуд. от кёзсюн",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёзсюн дегенни къатланыучу айырмасы. Къызчыкъны, бирден бирге ала, махтай кетип, кёзсюндюрдюле.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёзсюз",
+     "def": "Безглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "кёзсюн",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюндюрюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюнюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19522",
+   "word": "кёзсюндюрюу",
+   "tags": "и. д. от кёзсюндюр",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёзсюндюр дегенден этим ат. Атны кёзсюндюрюу. Сабийни кёзсюндюрюу.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёзсюз",
+     "def": "Безглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "кёзсюн",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюндюр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюнюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19523",
+   "word": "кёзсюнюу",
+   "tags": "и. д. от кёзсюн",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёзсюн дегенден этим ат. Сабийни кёзсюнюую. Малны кёзсюнюую.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёзсюз",
+     "def": "Безглазый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "кёзсюн",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюндюр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "кёзсюндюрюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19524",
+   "word": "кёзтутмаз",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёзкёрмез. Ырбынла бла экиси да къысха заманны ичинде кёзтутмазгъа ташайгъан эдиле. Хочуланы С., Хапарла, 43.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёзтутхан",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19525",
+   "word": "кёзтутхан",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёзкёрген. Кёзтутханда акъ иегини уруп, Ушкок тютюн, кукурт ийис чыгъады. Шахмырзаланы С., Ол ёмюрледе, 54.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёзтутмаз",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19533",
+   "word": "кёзюу3",
+   "tags": "хал. сёзл. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "кёзюу-кёзюу по очереди; поочерёдно",
+   "misc2": "къ. кезиу 3. Чарх да кёзюу тёнгерейди. (Нарт сёз.) ◊ - Мен да билмейме сизни, - деди Борис, къарт къатын бла жашха кёзюу къарай. Хубийланы О., Адамла,",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёзюу1",
+     "def": "2) период; пора, время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кёзюу2",
+     "def": "1) очередь ж, очерёдность; последовательность",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюу-кёзюу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюуле",
+     "def": "чередовать [одно с другим]; сменять [одно другим)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюулемеклик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёзюулет1",
+     "def": "1) понуд. к кёзюулерге 2) то же, что кёзюулерге",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19536",
+   "word": "кёзюулемеклик",
+   "tags": "карач. отвлеч. к кёзюулерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёзюу1",
+     "def": "2) период; пора, время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кёзюу2",
+     "def": "1) очередь ж, очерёдность; последовательность",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюу3",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёзюу-кёзюу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюуле",
+     "def": "чередовать [одно с другим]; сменять [одно другим)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюулет1",
+     "def": "1) понуд. к кёзюулерге 2) то же, что кёзюулерге",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19540",
+   "word": "кёзюулетдириу",
+   "tags": "карач. и. д. к кёзюулетдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёзюу1",
+     "def": "2) период; пора, время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кёзюу2",
+     "def": "1) очередь ж, очерёдность; последовательность",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюу3",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёзюу-кёзюу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюуле",
+     "def": "чередовать [одно с другим]; сменять [одно другим)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюулемеклик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19541",
+   "word": "кёзюулетиу",
+   "tags": "карач. и. д. к кёзюулетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёзюу1",
+     "def": "2) период; пора, время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кёзюу2",
+     "def": "1) очередь ж, очерёдность; последовательность",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюу3",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёзюу-кёзюу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюуле",
+     "def": "чередовать [одно с другим]; сменять [одно другим)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кёзюулемеклик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19568",
+   "word": "кёкленмеклик",
+   "tags": "отвлеч. к кёкленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёкле",
+     "def": "намётывать, смётывать, прошивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёклемеклик",
+     "def": "см. кёклеу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёкленнгени",
+     "def": "намётка",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19571",
+   "word": "кёклетдир",
+   "tags": "понуд. к кёклетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёкле",
+     "def": "намётывать, смётывать, прошивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёклемеклик",
+     "def": "см. кёклеу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёкленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёкленнгени",
+     "def": "намётка",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19572",
+   "word": "кёклетдириу",
+   "tags": "и. д. к кёклетдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёкле",
+     "def": "намётывать, смётывать, прошивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёклемеклик",
+     "def": "см. кёклеу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёкленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёкленнгени",
+     "def": "намётка",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19574",
+   "word": "кёклетмеклик",
+   "tags": "отвлеч. к кёклетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёкле",
+     "def": "намётывать, смётывать, прошивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёклемеклик",
+     "def": "см. кёклеу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёкленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёкленнгени",
+     "def": "намётка",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19585",
+   "word": "кёкюн",
+   "tags": "ат. аз жюр.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кырдык. Кёк кюкюрер, кёкюн жашнар, хамхам отлар. (Эльбер.) Алийланы С., Къарачай халкъны эл берген жомакълары, 142.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_19592",
+   "word": "кёлден2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. азбар. Орамлада бла жоллада жюрюуню низамын а, толусунлай, кёлден билеме. Гуртуланы Э., Мёлекледе къонакъда, 109. [Мурадин] Хар сёзюн кёлден тынгы",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кёлден1",
+     "def": "Устно",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19634",
+   "word": "кёлтюргенлик",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "кёлтюргенлик берне этн. берне по случаю рождения ребёнка (по обычаю невестка, родившая ребёнка, одаривала родственников мужа ценными подарками)",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёлтюр",
+     "def": "1) в разн. знач. поднимать кого-что 2) перен. возвышать, возвеличивать кого 3) терпеть что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюралмазгъа",
+     "def": "не терпеть, не выдерживать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюргюч",
+     "def": "поддержка, опора",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюрт",
+     "def": "1) понуд. к кёлтюрюрге поднимать чем 2) в разн. знач. поднимать кого-что 3) перен. преувел",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюртме",
+     "def": "помост, подставка; пьедестал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "кёлтюртмеклик",
+     "def": "см. кёлтюртюу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19638",
+   "word": "кёлтюртмеклик",
+   "tags": "карач. отвлеч. к кёлтюртюрге",
+   "def1": "см. кёлтюртюу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёлтюр",
+     "def": "1) в разн. знач. поднимать кого-что 2) перен. возвышать, возвеличивать кого 3) терпеть что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюралмазгъа",
+     "def": "не терпеть, не выдерживать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюргенлик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёлтюргюч",
+     "def": "поддержка, опора",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюрт",
+     "def": "1) понуд. к кёлтюрюрге поднимать чем 2) в разн. знач. поднимать кого-что 3) перен. преувел",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюртме",
+     "def": "помост, подставка; пьедестал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19639",
+   "word": "кёлтюртюу",
+   "tags": "карач. и. д. к кёлтюртюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "къуллукъда кёлтюртюу повышение по службе",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёлтюр",
+     "def": "1) в разн. знач. поднимать кого-что 2) перен. возвышать, возвеличивать кого 3) терпеть что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюралмазгъа",
+     "def": "не терпеть, не выдерживать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюргенлик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёлтюргюч",
+     "def": "поддержка, опора",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюрт",
+     "def": "1) понуд. к кёлтюрюрге поднимать чем 2) в разн. знач. поднимать кого-что 3) перен. преувел",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюртме",
+     "def": "помост, подставка; пьедестал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19640",
+   "word": "кёлтюртюучю",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "кёлтюртюучю айтым грам. восклицательное предложение; кёлтюртюучю белги грам. восклицательный знак",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёлтюр",
+     "def": "1) в разн. знач. поднимать кого-что 2) перен. возвышать, возвеличивать кого 3) терпеть что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюралмазгъа",
+     "def": "не терпеть, не выдерживать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюргенлик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёлтюргюч",
+     "def": "поддержка, опора",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюрт",
+     "def": "1) понуд. к кёлтюрюрге поднимать чем 2) в разн. знач. поднимать кого-что 3) перен. преувел",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюртме",
+     "def": "помост, подставка; пьедестал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19642",
+   "word": "кёлтюрюлмеклик",
+   "tags": "карач. отвлеч. к кёлтюрюлюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёлтюр",
+     "def": "1) в разн. знач. поднимать кого-что 2) перен. возвышать, возвеличивать кого 3) терпеть что",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюралмазгъа",
+     "def": "не терпеть, не выдерживать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюргенлик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёлтюргюч",
+     "def": "поддержка, опора",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюрт",
+     "def": "1) понуд. к кёлтюрюрге поднимать чем 2) в разн. знач. поднимать кого-что 3) перен. преувел",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёлтюртме",
+     "def": "помост, подставка; пьедестал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19654",
+   "word": "кёмек",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. болушлукъ. Къарт къатын бизден кёмек изледи. Кёмек эт помогать / Биреуге болуш. [Адам председательге:] Мен да мал бла ёсгенме, къартлыгъымда адам ",
+   "current": "social_relations",
+   "family": []
+  },
+  {
+   "entry_id": "e_19659",
+   "word": "кёмюкле",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёмюклен. Айбат бет алдыла Чакъгъан терекле, Кёмюклеп саркъдыла Таудан черекле. Отарланы С., Назмула, 28. [Тууарчыны] айландыла кёзлерини акълары.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёмюк",
+     "def": "пена",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюкбаш",
+     "def": "Вспенившийся (о бузе, пиве и т.п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюклен",
+     "def": "пениться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюклендир",
+     "def": "1) понуд. к кёмюкленирге 2) пенить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюклендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюклениу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19665",
+   "word": "кёмюклеу",
+   "tags": "и. д. от кёмюкле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёмюкле дегенден этим ат. Шытыны кёмюклеую. Толкъунну кёмюклеую.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёмюк",
+     "def": "пена",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюкбаш",
+     "def": "Вспенившийся (о бузе, пиве и т.п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюкле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёмюклен",
+     "def": "пениться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюклендир",
+     "def": "1) понуд. к кёмюкленирге 2) пенить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюклендириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19671",
+   "word": "кёмюлтмеклик",
+   "tags": "отвлеч. к кёмюлтюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёмюл",
+     "def": "1. Страд. от кём 2. Погружаться в воду, песок и т.п. 5. кёч. Исчезать, переставать обнаруж",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюлмеклик",
+     "def": "см. кёмюлюу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюлт",
+     "def": "1) понуд. к кёмюлюрге 2) топить кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюлтюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёмюлюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюлюш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19672",
+   "word": "кёмюлтюу",
+   "tags": "и. д. к кёмюлтюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёмюл",
+     "def": "1. Страд. от кём 2. Погружаться в воду, песок и т.п. 5. кёч. Исчезать, переставать обнаруж",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюлмеклик",
+     "def": "см. кёмюлюу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюлт",
+     "def": "1) понуд. к кёмюлюрге 2) топить кого-что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюлтмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёмюлюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюлюш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19681",
+   "word": "кёмюрленмеклик",
+   "tags": "отвлеч. к кёмюрленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёмюр",
+     "def": "1)уголь ж || угольный 2) головешки (в печи)",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюркёз",
+     "def": "Чёрный, похожий на уголь (о глазах)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюрле",
+     "def": "Уничтожать, истреблять",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюрлен",
+     "def": "обугливаться, превращаться в угли",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюрлениу",
+     "def": "обугливание, превращение в угли",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюрлеу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19686",
+   "word": "кёмюрсетиу",
+   "tags": "и. д. к кёмюрсетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "кёмюр",
+     "def": "1)уголь ж || угольный 2) головешки (в печи)",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюркёз",
+     "def": "Чёрный, похожий на уголь (о глазах)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюрле",
+     "def": "Уничтожать, истреблять",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кёмюрлен",
+     "def": "обугливаться, превращаться в угли",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюрлениу",
+     "def": "обугливание, превращение в угли",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёмюрленмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19695",
+   "word": "кёнгюрсеу",
+   "tags": "и.д. кёнгюрсе; балк. и. д. к кёнгюрсерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёнгюрсе дегенден этим ат. Сютню кёнгюрсеую. Бозаны кёнгюрсеую.",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "кёнгюрсе",
+     "def": "то же, что кёмюрсерге",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "кёнгюрсет",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "кёнгюрсетиу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19710",
+   "word": "кёпжек",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёпчек. Аманны ат артынга миндирсенг, кёпжегинги талер. (Нарт сёз.) ◊ Туура ол кезиуню марап тургъанча, къар жуммакъ, топ деп, ат жерни кёпжегине ",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_19713",
+   "word": "кёпле2",
+   "tags": "эт. сёл. тил. къ. кёбейт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "'Чёплемеген кёплемез. (Нарт сёз.) ◊ Тауукъ балачыкъла Чюулдеп чёплерле, Берген хайырларын Бютюнда кёплерле. Къулийланы Х.-М., Жулдузчукъла, 7. Аны [Ах",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёпле1",
+     "def": "Многие",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кёплен",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёплендир",
+     "def": "1) понуд. к кебленирге 2) то же, что кеблерге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёплениу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19714",
+   "word": "кёплен",
+   "tags": "эт. сёл. тил. къ. кёбей.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Шуёхлукъ бютюн кёпленеди, Къарыуланады эм кючленеди. Уруннган халкъ табышады, Бири бирин танышады. Отарланы С., Назмула бла поэма, 14. Бу таулада эрки",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёпле1",
+     "def": "Многие",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кёпле2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёплендир",
+     "def": "1) понуд. к кебленирге 2) то же, что кеблерге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёплениу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19715",
+   "word": "кёплендир",
+   "tags": "эт. сёл. тил. къ. кёбейт.",
+   "def1": "1) понуд. к кебленирге 2) то же, что кеблерге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Бригада кесини жетишимлерин кёплендиргенди. Хайыр алыуну кёплендир.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёпле1",
+     "def": "Многие",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кёпле2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёплен",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёплениу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19716",
+   "word": "кёплениу",
+   "tags": "и.д. от кёплен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёплен дегенден этим ат. Иш хакъны кёплениую. Хайыр алыуну кёплениую.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёпле1",
+     "def": "Многие",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кёпле2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёплен",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кёплендир",
+     "def": "1) понуд. к кебленирге 2) то же, что кеблерге",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19731",
+   "word": "кёргюзген",
+   "tags": "карач.",
+   "def1": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+   "def2": "",
+   "misc1": "барометрни кёргюзгени показания барометра; стрелканы кёргюзгени показания стрелки",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзтдюрюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19732",
+   "word": "кёргюзмей",
+   "tags": "карач.",
+   "def1": "украдкой, тайком",
+   "def2": "",
+   "misc1": "кёргюзмей этерге делать украдкой",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзтдюрюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19733",
+   "word": "кёргюзмеклик",
+   "tags": "карач. отвлеч. к кёргюзюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзтдюрюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19735",
+   "word": "кёргюзтдюр",
+   "tags": "понуд. к кёргюзтюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "сабийни дохтургъа кёргюзтдюрюрге заставить показать ребёнка врачу",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюрюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19736",
+   "word": "кёргюзтдюрюу",
+   "tags": "и. д. к кёргюзтдюрюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19738",
+   "word": "кёргюзтмеклик",
+   "tags": "отвлеч. к кёргюзтюрге",
+   "def1": "см. кёргюзтюу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19740",
+   "word": "кёргюзтюлюн",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёргюзтюл. Анда ол ишлени минерал байлыкъланы бек иги хайырланырча онгла болгъан жерледе бардырыргъа деп кёргюзтюлюнеди. «Коммунизмге жол», 1978, ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19741",
+   "word": "кёргюзтюлюнюу",
+   "tags": "и. д. от кёргюзтюлюн",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёргюзтюлюн дегенден этим ат. Эришиуню къабыргъа газетде кёргюзтюлюнюую.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19746",
+   "word": "кёргюзюл",
+   "tags": "страд. к кёргюзюрге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19747",
+   "word": "кёргюзюлген",
+   "tags": "карач.",
+   "def1": "1) прич. от кёргюзюлюрге 2) указанный",
+   "def2": "",
+   "misc1": "кёргюзюлген заманнга келирге прийти в указанное время; кёргюзюлген кемликле указанные недостатки; кёргюзюлген халатла указанные ошибки",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19748",
+   "word": "кёргюзюм",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёрюмдю 2. Уллу кёргюзюмлери ючюн жолчулагъа биринчи кварталда кёчюучю къызыл байракъ берилгенди. «Ленинни байрагъы», 1972, № 33. Бюгюнлюкню иш кё",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19751",
+   "word": "кёргюнчге",
+   "tags": "хал. сёзл. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кёрмючге. [Алхаз Хорламгъа:] Быллай тиширыуун адам халкъгъа кёргюнчге тюкеннге саламыды! Хубийланы О., Дерт, 249.",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "кёргюз",
+     "def": "1) показывать что кому; демонстрировать что кому 2) указывать что, на кого-что. обращать ч",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзген",
+     "def": "1. прич. от кёргюзюрге; 2....кёргюзгени показание",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмей",
+     "def": "украдкой, тайком",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзмеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "кёргюзт",
+     "def": "то же, что кёргюзюрге",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёргюзтдюр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19763",
+   "word": "кёрмючге",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Напоказ",
+   "misc1": "",
+   "misc2": "Билдирир, кёргюзтюр ючюн. Муса юйюн битдиреди, Битву элге кёрмючге, Къууанч эте юйюнде, Айран къуя чёмючге. Шахмырзаланы С., Назмула, 144. Ариу эди ол",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "кёрмюч",
+     "def": "Выставка",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19774",
+   "word": "кёрюмдю",
+   "tags": "ат.",
+   "def1": "то же. что кёрюмдюк",
+   "def2": "1. Внешний вид, облик 2. Показатель чего",
+   "misc1": "",
+   "misc2": "1. Тюрсюн, чырай. Кенгден къарагъан адамгъа Хажимырзаны кёрюмдюсю: бокъур къынгыр битген эмен терекни буз тюйген бутакъларына алышынмай ушай эди. Хочу",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кёрюм",
+     "def": "внешний вид, облик",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюмдюге",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кёрюмдюк",
+     "def": "подарок за смотрины (в честь того, что впервые увидел молодую невестку или новорождённого)",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюмдюклюк",
+     "def": "1) отвлеч. к кёрюмдюк; 2) подарок за смотрины",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюмдюлю",
+     "def": "Наглядный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюмдюлюк",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19775",
+   "word": "кёрюмдюге",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тсёрмючге. Буту кетип, таякъла жюрютген, Таякъны алмайды кёрюмдюге. Бизден игиле, бизден жигитле, Уруш майданлада кёмюлдюле. Мокъаланы М., Жугъуту",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кёрюм",
+     "def": "внешний вид, облик",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюмдю",
+     "def": "то же. что кёрюмдюк",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кёрюмдюк",
+     "def": "подарок за смотрины (в честь того, что впервые увидел молодую невестку или новорождённого)",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюмдюклюк",
+     "def": "1) отвлеч. к кёрюмдюк; 2) подарок за смотрины",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюмдюлю",
+     "def": "Наглядный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюмдюлюк",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19779",
+   "word": "кёрюмдюлюк",
+   "tags": "отвлеч. к кёрюмдю",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кёрюм",
+     "def": "внешний вид, облик",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюмдю",
+     "def": "то же. что кёрюмдюк",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кёрюмдюге",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "кёрюмдюк",
+     "def": "подарок за смотрины (в честь того, что впервые увидел молодую невестку или новорождённого)",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюмдюклюк",
+     "def": "1) отвлеч. к кёрюмдюк; 2) подарок за смотрины",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюмдюлю",
+     "def": "Наглядный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19789",
+   "word": "кёрюнюш2",
+   "tags": "ат.",
+   "def1": "вид, внешность, наружность",
+   "def2": "",
+   "misc1": "кёрюнюшю къалайды? каков он на вид?; тыш кёрюнюшю внешний вид; тыш кёрюнюшю бла по внешнему виду",
+   "misc2": "къ. кёрюмдю. 1. Малкъар къыз, ай жаякълы, Кёрюнюшюнг бек ойнакълы. Шахмырзаланы С., Заман жели, 52. Тау жайлыкъларынг жашил кийимли, халкъ ийнагъы, сю",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "кёрюн",
+     "def": "1) показываться 2) казаться, представляться каким 3) виднеться, быть видимым 4) водиться, ",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "кёрюндюк",
+     "def": "то же, что кёрюмдюк",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюнмей",
+     "def": "тайком, незаметно",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюнмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюнюу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "кёрюнюш1",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19848",
+   "word": "кёчгюнчюлюк",
+   "tags": "ат.",
+   "def1": "1) отвлеч. к кёчгюнчю 2) переселение",
+   "def2": "Переселенчество, переселенческий образ жизни",
+   "misc1": "кёчгюнчюлюкде в условиях переселения; кёчгюнчюлюкде джашау уст. жизнь на колёсах; кёчгюнчюлюк кёрюрге уст. подвергнуться переселению",
+   "misc2": "Кёчгюнчюлени жашау халлары. Сау миллетлени эрттенден жашап тургъан жерлеринден артыкълыкъ бла къыстамакълыкъ. Халкъ уруш салгъан жараладан эс тапхынчы",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёчгюнчю",
+     "def": "1) переселенец || переселенческий 2) кочевник || кочевой",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19851",
+   "word": "кёчмеучю",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "кёчмеучю этим грам. непереходный глагол",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кёчмеклик",
+     "def": "см. кёчюу",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19857",
+   "word": "кёчюрюлмеклик",
+   "tags": "отвлеч. к кёчюрюлюрге",
+   "def1": "см. кёчюрюлюу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кёчюр",
+     "def": "1) переселять, выселять кого 2) передвигать, отодвигать что 3) переводить кого-что 4) пере",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёчюрмеклик",
+     "def": "см. кёчюрюу",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёчюрт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёчюртюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёчюрюл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кёчюрюлюу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19888",
+   "word": "лагъым2",
+   "tags": "ат. къарач.",
+   "def1": "1) способ; приём; средство 2) хитрость, уловка, обман 3) тех. плечо, рычаг, вага 4) изобретение; рационализаторское предложение",
+   "def2": "1. тех. Рычаг, вага, плечо 2. Способ, прием, средство 3. Хитрость, уловка, обман 4. кёч. Приспособление, устройство; механизм",
+   "misc1": "не лагъым этейик? что нам предпринять?; лагъым табаргъа применить какой-л. способ; найти какой-л. приём; айюню лагъым бла тутдула они поймали медведя ",
+   "misc2": "1. Тюрлю-тюрлю машиналаны, механизмлени къурамына кирип, бир затны керекли жанына бурургъа къымылдатыргъа болушуучу, ёзекге ушаш зат. Ташны лагъым эти",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "лагъым1",
+     "def": "взрывчатка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "лагъымла",
+     "def": "1) применять способ, находить средство (приём) 2) применять рычаг, вагу, поднимать рычагом",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "лагъымламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "лагъымлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "лагъымлы",
+     "def": "находчивый, смекалистый, изобретательный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "лагъымлыкъ",
+     "def": "Находчивость, смекалка, изобретательность",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19890",
+   "word": "лагъымламакълыкъ",
+   "tags": "карач. отвлеч. к лагъымларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "лагъым1",
+     "def": "взрывчатка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "лагъым2",
+     "def": "1) способ; приём; средство 2) хитрость, уловка, обман 3) тех. плечо, рычаг, вага 4) изобре",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "лагъымла",
+     "def": "1) применять способ, находить средство (приём) 2) применять рычаг, вагу, поднимать рычагом",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "лагъымлау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "лагъымлы",
+     "def": "находчивый, смекалистый, изобретательный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "лагъымлыкъ",
+     "def": "Находчивость, смекалка, изобретательность",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19916",
+   "word": "лакъыр",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. лакъырда. Лакъыр айтсанг, Мудах жаш да, Кюнча жарып, жашнайды. Гуртуланы Б., Жарыкъ танг, 119.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "лакъырда",
+     "def": "то же, что накъырда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдала",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалау",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалаш",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдасыз",
+     "def": "Кроме шуток",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдачы",
+     "def": "шутник",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19918",
+   "word": "лакъырдала",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Лакъырда эт (къ. лакъырда). Жашны лакъырдалагъанын къыз терк ангыламады.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "лакъыр",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырда",
+     "def": "то же, что накъырда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдалау",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалаш",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдасыз",
+     "def": "Кроме шуток",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдачы",
+     "def": "шутник",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19919",
+   "word": "лакъырдалау",
+   "tags": "и. д. от лакъырдала",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Лакъырдала дегенден этим ат.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "лакъыр",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырда",
+     "def": "то же, что накъырда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдала",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалаш",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдасыз",
+     "def": "Кроме шуток",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдачы",
+     "def": "шутник",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19920",
+   "word": "лакъырдалаш",
+   "tags": "эт. взаимн.совм. от лакъырдала",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Лакъырдала дегенни араш айырмасы. Замполит буйрукъну ангылагъанын билдиргенден сора, [Хаким бла] лакъырдалашып, айырылдыла. Гыттыуланы М., Жюрекле бла",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "лакъыр",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырда",
+     "def": "то же, что накъырда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдала",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалау",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдасыз",
+     "def": "Кроме шуток",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдачы",
+     "def": "шутник",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19924",
+   "word": "лакъырдашыу",
+   "tags": "и. д. от лакъырдалаш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Лакъырдалаш дегенден этим ат. Къыз да, жаш да лакъырдашыуну къоймайдыла.",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "лакъыр",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырда",
+     "def": "то же, что накъырда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "лакъырдала",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалау",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдалаш",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    },
+    {
+     "word": "лакъырдасыз",
+     "def": "Кроме шуток",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_19935",
+   "word": "лаппыр",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. лыппыр. Арлакъда лаппырланы бирини юсюне учуп келип, бир уллу къуш къонду.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_20019",
+   "word": "либжа",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илибижа. Сабийле жангы юйге келгенлери ючюн деп, Малжейни къызлары ушхууургъа либжа этдиле. Гуртуланы Б., Жангы талисман, 264.",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_20025",
+   "word": "лига",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Лига",
+   "misc1": "",
+   "misc2": "Адамланы, организацияланы, государстволаны биригиулери. Миллетлени Лигасы (1919-1946 ж.ж. халкъла аралы организация). Бюгюн къыралны тогъуз шахарында ",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_20105",
+   "word": "локъ",
+   "tags": "подр.",
+   "def1": "",
+   "def2": "",
+   "misc1": "локъ-локъ-локъ — о рыси лошади",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_20113",
+   "word": "лоп-лоп",
+   "tags": "эрикл. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. лаплап. Арбазда «лоп-лоп» таууш эшитиледи. ◊ Лоп-лоп эт къ. лопулда. Жашчыкъ, аякъларына жарамагъан галошланы кийип, лоп-лоп этип, арбазда чабып а",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_20135",
+   "word": "лохпай",
+   "tags": "ат.",
+   "def1": "1) бутуз 2) увалень м 3) балк. большая старая собака",
+   "def2": "1. Дворняга, дворняжка 2. къарач. Бутуз (о ребёнке) 3. къарач. Увалень",
+   "misc1": "(о ребёнке)",
+   "misc2": "1. Арбаз тёгерегинде туруучу, асыл тукъумдан болмагъан ит. [Бика бла Бабын] къабакъ эшикледен киргенлей, уллу лохпай, «фыр-р-р» деп, юслерине секирди.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "лохпайлыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "лохпайчыкъ",
+     "def": "бутуз",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "лохпар",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20136",
+   "word": "лохпайлыкъ",
+   "tags": "отвлеч. к лохпай",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "лохпай",
+     "def": "1) бутуз 2) увалень м 3) балк. большая старая собака",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "лохпайчыкъ",
+     "def": "бутуз",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "лохпар",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20138",
+   "word": "лохпар",
+   "tags": "фольк.",
+   "def1": "",
+   "def2": "",
+   "misc1": "Дауутну лохпар санлары могучее тело (букв, конечности) Дауута",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "лохпай",
+     "def": "1) бутуз 2) увалень м 3) балк. большая старая собака",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "лохпайлыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "лохпайчыкъ",
+     "def": "бутуз",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20139",
+   "word": "лохулда",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Лох-лох эт (къ. лох-лох). Киши, атына минип, орамны ёрге, лохулдап, кетди.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "лохулдат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "лохулдатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "лохулдау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20165",
+   "word": "лымпыкъ",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. лымпыш. Эски лымпыкъ чайник. Лымпыкъ табакъ.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "лымпыкълыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "лымпыш",
+     "def": "погнутый, помятый",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "лымпышлылыкъ",
+     "def": "Состояние сплющенного",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20166",
+   "word": "лымпыкълыкъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. лымпышлыкъ. Тазны лымпыкълыгъы. Челекни лымпыкълыгъы.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "лымпыкъ",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "лымпыш",
+     "def": "погнутый, помятый",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "лымпышлылыкъ",
+     "def": "Состояние сплющенного",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20171",
+   "word": "лып",
+   "tags": "эрикл. сёз.; подр.",
+   "def1": "— о пульсе, ударах сердца",
+   "def2": "Подражание внезапному вспыхиванию огня",
+   "misc1": "джюрегим лып-лып- этерди у меня сердце сильно бьётся",
+   "misc2": "Отну билмей тургъанлай жанып къалгъанда этген тауушун кёргюзтеди. Жерге тёгюлген бензин, лып деп, жанды. ▯ Лып-лып эт звукоподражание хлопку крыльев п",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_20173",
+   "word": "лыппыш",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. лымпыш. Тишлеге къаланнган гебенлени тюплеринде ...лыппыш болгъан къайын баласланы арлакъда, чалы жанында, къалайдыла. Кадийланы Х., Тамата, 217.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "лыппыр",
+     "def": "[небольшая] копна, копёнка; берёмя, большая охапка",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_20203",
+   "word": "лязим",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "аннга не лязим он и в ус не дует; аны чакъыргъан не лязимди его нетрудно позвать; тейри лязим ей-богу!",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_20204",
+   "word": "ляй",
+   "tags": "",
+   "def1": "то же, что лау-лау",
+   "def2": "",
+   "misc1": "-ляй",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_20206",
+   "word": "ляпча",
+   "tags": "",
+   "def1": "то же, что лапча",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  }
+ ]
+}

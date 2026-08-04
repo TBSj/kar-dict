@@ -1,0 +1,504 @@
+{
+ "items": [
+  {
+   "entry_id": "e_09408",
+   "word": "дап",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание удару твёрдого предмета о другой или предмету, упавшему на землю",
+   "current": "logic_and_function_words",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_09571",
+   "word": "деменгили2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "1. Хорошо, как следует 2. Мощно, грандиозно 3. Основательно, хорошо",
+   "current": "space_and_time",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_10384",
+   "word": "джумушакъджюрек",
+   "tags": "",
+   "def1": "мягкосердечный",
+   "def2": "",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_10607",
+   "word": "джюзгюч",
+   "tags": "",
+   "def1": "хорошо плавающий (о человеке)",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_10617",
+   "word": "джюзюуюк",
+   "tags": "карач.",
+   "def1": "умеющий хорошо плавать",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_10648",
+   "word": "джёнгерсин",
+   "tags": "",
+   "def1": "считать кого достойным (хорошим) попутчиком",
+   "def2": "",
+   "current": "social_relations",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11172",
+   "word": "дынгыл",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Голый, без растительности",
+   "current": "universe_and_nature",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_11348",
+   "word": "жаланжюрек",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Чистосердечный, мягкосердечный",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_11495",
+   "word": "жара2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "1. Годиться 2. Нравиться, производить на кого хорошее, приятное впечатление",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11497",
+   "word": "жарайды",
+   "tags": "кес.",
+   "def1": "",
+   "def2": "1. Хорошо, ладно 2. Возможно, наверное",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11532",
+   "word": "жараулу2",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Пригодный, годный 2. кёч. къ. жарагъан.",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11533",
+   "word": "жараулулукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Годность, полезность, целесообразность",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11534",
+   "word": "жараусуз",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Негодный, ненужный, бесполезный",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11535",
+   "word": "жараусузлукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Негодность, бесполезность",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11538",
+   "word": "жарашдыр2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "1. Приготовить, сделать годным, готовым для использования 2. Разрабатывать (напр. метод, способ) 3. Подправлять (напр. скирду, погреб) 4. Разделывать (напр. мясную тушу, селёдку)",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11569",
+   "word": "жарты-къурту",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Кое-как, небрежно, плохо",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_11841",
+   "word": "жохарлан",
+   "tags": "эт. къарач.",
+   "def1": "",
+   "def2": "Становиться мягким, шелковистым",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12170",
+   "word": "залим1",
+   "tags": "ат.",
+   "def1": "1. 1) жестокий, злой 2) отличный, превосходный 3) сильный, мощный 2. тиран, угнетатель",
+   "def2": "1. Угнетатель, тиран 2. В позиции определения: бесчеловечный, деспотичный, тиранический 3. кёч. Очень сильный, мощный, могучий 4. кёч. Огромный, громадный 5. кёч. сёл. тил. Отличный, превосходный, зам",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_12264",
+   "word": "зарак",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Травянистое растение с длинными мягкими стебельками",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12300",
+   "word": "зарх",
+   "tags": "эрикл. сёз.",
+   "def1": "",
+   "def2": "Звукоподражание падению твёрдых предметов",
+   "current": "logic_and_function_words",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12341",
+   "word": "заялан",
+   "tags": "эт.; карач.",
+   "def1": "портиться; приходить в негодность",
+   "def2": "Портиться, приходить в негодность",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_12514",
+   "word": "зыбырла",
+   "tags": "эт.",
+   "def1": "делать что жёстким, шершавым",
+   "def2": "1. Делать что-то жёстким, твёрдым, шершавым 2. Делать грубым (о голосе)",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12515",
+   "word": "зыбырлан",
+   "tags": "эт.; страд, к зыбырларгъа",
+   "def1": "",
+   "def2": "Грубеть, становиться грубым, жёстким",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12520",
+   "word": "зыбырмыйыкъ",
+   "tags": "сыф. сёл. тал.",
+   "def1": "",
+   "def2": "С жёсткими усами",
+   "current": "human_body",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12521",
+   "word": "зыбырсакъал",
+   "tags": "сыф. сёл. тал.",
+   "def1": "",
+   "def2": "С жёсткой бородой",
+   "current": "human_body",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_12546",
+   "word": "зыккыл",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Изношенный, пришедший в ветхость, в негодность от носки (об одежде)",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_12579",
+   "word": "зымпыкъ1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Глупый, дурной",
+   "current": "mind_and_cognition",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_12862",
+   "word": "ийислен",
+   "tags": "эт. сёл. тил.",
+   "def1": "тухнуть, издавать дурной запах (о продуктах)",
+   "def2": "",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_12953",
+   "word": "ийнаныулукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Уверенность, убежденность в чем-л., твёрдая вера в кого-л., во что-л.",
+   "current": "mind_and_cognition",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_13265",
+   "word": "иннген1",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "Нежный, мягкий, приятный",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_13541",
+   "word": "ишлен",
+   "tags": "эт.",
+   "def1": "1) страд, к ишлерге 2) воспитываться, учиться правилам хорошего тона; вырабатывать в себе навыки хорошего тона",
+   "def2": "1. страд. от ишле 2. кёч. Воспитываться, учиться правилам хорошего тона",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_13542",
+   "word": "ишлениу",
+   "tags": "и. д. от ишлен; и. д. к ишленирге",
+   "def1": "1) строительство, стройка 2) воспитание, овладевание навыками хорошего тона",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_15473",
+   "word": "къабырчакъла",
+   "tags": "",
+   "def1": "покрывать твёрдой коркой, затягивать твёрдой оболочкой; подмораживать",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_15916",
+   "word": "къала1",
+   "tags": "ат.",
+   "def1": "1) уст. город 2) крепость ж 3) дворец; большое здание 4) перен. твердыня, опора, основа",
+   "def2": "1. Замок, дворец и крепость хана, бия, царя 2. Дворец (спорта, культуры и т.п.) 3. см. крепость 4. Башня, высокое строение 5. см. шахар 6. Оплот 7. Опора, поддержка 8. Основа, то главное, на чем строи",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_16427",
+   "word": "къарасалам",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "Мягкая трава, которую прикладывали в горскую обувь - чабуры",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_16462",
+   "word": "къараханс",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Окопник жёсткий (лекарственная трава, используемая при лечении нарывов, язв)",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_16667",
+   "word": "къарыусуз2",
+   "tags": "хал. сёзл.",
+   "def1": "слабо, неважно, плохо; бедно",
+   "def2": "1. Слабо, незначительно, малозаметно 2. Плохо, недостаточно 3. Медленно, не спеша, лениво 4. Слабо (двигаться, ползать и т.п.) 5. кёч. Мало, недостаточно, чуть-чуть 6. Шатко, некрепко, неустойчиво 7. ",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_16716",
+   "word": "къат4",
+   "tags": "эт.",
+   "def1": "1) прям., перен. твердеть, крепнуть; становиться твёрдым (крепким) 2) засыхать, сохнуть; вялиться 3) тех. закаливаться 4) впиться глазами, уставиться [глазами], вперить взор в кого-что 5) застыть как ",
+   "def2": "1. Твердеть, крепнуть; становиться твердым (крепким)\n2. Черстветь, становиться негодным для употребления\n3. Становиться жёстким, сухим; терять вид (о коже, шкуре)\n4. Вялиться, сушиться, становиться вя",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_16726",
+   "word": "къатдыр1",
+   "tags": "эт.; понуд. к къатаргъа",
+   "def1": "1) делать что-л. твёрдым (крепким) 2) сушить, вялить что 3) тех. закаливать что 4) вперить, устремить (взор, взгляд) в кого-что 5) поставить неподвижно (в стойку) (напр. собаку) 6) убивать, морить ког",
+   "def2": "1. понуд. от къат\n2. Сушить, вялить что\n3. Сушить, делать чрезмерно сухим, лишая необходимой влаги, влажности\n4. Довести лепешку, чурек на плите, сковороде, очаговых щипцах и т.п до образования корки ",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_16763",
+   "word": "къатыаууз",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Непослушный, норовистый (о коне, который плохо слушается уздечки)",
+   "current": "living_things",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_16780",
+   "word": "къатылыкъ",
+   "tags": "ат.; отвлеч. к къаты I",
+   "def1": "",
+   "def2": "1. Твердость 2. кёч. Жестокость, беспощадность, безжалостность 3. Суровость (жизни, судьбы и т.д.) 4. кёч. Взыскательность, требовательность, строгость 5. кёч. Упорство, настойчивость 6. кёч. Напряжен",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_17100",
+   "word": "къозлаучу",
+   "tags": "",
+   "def1": ": ашагъан тауукъ - къозлаучу [хорошо] клюёт курица - значит хорошая несушка",
+   "def2": "",
+   "current": "living_things",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_17160",
+   "word": "къолайлы1",
+   "tags": "сыф.",
+   "def1": "хороший, удачный",
+   "def2": "1. Живущий в достатке, богатый, обеспеченный",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_17161",
+   "word": "къолайлы2",
+   "tags": "хал. сёзл.",
+   "def1": "хорошо, удачно",
+   "def2": "Зажиточно, обеспеченно",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_17163",
+   "word": "къолайсыз1",
+   "tags": "сыф.",
+   "def1": "плохой, неважный",
+   "def2": "1. Живущий в нужде, необеспеченный 2. Плохой",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_17164",
+   "word": "къолайсыз2",
+   "tags": "хал. сёзл.",
+   "def1": "плохо, неважно",
+   "def2": "1. Бедно, необеспеченно 2. Плохо",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_17165",
+   "word": "къолайсызлыкъ",
+   "tags": "ат.; отвлеч. к къолайсыз",
+   "def1": "плохое состояние, незавйдность",
+   "def2": "1. Бедность, необеспеченность 2. Скверность, неудовлетворительность, плохое состояние чего",
+   "current": "economy_and_society",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_17845",
+   "word": "къусдур",
+   "tags": "эт. понуд. от къус; понуд. к къусаргъа 1",
+   "def1": "1) вызывать рвоту (тошноту) 2) перен. делать что безвкусно, без хорошего вкуса 3) перен. заставлять платить (отплачивать) за что",
+   "def2": "",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_18150",
+   "word": "къыбырт",
+   "tags": "",
+   "def1": "засохший, заскорузлый, плохо выделанный (о шкуре)",
+   "def2": "",
+   "current": "objects_and_technology",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_18660",
+   "word": "къып-къызыл",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Очень красный, красный-прекрасный",
+   "current": "universe_and_nature",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  }
+ ]
+}

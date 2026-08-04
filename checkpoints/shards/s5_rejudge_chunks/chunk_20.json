@@ -1,0 +1,6017 @@
+{
+ "items": [
+  {
+   "entry_id": "e_26748",
+   "word": "соруусуз-оруусуз",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. соруусуз2. Мени жашауума соруусуз-оруусуз кирип, тынчлыгъымы бузгъан адам бизни юйню жаны бла баргъан илипинни къатында сюелип, терезелеге къарай ",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "соруу1",
+     "def": "1) и. д. к сорургъа",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "соруу2",
+     "def": "2) вопрос 4) эк. спрос 5) опрос || опросный 6) просьба",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "соруу3",
+     "def": "3) юр. допрос; дознание",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "соруу-оруу",
+     "def": "Разрешение",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "соруула",
+     "def": "1) расспрашивать кого 2) допрашивать кого",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "сорууламакълыкъ",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26749",
+   "word": "соруучу",
+   "tags": "ат.; грам.",
+   "def1": "вопросительный",
+   "def2": "1. Тот, кто допрашивает, следователь 2. По представлению суеверных: тот, кто допрашивает на том свете",
+   "misc1": "соруучу алмаш вопросительное местоимение; соруучу айтым вопросительное предложение; соруучу форма вопросительная форма",
+   "misc2": "1. Соруу этиучю адам. Жаш соруучуну эки соруууна да жууап къайтармады. Соруучу аманлыкъчыны жууабын жаратмайды. Кенг жолну кетип баргъан жолоучу, Сюйг",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "соруу1",
+     "def": "1) и. д. к сорургъа",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "соруу2",
+     "def": "2) вопрос 4) эк. спрос 5) опрос || опросный 6) просьба",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "соруу3",
+     "def": "3) юр. допрос; дознание",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "соруу-оруу",
+     "def": "Разрешение",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    },
+    {
+     "word": "соруула",
+     "def": "1) расспрашивать кого 2) допрашивать кого",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "сорууламакълыкъ",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26763",
+   "word": "сорушмакълыкъ",
+   "tags": "отвлеч. к сорушургъа I, II",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "соруш1",
+     "def": "советоваться",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "соруш2",
+     "def": "1) остыть, охладиться 2) перен. потерять интерес к чему; расхотеть 3) перен. успокоиться, ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "соруш3",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "сорушдур1",
+     "def": "остудить, охладить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сорушдур2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "сорушдурт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26785",
+   "word": "софист",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Софист",
+   "misc1": "",
+   "misc2": "Оюмун софизмни жоругъу бла этген адам.",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_26791",
+   "word": "сохта3",
+   "tags": "",
+   "def1": "-джёрме сохта и джёрме",
+   "def2": "",
+   "misc1": "(блюда из внутренностей животных)",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "сохта1",
+     "def": "ученик || ученический",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "сохта2",
+     "def": "сохта (вид домашней колбасы, приготовляемой из печени и нутряного жира, которыми заправляю",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "сохталыкъ1",
+     "def": "Время учебы в медресе",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "сохталыкъ2",
+     "def": "1) отвлеч. к сохта II 2) продукты, предназначенные для приготовления сохты",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26830",
+   "word": "соярыкъ",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": къозу гитче, къой арыкъ, къайда къонакъгъа соярыкъ! ягнята малы, барашки тощи, кого же забить в честь гостя! (о жадном хозяине)",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_26832",
+   "word": "спас",
+   "tags": "парн. к бюсюреу-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_26858",
+   "word": "списка",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. тизме. Атлыланы спискаларын бошагъандан сора, алагъа ат берлик, сауут, кийим мадарлыкъ адамланы. спискасын этдиле. Гуртуланы Б., Жангы талисман, 1",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_26868",
+   "word": "справкачы",
+   "tags": "",
+   "def1": "справочный",
+   "def2": "",
+   "misc1": "справкачы бюро справочное бюро; справкачы бюрода сорургъа узнать в справочном бюро",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "справка",
+     "def": "справка || справочный",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "справочник",
+     "def": "справочник",
+     "lextag": "language_and_communication",
+     "conf": "high"
+    },
+    {
+     "word": "справочный",
+     "def": "справочный",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26892",
+   "word": "стан",
+   "tags": "",
+   "def1": ": полевой стан полевой стан",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_26924",
+   "word": "сте",
+   "tags": "карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "стерге унамайды он не обращает внимания, он и в ус не дует",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_26930",
+   "word": "стемей",
+   "tags": "ат., къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. исламей. Радиола бла стемейни согъуп, эки-юч адам кезиу-кезиу баргъандан сора, валъсны саладыла. Байрамукъланы Х., Къарчаны юйдегиси, 177. Бияслан",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "стеме",
+     "def": "лезгинка",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "стемезге",
+     "def": "не считаться с кем-чем; не принимать что во внимание; игнорировать кого-что",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "стемеу",
+     "def": "игнорирование кого-чего; невнимание к кому-чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26958",
+   "word": "столова",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. столовая. Сабийле, бёрклерин, пальтоларын кийим тешиучю отоуда къоюп, бир бири ызларындан столовагъа кирдиле. Гуртуланы Б., Жангы талисман, 418.",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "столовая",
+     "def": "1. Столовая (особая комната) 2. Столовая (предприятие)",
+     "lextag": "daily_life_and_food",
+     "conf": "high"
+    },
+    {
+     "word": "столовия",
+     "def": "столовая || столовый",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26988",
+   "word": "строй",
+   "tags": "в разы. знач.",
+   "def1": "строй",
+   "def2": "",
+   "misc1": "социалист строй социалистический строй; капиталист строй капиталистический строй; къул джекген строй ист. рабовладельческий строй; строй болургъа выст",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "стройка",
+     "def": "стройка, строительство",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "стройматериал",
+     "def": "Стройматериал",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "стройматериала",
+     "def": "стройматериалы",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26995",
+   "word": "структура",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Структура",
+   "misc1": "",
+   "misc2": "Бир затны кесеклерини бир бири бла орнатыулары эм байламлыкълары; къурам. Капиталист халланы болушлукълары бла жерге иелик этиуню формалары, малкъар ж",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "структурализм",
+     "def": "Структурализм",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "структуралист",
+     "def": "Структуралист",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26996",
+   "word": "структурализм",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Структурализм",
+   "misc1": "",
+   "misc2": "Гуманитар илмулада структура амалланы моделлеуню, семиотиканы элементлерин, формализацияны эм математикалауну хайырланыу бла байламлы болгъан жолу (ли",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "структура",
+     "def": "Структура",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "структуралист",
+     "def": "Структуралист",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_26997",
+   "word": "структуралист",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Структуралист",
+   "misc1": "",
+   "misc2": "Структурализм жанлы болгъан адам.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "структура",
+     "def": "Структура",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "структурализм",
+     "def": "Структурализм",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27009",
+   "word": "субай-чырай",
+   "tags": "къауум. ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. субайлыкъ. Жашны жылы жетсе да, субайы-чырайы бла турады. Гуртуланы Э., Мёлекледе къонакъда, 51.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайла",
+     "def": "лицемерить; льстить",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27013",
+   "word": "субайламакълыкъ",
+   "tags": "отвлеч. к субайларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субай-чырай",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27016",
+   "word": "субайлат",
+   "tags": "понуд. к субайларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "сёзню субайлатыргъа льстить в разговоре",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субай-чырай",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27017",
+   "word": "субайлатыу",
+   "tags": "и. д. к субайлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субай-чырай",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27018",
+   "word": "субайлау",
+   "tags": "и. д. к субайларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субай-чырай",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27021",
+   "word": "субайтыу",
+   "tags": "и. д. к субайтыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субай-чырай",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27022",
+   "word": "субайыу",
+   "tags": "и. д. к субайыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "субай1",
+     "def": "1) стройный; изящный, грациозный 2) перен. лицемерный; льстивый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай2",
+     "def": "Стройно, изящно, грациозно",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "субай3",
+     "def": "стать стройным (подтянутым); похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "субай-чырай",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "субайбел",
+     "def": "С тонкой талией",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "субайбут",
+     "def": "Тонконогий",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27029",
+   "word": "субъективист",
+   "tags": "",
+   "def1": "субъективист || субъективистский",
+   "def2": "",
+   "misc1": "субъективист оюмла субъективистские взгляды",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "субъект",
+     "def": "субъект",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "субъективизм",
+     "def": "субъективизм || субъективистский",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "субъективли",
+     "def": "субъективный",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "субъективлилик",
+     "def": "субъективность",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27042",
+   "word": "сугъартдыр",
+   "tags": "понуд. к сугъартыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъанакъ",
+     "def": "Жадный, алчный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сугъанакълыкъ",
+     "def": "Жадность, алчность",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сугъар",
+     "def": "поливать, орошать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъаргъан",
+     "def": "1) прич. от сугъарыргъа 2) оросительный, обводнительный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъармакълыкъ",
+     "def": "орошение, обводнение",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъарт",
+     "def": "1) понуд. к сугъарыргъа 2) то же, что сугъарыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27043",
+   "word": "сугъартдырыу",
+   "tags": "и. д. к сугъартдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъанакъ",
+     "def": "Жадный, алчный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сугъанакълыкъ",
+     "def": "Жадность, алчность",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сугъар",
+     "def": "поливать, орошать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъаргъан",
+     "def": "1) прич. от сугъарыргъа 2) оросительный, обводнительный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъармакълыкъ",
+     "def": "орошение, обводнение",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъарт",
+     "def": "1) понуд. к сугъарыргъа 2) то же, что сугъарыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27045",
+   "word": "сугъартылгъан",
+   "tags": "",
+   "def1": "1) прич. от сугъартылыргъа 2) то же, что сугъарылгъан 2",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъанакъ",
+     "def": "Жадный, алчный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сугъанакълыкъ",
+     "def": "Жадность, алчность",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сугъар",
+     "def": "поливать, орошать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъаргъан",
+     "def": "1) прич. от сугъарыргъа 2) оросительный, обводнительный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъармакълыкъ",
+     "def": "орошение, обводнение",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъарт",
+     "def": "1) понуд. к сугъарыргъа 2) то же, что сугъарыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27056",
+   "word": "сугъулмакълыкъ",
+   "tags": "отвлеч. к сугъулургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъулуш",
+     "def": "протискиваться, просовываться куда-л. (о многих)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27058",
+   "word": "сугъултмакълыкъ",
+   "tags": "отвлеч. к сугъултургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сугъулуш",
+     "def": "протискиваться, просовываться куда-л. (о многих)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27062",
+   "word": "сугъулушдур",
+   "tags": "понуд. к сугъулушургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27063",
+   "word": "сугъулушдуруу",
+   "tags": "и. д. к сугъулушдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27064",
+   "word": "сугъулушмакълыкъ",
+   "tags": "отвлеч. к сугъулушургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27068",
+   "word": "сугъушдур",
+   "tags": "понуд. к сугъушургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27069",
+   "word": "сугъушдуруу",
+   "tags": "и. д. к сугъушдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сугъул",
+     "def": "1) страд. к сугъаргъа; 2) прям., перен. соваться; протискиваться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъулт",
+     "def": "1) понуд. к сугъулургъа; 2) прям., перен. протиснуть, просунуть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъултмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сугъултуу",
+     "def": "протискивание, просовывание",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сугъулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27077",
+   "word": "сукочукъ",
+   "tags": "",
+   "def1": "то же, что зуккочукъ",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_27080",
+   "word": "сукъдурмакълыкъ",
+   "tags": "отвлеч. к сукъдурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сукъдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъдурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъдуртуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъдурул",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъдурулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27089",
+   "word": "сукъландырмакълыкъ",
+   "tags": "отвлеч. к сукъландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "сукълан",
+     "def": "завидовать (по-доброму) кому-чему; соблазняться чем; поддаваться искушению",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сукъландыр",
+     "def": "соблазнять, обольщать кого; вводить кого в искушение, манить кого; вызывать зависть у кого",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сукъландыргъан",
+     "def": "1) прич. от сукъландырыргъа; 2) соблазнительный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сукъландырт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъландыртыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъландырыл",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27095",
+   "word": "сукъланмакълыкъ",
+   "tags": "отвлеч. к сукъланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "сукълан",
+     "def": "завидовать (по-доброму) кому-чему; соблазняться чем; поддаваться искушению",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сукъландыр",
+     "def": "соблазнять, обольщать кого; вводить кого в искушение, манить кого; вызывать зависть у кого",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сукъландыргъан",
+     "def": "1) прич. от сукъландырыргъа; 2) соблазнительный",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сукъландырмакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "сукъландырт",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сукъландыртыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27106",
+   "word": "сукъмакълыкъ",
+   "tags": "отвлеч. к сугъаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_27153",
+   "word": "суратланмакълыкъ",
+   "tags": "отелем, к суратланыр-гъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "сурат1",
+     "def": "1)рисунок; картина: изображение 2) фотография, снимок 3) иллюстрация",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сурат2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратла",
+     "def": "1) прям., перен. рисовать, изображать кого-что 2) охарактеризовать кого, представить кого",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "суратлаб",
+     "def": "образно",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27156",
+   "word": "суратланыргьа",
+   "tags": "страд. к суратларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "сурат1",
+     "def": "1)рисунок; картина: изображение 2) фотография, снимок 3) иллюстрация",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сурат2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратла",
+     "def": "1) прям., перен. рисовать, изображать кого-что 2) охарактеризовать кого, представить кого",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "суратлаб",
+     "def": "образно",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27158",
+   "word": "суратлатыргьа",
+   "tags": "понуд. к суратларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "сурат1",
+     "def": "1)рисунок; картина: изображение 2) фотография, снимок 3) иллюстрация",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сурат2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратла",
+     "def": "1) прям., перен. рисовать, изображать кого-что 2) охарактеризовать кого, представить кого",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "суратлаб",
+     "def": "образно",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27159",
+   "word": "суратлатыу",
+   "tags": "и. д. к суратлатыргьа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": [
+    {
+     "word": "сурат1",
+     "def": "1)рисунок; картина: изображение 2) фотография, снимок 3) иллюстрация",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сурат2",
+     "def": "",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратдырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "суратла",
+     "def": "1) прям., перен. рисовать, изображать кого-что 2) охарактеризовать кого, представить кого",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "суратлаб",
+     "def": "образно",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27178",
+   "word": "сусаб",
+   "tags": "",
+   "def1": "то же,что суусаб",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_27210",
+   "word": "сууландырыргьа",
+   "tags": "понуд. к сууланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "суула",
+     "def": "Обводнять",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "суулай",
+     "def": "мокрый, в мокром виде",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суулан",
+     "def": "1)мокнуть; становиться сырым; увлажняться 2) перен. покрыться (о корове, овце и т. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууландырт",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууландыртыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27212",
+   "word": "сууланмакълыкъ",
+   "tags": "отвлеч. к сууланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "суула",
+     "def": "Обводнять",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "суулай",
+     "def": "мокрый, в мокром виде",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суулан",
+     "def": "1)мокнуть; становиться сырым; увлажняться 2) перен. покрыться (о корове, овце и т. п.)",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууландыр",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууландырт",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууландыртыу",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27218",
+   "word": "суурт1",
+   "tags": "эт. понуд. от суур1",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сууур1 дегенни къатланыучу айырмасы. Аслан эфендини сёзюне къарап, Ибрахим талисманына къара чилле чалыу суууртхан эди. Гуртуланы Б., Жангы талисман, ",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "суурт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27219",
+   "word": "суурт2",
+   "tags": "эт. понуд. от суур2",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сууур2 дегенни къатланыучу айырмасы. Аны [урушну башларгъа итиннгенни] аякъ ызлары тюшген жерни кесип алып, желге суууртур эдим, отха кюйдюрюр эдим. Т",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "суурт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27224",
+   "word": "суусамакълыкъ",
+   "tags": "отвлеч. к суусаргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууса",
+     "def": "хотеть пить, испытывать жажду",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "суусаb",
+     "def": "1)жажда 2) питьё; напиток (обычно айран, разбавленный водой)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусаблыкъ",
+     "def": "1) отвлеч. к суусаб; 2) айран для приготовления напитка",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусар",
+     "def": "куница",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "суусат",
+     "def": "вызывать жажду",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусатдыр",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27227",
+   "word": "суусатдыр",
+   "tags": "понуд. к суусатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууса",
+     "def": "хотеть пить, испытывать жажду",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "суусаb",
+     "def": "1)жажда 2) питьё; напиток (обычно айран, разбавленный водой)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусаблыкъ",
+     "def": "1) отвлеч. к суусаб; 2) айран для приготовления напитка",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "суусар",
+     "def": "куница",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "суусат",
+     "def": "вызывать жажду",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27228",
+   "word": "суусатдырмакълыкъ",
+   "tags": "отвлеч. к суусатдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууса",
+     "def": "хотеть пить, испытывать жажду",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "суусаb",
+     "def": "1)жажда 2) питьё; напиток (обычно айран, разбавленный водой)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусаблыкъ",
+     "def": "1) отвлеч. к суусаб; 2) айран для приготовления напитка",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "суусар",
+     "def": "куница",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "суусат",
+     "def": "вызывать жажду",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27229",
+   "word": "суусатдырыу",
+   "tags": "и. д. к суусатдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууса",
+     "def": "хотеть пить, испытывать жажду",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "суусаb",
+     "def": "1)жажда 2) питьё; напиток (обычно айран, разбавленный водой)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусаблыкъ",
+     "def": "1) отвлеч. к суусаб; 2) айран для приготовления напитка",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "суусар",
+     "def": "куница",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "суусат",
+     "def": "вызывать жажду",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27230",
+   "word": "суусатмакълыкъ",
+   "tags": "отвлеч. к суусатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууса",
+     "def": "хотеть пить, испытывать жажду",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "суусаb",
+     "def": "1)жажда 2) питьё; напиток (обычно айран, разбавленный водой)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусаблыкъ",
+     "def": "1) отвлеч. к суусаб; 2) айран для приготовления напитка",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "суусамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "суусар",
+     "def": "куница",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "суусат",
+     "def": "вызывать жажду",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27237",
+   "word": "суусундур",
+   "tags": "понуд. к суусунургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "суусуз",
+     "def": "безводный; обезвоженный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусузлукъ",
+     "def": "Безводье",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун1",
+     "def": "жидкость || жидкий",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун2",
+     "def": "охладеть к кому-чему, разочароваться в ком-чём",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "суусундуруу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "суусунлу",
+     "def": "содержащий жидкость; жидкообразный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27238",
+   "word": "суусундуруу",
+   "tags": "и. д. к суусундурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "суусуз",
+     "def": "безводный; обезвоженный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусузлукъ",
+     "def": "Безводье",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун1",
+     "def": "жидкость || жидкий",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун2",
+     "def": "охладеть к кому-чему, разочароваться в ком-чём",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "суусундур",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "суусунлу",
+     "def": "содержащий жидкость; жидкообразный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27241",
+   "word": "суусунмакълыкъ",
+   "tags": "отвлеч. к суусунургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "суусуз",
+     "def": "безводный; обезвоженный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусузлукъ",
+     "def": "Безводье",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун1",
+     "def": "жидкость || жидкий",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун2",
+     "def": "охладеть к кому-чему, разочароваться в ком-чём",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "суусундур",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "суусундуруу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27244",
+   "word": "суусут2",
+   "tags": "взаимн.-возвр. к суусургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "бири бирингден суусутургъа разочароваться друг в друге",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "суусуз",
+     "def": "безводный; обезвоженный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусузлукъ",
+     "def": "Безводье",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун1",
+     "def": "жидкость || жидкий",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "суусун2",
+     "def": "охладеть к кому-чему, разочароваться в ком-чём",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "суусундур",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "суусундуруу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27253",
+   "word": "сууукъсурамакълыкъ",
+   "tags": "отвлеч. к сууукъсураргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууукъ",
+     "def": "1. холод, мороз; холодная погода || холодный, морозный 2. 1) холодный, неприветливый, сдер",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "сууукълукъ",
+     "def": "1) холод; мороз 2) натянутость, отчуждённость 3) халатность, безразличие, равнодушие",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсура",
+     "def": "зябнуть, мёрзнуть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсурат1",
+     "def": "холодить, морозить (слегка)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсурат2",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сууукъсуратмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27255",
+   "word": "сууукъсурат2",
+   "tags": "взаимн.-возвр. к сууукъсураргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "къонакъла эшикден сууукъсурашыб кирдиле гости вошли продрогшими",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сууукъ",
+     "def": "1. холод, мороз; холодная погода || холодный, морозный 2. 1) холодный, неприветливый, сдер",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "сууукълукъ",
+     "def": "1) холод; мороз 2) натянутость, отчуждённость 3) халатность, безразличие, равнодушие",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсура",
+     "def": "зябнуть, мёрзнуть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсурамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сууукъсурат1",
+     "def": "холодить, морозить (слегка)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсуратмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27256",
+   "word": "сууукъсуратмакълыкъ",
+   "tags": "отвлеч. к сууукъсуратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууукъ",
+     "def": "1. холод, мороз; холодная погода || холодный, морозный 2. 1) холодный, неприветливый, сдер",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "сууукълукъ",
+     "def": "1) холод; мороз 2) натянутость, отчуждённость 3) халатность, безразличие, равнодушие",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсура",
+     "def": "зябнуть, мёрзнуть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсурамакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сууукъсурат1",
+     "def": "холодить, морозить (слегка)",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сууукъсурат2",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27264",
+   "word": "сууурмакълыкъ",
+   "tags": "отвлеч. к сууурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "ийнеге халы сууурмакълыкъ вдевание нитки в иголку; будай сууурмакълыкъ провеивание пшеницы",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "суууртдур1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27265",
+   "word": "сууурт",
+   "tags": "понуд. к сууурургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "мынчакълагъа халы суууртургъа заставить кого нанизывать бусы на нитки; будайны суууртургъа заставить кого провеять пшеницу",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "суууртдур1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27266",
+   "word": "суууртдур1",
+   "tags": "эт. понуд. от суурт1",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Суурт1 дегенни къатланыучу айырмасы. Мынчакъланы суууртдур. Ийнеге халыны суууртдур.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27267",
+   "word": "суууртдур2",
+   "tags": "эт. понуд. от суурт2",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Суурт2 дегенни къатланыучу айырмасы. Тарыны суууртдур. Арпаны суууртдур.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27268",
+   "word": "суууртдуруу1",
+   "tags": "и. д. от суууртдур1",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Суууртдур1 дегенден этим ат. Чурукъланы бауларын суууртдуруу. Тюймеге халыны суууртдуруу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27269",
+   "word": "суууртдуруу2",
+   "tags": "и. д. от суууртдур2",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Суууртдур2 дегенден этим ат. Нартюхню желге суууртдуруу. Мирзеуню суууртдуруу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27270",
+   "word": "суууртмакълыкъ",
+   "tags": "отвлеч. к суууртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27271",
+   "word": "суууртуу",
+   "tags": "и. д. к суууртургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27274",
+   "word": "сууурулмакълыкъ",
+   "tags": "отвлеч. к сууурулургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууур1",
+     "def": "1) вдевать (нитку в иголку); нанизывать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууур2",
+     "def": "2) провеивать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч1",
+     "def": "Веялка",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "сууургъуч2",
+     "def": "отрезок полотна и т. п., из которого вытягивают нитки для шитья",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    },
+    {
+     "word": "сууурмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууурт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27282",
+   "word": "сууутмакълыкъ",
+   "tags": "отвлеч. к сууутургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "бири бирингден сууутмакълыкъ разочарование друг в друге",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууут",
+     "def": "1) остудить, охладить что; дать чему остыть 2) перен. разочаровать кого; заставить кого ох",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутул",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууутуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27284",
+   "word": "сууутулуу",
+   "tags": "и. д. к сууутулургъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сууут",
+     "def": "1) остудить, охладить что; дать чему остыть 2) перен. разочаровать кого; заставить кого ох",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууутул",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27286",
+   "word": "сууутхуч",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. холодильник. Эт, сууутхучда кёп турса, татыусуз болады.",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "сууут",
+     "def": "1) остудить, охладить что; дать чему остыть 2) перен. разочаровать кого; заставить кого ох",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутдур",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутдуруу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сууутул",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сууутулуу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27302",
+   "word": "сфера",
+   "tags": "",
+   "def1": "сфера",
+   "def2": "",
+   "misc1": "турмуш сфера сфера быта",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_27352",
+   "word": "сыгъылмакълыкъ",
+   "tags": "отвлеч. к сыгъылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыгъыл",
+     "def": "1) страд. к сыгъаргъа 2) перен. выдохнуться (от непосильного труда и т. п.)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыгъын",
+     "def": "пыхтеть, кряхтеть, напрягаться; тужиться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27353",
+   "word": "сыгъылыу",
+   "tags": "и. д. к сыгъылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыгъыл",
+     "def": "1) страд. к сыгъаргъа 2) перен. выдохнуться (от непосильного труда и т. п.)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыгъын",
+     "def": "пыхтеть, кряхтеть, напрягаться; тужиться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27358",
+   "word": "сыгъындырыу",
+   "tags": "и. д. к сыгъындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыгъыл",
+     "def": "1) страд. к сыгъаргъа 2) перен. выдохнуться (от непосильного труда и т. п.)",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъылмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыгъылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыгъын",
+     "def": "пыхтеть, кряхтеть, напрягаться; тужиться",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыгъындырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27370",
+   "word": "сыдырмакьлыкъ",
+   "tags": "отвлеч. к сыдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "адамны юсюнден кийимин сыдырмакьлыкъ стаскивание одежды с человека",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыдыр",
+     "def": "1) царапать, сдирать (кожу, кору и т. п.); делать ссадину 2) снимать, стаскивать с кого (н",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдырт",
+     "def": "1) понуд. к сыдырыргъа 2)царапать, сдирать что чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27374",
+   "word": "сыдыртмакълыкъ",
+   "tags": "отвлеч. к сыдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыдыр",
+     "def": "1) царапать, сдирать (кожу, кору и т. п.); делать ссадину 2) снимать, стаскивать с кого (н",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдырмакьлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыдырт",
+     "def": "1) понуд. к сыдырыргъа 2)царапать, сдирать что чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27377",
+   "word": "сыдырылмакълыкъ",
+   "tags": "отвлеч. к сыдырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыдыр",
+     "def": "1) царапать, сдирать (кожу, кору и т. п.); делать ссадину 2) снимать, стаскивать с кого (н",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдырмакьлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыдырт",
+     "def": "1) понуд. к сыдырыргъа 2)царапать, сдирать что чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27380",
+   "word": "сыдырыш",
+   "tags": "взаимн.-возвр. к сыдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "бири бири бетинги сыдырышыргъа поцарапать друг другу лицо",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыдыр",
+     "def": "1) царапать, сдирать (кожу, кору и т. п.); делать ссадину 2) снимать, стаскивать с кого (н",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдырмакьлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыдырт",
+     "def": "1) понуд. к сыдырыргъа 2)царапать, сдирать что чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27381",
+   "word": "сыдырышмакълыкъ",
+   "tags": "отвлеч. к сыдырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыдыр",
+     "def": "1) царапать, сдирать (кожу, кору и т. п.); делать ссадину 2) снимать, стаскивать с кого (н",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдырмакьлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыдырт",
+     "def": "1) понуд. к сыдырыргъа 2)царапать, сдирать что чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27382",
+   "word": "сыдырышыу",
+   "tags": "и. д. к сыдырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыдыр",
+     "def": "1) царапать, сдирать (кожу, кору и т. п.); делать ссадину 2) снимать, стаскивать с кого (н",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдырмакьлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыдырт",
+     "def": "1) понуд. к сыдырыргъа 2)царапать, сдирать что чем",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыдыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыдыртмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27383",
+   "word": "сыз1",
+   "tags": "ат.; карач.",
+   "def1": "черта, линия",
+   "def2": "Линия, черта",
+   "misc1": "сёдегей сыз косая (наклонная) линия; тик сыз вертикальная линия; сыз баргъан къумач полосатая ткань; сыз салыргъа (или тартаргъа) провести черту; сызг",
+   "misc2": "къ. ызлыкъ. Мухаммат, акъ сызла баргъан кёксюл костюмуну, тюймелерин тешип, этеклерин эки жанына этди. Байрамукъланы Х., Жылла бла таула, 459. Харифле",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "сыз2",
+     "def": "1) чертить, подчёркивать что; проводить линию 2) написать, черкнуть (письмо и т. п.) 3) за",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыз3",
+     "def": "5) кидать, метать что 6) перен. врать, заливать, рассказывать что с приукрашиванием",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27394",
+   "word": "сызгъыртмакълыкъ",
+   "tags": "отвлеч. к сызгъыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сызгъа",
+     "def": "1. Ложбина 2. Русло, след воды 3. Полоса, линия, след",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "сызгъалы",
+     "def": "Полосатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъыр",
+     "def": "1) свистеть, насвистывать 2) выть, завывать (о ветре) 3) шипеть (напр. о змее)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сызгъыргъан",
+     "def": "1. свист 2. вой, завывание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъырмакълыкъ",
+     "def": "посвистывание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27401",
+   "word": "сызгъырышдыр",
+   "tags": "понуд. к сызгъырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "эришдириб сызгъырышдырыргъа устроить соревнование по свисту",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сызгъа",
+     "def": "1. Ложбина 2. Русло, след воды 3. Полоса, линия, след",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "сызгъалы",
+     "def": "Полосатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъыр",
+     "def": "1) свистеть, насвистывать 2) выть, завывать (о ветре) 3) шипеть (напр. о змее)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сызгъыргъан",
+     "def": "1. свист 2. вой, завывание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъырмакълыкъ",
+     "def": "посвистывание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27402",
+   "word": "сызгъырышдырыу",
+   "tags": "и. д. к сызгъырышдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сызгъа",
+     "def": "1. Ложбина 2. Русло, след воды 3. Полоса, линия, след",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "сызгъалы",
+     "def": "Полосатый",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъыр",
+     "def": "1) свистеть, насвистывать 2) выть, завывать (о ветре) 3) шипеть (напр. о змее)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сызгъыргъан",
+     "def": "1. свист 2. вой, завывание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъырмакълыкъ",
+     "def": "посвистывание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызгъырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27407",
+   "word": "сыздырмакълыкъ",
+   "tags": "отвлеч. к сыздырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сыздыр1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздыр2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздырт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздырт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздыртмакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сыздыртыу1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27410",
+   "word": "сыздыртмакълыкъ",
+   "tags": "отвлеч. к сыздыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сыздыр1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздыр2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздырмакълыкъ",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сыздырт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздырт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыздыртыу1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27424",
+   "word": "сызлатдыр",
+   "tags": "понуд. к сызлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "къагъытны сызлатдырыргъа линовать бумагу; наносить линии на бумаге",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сызла1",
+     "def": "чертить что; графить, линовать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сызла2",
+     "def": "ломить, ныть (болеть)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "сызлама",
+     "def": "Черта, линия",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сызламакълыкъ1",
+     "def": "см. сызлау I",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызламакълыкъ2",
+     "def": "см. сызлау II",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сызлан1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27425",
+   "word": "сызлатдырыу",
+   "tags": "и. д. к сызлатдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сызла1",
+     "def": "чертить что; графить, линовать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сызла2",
+     "def": "ломить, ныть (болеть)",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "сызлама",
+     "def": "Черта, линия",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сызламакълыкъ1",
+     "def": "см. сызлау I",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сызламакълыкъ2",
+     "def": "см. сызлау II",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сызлан1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27477",
+   "word": "сыйлатдырмакълыкъ",
+   "tags": "отвлеч. к сыйлатдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "сыйла1",
+     "def": "угощать, потчевать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйла2",
+     "def": "перен. оказывать уважение кому; оказывать честь (почести) кому",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "сыйламакълыкъ",
+     "def": "1) почитание кого 2) угощение, потчевание",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан1",
+     "def": "страд. к сыйларгъа; угощаться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан2",
+     "def": "пользоваться уважением",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйланмакълыкъ",
+     "def": "Уважение, оказание почести",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27480",
+   "word": "сыйлатмакълыкъ",
+   "tags": "отвлеч. к сыйлатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "сыйла1",
+     "def": "угощать, потчевать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйла2",
+     "def": "перен. оказывать уважение кому; оказывать честь (почести) кому",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "сыйламакълыкъ",
+     "def": "1) почитание кого 2) угощение, потчевание",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан1",
+     "def": "страд. к сыйларгъа; угощаться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан2",
+     "def": "пользоваться уважением",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйланмакълыкъ",
+     "def": "Уважение, оказание почести",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27485",
+   "word": "сыйлаш",
+   "tags": "взаимн.-возвр. к сыйларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "сыйла1",
+     "def": "угощать, потчевать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйла2",
+     "def": "перен. оказывать уважение кому; оказывать честь (почести) кому",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "сыйламакълыкъ",
+     "def": "1) почитание кого 2) угощение, потчевание",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан1",
+     "def": "страд. к сыйларгъа; угощаться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан2",
+     "def": "пользоваться уважением",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйланмакълыкъ",
+     "def": "Уважение, оказание почести",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27486",
+   "word": "сыйлашмакълыкъ",
+   "tags": "отвлеч. к сыйлашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "сыйла1",
+     "def": "угощать, потчевать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйла2",
+     "def": "перен. оказывать уважение кому; оказывать честь (почести) кому",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "сыйламакълыкъ",
+     "def": "1) почитание кого 2) угощение, потчевание",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан1",
+     "def": "страд. к сыйларгъа; угощаться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан2",
+     "def": "пользоваться уважением",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйланмакълыкъ",
+     "def": "Уважение, оказание почести",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27487",
+   "word": "сыйлашыу",
+   "tags": "и. д. к сыйлашыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "сыйла1",
+     "def": "угощать, потчевать кого",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйла2",
+     "def": "перен. оказывать уважение кому; оказывать честь (почести) кому",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "сыйламакълыкъ",
+     "def": "1) почитание кого 2) угощение, потчевание",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан1",
+     "def": "страд. к сыйларгъа; угощаться",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйлан2",
+     "def": "пользоваться уважением",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйланмакълыкъ",
+     "def": "Уважение, оказание почести",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27498",
+   "word": "сыйпаланмакълыкъ",
+   "tags": "отвлеч. к сыйпаланыргьа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыйпа",
+     "def": "1) гладить кого-что 2) подметать; смахивать (пыль); слегка вытирать что 3) перен. замять ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпал",
+     "def": "страд. от сыйпа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйпала",
+     "def": "1) гладить, разглаживать что 2) подметать, вытирать, протирать что 3) перен. сгладить, зам",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпалакъ1",
+     "def": "Гладкий",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйпалакъ2",
+     "def": "игра в камушки",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпаламакълыкъ",
+     "def": "прям., перен. сглаживание, заглаживание чего",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27499",
+   "word": "сыйпаланыу",
+   "tags": "и. д. к сыйпаланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыйпа",
+     "def": "1) гладить кого-что 2) подметать; смахивать (пыль); слегка вытирать что 3) перен. замять ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпал",
+     "def": "страд. от сыйпа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйпала",
+     "def": "1) гладить, разглаживать что 2) подметать, вытирать, протирать что 3) перен. сгладить, зам",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпалакъ1",
+     "def": "Гладкий",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйпалакъ2",
+     "def": "игра в камушки",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпаламакълыкъ",
+     "def": "прям., перен. сглаживание, заглаживание чего",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27504",
+   "word": "сыйпамды",
+   "tags": "балк.",
+   "def1": "то же, что хулгу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "сыйпа",
+     "def": "1) гладить кого-что 2) подметать; смахивать (пыль); слегка вытирать что 3) перен. замять ч",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпал",
+     "def": "страд. от сыйпа",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйпала",
+     "def": "1) гладить, разглаживать что 2) подметать, вытирать, протирать что 3) перен. сгладить, зам",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпалакъ1",
+     "def": "Гладкий",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйпалакъ2",
+     "def": "игра в камушки",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "сыйпаламакълыкъ",
+     "def": "прям., перен. сглаживание, заглаживание чего",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27520",
+   "word": "сыйры",
+   "tags": "сыф.",
+   "def1": "хлёсткий",
+   "def2": "Хлёсткий",
+   "misc1": "сыйры чыбыкъ хлёсткая лоза",
+   "misc2": "Къаты ачытып, уруучу. Сыйры къамычы. Сыйры чыбыкъ.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыйрымды",
+     "def": "то же, что сыйыртмакъ",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27560",
+   "word": "сыйыртмакълыкъ",
+   "tags": "отвлеч. к сыйыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыйыр1",
+     "def": "1) отнимать, отбирать что 2) юр. изъять, конфисковать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйыр2",
+     "def": "корова",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "сыйырмакълыкъ",
+     "def": "отнятие, изъятие чего",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27565",
+   "word": "сыйырылмакълыкъ",
+   "tags": "отвлеч. к сыйырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыйыр1",
+     "def": "1) отнимать, отбирать что 2) юр. изъять, конфисковать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйыр2",
+     "def": "корова",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "сыйырмакълыкъ",
+     "def": "отнятие, изъятие чего",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27569",
+   "word": "сыйырышмакълыкъ",
+   "tags": "отвлеч. к сыйырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыйыр1",
+     "def": "1) отнимать, отбирать что 2) юр. изъять, конфисковать что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйыр2",
+     "def": "корова",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "сыйырмакълыкъ",
+     "def": "отнятие, изъятие чего",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыйырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйыртдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйыртдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27573",
+   "word": "сыйытламакълыкъ",
+   "tags": "отвлеч. к сыйытларгъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "сыйыт",
+     "def": "1) рыдание; плач 2) шум, крик",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйытла",
+     "def": "1) плакать, рыдать 2) шуметь, кричать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйытлау",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сыйытлыкъ",
+     "def": "Горе",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27578",
+   "word": "сыкъдырмакълыкъ",
+   "tags": "отвлеч. к сыкъдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыкъдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыкъдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыкъдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыкъдырыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыкъдырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыкъдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27591",
+   "word": "сыламла",
+   "tags": "",
+   "def1": ": унну мерке бла сыламлаб берирге дать мёрку муки вровень с краями",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылама",
+     "def": "Полный, вровень с краями",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сыламакълыкъ",
+     "def": "поглаживание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыламыла",
+     "def": "вровень с краями; наполненный до краёв",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27594",
+   "word": "сыланмакълыкъ",
+   "tags": "отвлеч. к сыланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27598",
+   "word": "сылатдырмакълыкъ",
+   "tags": "отвлеч. к сылатдырыргьа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылат",
+     "def": "1)заставить кого гладить что 2) лечиться массажем; делать массаж",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27602",
+   "word": "сылатмакълыкъ",
+   "tags": "отвлеч. к сылатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылат",
+     "def": "1)заставить кого гладить что 2) лечиться массажем; делать массаж",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылатдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27611",
+   "word": "сылджырашыу",
+   "tags": "и. д. от сылжыраш; и. д. к сылджыратыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сылжыраш дегенден этим ат. Ташагъа сылжырашыу. Дерсден сылжырашыу. Самолётланы баш энишге сылжырашыулары.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "сылджырамакълыкъ",
+     "def": "увиливание",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сылджыратыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сылджырау",
+     "def": "увиливание",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27613",
+   "word": "сылдырмакълыкъ",
+   "tags": "отвлеч. к сылдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27614",
+   "word": "сылдырт",
+   "tags": "понуд. к сылдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27615",
+   "word": "сылдыртыу",
+   "tags": "и. д. к сылдыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сылдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сылдырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сылдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27619",
+   "word": "сылжырат2",
+   "tags": "взаимн.-возвр. к сылджыраргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "ишден сылджыратыргъа увиливать от работы (о многих); бирем-бирем сылджыратыргъа ускользать по одному (напр. из школы)",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "сылжыра",
+     "def": "увиливать, ускользать; юркнуть",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сылжырат1",
+     "def": "дать кому увильнуть (ускользнуть)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сылжыратдыр",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сылжыратдырыу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "сылжыраш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27623",
+   "word": "сылмакълыкъ",
+   "tags": "отвлеч. к сылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_27630",
+   "word": "сылтаучу2",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "сылтаучула условные союзы; тенг джарашдырыучу сылтаучула сочинительные союзы; сылтаучу сёз союзное слово",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "сылтау",
+     "def": "1) причина; повод 2) предлог, отговорка 3) беременность",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "сылтаулу",
+     "def": "беременная",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "сылтаулулукъ",
+     "def": "беременность",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "сылтаусуз1",
+     "def": "1) беспричинный; без причины 2) безоговорочный",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "сылтаусуз2",
+     "def": "1) беспричинно 2) безоговорочно",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "сылтаучу1",
+     "def": "симулянт; притворщик",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27635",
+   "word": "сылхырландыр",
+   "tags": "понуд. к сылхырланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "кеси кесинги сылхырландырыргъа дурачиться, прикидываться дурачком",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "сылхыр",
+     "def": "1) вет. вертячка (у овец) 2) перен. глупый, дурень м, дурачок, болван",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "сылхырбаш",
+     "def": "головотяп; бестолочь ж",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "сылхырбашлыкъ",
+     "def": "головотяпство; тупость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "сылхырлан",
+     "def": "дурачиться, прикидываться дурачком",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сылхырландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "сылхырланмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27636",
+   "word": "сылхырландырыу",
+   "tags": "и. д. к сылхырландырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "сылхыр",
+     "def": "1) вет. вертячка (у овец) 2) перен. глупый, дурень м, дурачок, болван",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "сылхырбаш",
+     "def": "головотяп; бестолочь ж",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "сылхырбашлыкъ",
+     "def": "головотяпство; тупость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "сылхырлан",
+     "def": "дурачиться, прикидываться дурачком",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сылхырландыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "сылхырланмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27637",
+   "word": "сылхырланмакълыкъ",
+   "tags": "отвлеч. к сылхырла ныргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "сылхыр",
+     "def": "1) вет. вертячка (у овец) 2) перен. глупый, дурень м, дурачок, болван",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "сылхырбаш",
+     "def": "головотяп; бестолочь ж",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "сылхырбашлыкъ",
+     "def": "головотяпство; тупость",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "сылхырлан",
+     "def": "дурачиться, прикидываться дурачком",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сылхырландыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "сылхырландырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27644",
+   "word": "сылыкъланмакълыкъ",
+   "tags": "отвлеч. к сылыкъланыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "сылыкъ",
+     "def": "1) ничтожество, убожество || ничтожный, убогий (о человеке) 2) груб. хам, нахал",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сылыкълан",
+     "def": "проявлять свою ничтожность; вести себя как ничтожество",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сылыкъландыр",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сылыкъландырыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сылыкъланыу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27673",
+   "word": "сымпаймакълыкъ",
+   "tags": "отвлеч. к сымпайыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "сымпай",
+     "def": "присмиреть; остолбенеть; пригорюниться",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сымпайт",
+     "def": "1) озадачить, огорошить кого 2) оставить кого ни с чём",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сымпайтыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сымпайыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сымпайыш",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сымпайышыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27684",
+   "word": "сынагъан",
+   "tags": "",
+   "def1": "1) прич. от сынаргъа I 2) испытательный 3) пережитый",
+   "def2": "",
+   "misc1": "кёбню сынагъан много видевший, много испытавший; сынагъан станция испытательная станция; сынагъан затынг пережитое",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_27686",
+   "word": "сыналмакълыкъ",
+   "tags": "отвлеч. к сыналыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "сынал",
+     "def": "быть испытанным; подвергаться испытанию",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сыналыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27698",
+   "word": "сынатмакълыкъ",
+   "tags": "отвлеч. к сынатыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "сынат",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сынатдыр",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сынатдырыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сынатыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27723",
+   "word": "сындырыш",
+   "tags": "взаимн.-возвр. к сындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "ала бири бирин сындырышыб сёлешдиле они говорили друг другу унизительные слова",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сындыр",
+     "def": "1) ломать, разбивать что 2) перен. обидеть, ранить кого; унизить кого; сломить кого-что 3)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сындыргъан",
+     "def": "1) прич. от сындырыргъа 2) перен. ранящий; унизительный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сындырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сындырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сындыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сындырыл",
+     "def": "сломаться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27724",
+   "word": "сындырышыу",
+   "tags": "и. д. к сындырышыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сындыр",
+     "def": "1) ломать, разбивать что 2) перен. обидеть, ранить кого; унизить кого; сломить кого-что 3)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сындыргъан",
+     "def": "1) прич. от сындырыргъа 2) перен. ранящий; унизительный",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сындырмакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сындырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сындыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сындырыл",
+     "def": "сломаться",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27729",
+   "word": "сыннган",
+   "tags": "",
+   "def1": "1. 1) прич. от сынаргъа II 2) надломленный; претерпевший унижение 2. 1) осколок, бой 2) поломка; неисправность 3) перелом, травма",
+   "def2": "",
+   "misc1": "(джюреги) сыннган адам надломленный человек; сыннган джюрек разбитое сердце, надломленная душа; мияла сыннганла осколки стекла; сыннганын айырыргъа от",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_27742",
+   "word": "сынтыллан",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сынтыл бол. Ол олтуруп сынтылланнган къолларын тобукъларына салып, бираз солуду.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сынтыл",
+     "def": "1) хилый 2) дряблый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "сынтылланыу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сынтыллыкъ",
+     "def": "Утомленность, вялость, слабочувствительность",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27743",
+   "word": "сынтылланыу",
+   "tags": "и. д. от сынтыллан",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сынтыллан дегенден этим ат. Жюрегинг къыйналып, санларынгы сынтылланыулары.",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "сынтыл",
+     "def": "1) хилый 2) дряблый",
+     "lextag": "human_body",
+     "conf": "high"
+    },
+    {
+     "word": "сынтыллан",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "сынтыллыкъ",
+     "def": "Утомленность, вялость, слабочувствительность",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27747",
+   "word": "сынчыкъла1",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сынчыла. Сынчыкъларгъа ийилгенле къайтдыла. Ала: «Эл ырахат жукълайды»,— деп, айтдыла. Этезланы О., Нарт къаланы хапарлары. Командир къауум солдат",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "сынчы",
+     "def": "наблюдательный, пытливый",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "сынчыкъ",
+     "def": "болезнь лошадей",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "сынчыкъла2",
+     "def": "прихрамывать; ковылять",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сынчыкълат1",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сынчыкълат2",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "сынчыкълатыу1",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27762",
+   "word": "сыныгъыу",
+   "tags": "и. д. к сыныгъыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_27767",
+   "word": "сыныкъла",
+   "tags": "эт. сёл. тил. къ. сындыр 2",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Рачыкъау кетгенден сора, нартла ариу тилли Гилястырханны арагъа алып: - Сен бизни къонагъыбызны сыныкълап, нартланы бетин жойдунг,- деп, къалтыратдыла",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыныкъ1",
+     "def": "1)обломок; осколок 2) сломанный 3) перен. надломленный; униженный; оскорблённый",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъ2",
+     "def": "претерпеть унижение (оскорбление самолюбия); испытать душевный надлом",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъдыр",
+     "def": "унизить кого; ранить кого (морально); оскорбить чьё-л. самолюбие",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъдырыу",
+     "def": "унижение кого, оскорбление чьего-л. достоинства",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкълау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыныкълыкъ",
+     "def": "надломленность; унижение",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27768",
+   "word": "сыныкълау",
+   "tags": "и. д. от сыныкъла",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сыныкъла дегенден этим ат. Тенгин сыныкълау. Адамны сыныкълау айыпды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыныкъ1",
+     "def": "1)обломок; осколок 2) сломанный 3) перен. надломленный; униженный; оскорблённый",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъ2",
+     "def": "претерпеть унижение (оскорбление самолюбия); испытать душевный надлом",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъдыр",
+     "def": "унизить кого; ранить кого (морально); оскорбить чьё-л. самолюбие",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъдырыу",
+     "def": "унижение кого, оскорбление чьего-л. достоинства",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сыныкъла",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыныкълыкъ",
+     "def": "надломленность; унижение",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27793",
+   "word": "сыпхартыу",
+   "tags": "и. д. к сыпхартыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыпхан",
+     "def": ": сыпхан аллах а) мус. аллах всемогущий; б) вводн. сл. удивительно, странно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпхан аллах",
+     "def": "о боже!, господи!",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхар1",
+     "def": "Вылить, выкачать (о жидкости)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхар2",
+     "def": "1) подмести (пол); вымести (сор) 2) разг. стибрить, украсть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхарт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпхарт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27794",
+   "word": "сыпхарыл",
+   "tags": "страд. к сыпхарыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыпхан",
+     "def": ": сыпхан аллах а) мус. аллах всемогущий; б) вводн. сл. удивительно, странно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпхан аллах",
+     "def": "о боже!, господи!",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхар1",
+     "def": "Вылить, выкачать (о жидкости)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхар2",
+     "def": "1) подмести (пол); вымести (сор) 2) разг. стибрить, украсть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхарт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпхарт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27795",
+   "word": "сыпхарылыу",
+   "tags": "и. д. к сыпхарылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыпхан",
+     "def": ": сыпхан аллах а) мус. аллах всемогущий; б) вводн. сл. удивительно, странно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпхан аллах",
+     "def": "о боже!, господи!",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхар1",
+     "def": "Вылить, выкачать (о жидкости)",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхар2",
+     "def": "1) подмести (пол); вымести (сор) 2) разг. стибрить, украсть что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпхарт1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпхарт2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27799",
+   "word": "сыпырт",
+   "tags": "эт. бош тил.",
+   "def1": "1) понуд. к сыпырыргъа; 2) то же, что сыпырыргъа",
+   "def2": "",
+   "misc1": "гюрбени ичин сыпыртыргъа а) вымести закром, выбрать остатки муки (крупы и т. п.); б) разг. стибрить, украсть что; бычакъны сыпыртыргъа стибрить нож",
+   "misc2": "къ. урла. Хасан кеси ёмюрюнде кёп атны сыпыртханды. Гулайланы Б., Къачхынчы, 30.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыпыр",
+     "def": "1) прям., перен. выметать, сгребать что 2) разг. стибрить, утащить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпыртхыч",
+     "def": "метла, веник",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпыртыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыпыртылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыпыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпырылыргьа",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27801",
+   "word": "сыпыртыл",
+   "tags": "эт. страд. от сыпырт",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сыпырт дегенни зорлаучу айырмасы. Жашны къамасы сыпыртылгъанды.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыпыр",
+     "def": "1) прям., перен. выметать, сгребать что 2) разг. стибрить, утащить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпырт",
+     "def": "1) понуд. к сыпырыргъа; 2) то же, что сыпырыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыпыртхыч",
+     "def": "метла, веник",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпыртылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыпыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпырылыргьа",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27802",
+   "word": "сыпыртылыу",
+   "tags": "и. д. от сыпыртыл",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Сыпыртыл дегенден этим ат. Халжардан ат сыпыртылыу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сыпыр",
+     "def": "1) прям., перен. выметать, сгребать что 2) разг. стибрить, утащить что",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сыпырт",
+     "def": "1) понуд. к сыпырыргъа; 2) то же, что сыпырыргъа",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыпыртхыч",
+     "def": "метла, веник",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпыртыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "сыпыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сыпырылыргьа",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27811",
+   "word": "сыраф",
+   "tags": "",
+   "def1": "то же, что зыраф",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "сырафлыкъ",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27812",
+   "word": "сырафлыкъ",
+   "tags": "отвлеч. к сыраф",
+   "def1": "",
+   "def2": "",
+   "misc1": "(гъы)",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "сыраф",
+     "def": "то же, что зыраф",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27817",
+   "word": "сырдырмакълыкь",
+   "tags": "отвлеч. к сырдырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сырдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырдырт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырдыртыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырдырыл",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырдырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27823",
+   "word": "сыркъыу",
+   "tags": "сыф. къарач. ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сиркиу. Сыркъыу бала жангы жюлюннген башчыгъы агъара, суу жагъада тал чегетге кирип кетди. «Ленинни байрагъы», 1972, № 112.",
+   "current": "emotions_and_will",
+   "family": []
+  },
+  {
+   "entry_id": "e_27829",
+   "word": "сырла",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сыр 3. Жууургъанны сырла.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сырлан",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырланыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырлат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырлатдыр",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырлатдырыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27847",
+   "word": "сырт узуну",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "▯ Сырт узуну хребет, позвоночник / аркъа омуроула, аркъа узуну. Белбау ызы сырт узунуна, къызарып тюшдю, отча, къыздыра. Хубийланы О., Мурат, 216.\n◊ С",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_27854",
+   "word": "сыртлау1",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. сырт 2. Сыртлаучукъну башындан Солтан-Хамитни тауушу чыкъды. Шахмырзаланы С., Танг аласында, 46. Капитан белгиси болгъан сыртлауда къоруулау участ",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "сыртла",
+     "def": "Обманывать",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыртлан",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыртлат",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыртлатдыр",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыртлатдырыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "сыртлатыу",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27862",
+   "word": "сырылмакълыкъ",
+   "tags": "отвлеч. к сырылыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "сырыл",
+     "def": "стегаться простёгиваться; быть простёганным",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "сырылгъан",
+     "def": "стёганый",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "сырылыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27866",
+   "word": "сырындырмакълыкь",
+   "tags": "отвлеч. к сырындырыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "сырын",
+     "def": "иметь интерес к кому-чему",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сырындыр",
+     "def": "заинтересовать, заинтриговать кого; пробудить у кого интерес к кому-чему: вызвать у кого и",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сырындырт",
+     "def": "то же, что сырындырыргъа",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сырындыртыу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "сырындырыу",
+     "def": "пробуждение интереса к кому-чему",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сырынмакълыкъ",
+     "def": "проявление интереса к кому-чему",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27868",
+   "word": "сырындыртыу",
+   "tags": "и. д. к сырындыртыргъа",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "сырын",
+     "def": "иметь интерес к кому-чему",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сырындыр",
+     "def": "заинтересовать, заинтриговать кого; пробудить у кого интерес к кому-чему: вызвать у кого и",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сырындырмакълыкь",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "сырындырт",
+     "def": "то же, что сырындырыргъа",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "сырындырыу",
+     "def": "пробуждение интереса к кому-чему",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "сырынмакълыкъ",
+     "def": "проявление интереса к кому-чему",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_27884",
+   "word": "сытмакълыкъ",
+   "tags": ", II отвлеч. к сытаргъа I, II",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  }
+ ]
+}

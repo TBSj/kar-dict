@@ -1,0 +1,4420 @@
+{
+ "items": [
+  {
+   "entry_id": "e_12612",
+   "word": "зынттыулукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зымпыкълыкъ. Махтини зынттыулукъ къанына сингнген болур, ансы ол аны бирда къоймады. Тукъумну уа «мушулдап, башын ёрге кётюргени» - аны суубашлыгъ",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "зынттыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12623",
+   "word": "зыр-зыр1",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. замок. Жашчыкъ, ойнай кетип, кёлегини зырзырын бузду.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "зыр-зыр2",
+     "def": "Шуршащий",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "зыр-зыр3",
+     "def": "Звукоподражание шуму дождя, швейной машины и т.п.",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12624",
+   "word": "зыр-зыр2",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "Шуршащий",
+   "misc1": "",
+   "misc2": "Жырылдагъан таууш этиучю. [Ханий] эрлай тазны, къумгъанны къоратып, зыр-зыр теке намазлыкъны башын къыбылагъа айландырып жайды. Эбизеланы А., Махти, 1",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "зыр-зыр1",
+     "def": "",
+     "lextag": "logic_and_function_words",
+     "conf": "low"
+    },
+    {
+     "word": "зыр-зыр3",
+     "def": "Звукоподражание шуму дождя, швейной машины и т.п.",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12639",
+   "word": "зырафха",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зыраф II. [Аслан] не арый, не тала билмеген, атхан огъу зырафха кетмеген... батыр нарт кибик сермешеди. Залийханланы Ж., Тау къушла, 308. Сакъ къа",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "зыраф1",
+     "def": "1) бесполезный 2) испорченный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "зыраф2",
+     "def": "бесполезно, зря",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафла",
+     "def": "переводить, портить что; тратить что без пользы",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафлат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12640",
+   "word": "зырафчы",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Расточитель",
+   "misc1": "",
+   "misc2": "Бир затны зырафына жоюучу адам. Зырафчылагъа къаты эсгертилди.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "зыраф1",
+     "def": "1) бесполезный 2) испорченный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "зыраф2",
+     "def": "бесполезно, зря",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафла",
+     "def": "переводить, портить что; тратить что без пользы",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафлат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12641",
+   "word": "зырафына",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зыраф II. Жамий директоргъа Разиятны юсюнден, ол аны тенг къызы болгъаныны, аны эки-юч жылы зырафына кетгенини юсюнден айтды. Ахматланы И., Боранд",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "зыраф1",
+     "def": "1) бесполезный 2) испорченный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "зыраф2",
+     "def": "бесполезно, зря",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафла",
+     "def": "переводить, портить что; тратить что без пользы",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафламакълыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафлат",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "зырафлатыу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12661",
+   "word": "зыян",
+   "tags": "ат.",
+   "def1": "изъян, повреждение",
+   "def2": "",
+   "misc1": "зыяны болгъан повреждённый, с изъяном; зыяны болгъан товар повреждённый товар; зыяны болмагъан безупречный, без изъяна",
+   "misc2": "1. къарач. къ. бузукъ, бузукълукъ. Приборну зыяны бар эди. Станокну зыяны болгъаны билинди. 2. къ. кемлик. Ишде этилген зыянланы терк къоратыргъа кере",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12662",
+   "word": "зыянлы",
+   "tags": "сыф.",
+   "def1": "повреждённый; бракованный",
+   "def2": "Неисправный, повреждённый",
+   "misc1": "зыянлы гар дош повреждённый картофель; зыянлы товар бракованный товар",
+   "misc2": "Бузугъу болгъан. Алыкъа зыянлы деталла бергенди деп жашха киши айтмагъанды. «Коммунизмге жол», 1972, №191.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыянлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыянлылыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12663",
+   "word": "зыянлыкъ",
+   "tags": "отвлеч. к зыян",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыянлы",
+     "def": "повреждённый; бракованный",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыянлылыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12664",
+   "word": "зыянлылыкъ",
+   "tags": "отвлеч. к зыянлы",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыянлы",
+     "def": "повреждённый; бракованный",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "зыянлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12665",
+   "word": "зыянсыз",
+   "tags": "",
+   "def1": "без изъяна",
+   "def2": "",
+   "misc1": "ишни зыянсыз этерге выполнить работу безупречно",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыянсызлыкъ",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12666",
+   "word": "зыянсызлыкъ",
+   "tags": "отвлеч. к зыянсыз",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "зыянсыз",
+     "def": "без изъяна",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12670",
+   "word": "зябь",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Зябьха сюр мулдах сюр (къ. мулдах). Башха ишле кезиуюнде тамамлансала эди, бусагъатда аланы барысын да зябьха сюрдюрюрге керек эди. Токъумаланы Ж., Ёк",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_12672",
+   "word": "ибжире",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. илбизире 1. Эт, асыры бишгенден, ибжиреди. Картоф, бек бишип, ибжирегенди. 2. къ. илбизире 2. Хашим ибжиреген эриклени бал татыу этдирип ашайды",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12678",
+   "word": "игиле",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. игилендир. Малчылыкъны кётюрюр эмда игилер ючюн правительство бек кёп зат этгенди. «Естествознание», 82. Жашауну игилерикле, аны кюнден кюннге сей",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "игилен",
+     "def": "улучшаться, усовершенствоваться",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендир",
+     "def": "улучшать, совершенствовать что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирил",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирилиу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендириу",
+     "def": "улучшение, усовершенствование",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирмеклик",
+     "def": "см. игилендириу",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12685",
+   "word": "игилендирт",
+   "tags": "понуд. к игилендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "игиле",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "игилен",
+     "def": "улучшаться, усовершенствоваться",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендир",
+     "def": "улучшать, совершенствовать что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирил",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирилиу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендириу",
+     "def": "улучшение, усовершенствование",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12686",
+   "word": "игилендиртиу",
+   "tags": "и. д. к игилендиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "игиле",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "игилен",
+     "def": "улучшаться, усовершенствоваться",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендир",
+     "def": "улучшать, совершенствовать что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирил",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирилиу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендириу",
+     "def": "улучшение, усовершенствование",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12689",
+   "word": "игилеу",
+   "tags": "и.д. от игиле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Игиле дегенден этим ат. Жашау халны игилеу.",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "игиле",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "игилен",
+     "def": "улучшаться, усовершенствоваться",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендир",
+     "def": "улучшать, совершенствовать что",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирил",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендирилиу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "игилендириу",
+     "def": "улучшение, усовершенствование",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12693",
+   "word": "игрек",
+   "tags": "мат.",
+   "def1": "игрек",
+   "def2": "",
+   "misc1": "икс бла игрек икс и игрек",
+   "misc2": "",
+   "current": "language_and_communication",
+   "family": []
+  },
+  {
+   "entry_id": "e_12718",
+   "word": "иеле",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. бийле 1. [Вильгельм] Бахсан боюнун иелеп тохтаса, аны шахталарында, заводларында мингле ишлерле, таулула аны жылкъысын кютерле! Тёппеланы А., Кюн ",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_12719",
+   "word": "иелен",
+   "tags": "эт. страд. от иеле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Иеле дегенни зорлаучу айырмасы. Чаллыкъ жерле иеленнген эдиле.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "иелениу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12720",
+   "word": "иелениу",
+   "tags": "и. д. от иелен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Иелен дегенден этим ат. Жайлыкъланы иелениулери.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "иелен",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12721",
+   "word": "иелеу",
+   "tags": "и. д. от иеле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Иеле дегенден этим ат. Космосну иелеу жигитликсиз боллукъ иш тюйюл эди. «Коммунизмге жол», 1971, № 130. Правительствону оноуунда жангы жерлени иелеуню",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_12722",
+   "word": "иелеш",
+   "tags": "эт. взаимн.-совм. от иеле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Иеле дегенни араш айырмасы. Байла, бийле жерлени, сууланы иелешип тохтай эдиле.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "иелешиу",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12723",
+   "word": "иелешиу",
+   "tags": "и. д. от иелеш",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Иелеш дегенден этим ат. Жерлени иелешиу.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "иелеш",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12741",
+   "word": "изар",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. зар. Изар адам. Изар къарам. [Къайсын Алимге:] Болмачы, ууакъ, изар адамла аманлыкъ санга дери да эте келгендиле. «Шуёхлукъ», № 77, 71.",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_12775",
+   "word": "излеучю",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "магъадан излеучюле разведчики недр; сабий ауругъанлы анасын излеучю болуб турады заболев, ребёнок стал часто спрашивать о матери",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "излеу",
+     "def": "1) поиск 2) розыск 3) желание",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12782",
+   "word": "изну",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. изми. Изну алып, кенг арбазгъа кирдиле, Ариу халда атларындан тюшдюле. Шахмырзаланы С., Ол ёмюрледе, 42.",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12822",
+   "word": "ийинчге",
+   "tags": "сыф. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. иничге. Халысы ийинчге терк жылтырыр. (Нарт сёз.) ◊ Аны [Ариубатны] къардан эсе акъ огъары жаны ийинчге белчигине аламат жарашады. Залийханланы Ж.",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_12839",
+   "word": "ийис",
+   "tags": "ат.",
+   "def1": "запах",
+   "def2": "1. Запах, вонь 2. В позиции определения: 1) пахнущий 2) вонючий",
+   "misc1": "аман ийис дурной запах; вонь ж; ариу ийис приятный запах; благовоние; ашарыкъ ийис запах еды; дарман ийис запах лекарства; дух ийис запах духов; бу ий",
+   "misc2": "1. Затланы, адамланы эм жаныуарланы бурунлары сезиучю, билиучю ышанлары; жыйы. Хар гокка хансны ийиси башха. (Нарт сёз.) О Къалияр тузлукъну ийиси ада",
+   "current": "mind_and_cognition",
+   "family": []
+  },
+  {
+   "entry_id": "e_12855",
+   "word": "ийискемеклик",
+   "tags": "отвлеч. к ийискерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийиске",
+     "def": "нюхать что; принюхиваться к чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийискет",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдирмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12856",
+   "word": "ийискет",
+   "tags": "понуд. к ийискетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "дарман ийискетирге а) дать понюхать лекарство; б) мед. дать наркоз; ийискетмегенлей джарыргъа оперировать [больного] без наркоза",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийиске",
+     "def": "нюхать что; принюхиваться к чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийискемеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдирмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12857",
+   "word": "ийискетдир",
+   "tags": "понуд. к ийискетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийиске",
+     "def": "нюхать что; принюхиваться к чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийискемеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискет",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдирмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12858",
+   "word": "ийискетдириу",
+   "tags": "и. д. к ийискетдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийиске",
+     "def": "нюхать что; принюхиваться к чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийискемеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискет",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдирмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12859",
+   "word": "ийискетдирмеклик",
+   "tags": "отвлеч. к ийискетдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийиске",
+     "def": "нюхать что; принюхиваться к чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийискемеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискет",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12860",
+   "word": "ийискетмеклик",
+   "tags": "отвлеч. к ийискетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийиске",
+     "def": "нюхать что; принюхиваться к чему",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийискемеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискет",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдир",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдириу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    },
+    {
+     "word": "ийискетдирмеклик",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12864",
+   "word": "ийислендириу",
+   "tags": "и. д. к ийислендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "ийислен",
+     "def": "тухнуть, издавать дурной запах (о продуктах)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендир",
+     "def": "сгноить, испортить (продукты)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендирмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийислениу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийисленмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийисли",
+     "def": "1) пахучий, ароматный 2) вонючий, издающий дурной запах",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12865",
+   "word": "ийислендирмеклик",
+   "tags": "отвлеч. к ийислендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "ийислен",
+     "def": "тухнуть, издавать дурной запах (о продуктах)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендир",
+     "def": "сгноить, испортить (продукты)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендириу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийислениу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийисленмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийисли",
+     "def": "1) пахучий, ароматный 2) вонючий, издающий дурной запах",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12867",
+   "word": "ийисленмеклик",
+   "tags": "отвлеч. к ийисленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "ийислен",
+     "def": "тухнуть, издавать дурной запах (о продуктах)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендир",
+     "def": "сгноить, испортить (продукты)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендириу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийислендирмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийислениу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийисли",
+     "def": "1) пахучий, ароматный 2) вонючий, издающий дурной запах",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12868",
+   "word": "ийисли",
+   "tags": "сыф.",
+   "def1": "1) пахучий, ароматный 2) вонючий, издающий дурной запах",
+   "def2": "1. Вонючий 2. Пахучий",
+   "misc1": "ийисли хансла пахучие травы; ариу ийисли душистый, благовонный; ийисли джау вонючее масло; аман ийисли дурно пахнущий; вонючий",
+   "misc2": "1. Аман ийиси болгъан. Ёрюзмек, Батыр-Мырзагъа къарап: «Да, ол да [къылычны кези] сени ийисли атанг Фукну юсюнде болгъанды», - деди. «Коммунизмге жол»",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "ийислен",
+     "def": "тухнуть, издавать дурной запах (о продуктах)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендир",
+     "def": "сгноить, испортить (продукты)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийислендириу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийислендирмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    },
+    {
+     "word": "ийислениу",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "ийисленмеклик",
+     "def": "",
+     "lextag": "daily_life_and_food",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12871",
+   "word": "ийлемеклик",
+   "tags": "отвлеч. к ийлерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_12882",
+   "word": "ийлетмеклик",
+   "tags": "отвлеч. к ийлетирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ийлет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлетдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлетдирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлетдирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлетдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлетил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12885",
+   "word": "ийлеш2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илеш. Аны [къызны] man, не къадар адам сексе да, анга ол къадар бек ийлешесе. Хубийланы О., Аманат, III, 132. Ал кёзюуде ёзен манга терен уруча кё",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ийлеш1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлеш3",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12886",
+   "word": "ийлеш3",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илеш 2. Тюзю, келинчик ийлешчикди, жууукъ кёллюдю, ариулукъчугъуна да бир сёз жокъду. Хубийланы О., Аманат, III, 87.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ийлеш1",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "ийлеш2",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12889",
+   "word": "ийлыкъ2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ыйлыкъ 2. Къыямыт бу затны [Къанаматны агъач сенек бла уруп аудуруп кетгенин] хапар этерге ийлыгъып къоймаса, Къанамат бюгюн Къобанны сууун ичмез ",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "ийлыкъ1",
+     "def": "2. В позиции определения: позорный, постыдный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12929",
+   "word": "ийнакълы",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ийнакъ. Амма, ийнакълы кюн ташайып, алтын чёплеу баш да салпыланады. «Шохлукъ», 126. Кюн бир башха тюрлю тийгенча бетге, Бир ийнакълы жарыкълыкъ б",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "ийнакъ1",
+     "def": "Гордость, то, чем или кем гордятся",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "ийнакъ2",
+     "def": "ласка, лесть ж",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "ийнакъ3",
+     "def": "Ласково, приветливо",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "ийнакъла",
+     "def": "ласкать кого; быть приветливым, проявлять сердечность к кому (обычно при встрече)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "ийнакълай",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "ийнакъламакълыкъ",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12948",
+   "word": "ийнаннгылы1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. ышаннгылы I (1-чи магъ.). Туманладан, булутладан бийик тутуп башларын, Чакъырадыла Малкъар таула ийнаннгылы жашларын. Гуртуланы Б., Таула чакъы",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийнан1",
+     "def": "1) верить, доверять кому-чему 2) верить в кого, во что",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийнан2",
+     "def": "Показывает уверенность говорящего (обычно употребляется в речи женщин) в достоверности выс",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "ийнандыр",
+     "def": "Уверить",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийнандырмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ийнандырт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ийнандыртыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12949",
+   "word": "ийнаннгылы2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. ышаннгылы II (1-чи магъ.). Жашны хар айтхан сёзю ийнаннгылы эшитиле эди. ▯ [Марзият Алимге] ийнаннгылы къарады. «Шуёхлукъ», № 25, 17.\n2. къ. ыш",
+   "current": "mind_and_cognition",
+   "family": [
+    {
+     "word": "ийнан1",
+     "def": "1) верить, доверять кому-чему 2) верить в кого, во что",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийнан2",
+     "def": "Показывает уверенность говорящего (обычно употребляется в речи женщин) в достоверности выс",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "ийнандыр",
+     "def": "Уверить",
+     "lextag": "mind_and_cognition",
+     "conf": "high"
+    },
+    {
+     "word": "ийнандырмакълыкъ",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ийнандырт",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    },
+    {
+     "word": "ийнандыртыу",
+     "def": "",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_12977",
+   "word": "ийыкъ",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ыйыкъ. Жыйын ийыкъда чалгъанны ала [къызла] капна этедиле. «Ленинни байрагъы», 1972, № 100. Иш къалай баргъаныны сунучу хар ийыкъ сайын этиледи. «",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12981",
+   "word": "илбиже",
+   "tags": "ат.; балк.",
+   "def1": "то же, что либижа",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илибиже. Света, эрлай отну къабындырып, хазыр шорпаны бла илбижени жылытды. Гыттыуланы М., Ачыкъ жюрекле, 129. [Эфенди:] Энди къаны къызыл адакъа ",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_12988",
+   "word": "илгек",
+   "tags": "карач.",
+   "def1": "то же, что илгик",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_13005",
+   "word": "иле",
+   "tags": "эт. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. ийле 1. Къатхан чабырлыкъны, талкъы тилни тюбюне салып, кючлю къолла илеп, жау сюртген чарыкъланы кийди. Воташланы А., Жашауум, 62. 2. къ. ийле",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_13015",
+   "word": "илешиулю",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. илеш 2. Илешиулю адам. Илешиулю сабий.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "илешиу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "илешиусюз",
+     "def": "Неприветливый, необщительный, чёрствый (о человеке)",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13025",
+   "word": "иликич",
+   "tags": "ат. къ. илкич",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. Жаш атын иликичге тагъып, гелляны къучакълады. Толгъурланы З., Эрирей, 115. Бирлени арбазларында - ат тагъылыучу иликич, бирлени уа - мал ызы да жо",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_13047",
+   "word": "илистин",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. мулжар. Къдйчу илистинде жатаргъа эртте юйреннгенди. Чалгъычыла къош этедиле, илистинни жарашдырадыла.",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_13067",
+   "word": "илляу",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. иллеу. Сабий жиляса, аны илляуу Болуп, жапсара, жубатады Темир. Отарланы К., Дуния эрттени, 34. Сюеме сабийле бары тоярын, Китап да, билим да кёп ",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_13122",
+   "word": "инбаш",
+   "tags": "ат.",
+   "def1": "то же, что имбаш",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. имбаш. 1. Васильченко къолун Ахматны инбашына салды да кёзлерине къарады. Этезланы О., Къаяла унутмагъандыла, 19. Алкъын [адамла] толу жыйылмагъан",
+   "current": "human_body",
+   "family": []
+  },
+  {
+   "entry_id": "e_13133",
+   "word": "ингил",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Слабый, хрупкий 2. Нежный, ласковый, проявляющий любовь",
+   "misc1": "",
+   "misc2": "Къатмагъан, жаш. Топал къуйрукълу ингил къозучукъла сютден тоюп чабадыла. «Шуёхлукъ», № 56, 3. Ышарып чыгъады Ингил хансчыкъ мылы жерден. Къозгъалып ч",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "ингилиз1",
+     "def": "Англичане",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "ингилиз2",
+     "def": "английский",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "ингилизли",
+     "def": "англичанин",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "ингилизча",
+     "def": "по-английски",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    },
+    {
+     "word": "ингилизчи",
+     "def": "житель Англии",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "ингилик",
+     "def": "Румянец",
+     "lextag": "human_body",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13149",
+   "word": "ингирлик2",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ушхуур 1. [Смайл жашлагъа:] Бичен ашарыкъ маллагъа ингирлик сала туругъуз. Къоркъмазланы К., Горда бычакъ, 1, 186.",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "ингир",
+     "def": "вечер || вечерний",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "ингирги",
+     "def": "1. вечерний 2. вечернее время",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "ингирде",
+     "def": "вечером",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "ингирли",
+     "def": "весь вечер; в продолжение всего вечера",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "ингирлик1",
+     "def": "вечерний",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "ингирликде",
+     "def": "вечером",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13153",
+   "word": "ингичге2",
+   "tags": "хал. сёзл. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. иничге II (1-чи магъ.). Къызчыкъ карандашны ингичге къыйды.\n2. къ. иничге II (2-чи магъ.). Цауум боюнуна тюшюп баргъан жаулугъун жаякъларына та",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "ингичге1",
+     "def": "1) карач. тонкий 2) высокий (о звуках)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичгер",
+     "def": "1) становиться тонким 2) похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичгериу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгермеклик",
+     "def": "см. ингичгериу",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгерт",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгертиу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13155",
+   "word": "ингичгериу",
+   "tags": "карач. и. д. к ингичгерирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "ауруб ингичгериу истощение от болезни",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ингичге1",
+     "def": "1) карач. тонкий 2) высокий (о звуках)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичге2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгер",
+     "def": "1) становиться тонким 2) похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичгермеклик",
+     "def": "см. ингичгериу",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгерт",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгертиу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13156",
+   "word": "ингичгермеклик",
+   "tags": "карач. отвлеч. к ингичгерирге",
+   "def1": "см. ингичгериу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ингичге1",
+     "def": "1) карач. тонкий 2) высокий (о звуках)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичге2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгер",
+     "def": "1) становиться тонким 2) похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичгериу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгерт",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгертиу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13157",
+   "word": "ингичгерт",
+   "tags": "карач. понуд. к ингичгерирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ингичге1",
+     "def": "1) карач. тонкий 2) высокий (о звуках)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичге2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгер",
+     "def": "1) становиться тонким 2) похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичгериу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгермеклик",
+     "def": "см. ингичгериу",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгертиу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13158",
+   "word": "ингичгертиу",
+   "tags": "карач. и. д. к ингичгертирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "human_body",
+   "family": [
+    {
+     "word": "ингичге1",
+     "def": "1) карач. тонкий 2) высокий (о звуках)",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичге2",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгер",
+     "def": "1) становиться тонким 2) похудеть",
+     "lextag": "human_body",
+     "conf": "medium"
+    },
+    {
+     "word": "ингичгериу",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгермеклик",
+     "def": "см. ингичгериу",
+     "lextag": "human_body",
+     "conf": "low"
+    },
+    {
+     "word": "ингичгерт",
+     "def": "",
+     "lextag": "human_body",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13168",
+   "word": "инджи2",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. инжил 2. Антон, Биймырзаны жумушчусу болуп тургъан айындача, бир заманда да инжимеген эди. Гуртуланы Б., Жангы талисман, 329. Бушууу тынчайтмай жа",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "инджи1",
+     "def": "бисер, жемчуг|| бисерный, жемчужный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "инджи3",
+     "def": "-марджан драгоценности || драгоценный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "инджи4",
+     "def": "то же, что инджилирге",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "инджигенлик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "инджил1",
+     "def": "евангелие",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "инджил2",
+     "def": "1) нуждаться, бедствовать 2) страдать, мучиться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13171",
+   "word": "инджигенлик",
+   "tags": "отвлеч. к инджирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "инджи1",
+     "def": "бисер, жемчуг|| бисерный, жемчужный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "инджи2",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "инджи3",
+     "def": "-марджан драгоценности || драгоценный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "инджи4",
+     "def": "то же, что инджилирге",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "инджил1",
+     "def": "евангелие",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    },
+    {
+     "word": "инджил2",
+     "def": "1) нуждаться, бедствовать 2) страдать, мучиться",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13180",
+   "word": "инджитмеклик",
+   "tags": "отвлеч. к инджитирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "инджи1",
+     "def": "бисер, жемчуг|| бисерный, жемчужный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "инджи2",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "инджи3",
+     "def": "-марджан драгоценности || драгоценный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "инджи4",
+     "def": "то же, что инджилирге",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "инджигенлик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "инджил1",
+     "def": "евангелие",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13181",
+   "word": "инджиу1",
+   "tags": "и. д. от инжи 2",
+   "def1": "1) и. д. к инджирге",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Инжи2 дегенден этим ат. Сууукъдан инжиу. Жюреги бир затдан инжиу. Душманланы артыкълыкъларындан инжиу.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "инджи1",
+     "def": "бисер, жемчуг|| бисерный, жемчужный",
+     "lextag": "universe_and_nature",
+     "conf": "high"
+    },
+    {
+     "word": "инджи2",
+     "def": "",
+     "lextag": "universe_and_nature",
+     "conf": "low"
+    },
+    {
+     "word": "инджи3",
+     "def": "-марджан драгоценности || драгоценный",
+     "lextag": "universe_and_nature",
+     "conf": "medium"
+    },
+    {
+     "word": "инджи4",
+     "def": "то же, что инджилирге",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "инджигенлик",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "low"
+    },
+    {
+     "word": "инджил1",
+     "def": "евангелие",
+     "lextag": "culture_and_spirituality",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13263",
+   "word": "инкъыйлап",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. революция. Темир жолла ётдюрюрбюз Виз бир таудан бир таугъа, Ахырына жетдирирбиз, Инкъыйлап этген саугъа! «Жюрек жырлайды», 52. Сабийликден Алим к",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "инкъыйлапчы",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13264",
+   "word": "инкъыйлапчы",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. революционер. Элтип кёрге салгъанбыз белгили инкъыйлапчыны. Ишчи миллет эм эллиле хар къайда Эсгередиле кёп сый берип бу кюнню. «Жюрек жырлайды», ",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "инкъыйлап",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13294",
+   "word": "интеграл",
+   "tags": "мат.",
+   "def1": "интеграл || интегральный",
+   "def2": "",
+   "misc1": "интеграл тергеу интегральное исчисление",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "интеграция",
+     "def": "интеграция",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "интеграцияла",
+     "def": "1. мат. Интегрировать 2. Объединять что-л. в одно целое",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "интеграциялау",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13326",
+   "word": "интернационал",
+   "tags": "ат.",
+   "def1": "1. (И прописное) Интернационал 2. интернациональный",
+   "def2": "1. Интернационал 2. интернациональный 3. (уллу харф бла) Название международного пролетарского гимна, гимна коммунистических и рабочих партий",
+   "misc1": "Коммунист интернационал ист. Коммунистический Интернационал; «Интернационал» гимн гимн «Интернационал»; интернационал комитет интернациональный комите",
+   "misc2": "Бир къауум атланы къауумуна киреди эм халкъла аралы бирикме (сёз ючюн, организацияланыкъы, партияланыкъы д.а.к.) деген магъананы билдиреди. Коммунист ",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "интервал",
+     "def": "интервал",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "интервент",
+     "def": "интервент || интервентский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "интервенция",
+     "def": "интервенция || интервенционный",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "интервенциялы",
+     "def": "интервенционный; интервенционистский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "интервенциячы",
+     "def": "интервент",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "интервидение",
+     "def": "интервидение",
+     "lextag": "language_and_communication",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13349",
+   "word": "ирагъач",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. ийрагъач. [Мёлехан] кимни эсе да къой терилерин жалгъа алып, ирагъач бла ийлей тура эди. Аппаланы Х., Къара кюбюр, 5. Анам ирагъач бла тери тарта ",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_13356",
+   "word": "ири",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "ири агъач скребок для снятия мездры (при обработке кожи)",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_13371",
+   "word": "ирригацион",
+   "tags": "сыф. къарач. къ. ирригация 2.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Ирригацион система. Орта Азияда ирригацион ишле жетишимли бардырыладыла. «Ленинни байрагъы», 1972, № 97.",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "ирригация",
+     "def": "ирригация || ирригационный",
+     "lextag": "objects_and_technology",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13438",
+   "word": "итиниу2",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. итиниулюк. Эски, чирик жашауну осал тёрелерин тамыры бла къурутургъа поэтни къызыу итиниую болгъанын «Мытыр» деген назмусунда кёребиз. «Шуёхлукъ»,",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "итиниу1",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "итиниулюк",
+     "def": "Стремление, настойчивое влечение, тяготение, устремленность к чему",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "итиниш",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "итинишиу",
+     "def": "",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13450",
+   "word": "итлендириу",
+   "tags": "и. д. к итлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "итлен",
+     "def": "подличать, вести себя подло; вести себя подобострастно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендир",
+     "def": ": кеси кесинги итлендирирге подличать, вести себя подло, подобострастно, совершать подлост",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендирмеклик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итлениу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итленмеклик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13451",
+   "word": "итлендирмеклик",
+   "tags": "отвлеч. к итлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "итлен",
+     "def": "подличать, вести себя подло; вести себя подобострастно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендир",
+     "def": ": кеси кесинги итлендирирге подличать, вести себя подло, подобострастно, совершать подлост",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендириу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итлениу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итленмеклик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13452",
+   "word": "итлениу",
+   "tags": "и. д. к итленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "итлениуюнгю къой! груб. оставь свой подлости!",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "итлен",
+     "def": "подличать, вести себя подло; вести себя подобострастно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендир",
+     "def": ": кеси кесинги итлендирирге подличать, вести себя подло, подобострастно, совершать подлост",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендириу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итлендирмеклик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итленмеклик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13453",
+   "word": "итленмеклик",
+   "tags": "отвлеч. к итленирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "итлен",
+     "def": "подличать, вести себя подло; вести себя подобострастно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендир",
+     "def": ": кеси кесинги итлендирирге подличать, вести себя подло, подобострастно, совершать подлост",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "итлендириу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итлендирмеклик",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "итлениу",
+     "def": "",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13471",
+   "word": "ичгени",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": ичгенинг бармады? ты выпивши?; ичгени бла по пьянке, спьяна; ичгени бла айтырын, айтмазын да айтады спьяна он болтает, что на ум придёт",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_13509",
+   "word": "ичкъоз",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. каштан. Жашчыкъла ичкъозла жыядыла. Налъчикде ёсген ичкъозланы ашаргъа жарамайды.",
+   "current": "living_things",
+   "family": []
+  },
+  {
+   "entry_id": "e_13517",
+   "word": "ичлендирт",
+   "tags": "понуд. к ичлендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "ичлен",
+     "def": "Быть осемененным (искусственно)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендир",
+     "def": "осеменить (искусственно), оплодотворить кого",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "ичлендирил",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендирилиу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендириу",
+     "def": "осеменение, оплодотворение кого",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "ичлендириучю",
+     "def": "осеменатор, техник-осеменатор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13518",
+   "word": "ичлендиртиу",
+   "tags": "и. д. к ичлендиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "ичлен",
+     "def": "Быть осемененным (искусственно)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендир",
+     "def": "осеменить (искусственно), оплодотворить кого",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "ичлендирил",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендирилиу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендириу",
+     "def": "осеменение, оплодотворение кого",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "ичлендириучю",
+     "def": "осеменатор, техник-осеменатор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13519",
+   "word": "ичлендиртмеклик",
+   "tags": "отвлеч. к ичлендиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "ичлен",
+     "def": "Быть осемененным (искусственно)",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендир",
+     "def": "осеменить (искусственно), оплодотворить кого",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "ичлендирил",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендирилиу",
+     "def": "",
+     "lextag": "living_things",
+     "conf": "medium"
+    },
+    {
+     "word": "ичлендириу",
+     "def": "осеменение, оплодотворение кого",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "ичлендириучю",
+     "def": "осеменатор, техник-осеменатор",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13536",
+   "word": "ишкилди",
+   "tags": "ат. къарач.; карач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "къара ишкилди черника; къызыл ишкилди брусника",
+   "misc2": "къ. ишхилди. Чегет ичинде къара ишкилди сыйыннгысызды. Хубийланы О., Аманат, I, 136. Зыгытланы аралары бла бара барсанг, алкъын къатып бошамагъан. ишк",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "ишкил",
+     "def": "Сани из рогатины (для перевозки камней и земли)",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13539",
+   "word": "ишлемеген",
+   "tags": "прич. отриц. от ишлерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "ишлемеген адам бездельник; ишлемеген арымаз, арымагъан джарымаз посл. кто не работает, тот не устанет, кто не устанет, тот не воспрянет; ишлемеген аша",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ишлемеклик",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13540",
+   "word": "ишлемеклик",
+   "tags": "отвлеч. к ишлерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "ишлемеген",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13558",
+   "word": "ишлик",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. шишлик. Жаш ишлик биширеди. Столгъа салат, ишликле, сыра, суула да салындыла.",
+   "current": "economy_and_society",
+   "family": []
+  },
+  {
+   "entry_id": "e_13565",
+   "word": "ишхау",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жонгурчха, юзгеле. Ишхау жокъ салырча отха. Ана буюрду Ахматха: - Бар отун келтир агъачдан, Аша да столда ашдан! Мокъаланы М., Жугъутур мюйюз, 46.",
+   "current": "actions_and_activities",
+   "family": []
+  },
+  {
+   "entry_id": "e_13567",
+   "word": "ишхилди",
+   "tags": "балк.",
+   "def1": "то же, что ишкилди",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "ишхилди къауум",
+     "def": "Брусника, черника",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13602",
+   "word": "кавказ",
+   "tags": "",
+   "def1": "кавказский",
+   "def2": "",
+   "misc1": "кавказ таула Кавказские горы; кавказ тилле кавказские языки; кавказ ашарыкъла кавказские блюда",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кавказлы",
+     "def": "кавказец",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "кавказча",
+     "def": "по-кавказски",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "кавказчы",
+     "def": "кавказец",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "кавказчылыкъ",
+     "def": "",
+     "lextag": "social_relations",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13613",
+   "word": "кадет3",
+   "tags": "уст.",
+   "def1": "бандит",
+   "def2": "",
+   "misc1": "кадетте чыгъаргъа стать бандитом",
+   "misc2": "",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "кадет1",
+     "def": "кадет",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "кадет2",
+     "def": "кадет || кадетский",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "кадетлик",
+     "def": "",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13618",
+   "word": "кадо",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. балас.",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_13620",
+   "word": "кадр2",
+   "tags": "чаще в опред. функции",
+   "def1": "",
+   "def2": "",
+   "misc1": "кадр хазырлау подготовка кадров; кадр ишчиле кадровые работники; кадр аскерле кадровые войска",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "кадр1",
+     "def": "кадр (киноплёнки, фотоплёнки)",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13653",
+   "word": "калиндор",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. коридор. Зулейха Нанашны калиндоргъа чакъырды. Этезланы О., Тарда, 169. Чегемни чанка къызлары калиндорлада эм юй башлада, жокку-жокку болуп, жырл",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_13677",
+   "word": "камис",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. комиссия. Аскерчи жашла ойнай турадыла, Келигиз, къызла, барайыкъ. Камни сюйгени man ойнай эсе, Камис айырып къарайыкъ. «Малкъар халкъ жырла», 233",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_13678",
+   "word": "каммой",
+   "tags": "ат. эск. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. конвой. [Ибрахим Гордашха:] Саппасау бол каммой атлы, дуния сабан сюргенде, атлы болуп нек айланаса? Гуртуланы Б., Жангы талисман, 158.",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_13683",
+   "word": "кампур",
+   "tags": "ат. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гыртгыйныкъ. Ибрахим Биязуркъаны къуршалагъанладан бирини арт жагъасындан сермеп, кампуруна тобугъун тийирип, бияры чартлатды. Гуртуланы Б., Жангы",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_13700",
+   "word": "камыр",
+   "tags": "ат. сёл. тил.; разг.",
+   "def1": "см. камера",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. камера 1. «Бу жолдан арысында тюйюшсегиз барыгъызны да камыргъа жыйдырырма», - деп, Жаныбек жашланы жаныды. Гуртуланы Б., Жангы талисман, 408.",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_13708",
+   "word": "канау",
+   "tags": "ат. сёл. тал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. канал 1. Кече да, кюн да канау къазама, Макъала бла сёлеше, Мен макъаладан сууаплыкъ алгъанма, Ах, жылай-жылай, кёл эте. (Фольк.)",
+   "current": "universe_and_nature",
+   "family": []
+  },
+  {
+   "entry_id": "e_13717",
+   "word": "канитель",
+   "tags": "",
+   "def1": "канитель ж || канитёльный",
+   "def2": "",
+   "misc1": "канитель этерге канителить что; ишни канитель этиб турургъа канителить дело; канитель иш канительное дело",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": []
+  },
+  {
+   "entry_id": "e_13724",
+   "word": "каныуа",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "каныуа тигерге вышивать что; каныуа оюу вышитый узор; каныуа тигиу вышивание; шитьё",
+   "misc2": "",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "каныуалы",
+     "def": "вышитый, шитый чем",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13727",
+   "word": "капек2",
+   "tags": "",
+   "def1": "-капек по копейке, копейками",
+   "def2": "",
+   "misc1": "капек джояргъа экономно тратить (букв. по копейке); капек санаргъа считать каждую копейку",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "капек1",
+     "def": "копейка",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капек3",
+     "def": "-шай гроши, мелочь ж собир.",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "капеклик",
+     "def": "копеечный, -копеечный",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капексиз",
+     "def": "без копейки, без денег || безденежный",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капексизлик",
+     "def": "безденежье",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13734",
+   "word": "капил",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "Мятный",
+   "misc1": "",
+   "misc2": "Дугъума ийисли. Ынна бир-бирде капил кампетлени къаба туруучуду.",
+   "current": "universe_and_nature",
+   "family": [
+    {
+     "word": "капилляр",
+     "def": "капилляр || капиллярный",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13742",
+   "word": "капитальна",
+   "tags": "",
+   "def1": "капитальный",
+   "def2": "",
+   "misc1": "капитальна ремонт капитальный ремонт",
+   "misc2": "",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "капитал1",
+     "def": "1) эк. капитал 2) состояние, накопление, капитал",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капитал2",
+     "def": "капитализму капиталистический",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "капитализм",
+     "def": "капитализм",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капиталист",
+     "def": "капиталист || капиталистический",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капиталлы",
+     "def": "имеющий капитал, владеющий капиталом",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "капиталовложение",
+     "def": "капиталовложение",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13748",
+   "word": "капна",
+   "tags": "ат. къарач.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гебен. Жулдузла кёкню жасагъанча, Сагъытны жыйыныны капналары сыртлагъа келбет саладыла. «Ленинни байрагъы», 1972, № 105. Тиширыуланы жартысы сене",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_13754",
+   "word": "капут",
+   "tags": "шутл.",
+   "def1": "капут; конец, гибель ж",
+   "def2": "",
+   "misc1": "капут болургъа погибнуть; потерпеть неудачу; олсагъатдан капут болду тут ему и капут",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_13849",
+   "word": "катий",
+   "tags": "",
+   "def1": "см. гатий",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_13914",
+   "word": "кебдириучю",
+   "tags": "",
+   "def1": "1.сушильный 2. промокательная бумага; промокашка разг.",
+   "def2": "",
+   "misc1": "кебдириучю аппарат сушильный аппарат",
+   "misc2": "",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "кебдириу",
+     "def": "сушка",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кебдирмеклик",
+     "def": "см. кебдириу",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кебдиртиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13929",
+   "word": "кеблендириу",
+   "tags": "и.д. от кёплендир; и. д. к кеблендирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кёплендир дегенден этим ат. «Къатын алыу, - дегенди А. Шопенгауэр, - кесини эркинлигини жарымын тас этиудю эм кесини боюнунда борчун а эки кере кёплен",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кеблемеклик",
+     "def": "см. кеблеу",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кеблет",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кеблетиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кеблеу",
+     "def": "1) напяливание чего 2) еда с жадностью",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13935",
+   "word": "кебчи2",
+   "tags": "ат. разг.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гяпчи. Чуукан сакъал, къызылкёз, текебаш кепчи, агъач сауутларын шыхырдата, тепсейди. Гуртуланы Б., Жангы талисман, 399.",
+   "current": "economy_and_society",
+   "family": [
+    {
+     "word": "кебчи1",
+     "def": "формовщик",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "кебчи3",
+     "def": "Подсыхать",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13943",
+   "word": "кезиу3",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кезиу-кезиу. Жашлыгъыбыз кетди жаз жолларында, Къууанчны, бушууну да кезиу сынай. Отарланы К., Сынла, 61. Жашла атха кезиу мине барадыла. «Малкъар",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кезиу1",
+     "def": "1. Время, период, пора 2. Период (напр. коллективизации)",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кезиу2",
+     "def": "очередь ж, черёд",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кезиу-кезиу",
+     "def": "Попеременно, поочередно.",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кезиулет",
+     "def": "Чередовать",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кезиулетдир",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кезиулетдириу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_13981",
+   "word": "келемен",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": ": келемени къурумайды (или тохтамайды) он всё обещает прийти (приехать); аны келемени ётюрюк болду он обещал и не пришёл",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_14019",
+   "word": "келишиусюз",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. жарашыусуз. 1. Келишиусюз адам.",
+   "current": "social_relations",
+   "family": [
+    {
+     "word": "келиш1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "келиш2",
+     "def": "1) подходить, быть подходящим, годиться кому 2) договориться, достигнуть соглашения с кем ",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "келишген",
+     "def": "1) прич. от келиширге 2) подходящий 3) уживчивый, сговорчивый",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "келишдир",
+     "def": "1) прилаживать, приспосабливать, подгонять что 2) сравнивать, сопоставлять кого-что 3) увя",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "келишдирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "келишдирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14022",
+   "word": "келишмеклик",
+   "tags": "отвлеч. к келиширге",
+   "def1": "",
+   "def2": "",
+   "misc1": "ишде келишмеклик согласованность в работе",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "келиш1",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "келиш2",
+     "def": "1) подходить, быть подходящим, годиться кому 2) договориться, достигнуть соглашения с кем ",
+     "lextag": "social_relations",
+     "conf": "high"
+    },
+    {
+     "word": "келишген",
+     "def": "1) прич. от келиширге 2) подходящий 3) уживчивый, сговорчивый",
+     "lextag": "social_relations",
+     "conf": "medium"
+    },
+    {
+     "word": "келишдир",
+     "def": "1) прилаживать, приспосабливать, подгонять что 2) сравнивать, сопоставлять кого-что 3) увя",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "келишдирил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "келишдирилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14057",
+   "word": "кеминде",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "эм кеминде минимум; самое малое; эм кеминде эки кюнню барыргъа керекди ехать надо минимум два дня; эм кеминде беш метр керекди нужно минимум пять метр",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_14078",
+   "word": "кемлик",
+   "tags": "ат.",
+   "def1": "1) карач. недостаток 2) балк. нужда, нехватка",
+   "def2": "2. Нужда, бедность, нехватка 3. Порок, предосудительный недостаток кого-л. 4. Недоделка, упущение, изъян",
+   "misc1": "ишде кемликле недостатки в работе; окъууда кемлик пробел в образовании; кемлики болгъан имеющий недостатки; кемлик и болгъан экземпляр дефектный экзем",
+   "misc2": "1. къ. кемчилик. Церслерини кемликлерин кишиден эшитмегени себепли, Адемей директорну кеси иш этил келтиргенди. Хубийланы О., Жукъусуз кечеле, 169. Ки",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "кемли",
+     "def": "едва, как раз, тютелька в тютельку",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "кемликли",
+     "def": "имеющий недостатки (изъяны, дефекты); дефектный",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "кемликсиз",
+     "def": "безупречный, совершённый || безупречно, совершенно",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14079",
+   "word": "кемликли",
+   "tags": "",
+   "def1": "имеющий недостатки (изъяны, дефекты); дефектный",
+   "def2": "",
+   "misc1": "кемликли товар дефектный товар; китабны кемликли экземпляры дефектный экземпляр книги",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "кемли",
+     "def": "едва, как раз, тютелька в тютельку",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "кемлик",
+     "def": "1) карач. недостаток 2) балк. нужда, нехватка",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "кемликсиз",
+     "def": "безупречный, совершённый || безупречно, совершенно",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14080",
+   "word": "кемликсиз",
+   "tags": "",
+   "def1": "безупречный, совершённый || безупречно, совершенно",
+   "def2": "",
+   "misc1": "кемликсиз иш безупречная работа; кемликсиз товар качественный товар; бездефектный товар; кемликсиз продукция джиберирге выпускать полноценную продукци",
+   "misc2": "",
+   "current": "culture_and_spirituality",
+   "family": [
+    {
+     "word": "кемли",
+     "def": "едва, как раз, тютелька в тютельку",
+     "lextag": "logic_and_function_words",
+     "conf": "medium"
+    },
+    {
+     "word": "кемлик",
+     "def": "1) карач. недостаток 2) балк. нужда, нехватка",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    },
+    {
+     "word": "кемликли",
+     "def": "имеющий недостатки (изъяны, дефекты); дефектный",
+     "lextag": "culture_and_spirituality",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14089",
+   "word": "кемчилик",
+   "tags": "ат.",
+   "def1": "то же, что кемлик",
+   "def2": "Недостаток, какое-л. несовершенство, какой-л. недочёт",
+   "misc1": "(ги); ишде кемликле недостатки в работе",
+   "misc2": "Биреуде неда бир затда тапсызлыкъ, адам жаратмагъан зат. Къатынынгы кемчилигин къайын анасы иги биледи. (Нарт сёз.) ◊ Болмаз элде бир адам Анга [Домал",
+   "current": "culture_and_spirituality",
+   "family": []
+  },
+  {
+   "entry_id": "e_14101",
+   "word": "кенгдириш",
+   "tags": "взаимн.-возвр. к кенгдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "бири биринге кёл кенгдириширге позлорадствовать друг над другом",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кенгде",
+     "def": "1) вдали; далеко 2) подальше",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгден",
+     "def": "издали, издалека",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгдир",
+     "def": "кёл кенгдирирге а) отвести (облегчить) душу; б) злорадствовать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгдириу",
+     "def": "кёл кенгдириу а) облегчение души чем; б) злорадствование",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгдиришиу",
+     "def": "кёл кенгдиришиу злорадствование друг над другом",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "кенгдирт",
+     "def": "1) понуд. к кенгдирирге 2) тоже, что кенгдирирге",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14105",
+   "word": "кенгдиртмеклик",
+   "tags": "отвлеч. к кенгдиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кенгде",
+     "def": "1) вдали; далеко 2) подальше",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгден",
+     "def": "издали, издалека",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгдир",
+     "def": "кёл кенгдирирге а) отвести (облегчить) душу; б) злорадствовать",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгдириу",
+     "def": "кёл кенгдириу а) облегчение души чем; б) злорадствование",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгдириш",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "кенгдиришиу",
+     "def": "кёл кенгдиришиу злорадствование друг над другом",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14106",
+   "word": "кенге",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "кёлюнг кенгерге а) отвести душу; б) позлорадствовать; ох, кёлюнг бир кенгди ох, какты позлорадствовал",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кенгер",
+     "def": "1) в разн. знач. расширяться 2) перен. развёртываться, шириться 3) образовываться - о щеля",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгерген",
+     "def": "1. 1) прич. от кенгерирге; 2) расширенный 2. кенгергени 1) расширение 2) образование щелей",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгерил",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгерилиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгерилт",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "кенгерилтиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14136",
+   "word": "кенги",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кенглик 3. Къыйырсызды, жоллача, мурат, Сыйынмаз кибик кёкню кенгине. Хубийланы О., Мурат, 8. Танг къангкъазы жюзеди кенгинде кёлню, къанат тамычы",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кенгине",
+     "def": "1) вширь; в ширину 2) поперёк",
+     "lextag": "space_and_time",
+     "conf": "high"
+    },
+    {
+     "word": "кенгиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14141",
+   "word": "кенглен",
+   "tags": "эт. сёл. тил.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "1. къ. кенгер 1. Барси затлача, хауа да жылыннганда кенгленнген, сууугъанда уа къысылгъан этеди. «Естествознание», 60.\n2. къ. кенгер 3. Тыш къыралла б",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кенглик",
+     "def": "1) ширина 2) простор, ширь ж; раздолье",
+     "lextag": "space_and_time",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14148",
+   "word": "кендираш",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. кендир. Кендирашлача субай ёсген къара агъачны ичинде къаракёкен тёрекге ким къарайды. Хочуланы С., Хапарла, 74. Районну мюлклеринде тарыны, къудо",
+   "current": "living_things",
+   "family": [
+    {
+     "word": "кендир",
+     "def": "конопля || конопляный",
+     "lextag": "living_things",
+     "conf": "high"
+    },
+    {
+     "word": "кендирчи",
+     "def": "тот, кто выращивает или обрабатывает коноплю",
+     "lextag": "economy_and_society",
+     "conf": "high"
+    },
+    {
+     "word": "кендирчилик",
+     "def": "1) отвлеч. к кендирчи 2) выращивание (обработка) конопли",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14151",
+   "word": "кенеу",
+   "tags": "",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кенеу эт бош тил къ. кекир. - Оллахий, мындан бир ичген къуруда кенеу этгенлей турлукъду,- деп, Ибрагим бозаны махтайды. Гуртуланы Б., Жангы талисман,",
+   "current": "space_and_time",
+   "family": []
+  },
+  {
+   "entry_id": "e_14174",
+   "word": "кеппай",
+   "tags": "ат. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гяпчи. Къызла тойда кеппай бла тепседиле.",
+   "current": "daily_life_and_food",
+   "family": []
+  },
+  {
+   "entry_id": "e_14180",
+   "word": "кепчиу",
+   "tags": "и.д. от кепчи 3",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кепчи 3 дегенден этим ат. Кюнде кепчиу. Дырынны кепчиую. Жерни кепчиую.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кепчит",
+     "def": "Подсушивать",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    },
+    {
+     "word": "кепчитиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14208",
+   "word": "керексизине",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. керексиз II (1-чи магъ.). Ол [киштик] керексизине макъырып, кесине урушдуручуладан тюйюлдю. Тёппеланы С., Жаралы зурнук, 20.",
+   "current": "logic_and_function_words",
+   "family": [
+    {
+     "word": "керек1",
+     "def": "1) инструмент 2) набор, комплект",
+     "lextag": "objects_and_technology",
+     "conf": "high"
+    },
+    {
+     "word": "керек2",
+     "def": "нужда, надобность, необходимость",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "керек3",
+     "def": "нужный, необходимый",
+     "lextag": "emotions_and_will",
+     "conf": "medium"
+    },
+    {
+     "word": "керек4",
+     "def": "нужно, необходимо",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кереке",
+     "def": "Доля женщины при разделении наследства отца",
+     "lextag": "economy_and_society",
+     "conf": "medium"
+    },
+    {
+     "word": "керекли",
+     "def": "1.1) нужный, необходимый || нужда, потребность 2) полоумный, дурак",
+     "lextag": "mind_and_cognition",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14213",
+   "word": "керелемеклик",
+   "tags": "отвлеч. к керелерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кереле",
+     "def": "1) мат. умножать, множить что 2) увеличивать, умножать что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелен",
+     "def": "1) мат. умножаться 2) увеличиваться; множиться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендир",
+     "def": "см. керелерге",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендирил",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендирилиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендириу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14221",
+   "word": "кереленмеклик",
+   "tags": "отвлеч. к кереленирге",
+   "def1": "см. керелениу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "space_and_time",
+   "family": [
+    {
+     "word": "кереле",
+     "def": "1) мат. умножать, множить что 2) увеличивать, умножать что",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелемеклик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "low"
+    },
+    {
+     "word": "керелен",
+     "def": "1) мат. умножаться 2) увеличиваться; множиться",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендир",
+     "def": "см. керелерге",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендирил",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керелендирилиу",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14230",
+   "word": "керилген",
+   "tags": "",
+   "def1": "1. прич. от керилирге 2.... керилгени а) расширение; расщелина; отверстие; б) раствор (напр. циркуля)",
+   "def2": "",
+   "misc1": "керилген пол пол с расщелинами; полну керилгени расщелина в полу; эшикни керилгени щель в двери; къыптыны керилгени раствор ножниц",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керил",
+     "def": "1) раздаться в ширину; растянуться 2) размахиваться 3) потянуться 4) распахнуться (о двери",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилмеклик",
+     "def": "см. керилиу",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14235",
+   "word": "керилмеклик",
+   "tags": "отвлеч. к керилирге",
+   "def1": "см. керилиу",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керил",
+     "def": "1) раздаться в ширину; растянуться 2) размахиваться 3) потянуться 4) распахнуться (о двери",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилген",
+     "def": "1. прич. от керилирге 2.... керилгени а) расширение; расщелина; отверстие; б) раствор (нап",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керилик",
+     "def": "",
+     "lextag": "space_and_time",
+     "conf": "medium"
+    },
+    {
+     "word": "керилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилиш",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "керилишиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14240",
+   "word": "керим",
+   "tags": "парн. к азим-",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "logic_and_function_words",
+   "family": []
+  },
+  {
+   "entry_id": "e_14244",
+   "word": "керкдир",
+   "tags": "понуд. к керкерге",
+   "def1": "",
+   "def2": "",
+   "misc1": "бычакъ бла керкдирирге заставить кого сделать зарубку ножом",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керкдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдирт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдиртиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14245",
+   "word": "керкдириу",
+   "tags": "и. д. к керкдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керкдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдирт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдиртиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14246",
+   "word": "керкдирт",
+   "tags": "понуд. к керкдирирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керкдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдиртиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14247",
+   "word": "керкдиртиу",
+   "tags": "и. д. к керкдиртирге",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керкдир",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдириу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    },
+    {
+     "word": "керкдирт",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14266",
+   "word": "кермен",
+   "tags": "ат. эск.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. шахар.",
+   "current": "objects_and_technology",
+   "family": [
+    {
+     "word": "керме",
+     "def": ": керме къашла брови вразлёт",
+     "lextag": "human_body",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14288",
+   "word": "кертикле",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. керт. Мен а [Уучу] ол кертиклеген бутагъымдан ёргеракъгъа миндим да, къамамы да чыгъарып, тауушсуз болуп, сакълап турдум. Тёппеланы С., Уучу Зауур",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керти1",
+     "def": "1. правда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти2",
+     "def": "1) правдивый; правильный 2) действительный, настоящий 3) филос. объективный; реальный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти3",
+     "def": "правдиво; правильно; действительно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиди",
+     "def": "Правда, верно",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кертик",
+     "def": "1. Зарубка, засечка, насечка, нарезка, узор (по металлу), надрез, метка 2. Уступ (скалы, с",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиклен",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14289",
+   "word": "кертиклен",
+   "tags": "эт. страд. от кертикле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кертикле дегенни зорлаучу айырмасы. Сюрюучюню таягъы ортасына дери кертикленипди.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керти1",
+     "def": "1. правда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти2",
+     "def": "1) правдивый; правильный 2) действительный, настоящий 3) филос. объективный; реальный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти3",
+     "def": "правдиво; правильно; действительно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиди",
+     "def": "Правда, верно",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кертик",
+     "def": "1. Зарубка, засечка, насечка, нарезка, узор (по металлу), надрез, метка 2. Уступ (скалы, с",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кертикле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14290",
+   "word": "кертиклениу",
+   "tags": "и. д. от кертиклен",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кертиклен дегенден этим ат. Агъачны кертиклениую.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керти1",
+     "def": "1. правда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти2",
+     "def": "1) правдивый; правильный 2) действительный, настоящий 3) филос. объективный; реальный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти3",
+     "def": "правдиво; правильно; действительно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиди",
+     "def": "Правда, верно",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кертик",
+     "def": "1. Зарубка, засечка, насечка, нарезка, узор (по металлу), надрез, метка 2. Уступ (скалы, с",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кертикле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14291",
+   "word": "кертиклет",
+   "tags": "эт. понуд. от кертикле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кертикле дегенни къатланыучу айырмасы. Ташны кертиклет. Таякъны кертиклет.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керти1",
+     "def": "1. правда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти2",
+     "def": "1) правдивый; правильный 2) действительный, настоящий 3) филос. объективный; реальный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти3",
+     "def": "правдиво; правильно; действительно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиди",
+     "def": "Правда, верно",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кертик",
+     "def": "1. Зарубка, засечка, насечка, нарезка, узор (по металлу), надрез, метка 2. Уступ (скалы, с",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кертикле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14292",
+   "word": "кертиклетиу",
+   "tags": "и. д. от кертиклет",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кертиклет дегенден этим ат. Таякъны кертиклетиу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керти1",
+     "def": "1. правда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти2",
+     "def": "1) правдивый; правильный 2) действительный, настоящий 3) филос. объективный; реальный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти3",
+     "def": "правдиво; правильно; действительно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиди",
+     "def": "Правда, верно",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кертик",
+     "def": "1. Зарубка, засечка, насечка, нарезка, узор (по металлу), надрез, метка 2. Уступ (скалы, с",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кертикле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14293",
+   "word": "кертиклеу",
+   "tags": "и. д. от кертикле",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "Кертикле дегенден этим ат. Таякъны кертиклеу.",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "керти1",
+     "def": "1. правда",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти2",
+     "def": "1) правдивый; правильный 2) действительный, настоящий 3) филос. объективный; реальный",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "керти3",
+     "def": "правдиво; правильно; действительно",
+     "lextag": "culture_and_spirituality",
+     "conf": "medium"
+    },
+    {
+     "word": "кертиди",
+     "def": "Правда, верно",
+     "lextag": "logic_and_function_words",
+     "conf": "high"
+    },
+    {
+     "word": "кертик",
+     "def": "1. Зарубка, засечка, насечка, нарезка, узор (по металлу), надрез, метка 2. Уступ (скалы, с",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кертикле",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "low"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14346",
+   "word": "кеселке",
+   "tags": "ц. диал.",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "къ. гургун. Эски хуналада кеселкеле кёп боладыла.",
+   "current": "daily_life_and_food",
+   "family": [
+    {
+     "word": "кеселекке",
+     "def": "ящерица",
+     "lextag": "living_things",
+     "conf": "high"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14354",
+   "word": "кесилик",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "",
+   "misc1": "кесилики бла по-свойски; кесиликим бла айтама я говорю тебе по-свойски",
+   "misc2": "Кеси аллыналыкъ 1, 2 (къ. кеси). Кесилиги болгъан таукел тиширыу — ол Арсении къалай сюйгенди? Тёппеланы А., Сени жарыгъынг, 14. ▯ Кесилик бла по-свой",
+   "current": "actions_and_activities",
+   "family": [
+    {
+     "word": "кесил",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    },
+    {
+     "word": "кесилиу",
+     "def": "",
+     "lextag": "actions_and_activities",
+     "conf": "medium"
+    }
+   ]
+  },
+  {
+   "entry_id": "e_14357",
+   "word": "кесимлик",
+   "tags": "ат. къарач. къ. кесимчилик",
+   "def1": "",
+   "def2": "",
+   "misc1": "",
+   "misc2": "[Устаз:] Аланы [сабийлени] ангыларында алыкъын «кесимлик» асыры кючлюдю, кеслерин асыры оздуруп бек сюедиле. Сылпагъарланы К., Кёмеуюл, 43.",
+   "current": "emotions_and_will",
+   "family": [
+    {
+     "word": "кесим",
+     "def": "Отрезанный кусок (напр. арбуза, дыни, ломтик)",
+     "lextag": "daily_life_and_food",
+     "conf": "medium"
+    },
+    {
+     "word": "кесимчи",
+     "def": "Эгоист",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    },
+    {
+     "word": "кесимчилик",
+     "def": "Эгоизм, себялюбие",
+     "lextag": "emotions_and_will",
+     "conf": "high"
+    }
+   ]
+  }
+ ]
+}

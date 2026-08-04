@@ -1,0 +1,504 @@
+{
+ "items": [
+  {
+   "entry_id": "e_00026",
+   "word": "jабышмакълыкъ1",
+   "tags": "ат.; отвлеч. к джабышмакъ II",
+   "def1": "липкость, клейкость, вязкость",
+   "def2": "Липкость, клейкость, вязкость",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_00170",
+   "word": "jалан2",
+   "tags": "сыф.",
+   "def1": "1. в разн. знач. голый 2. налегке, раздетым, голым",
+   "def2": "1. Голый, обнаженный, нагой 2. Легко одетый 3. Голый (о местности) 4. Ничем не покрытый 5. кёч. Одинокий (о человеке)",
+   "current": "daily_life_and_food",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_00174",
+   "word": "jаланла",
+   "tags": "эт.",
+   "def1": "раздеваться; обнажаться тж. перен.",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_00176",
+   "word": "jаланлат1",
+   "tags": "эт. понуд. от жаланла",
+   "def1": "раздевать кого: обнажать кого-что тж. перен.",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_00177",
+   "word": "jаланлат2",
+   "tags": "взаимн. к джаланларгъа",
+   "def1": "раздеваться (о многих); обнажаться тж. перен.",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_00179",
+   "word": "jаланлау",
+   "tags": "и. д. от жаланла; и. д. к джаланларгъа",
+   "def1": "раздевание, обнажение",
+   "def2": "",
+   "current": "actions_and_activities",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_00181",
+   "word": "jаланлыкъ",
+   "tags": "ат.; отвлеч. к джалан",
+   "def1": "",
+   "def2": "1. Нагота 2. Отсутствие растительности (о местности)",
+   "current": "logic_and_function_words",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_00182",
+   "word": "jаланнгач1",
+   "tags": "сыф.",
+   "def1": "раздетый; плохо одетый; раздетый и разутый",
+   "def2": "1. Оборванный (о человеке) 2. кёч. Бедный, неимущий",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_00865",
+   "word": "jохарлыкъ",
+   "tags": "ат.; отвлеч. к джохар",
+   "def1": "",
+   "def2": "1. Шершавость, шероховатость 2. Рябизна 3. къарач. Мягкость, шелковистость",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_01299",
+   "word": "jюрюк",
+   "tags": "сыф. къарач.; карач.",
+   "def1": "1) хороший ходок, человек, быстрый в ходьбе 2) иноходец",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_01682",
+   "word": "адамыча",
+   "tags": "хал. сёзл.",
+   "def1": "1) как следует, основательно, хорошенько; изрядно 2) как следует, сильно, крепко",
+   "def2": "1. Как следует, основательно, хорошенько 2. Сильно, крепко, как следует",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_02290",
+   "word": "айырмачы",
+   "tags": "ат. къарач.",
+   "def1": "отличник",
+   "def2": "Отличник (напр., производства)",
+   "current": "social_relations",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_02340",
+   "word": "айыутырнакъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Вид дерева с мягкой корой",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_02626",
+   "word": "аламатсын",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "Считать кого, что-л. прекрасным",
+   "current": "mind_and_cognition",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_03115",
+   "word": "амансын",
+   "tags": "эт.",
+   "def1": "считать кого-что плохим, принимать что за плохое",
+   "def2": "Считать кого-что плохим, принимать за плохое",
+   "current": "mind_and_cognition",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_03118",
+   "word": "амантий",
+   "tags": "ласк.",
+   "def1": "плохонький мой!",
+   "def2": "",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_04036",
+   "word": "ат5",
+   "tags": "",
+   "def1": "-бет дурная слава",
+   "def2": "",
+   "current": "language_and_communication",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_04240",
+   "word": "ауазлы",
+   "tags": "",
+   "def1": "1) имеющий хороший голос, одарённый, наделённый хорошим голосом 2) лингв. звуковой, звучный",
+   "def2": "",
+   "current": "language_and_communication",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_04382",
+   "word": "ауурлан",
+   "tags": "эт.",
+   "def1": "1) объедаться, переедать 2) плохо себя чувствовать",
+   "def2": "1. Тяжелеть 2. кёч. Объедаться, переедать",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_04389",
+   "word": "ауурланыу",
+   "tags": "и. д. к ауурланыргъа",
+   "def1": "плохое самочувствие; чувство тяжести (от переедания)",
+   "def2": "",
+   "current": "human_body",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_04467",
+   "word": "ахлау",
+   "tags": "",
+   "def1": ": ахлауу тюшюб турады у него плохое настроение, он разочарован",
+   "def2": "",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_04493",
+   "word": "ахтигер",
+   "tags": "",
+   "def1": "балаган уст., укрытие; трущоба (плохое жилище)",
+   "def2": "",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_05138",
+   "word": "базыныулу1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "Уверенный, решительный, смелый, твёрдый",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_05139",
+   "word": "базыныулу2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Уверенно, решительно, смело, твёрдо",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_05140",
+   "word": "базыныулукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Уверенность, решительность, смелость, твёрдость",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_05720",
+   "word": "башха1",
+   "tags": "сыф.",
+   "def1": "1. 1) другой; иной; прочий 2) другой, особый, отличный, необычный; разный 3) обособленный; отдельный 4) чужой, инородный",
+   "def2": "1. Другой, иной 2. Разный, неодинаковый, несходный в чем",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_05746",
+   "word": "баям1",
+   "tags": "сыф.",
+   "def1": "1.явный, открытый, известный 2. карач. дурная слава, позор; бесчестье",
+   "def2": "2. Точный, действительный, достоверный",
+   "current": "mind_and_cognition",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_05826",
+   "word": "бегиулю",
+   "tags": "",
+   "def1": "твёрдый, прочный, устойчивый",
+   "def2": "",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_05827",
+   "word": "бегиулюлюк",
+   "tags": "отвлеч. к бегиулю",
+   "def1": "твёрдость, прочность, устойчивость",
+   "def2": "",
+   "current": "objects_and_technology",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_05945",
+   "word": "беклеу3",
+   "tags": "и. д. от бекле3; ат.",
+   "def1": "",
+   "def2": "Прочность, твёрдость, крепость чего",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_05948",
+   "word": "беклик",
+   "tags": "отвлеч. к бек",
+   "def1": "твёрдость, прочность; мощь, ж, незыблемость, непоколебимость",
+   "def2": "",
+   "current": "social_relations",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_06102",
+   "word": "берчлен",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "Твердеть, образоваться (о мозоли)",
+   "current": "human_body",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_06166",
+   "word": "беш",
+   "tags": "санчы сан.",
+   "def1": "1) пять 2) шк. пятёрка, отлично",
+   "def2": "1. Пять 2. Пятёрка (отметка)",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_06380",
+   "word": "биринчи",
+   "tags": "тизг. сан.",
+   "def1": "1) первый 2) первосортный; отличный; хороший 3) первый, ранний",
+   "def2": "1. Первый 2. кёч. Лучший из всех в каком-л. отношении, отличный 3. Передовой",
+   "current": "logic_and_function_words",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_06598",
+   "word": "богъаууз",
+   "tags": "сыф. эриши сёз.",
+   "def1": "",
+   "def2": "Сквернослов",
+   "current": "language_and_communication",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_06599",
+   "word": "богъауузлукъ",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Сквернословие",
+   "current": "language_and_communication",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_06877",
+   "word": "бостулан",
+   "tags": "эт. ц. диал.",
+   "def1": "",
+   "def2": "Дуться, насупиться, хмуриться, иметь плохое настроение",
+   "current": "emotions_and_will",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_06897",
+   "word": "бошай",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "1. Слабеть, стать менее тугим, упругим, натянутым 2. Слабеть, стать физически слабым",
+   "current": "actions_and_activities",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_07139",
+   "word": "бузулгъан",
+   "tags": "",
+   "def1": "1. 1) прич. от бузулургъа 2) неисправный; пришедший в негодность; вышедший из строя 3) перен. испорченный; распущенный 2.... бузулгъаны неисправность, поломка; порча",
+   "def2": "",
+   "current": "objects_and_technology",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_07263",
+   "word": "бурду",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "Вид мягкой травы",
+   "current": "living_things",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_07593",
+   "word": "бырнаксын",
+   "tags": "эт.",
+   "def1": "",
+   "def2": "Считать кого-что отчужденным, негодным",
+   "current": "social_relations",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_07650",
+   "word": "бюгюлюучю",
+   "tags": "",
+   "def1": "гибкий, упругий, эластичный",
+   "def2": "",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_07779",
+   "word": "бёкем1",
+   "tags": "сыф.",
+   "def1": "",
+   "def2": "1. Крепкий, коренастый, здоровый, сильный 2. Крепкий, твёрдый, прочный",
+   "current": "human_body",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_07780",
+   "word": "бёкем2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Крепко, твердо, прочно",
+   "current": "space_and_time",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_07781",
+   "word": "бёкемлик",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "1. Крепость, наличие силы, здоровья 2. Прочность, твердость, крепость",
+   "current": "human_body",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_08438",
+   "word": "гемха",
+   "tags": "ат.",
+   "def1": "",
+   "def2": "1. Сорт дорогих шелков 2. В позиции определения: хороший, отличного качества (о чём-л.)",
+   "current": "daily_life_and_food",
+   "policy": "P3",
+   "target": "culture_and_spirituality"
+  },
+  {
+   "entry_id": "e_08622",
+   "word": "гиртчи2",
+   "tags": "хал. сёзл.",
+   "def1": "",
+   "def2": "Твердо, устойчиво, прочно",
+   "current": "emotions_and_will",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_08679",
+   "word": "гол",
+   "tags": "ат. спорт.",
+   "def1": "гол",
+   "def2": "Гол",
+   "current": "culture_and_spirituality",
+   "policy": "P1",
+   "target": "human_body"
+  },
+  {
+   "entry_id": "e_09170",
+   "word": "гымыхсакъал",
+   "tags": "сыф. сёл. тил.",
+   "def1": "",
+   "def2": "С коротко или гладко остриженной бородой (о человеке)",
+   "current": "human_body",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  },
+  {
+   "entry_id": "e_09220",
+   "word": "гыртчы",
+   "tags": "сыф. къарач.",
+   "def1": "1) карач. сырой, недоваренный 2) жилистый; упругий 3) суровый",
+   "def2": "1. къ. гиртчи I (1-чи магъ.). 2. Терпеливый, выносливый 3. Недоваренный, сырой",
+   "current": "daily_life_and_food",
+   "policy": "P2",
+   "target": "universe_and_nature"
+  }
+ ]
+}
