@@ -1,0 +1,240 @@
+{"groups": [
+ {
+  "match_id": "m_09542",
+  "entries": [
+   {
+    "word_base": "тартындырмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к тартындырыргъа I",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24945],
+    "src2": [],
+    "word1_orig": "тартындырмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тартындырмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к тартындырыргъа I",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24946],
+    "src2": [],
+    "word1_orig": "тартындырмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair", "needs_review"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09543",
+  "entries": [
+   {
+    "word_base": "тартынмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к тартыныргъа I",
+    "def1": "застенчивость, стеснительность, стыдливость",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24950],
+    "src2": [],
+    "word1_orig": "тартынмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тартынмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к тартыныргъа II",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24951],
+    "src2": [],
+    "word1_orig": "тартынмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09586",
+  "entries": [
+   {
+    "word_base": "таукеллет",
+    "dict_id": "1",
+    "tags": "понуд. к таукеллерге",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [25081],
+    "src2": [],
+    "word1_orig": "таукеллетирге",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "таукеллет",
+    "dict_id": "1",
+    "tags": "взаимн.-возвр.",
+    "def1": "смелеть, решаться, отваживаться (о многих)",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [25085],
+    "src2": [],
+    "word1_orig": "таукеллетирге",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09811",
+  "entries": [
+   {
+    "word_base": "терслет",
+    "dict_id": "1",
+    "tags": "понуд. к терслерге",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [25645],
+    "src2": [],
+    "word1_orig": "терслетирге",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "терслет",
+    "dict_id": "1",
+    "tags": "взаимн.-возвр. к терслерге",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [25649],
+    "src2": [],
+    "word1_orig": "терслетирге",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09920",
+  "entries": [
+   {
+    "word_base": "тип",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "тип",
+    "def2": "",
+    "misc1": "тип этерге типизировать; тип этиу типизация; литературада тип этиуню амаллары приёмы типизации в литературе",
+    "misc2": "",
+    "src1": [26100],
+    "src2": [],
+    "word1_orig": "тип",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тип",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "цып-цып-цып!",
+    "def2": "",
+    "misc1": "тип-тип-тип!",
+    "misc2": "",
+    "src1": [26101],
+    "src2": [],
+    "word1_orig": "тип",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тип",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "-тик очень крутой",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [26109],
+    "src2": [],
+    "word1_orig": "тип",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 93,
+    "flags": ["no_d2_pair", "needs_review"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09981",
+  "entries": [
+   {
+    "word_base": "тобалакъ",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "",
+    "def2": "",
+    "misc1": "тойну ашы - тобалакъ погов. пища свадьбы - веселье",
+    "misc2": "",
+    "src1": [26246],
+    "src2": [],
+    "word1_orig": "тобалакъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тобалакъ",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "-кёзбау1) обман зрения 2) показуха",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [26247],
+    "src2": [],
+    "word1_orig": "тобалакъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair", "needs_review"]
+   }
+  ]
+ }
+]}

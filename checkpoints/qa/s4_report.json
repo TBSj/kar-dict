@@ -1,10 +1,10 @@
 {
-  "entries": 1404,
+  "entries": 39702,
   "dict_id": {
-    "both": 607,
-    "2": 353,
-    "1": 444
+    "both": 16186,
+    "2": 9802,
+    "1": 13714
   },
-  "homonym_words": 110,
+  "homonym_words": 2384,
   "missing_llm_outputs": []
 }

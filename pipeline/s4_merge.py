@@ -73,12 +73,13 @@ def prepare():
             row["word_final"] = items[0]["word_final"] if items else (row.get("d2_word") or "").lower()
         e1s = [(it, e) for it in items for e in d1.get(it["word"], [])]
         e2s = d2.get(row["d2_word"], []) if row["d2_word"] else []
-        if len(e1s) <= 1 and len(e2s) <= 1:
+        if len(e1s) <= 1 and len(e2s) <= 1 and not row.get("note"):
             it_e = e1s[0] if e1s else None
             r = dict(row, word_final=it_e[0]["word_final"] if it_e else row["word_final"])
             simple.append(mk_simple(r, it_e[1] if it_e else None, e2s[0] if e2s else None))
         else:
             complex_groups.append({
+                **({"note": row["note"]} if row.get("note") else {}),
                 "match_id": row["match_id"], "word_final": row["word_final"],
                 "word_base_map": {it["word"]: it["word_final"] for it in items} | {"_d2only": row["word_final"]},
                 "d1": [{"seqid": e["seqid"], "d1_word": it["word"], "word_base": it["word_final"],

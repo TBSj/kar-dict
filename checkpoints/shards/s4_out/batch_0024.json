@@ -1,0 +1,208 @@
+{"groups": [
+ {
+  "match_id": "m_08478",
+  "entries": [
+   {
+    "word_base": "саппа",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "чуткий-пречуткий, очень чуткий, настороженный || чутко-пречутко, настороженно",
+    "def2": "",
+    "misc1": "-сакъ",
+    "misc2": "",
+    "src1": [22188],
+    "src2": [],
+    "word1_orig": "саппа",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "саппа",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "-сары жёлтый-прежёлтый",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [22189],
+    "src2": [],
+    "word1_orig": "саппа",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "саппа",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "1) совершенно здоровый (не больной) 2) совсем целый (не разбитый и т. п.) 3) целый, нетронутый, неначатый",
+    "def2": "",
+    "misc1": "-сау",
+    "misc2": "",
+    "src1": [22190],
+    "src2": [],
+    "word1_orig": "саппа",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 93,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_08689",
+  "entries": [
+   {
+    "word_base": "серметдирмеклик",
+    "dict_id": "1",
+    "tags": "отвлеч. к серметдирирге",
+    "def1": "подстрекательство на столкновение, драку или ссору",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [22713, 22720],
+    "src2": [],
+    "word1_orig": "серметдирмеклик",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_08804",
+  "entries": [
+   {
+    "word_base": "сокъмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к согъаргъа I, II, III",
+    "def1": "",
+    "def2": "",
+    "misc1": ", II, Ш",
+    "misc2": "",
+    "src1": [23150],
+    "src2": [],
+    "word1_orig": "сокъмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "сокъмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к сокъмакъ",
+    "def1": "",
+    "def2": "",
+    "misc1": "V(-гъы)",
+    "misc2": "",
+    "src1": [23151],
+    "src2": [],
+    "word1_orig": "сокъмакълыкъ",
+    "word2_orig": "",
+    "decl": "гъы",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_08815",
+  "entries": [
+   {
+    "word_base": "солуучу",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "дыхательный",
+    "def2": "",
+    "misc1": "солуучу органла дыхательные органы",
+    "misc2": "",
+    "src1": [23195],
+    "src2": [],
+    "word1_orig": "солуучу",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "солуучу",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "отдыхающий, турист",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [23196],
+    "src2": [],
+    "word1_orig": "солуучу",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_08817",
+  "entries": [
+   {
+    "word_base": "сомсуз",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "безденежный; без копейки [за душой]",
+    "def2": "",
+    "misc1": "-шайсыз; сомсуз болургъа остаться без денег (без рубля)",
+    "misc2": "",
+    "src1": [23204, 23206],
+    "src2": [],
+    "word1_orig": "сомсуз",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair", "needs_review"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_08822",
+  "entries": [
+   {
+    "word_base": "сопалатдырыу",
+    "dict_id": "1",
+    "tags": "и. д. к сопалатдырыргъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [23219],
+    "src2": [],
+    "word1_orig": "сопалатдырыу",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "сопалатдырыу",
+    "dict_id": "1",
+    "tags": "и. д. к сопалашдырыргъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [23224],
+    "src2": [],
+    "word1_orig": "сопалатдырыу",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair", "needs_review"]
+   }
+  ]
+ }
+]}

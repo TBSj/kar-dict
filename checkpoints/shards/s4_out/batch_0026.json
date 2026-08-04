@@ -1,0 +1,224 @@
+{"groups": [
+ {
+  "match_id": "m_09257",
+  "entries": [
+   {
+    "word_base": "сёгюлмеклик",
+    "dict_id": "1",
+    "tags": "отвлеч. к сёполюрге I",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [22758],
+    "src2": [],
+    "word1_orig": "сёгюлмеклик",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "сёгюлмеклик",
+    "dict_id": "1",
+    "tags": "отвлеч. к сёгюлюрге II",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [22759],
+    "src2": [],
+    "word1_orig": "сёгюлмеклик",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09268",
+  "entries": [
+   {
+    "word_base": "сёкмеклик",
+    "dict_id": "1",
+    "tags": "отвлеч. к сёгерге I",
+    "def1": "распарывание (чего-л. по шву)",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [22802],
+    "src2": [],
+    "word1_orig": "сёкмеклик",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "сёкмеклик",
+    "dict_id": "1",
+    "tags": "отвлеч. к сёгерге II",
+    "def1": "охаивание кого-чего",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [22803],
+    "src2": [],
+    "word1_orig": "сёкмеклик",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09400",
+  "entries": [
+   {
+    "word_base": "талатмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к талатыргъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24625],
+    "src2": [],
+    "word1_orig": "талатмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "талатмакълыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к талатыргъа",
+    "def1": "1) грызня, ссора 2) тяга, стремление",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24639],
+    "src2": [],
+    "word1_orig": "талатмакълыкъ",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09409",
+  "entries": [
+   {
+    "word_base": "талкъан",
+    "dict_id": "1",
+    "tags": "рел.",
+    "def1": "последняя молитва над закрытой могилой (при похоронах)",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24651],
+    "src2": [],
+    "word1_orig": "талкъан",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "талкъан",
+    "dict_id": "1",
+    "tags": "карач.",
+    "def1": "барда (остатки в виде гущи при приготовлении бузы)",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24652],
+    "src2": [],
+    "word1_orig": "талкъан",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09440",
+  "entries": [
+   {
+    "word_base": "тамамлат",
+    "dict_id": "1",
+    "tags": "понуд. к тамамларгъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24714],
+    "src2": [],
+    "word1_orig": "тамамлатыргъа",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тамамлат",
+    "dict_id": "1",
+    "tags": "возвр.",
+    "def1": "завершаться, заканчиваться",
+    "def2": "",
+    "misc1": "ишим тамамлашады моя работа завершается; тамамлашмагъан иш незавершённая (неоконченная) работа",
+    "misc2": "",
+    "src1": [24718],
+    "src2": [],
+    "word1_orig": "тамамлатыргъа",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair", "needs_review"]
+   }
+  ]
+ },
+ {
+  "match_id": "m_09525",
+  "entries": [
+   {
+    "word_base": "тарих",
+    "dict_id": "1",
+    "tags": "уст.",
+    "def1": "история || исторический",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24897],
+    "src2": [],
+    "word1_orig": "тарих",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 91,
+    "flags": ["no_d2_pair"]
+   },
+   {
+    "word_base": "тарих",
+    "dict_id": "1",
+    "tags": "балк.",
+    "def1": "то же, что тарх II",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "src1": [24898],
+    "src2": [],
+    "word1_orig": "тарих",
+    "word2_orig": "",
+    "decl": "",
+    "hom_rank": 92,
+    "flags": ["no_d2_pair"]
+   }
+  ]
+ }
+]}

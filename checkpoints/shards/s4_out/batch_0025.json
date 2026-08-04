@@ -1,0 +1,80 @@
+{"groups": [
+  {"match_id": "m_08958", "entries": [
+    {"word_base": "суп", "dict_id": "1", "tags": "",
+     "def1": "-субай очень стройный", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23550], "src2": [],
+     "word1_orig": "суп", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "суп", "dict_id": "1", "tags": "",
+     "def1": "-сууукъ холодный-прехолодный; ледяной", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23551], "src2": [],
+     "word1_orig": "суп", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_08959", "entries": [
+    {"word_base": "суппа", "dict_id": "1", "tags": "",
+     "def1": "-субай то же,что суп-субай", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23548], "src2": [],
+     "word1_orig": "суппа", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "суппа", "dict_id": "1", "tags": "",
+     "def1": "-сууукъ то же,что суп-сууукъ", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23549], "src2": [],
+     "word1_orig": "суппа", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_09008", "entries": [
+    {"word_base": "сууутмакълыкъ", "dict_id": "1", "tags": "отвлеч. к сууутургъа",
+     "def1": "", "def2": "",
+     "misc1": "бири бирингден сууутмакълыкъ разочарование друг в друге", "misc2": "",
+     "src1": [23673, 23680], "src2": [],
+     "word1_orig": "сууутмакълыкъ", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_09047", "entries": [
+    {"word_base": "сызгъырыучу", "dict_id": "1", "tags": "бот.",
+     "def1": "колокольчик", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23780], "src2": [],
+     "word1_orig": "сызгъырыучу", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "сызгъырыучу", "dict_id": "1", "tags": "",
+     "def1": "свисток", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23781], "src2": [],
+     "word1_orig": "сызгъырыучу", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_09052", "entries": [
+    {"word_base": "сызламакълыкъ", "dict_id": "1", "tags": "отвлеч. к сызларгъа I",
+     "def1": "см. сызлау I", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23792], "src2": [],
+     "word1_orig": "сызламакълыкъ", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "сызламакълыкъ", "dict_id": "1", "tags": "отвлеч. к сызларгъа II",
+     "def1": "см. сызлау II", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [23793], "src2": [],
+     "word1_orig": "сызламакълыкъ", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_09140", "entries": [
+    {"word_base": "сып", "dict_id": "1", "tags": "",
+     "def1": "-сыйдам гладкий-прегладкий", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [24068], "src2": [],
+     "word1_orig": "сып", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "сып", "dict_id": "1", "tags": "",
+     "def1": "-сылхыр глупый-преглупый", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [24069], "src2": [],
+     "word1_orig": "сып", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]}
+]}

@@ -1,0 +1,74 @@
+{"groups": [
+  {"match_id": "m_10121", "entries": [
+    {"word_base": "тонлу", "dict_id": "1", "tags": "",
+     "def1": "имеющий шубу, с шубой", "def2": "",
+     "misc1": "къат-къат тонлу, къарыш бойлу загадка надета шуба на шубу ростом в пядь (отгадка къобуста капуста)", "misc2": "",
+     "src1": [26511], "src2": [],
+     "word1_orig": "тонлу", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "тонлу", "dict_id": "1", "tags": "муз.",
+     "def1": "имеющий какой-л. тон; тональный", "def2": "",
+     "misc1": "бир тонлу монотонный", "misc2": "",
+     "src1": [26512], "src2": [],
+     "word1_orig": "тонлу", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_10139", "entries": [
+    {"word_base": "топулдатмакълыкъ", "dict_id": "1", "tags": "отвлеч. к топулдатыргъа",
+     "def1": "драка", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [26581, 26591], "src2": [],
+     "word1_orig": "топулдатмакълыкъ", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_10142", "entries": [
+    {"word_base": "топулдат", "dict_id": "1", "tags": "",
+     "def1": "бить кого-что; пороть, сечь кого", "def2": "",
+     "misc1": "гыбытны топулдатыргъа качать бурдюк, сбивать масло в бурдюке; къылыкъсызны топулдатыргъа отшлёпать шалуна", "misc2": "",
+     "src1": [26584], "src2": [],
+     "word1_orig": "топулдатыргъа", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "топулдат", "dict_id": "1", "tags": "взаимн. к топулдаргъа",
+     "def1": "избивать друг друга, драться друг с другом", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [26592], "src2": [],
+     "word1_orig": "топулдатыргъа", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_10143", "entries": [
+    {"word_base": "топулдатыу", "dict_id": "1", "tags": "и. д. к топулдатыргъа",
+     "def1": "порка, избиение кого", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [26585, 26593], "src2": [],
+     "word1_orig": "топулдатыу", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]}
+  ]},
+  {"match_id": "m_10257", "entries": [
+    {"word_base": "тукъумсуз", "dict_id": "1", "tags": "",
+     "def1": "1) безродный 2) беспородный, плохой породы", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [26829], "src2": [],
+     "word1_orig": "тукъумсуз", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "тукъумсуз", "dict_id": "1", "tags": "",
+     "def1": "[человек] без роду, без племени; бродяга м", "def2": "",
+     "misc1": "-джууукъсуз", "misc2": "",
+     "src1": [26830], "src2": [],
+     "word1_orig": "тукъумсуз", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair", "needs_review"]}
+  ]},
+  {"match_id": "m_10280", "entries": [
+    {"word_base": "туп", "dict_id": "1", "tags": "",
+     "def1": "-тузлу солёный-пресолёный", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [26893], "src2": [],
+     "word1_orig": "туп", "word2_orig": "", "decl": "",
+     "hom_rank": 91, "flags": ["no_d2_pair"]},
+    {"word_base": "туп", "dict_id": "1", "tags": "",
+     "def1": "-туру совершенно открыто, гласно", "def2": "",
+     "misc1": "", "misc2": "",
+     "src1": [26894], "src2": [],
+     "word1_orig": "туп", "word2_orig": "", "decl": "",
+     "hom_rank": 92, "flags": ["no_d2_pair", "needs_review"]}
+  ]}
+]}

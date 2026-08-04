@@ -1,0 +1,304 @@
+{
+ "items": [
+  {
+   "word": "кекиртдирирге",
+   "imperative": "кекиртдир",
+   "confidence": "high"
+  },
+  {
+   "word": "келепенлендирирге",
+   "imperative": "келепенлендир",
+   "confidence": "high"
+  },
+  {
+   "word": "келепенленирге",
+   "imperative": "келепенлен",
+   "confidence": "high"
+  },
+  {
+   "word": "келишдиртирге",
+   "imperative": "келишдирт",
+   "confidence": "high"
+  },
+  {
+   "word": "кемейтдирирге",
+   "imperative": "кемейтдир",
+   "confidence": "high"
+  },
+  {
+   "word": "кемиртдирирге",
+   "imperative": "кемиртдир",
+   "confidence": "high"
+  },
+  {
+   "word": "кемсинирге",
+   "imperative": "кемсин",
+   "confidence": "high"
+  },
+  {
+   "word": "кенгдирирге",
+   "imperative": "кенгдир",
+   "confidence": "high"
+  },
+  {
+   "word": "кенгдириширге",
+   "imperative": "кенгдириш",
+   "confidence": "high"
+  },
+  {
+   "word": "кенгдиртирге",
+   "imperative": "кенгдирт",
+   "confidence": "high"
+  },
+  {
+   "word": "кенгерге",
+   "imperative": "кенге",
+   "confidence": "high"
+  },
+  {
+   "word": "керкдирирге",
+   "imperative": "керкдир",
+   "confidence": "high"
+  },
+  {
+   "word": "керкдиртирге",
+   "imperative": "керкдирт",
+   "confidence": "high"
+  },
+  {
+   "word": "керкиндирирге",
+   "imperative": "керкиндир",
+   "confidence": "high"
+  },
+  {
+   "word": "кесишдирирге",
+   "imperative": "кесишдир",
+   "confidence": "high"
+  },
+  {
+   "word": "кескинлерге",
+   "imperative": "кескинле",
+   "confidence": "high"
+  },
+  {
+   "word": "кескинлетирге",
+   "imperative": "кескинлет",
+   "confidence": "high"
+  },
+  {
+   "word": "кефлендирирге",
+   "imperative": "кефлендир",
+   "confidence": "high"
+  },
+  {
+   "word": "кечдирирге",
+   "imperative": "кечдир",
+   "confidence": "high"
+  },
+  {
+   "word": "кечдиртирге",
+   "imperative": "кечдирт",
+   "confidence": "high"
+  },
+  {
+   "word": "кечикдиртирге",
+   "imperative": "кечикдирт",
+   "confidence": "high"
+  },
+  {
+   "word": "кечиндиртирге",
+   "imperative": "кечиндирт",
+   "confidence": "high"
+  },
+  {
+   "word": "киерге",
+   "imperative": "кий",
+   "confidence": "medium"
+  },
+  {
+   "word": "кийинирге",
+   "imperative": "кийин",
+   "confidence": "high"
+  },
+  {
+   "word": "кирпилдерге",
+   "imperative": "кирпилде",
+   "confidence": "high"
+  },
+  {
+   "word": "кирпилениширге",
+   "imperative": "кирпилениш",
+   "confidence": "high"
+  },
+  {
+   "word": "киршелендирирге",
+   "imperative": "киршелендир",
+   "confidence": "high"
+  },
+  {
+   "word": "киршелениширге",
+   "imperative": "киршелениш",
+   "confidence": "high"
+  },
+  {
+   "word": "киршерге",
+   "imperative": "кирше",
+   "confidence": "high"
+  },
+  {
+   "word": "кондицияларгъа",
+   "imperative": "кондицияла",
+   "confidence": "high"
+  },
+  {
+   "word": "кооперативлендирирге",
+   "imperative": "кооперативлендир",
+   "confidence": "high"
+  },
+  {
+   "word": "кооперативленирге",
+   "imperative": "кооперативлен",
+   "confidence": "high"
+  },
+  {
+   "word": "къабукъланыргъа",
+   "imperative": "къабукълан",
+   "confidence": "high"
+  },
+  {
+   "word": "къабылларгъа",
+   "imperative": "къабылла",
+   "confidence": "high"
+  },
+  {
+   "word": "къабырчакъларгъа",
+   "imperative": "къабырчакъла",
+   "confidence": "high"
+  },
+  {
+   "word": "къабырчакьланыргъа",
+   "imperative": "къабырчакьлан",
+   "confidence": "medium"
+  },
+  {
+   "word": "къагъкъылдатыргъа",
+   "imperative": "къагъкъылдат",
+   "confidence": "high"
+  },
+  {
+   "word": "къагъылтыргъа",
+   "imperative": "къагъылт",
+   "confidence": "high"
+  },
+  {
+   "word": "къагъынларгъа",
+   "imperative": "къагъынла",
+   "confidence": "high"
+  },
+  {
+   "word": "къадатдырыргъа",
+   "imperative": "къадатдыр",
+   "confidence": "high"
+  },
+  {
+   "word": "къадатыргъа",
+   "imperative": "къадат",
+   "confidence": "high"
+  },
+  {
+   "word": "къадашыргъа",
+   "imperative": "къадаш",
+   "confidence": "high"
+  },
+  {
+   "word": "къаджыгъыргъа",
+   "imperative": "къаджыкъ",
+   "confidence": "high"
+  },
+  {
+   "word": "къаджыкъдырыргъа",
+   "imperative": "къаджыкъдыр",
+   "confidence": "high"
+  },
+  {
+   "word": "къадырланыргъа",
+   "imperative": "къадырлан",
+   "confidence": "high"
+  },
+  {
+   "word": "къайгъыланышыргъа",
+   "imperative": "къайгъыланыш",
+   "confidence": "high"
+  },
+  {
+   "word": "къайдыртыргъа",
+   "imperative": "къайдырт",
+   "confidence": "high"
+  },
+  {
+   "word": "къайдырыргъа",
+   "imperative": "къайдыр",
+   "confidence": "high"
+  },
+  {
+   "word": "къайраргъа",
+   "imperative": "къайра",
+   "confidence": "high"
+  },
+  {
+   "word": "къайылыргъа",
+   "imperative": "къайыл",
+   "confidence": "high"
+  },
+  {
+   "word": "къайытартыргъа",
+   "imperative": "къайытарт",
+   "confidence": "high"
+  },
+  {
+   "word": "къайытарылыргъа",
+   "imperative": "къайытарыл",
+   "confidence": "high"
+  },
+  {
+   "word": "къайытарыргъа",
+   "imperative": "къайытар",
+   "confidence": "high"
+  },
+  {
+   "word": "къайытыргъа",
+   "imperative": "къайыт",
+   "confidence": "high"
+  },
+  {
+   "word": "къакланыргъа",
+   "imperative": "къаклан",
+   "confidence": "high"
+  },
+  {
+   "word": "къаландыртыргъа",
+   "imperative": "къаландырт",
+   "confidence": "high"
+  },
+  {
+   "word": "къаландырыргъа",
+   "imperative": "къаландыр",
+   "confidence": "high"
+  },
+  {
+   "word": "къалатылыргъа",
+   "imperative": "къалатыл",
+   "confidence": "high"
+  },
+  {
+   "word": "къалдырышыргъа",
+   "imperative": "къалдырыш",
+   "confidence": "high"
+  },
+  {
+   "word": "къалкъдырыргъа",
+   "imperative": "къалкъдыр",
+   "confidence": "high"
+  }
+ ]
+}

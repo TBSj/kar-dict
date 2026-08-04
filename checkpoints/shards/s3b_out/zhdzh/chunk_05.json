@@ -1,0 +1,604 @@
+{
+ "items": [
+  {
+   "dict": 1,
+   "word": "джоргъалауукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джоргъалаучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортдурмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортдуртмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортдуртургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортдуртуу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортдурушмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортмуш",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортум",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортумлукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортуучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джортушмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джорукълу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джорукълулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джоюлмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джоюшмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джоюшургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джоюшуу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джояргъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джубандырмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джубанышмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джубатмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джугору",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джугу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джугъулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джугъуучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудуламакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудуланмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудуланыу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудуларгъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудулатмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудулатыргъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудулатыу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудулау",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудулаучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джудулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джузаппа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джук",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъарашыу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъармакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъартдырмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъартмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъартылмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъарышмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъарышыргъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъгъан",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъдурмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъламакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъланмазлыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъланмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукълатдырмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукълатмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукълатхан",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукълатыучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъсуз",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъсузлукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукътиймез",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъусурамакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъусуратмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукъучулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джукьартылыу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулалыкь",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулдузсуз",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулдурмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулдурургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулдуруу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулия",
+   "kind": "unsure"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъдурмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъундур",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъундурлукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъунмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъуннган",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъуучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъуучулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъуч",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъучлукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъушмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулкъушуулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулунмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулунургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулунуу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулуу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джулуучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумачы",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумдурмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джуммакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумору",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумукъкъулакъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумукълукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумулмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумултмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумултургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумултуу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумулушмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумулушургъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумуу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушагъы",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушакъджюрек",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушакъкёл",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушакъсыз",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушалмазлыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушалыргъа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушалыу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушамазлыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушамакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушатдырмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушатмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушатылмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушаучу",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джумушчулукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джундурукъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джунчумакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джунчутдурмакълыкъ",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джуппа",
+   "kind": "native"
+  },
+  {
+   "dict": 1,
+   "word": "джуртсуз",
+   "kind": "native"
+  }
+ ]
+}
