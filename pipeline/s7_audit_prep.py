@@ -34,7 +34,9 @@ def main():
         "flagged": [e for e in entries if e.get("flags")],
         "random": entries,
     }
-    quota = {"homonym": 8, "jb": 6, "verb": 6, "flagged": 6, "random": 10}
+    base = {"homonym": 8, "jb": 6, "verb": 6, "flagged": 6, "random": 10}
+    scale = args.n / sum(base.values())
+    quota = {k: max(1, round(v * scale)) for k, v in base.items()}
     chosen, seen = [], set()
     for k, q in quota.items():
         pool = [e for e in strata[k] if e["entry_id"] not in seen]

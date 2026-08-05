@@ -1,0 +1,103 @@
+{
+ "tasks": [
+  {
+   "entry": {
+    "word": "сингил",
+    "dict_id": "2",
+    "tags": "эт. страд. от синг",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Синг дегенни зорлаучу айырмасы. Жангы амал ишге сингилди.",
+    "lextag": "actions_and_activities",
+    "entry_id": "e_26242",
+    "word2_orig": "сингил",
+    "hom_rank": 99,
+    "lextag_conf": "high",
+    "src2": [
+     "d2_17297"
+    ],
+    "flags": [
+     "no_russian_def"
+    ],
+    "misc2_gram_note": [
+     "Синг дегенни зорлаучу айырмасы"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v3_p156.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "валидол",
+    "dict_id": "2",
+    "tags": "ат. фарм.",
+    "def1": "",
+    "def2": "Валидол",
+    "misc1": "",
+    "misc2": "Тамырланы кенгертиучю дарман. Къарт хар заманда хуржунунба валидол жюрютюучю эди.",
+    "lextag": "human_body",
+    "entry_id": "e_07889",
+    "word2_orig": "валидол",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src2": [
+     "d2_04345"
+    ],
+    "flags": [
+     "uncertain_ocr"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v1_p559.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "учунуу",
+    "dict_id": "both",
+    "tags": "и. д. от учун",
+    "def1": "1) и. д. к учунургъа 2) вдохновение, воодушевление, душевный подъём",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Учун дегенден этим ат. Халкъ чыгъармада бир жерде да алдаулукъ учунуу, назмуну жасандырыу кёрлюк тюлсе. Байрамукъланы Н., Назму бла жазсала, 47. Ёмюрню экинчи жарымына атлай, жангы кюч бла, жангы учунуу бла сыйлы муратланы толтурур ючюн кюреширикбиз. «Ленинни байрагъы», 1972, № 5.",
+    "lextag": "emotions_and_will",
+    "entry_id": "e_33376",
+    "word1_orig": "учунуу",
+    "word2_orig": "учунуу",
+    "hom_rank": 99,
+    "lextag_conf": "high",
+    "src1": [
+     28191
+    ],
+    "src2": [
+     "d2_21954"
+    ],
+    "flags": [
+     "no_russian_def"
+    ],
+    "misc2_citations": [
+     "Байрамукъланы Н., Назму бла жазсала, 47."
+    ],
+    "misc2_citations_periodical": [
+     "«Ленинни байрагъы», 1972, № 5"
+    ],
+    "misc2_gram_note": [
+     "Учун дегенден этим ат"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "учунуу_28191",
+     "value": "1) $и. д.%$к %@учунургъа; #2) вдохновение, воодушевление, душевный подъём"
+    }
+   ],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v3_p724.png"
+   ]
+  }
+ ]
+}

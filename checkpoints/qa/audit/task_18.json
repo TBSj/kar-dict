@@ -1,0 +1,93 @@
+{
+ "tasks": [
+  {
+   "entry": {
+    "word": "атланыш",
+    "dict_id": "2",
+    "tags": "эт. взаимн.-совм. от атлан",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Атлан дегенни араш айырмасы. Ала сора атланышып кетдиле, ойра, Жортуп, Къаракъура кезге жетдиле, ойра. «Малкъар халкъ жырлы», 48.",
+    "lextag": "space_and_time",
+    "entry_id": "e_04132",
+    "word2_orig": "атланыш",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src2": [
+     "d2_01650"
+    ],
+    "flags": [
+     "no_russian_def",
+     "uncertain_ocr"
+    ],
+    "misc2_citations_collection": [
+     "«Малкъар халкъ жырлы», 48."
+    ],
+    "misc2_gram_note": [
+     "Атлан дегенни араш айырмасы"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v1_p223.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "шохайлашмакьлыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к шохайлашыр-гъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "lextag": "social_relations",
+    "entry_id": "e_37028",
+    "word1_orig": "шохайлашмакьлыкъ",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src1": [
+     30959
+    ],
+    "flags": [
+     "needs_review"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "шохайлашмакьлыкъ_30959",
+     "value": "$отвлеч. к %@шохайлашыр-гъа#"
+    }
+   ],
+   "d2_pages": []
+  },
+  {
+   "entry": {
+    "word": "асмалыкъ",
+    "dict_id": "1",
+    "tags": "отвлеч. к асма",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "",
+    "lextag": "human_body",
+    "entry_id": "e_03923",
+    "word1_orig": "асмалыкъ",
+    "decl": "-гъы",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src1": [
+     2095
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "асмалыкъ_2095",
+     "value": "(-гъы) $отвлеч. к %@асма#"
+    }
+   ],
+   "d2_pages": []
+  }
+ ]
+}

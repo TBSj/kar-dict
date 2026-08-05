@@ -1,0 +1,97 @@
+{
+ "tasks": [
+  {
+   "entry": {
+    "word": "шахарком",
+    "dict_id": "1",
+    "tags": "",
+    "def1": "горком",
+    "def2": "",
+    "misc1": "партияны шахаркому горком партии",
+    "misc2": "",
+    "lextag": "economy_and_society",
+    "entry_id": "e_36759",
+    "word1_orig": "шахарком",
+    "hom_rank": 99,
+    "lextag_conf": "high",
+    "src1": [
+     30744
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "шахарком_30744",
+     "value": "горком; @партияны ~у #горком партии"
+    }
+   ],
+   "d2_pages": []
+  },
+  {
+   "entry": {
+    "word": "жукълашыу",
+    "dict_id": "2",
+    "tags": "и. д. от жукълаш",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Жукълаш дегенден этим ат. Бир отоуда жукълашыу.",
+    "lextag": "human_body",
+    "entry_id": "e_11868",
+    "word2_orig": "жукълашыу",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src2": [
+     "d2_07650"
+    ],
+    "flags": [
+     "no_russian_def"
+    ],
+    "misc2_gram_note": [
+     "Жукълаш дегенден этим ат"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v1_p935.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "болушдуртуу",
+    "dict_id": "both",
+    "tags": "и. д. от болушдурт; и. д. к болушдуртургъа",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Болушдурт дегенден этим ат. Тырнауузну шахар комитети Терскъол къар юзюлгенни ариуларгъа Налъчикден аскер бёлюмню чакъырып болушдуртууну къабыл кёргенди. \"Коммунизмге жол\", 1976, № 120.",
+    "lextag": "language_and_communication",
+    "entry_id": "e_06773",
+    "word1_orig": "болушдуртуу",
+    "word2_orig": "болушдуртуу",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src1": [
+     4131
+    ],
+    "src2": [
+     "d2_03585"
+    ],
+    "flags": [
+     "no_russian_def"
+    ],
+    "misc2_gram_note": [
+     "Болушдурт дегенден этим ат"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "болушдуртуу_4131",
+     "value": "$и. д.%$к %@болушдуртургъа#"
+    }
+   ],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v1_p474.png"
+   ]
+  }
+ ]
+}

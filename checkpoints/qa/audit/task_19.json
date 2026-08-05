@@ -1,0 +1,101 @@
+{
+ "tasks": [
+  {
+   "entry": {
+    "word": "ичлик",
+    "dict_id": "both",
+    "tags": "ат.",
+    "def1": "набивка, материал для набивки",
+    "def2": "Материал для подкладки, набивки, набивка",
+    "misc1": "тёшек ичлик набивка для матраца",
+    "misc2": "Пальтону, костюмну д.а.к. кийимни ич жанына тигилиучю къумач. Пальтосуна жангы ичлик сатып алгъанды. Къыз костюм ичликлени жаратмады.",
+    "lextag": "objects_and_technology",
+    "entry_id": "e_13522",
+    "word1_orig": "ичлик",
+    "word2_orig": "ичлик",
+    "decl": "-ги",
+    "hom_rank": 99,
+    "lextag_conf": "high",
+    "src1": [
+     10377
+    ],
+    "src2": [
+     "d2_09151"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "ичлик_10377",
+     "value": "(-ги) набивка, материал для набивки; @тёшек #~ набивка для матраца"
+    }
+   ],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v2_p142.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "тёкдюрюлюу",
+    "dict_id": "2",
+    "tags": "и. д. от тёкдюрюл",
+    "def1": "",
+    "def2": "",
+    "misc1": "",
+    "misc2": "Тёкдюрюл дегенден этим ат.",
+    "lextag": "actions_and_activities",
+    "entry_id": "e_32572",
+    "word2_orig": "тёкдюрюлюу",
+    "hom_rank": 99,
+    "lextag_conf": "medium",
+    "src2": [
+     "d2_19937"
+    ],
+    "flags": [
+     "no_russian_def"
+    ],
+    "misc2_gram_note": [
+     "Тёкдюрюл дегенден этим ат"
+    ]
+   },
+   "d1_raw": [],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v3_p482.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "хырттылан",
+    "dict_id": "both",
+    "tags": "эт.",
+    "def1": "стать шероховатым (напр. при отделочных работах о штукатурке и т. п.)",
+    "def2": "Стать шероховатым",
+    "misc1": "",
+    "misc2": "Зыбырлан. Юйню акълагъанда, къыз хырттыланнган жерлерин сыйдамлайды.",
+    "lextag": "universe_and_nature",
+    "entry_id": "e_34888",
+    "word1_orig": "хырттыланыргъа",
+    "word2_orig": "хырттылан",
+    "hom_rank": 99,
+    "lextag_conf": "high",
+    "src1": [
+     29355
+    ],
+    "src2": [
+     "d2_22996"
+    ],
+    "flags": [
+     "uncertain_ocr"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "хырттыланыргъа_29355",
+     "value": "стать шероховатым $(напр. при отделочных работах о штукатурке и т. п.)%"
+    }
+   ],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v3_p841.png"
+   ]
+  }
+ ]
+}

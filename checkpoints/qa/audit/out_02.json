@@ -1,0 +1,22 @@
+{
+ "audits": [
+  {
+   "word": "тын3",
+   "entry_id": "e_31805",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "арауан2",
+   "entry_id": "e_03528",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "масхабсыз1",
+   "entry_id": "e_20661",
+   "verdict": "ok",
+   "issues": []
+  }
+ ]
+}

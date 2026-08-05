@@ -1,0 +1,22 @@
+{
+ "audits": [
+  {
+   "word": "jоюу",
+   "entry_id": "e_00869",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "jайлатыу",
+   "entry_id": "e_00121",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "тасмала",
+   "entry_id": "e_29187",
+   "verdict": "ok",
+   "issues": []
+  }
+ ]
+}

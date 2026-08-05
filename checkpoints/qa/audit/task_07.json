@@ -2,83 +2,110 @@
  "tasks": [
   {
    "entry": {
-    "word": "жалатдырыу",
-    "dict_id": "2",
-    "tags": "и. д. от жалатдыр",
-    "def1": "",
+    "word": "jоюу",
+    "dict_id": "both",
+    "tags": "и. д. от жой; и. д. к джояргъа",
+    "def1": "1)расходование, трата 2) продажа 3) развращение 4) осуждение",
     "def2": "",
-    "misc1": "",
-    "misc2": "Жалатдыр дегенден этим ат. Сют башны жалатдырыу. Ахча жалатдырыу.",
-    "lextag": "actions_and_activities",
-    "entry_id": "e_00210",
-    "word2_orig": "жалатдырыу",
-    "hom_rank": 99,
-    "lextag_conf": "medium",
-    "src2": [
-     "d2_06409"
-    ],
-    "flags": [
-     "no_russian_def"
-    ]
-   },
-   "d1_raw": [],
-   "d2_pages": [
-    "D:\\git\\kab-dict\\checkpoints\\qa\\audit\\v1_p781.png"
-   ]
-  },
-  {
-   "entry": {
-    "word": "тартдырылмакълыкъ",
-    "dict_id": "1",
-    "tags": "отвлеч. к тартдырылыргъа",
-    "def1": "",
-    "def2": "",
-    "misc1": "",
-    "misc2": "",
-    "lextag": "actions_and_activities",
-    "entry_id": "e_01013",
-    "word1_orig": "тартдырылмакълыкъ",
+    "misc1": "зыраф джоюу расточительство; зыраф джоюучу расточитель, транжира",
+    "misc2": "Жой дегенден этим ат. Ахча жоюу. Адамны жоюу.",
+    "lextag": "economy_and_society",
+    "entry_id": "e_00869",
+    "word1_orig": "джоюу",
+    "word2_orig": "жоюу",
     "hom_rank": 99,
     "lextag_conf": "medium",
     "src1": [
-     24923
+     8230
+    ],
+    "src2": [
+     "d2_07575"
     ],
     "flags": [
-     "needs_review"
+     "no_russian_def"
+    ],
+    "misc2_gram_note": [
+     "Жой дегенден этим ат"
     ]
    },
    "d1_raw": [
     {
-     "key": "тартдырылмакълыкъ_24923",
-     "value": "$отвлеч. к %@тартдырылыргъа#"
+     "key": "джоюу_8230",
+     "value": "$и. д.%$к %@джояргъа #1)расходование, трата; @зыраф #~ расточительство; @зыраф ~чу #расточитель, транжира 2) продажа 3) развращение 4) осуждение"
     }
    ],
-   "d2_pages": []
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v1_p925.png"
+   ]
   },
   {
    "entry": {
-    "word": "тамырсызландырыу",
-    "dict_id": "2",
-    "tags": "и. д. от тамырсызландыр",
+    "word": "jайлатыу",
+    "dict_id": "both",
+    "tags": "и. д. от жайлат; карач. и. д. к джайлатыргъа",
     "def1": "",
     "def2": "",
     "misc1": "",
-    "misc2": "Тамырсызландыр дегенден этим ат.",
-    "lextag": "actions_and_activities",
-    "entry_id": "e_00789",
-    "word2_orig": "тамырсызландырыу",
+    "misc2": "Жайлат дегенден этим ат. Къойланы жайлатыу.",
+    "lextag": "economy_and_society",
+    "entry_id": "e_00121",
+    "word1_orig": "джайлатыу",
+    "word2_orig": "жайлатыу",
     "hom_rank": 99,
     "lextag_conf": "medium",
+    "src1": [
+     6839
+    ],
     "src2": [
-     "d2_19003"
+     "d2_06313"
     ],
     "flags": [
      "no_russian_def"
+    ],
+    "misc2_gram_note": [
+     "Жайлат дегенден этим ат"
     ]
    },
-   "d1_raw": [],
+   "d1_raw": [
+    {
+     "key": "джайлатыу_6839",
+     "value": "$карач. и. д. к %@джайлатыргъа#"
+    }
+   ],
    "d2_pages": [
-    "D:\\git\\kab-dict\\checkpoints\\qa\\audit\\v3_p353.png"
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v1_p771.png"
+   ]
+  },
+  {
+   "entry": {
+    "word": "тасмала",
+    "dict_id": "both",
+    "tags": "эт.",
+    "def1": "разрезать [козью шкуру] на тесёмки",
+    "def2": "Разрезать (козью шкуру) на тесёмки",
+    "misc1": "",
+    "misc2": "Ийленнген (эчки) терини тасмала этерча кес. Эчки терини тасмала.",
+    "lextag": "actions_and_activities",
+    "entry_id": "e_29187",
+    "word1_orig": "тасмаларгъа",
+    "word2_orig": "тасмала",
+    "hom_rank": 99,
+    "lextag_conf": "high",
+    "src1": [
+     25014
+    ],
+    "src2": [
+     "d2_19240"
+    ]
+   },
+   "d1_raw": [
+    {
+     "key": "тасмаларгъа_25014",
+     "value": "разрезать [козью шкуру] на тесёмки"
+    }
+   ],
+   "d2_pages": [
+    "D:\\Projects\\My_projects\\Python\\Py_projects\\kar-dict\\checkpoints\\qa\\audit\\v3_p389.png"
    ]
   }
  ]

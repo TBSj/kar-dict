@@ -1,0 +1,10 @@
+{"audits": [
+ {"word": "атдыр1", "entry_id": "e_04091", "verdict": "minor", "issues": [
+  {"field": "misc2", "problem": "В фамилии автора использована латинская буква X: «Байрамукъланы X., Чолпан, 59» — в печатном тексте кириллическая «Х»; та же ошибка продублирована в misc2_phras.", "severity": "minor"},
+  {"field": "lextag", "problem": "Категория living_things неуместна: атдыр — понудительный глагол от «ат» (бросать/стрелять), к живым существам отношения не имеет; уместнее actions_and_activities.", "severity": "minor"}
+ ]},
+ {"word": "дыбырда", "entry_id": "e_11070", "verdict": "minor", "issues": [
+  {"field": "misc2", "problem": "Название книги слито: «Аппаланы Х., Къаракюбюр, 106» — в печатном источнике «Къара кюбюр, 106» (раздельно); та же ошибка в misc2_citations и misc2_phras.", "severity": "minor"}
+ ]},
+ {"word": "тууайлат", "entry_id": "e_31541", "verdict": "ok", "issues": []}
+]}

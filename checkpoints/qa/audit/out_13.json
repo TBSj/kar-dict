@@ -1,0 +1,33 @@
+{
+ "audits": [
+  {
+   "word": "сингил",
+   "entry_id": "e_26242",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "word": "валидол",
+   "entry_id": "e_07889",
+   "verdict": "minor",
+   "issues": [
+    {
+     "field": "misc2",
+     "problem": "OCR-ошибка: в misc2 'хуржунунба', на странице v1_p559 напечатано 'хуржунунда' (местный падеж -да); флаг uncertain_ocr стоит, но исправление не внесено",
+     "severity": "minor"
+    },
+    {
+     "field": "lextag",
+     "problem": "Категория 'human_body' сомнительна для лекарственного препарата (валидол — фарм. средство, не часть тела); conf=medium",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "word": "учунуу",
+   "entry_id": "e_33376",
+   "verdict": "ok",
+   "issues": []
+  }
+ ]
+}
