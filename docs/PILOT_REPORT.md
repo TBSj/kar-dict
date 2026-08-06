@@ -159,6 +159,14 @@ S7 invariants: clean except 2 borderline «къ.» cross-refs inside def2 (polic
    candidate-miss scan in git history / re-run of the diagnostic in §7 below) + 7 glued-entry
    cases — recover manually or via targeted re-parse.
 6. Two borderline «къ.» cross-refs inside def2 (e_00377, e_00849 in pilot numbering).
+7. **кь/гь = OCR ъ/ь confusion (full-run finding, 2026-08-05).** Linguist verdict: «кь»/«гь» do
+   not exist in Karachay-Balkar orthography — every occurrence is an OCR artifact for «къ»/«гъ»
+   (both sources, mostly dict-1). Full run had 244 headwords + texts in 895 entries affected;
+   73 fixed headwords collided with existing words and 58 of them turned out to be **hidden
+   unmatched pairs** (dict-1 ↔ ТСКБЯ), merged after Opus adjudication (e.g. къайгъырмаз,
+   къарачайлы, айтылгъан). Systematic repair: `pipeline/s7_kjgj_fix.py` (--phase1 / --apply);
+   rule hardened in `prompts/s0_parse.md` and `prompts/s2_parse.md` so future re-parses fix it
+   at the source. Related single case caught earlier by audit: шохайлашмакьлыкъ.
 
 ## 7. HOW TO CONTINUE IN A FRESH SESSION
 
