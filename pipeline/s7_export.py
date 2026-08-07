@@ -14,6 +14,8 @@ CK = ROOT / "checkpoints"
 MAIN = ["word", "dict_id", "tags", "def1", "def2", "misc1", "misc2", "lextag"]
 EXTRA = ["entry_id", "word1_orig", "word2_orig", "decl", "hom_rank",
          "lextag_conf", "src1", "src2", "flags",
+         "pos", "dialect", "style", "domain", "gram_note", "tags_other",
+         "derived", "derived_from", "variant_of", "variants",
          "misc1_proverbs", "misc1_riddles", "misc1_bukv", "misc1_folklore",
          "misc1_stem_note", "misc1_variants",
          "misc2_citations", "misc2_citations_periodical", "misc2_citations_collection",
@@ -30,12 +32,15 @@ def main():
                 if e.get(k) not in (None, "", []):
                     rec[k] = e[k]
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    FCT = ["pos", "dialect", "style", "domain", "gram_note"]
     with open(CK / "final.csv", "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
-        w.writerow(MAIN + ["flags", "word1_orig", "word2_orig"])
+        w.writerow(MAIN + FCT + ["derived_from", "variant_of", "flags", "word1_orig", "word2_orig"])
         for e in entries:
             w.writerow([e.get(k, "") for k in MAIN] +
-                       [";".join(e.get("flags", [])), e.get("word1_orig", ""), e.get("word2_orig", "")])
+                       ["; ".join(e.get(k) or []) for k in FCT] +
+                       [e.get("derived_from", ""), e.get("variant_of", ""),
+                        ";".join(e.get("flags", [])), e.get("word1_orig", ""), e.get("word2_orig", "")])
     print(f"exported {len(entries)} entries -> 07_final.jsonl, final.csv")
 
 if __name__ == "__main__":

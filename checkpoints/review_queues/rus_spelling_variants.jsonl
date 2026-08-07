@@ -1,0 +1,885 @@
+{"form": "ингичке", "form_src": "ингичке", "count_cite": 9, "count_ctx": 11, "kb_marker": true, "is_rus_loan": false, "sources": ["бечевка_1244", "волос_2954", "высокий_4168", "лебединый_11112", "осиный_16803"], "near": ["ингичге"]}
+{"form": "салыучу", "form_src": "салыучу", "count_cite": 4, "count_ctx": 25, "kb_marker": false, "is_rus_loan": false, "sources": ["ворожея_3040", "гадалка_4398", "гравер_4920", "диагност_5615", "живописец_6723"], "near": ["алыучу", "сатыучу"]}
+{"form": "шагърей", "form_src": "шагърей", "count_cite": 2, "count_ctx": 26, "kb_marker": true, "is_rus_loan": false, "sources": ["близко_1377", "ввести_1977", "вхожий_3581", "знакомить_8242", "знакомиться_8243"], "near": ["шагъырей"]}
+{"form": "тул-тубан", "form_src": "тул-тубан", "count_cite": 7, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["гибель_4563", "масса_11800", "мириады_12212", "море_12428", "полчищес_20423"], "near": ["тул-туман"]}
+{"form": "аз-аз", "form_src": "аз-аз", "count_cite": 6, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["мало_11676", "малость_11685", "наигрывать_13037", "накрапывать_13120", "помаленькунареч_20452"], "near": ["аз-маз"]}
+{"form": "болуучу", "form_src": "болуучу", "count_cite": 1, "count_ctx": 17, "kb_marker": false, "is_rus_loan": false, "sources": ["актовый_217", "дух_6386", "закономерный_7316", "надсмотрщик_12955", "наземный_13012"], "near": ["болумчу", "болушчу", "солуучу"]}
+{"form": "ёсдюрюучю", "form_src": "ёсдюрюучю", "count_cite": 1, "count_ctx": 17, "kb_marker": false, "is_rus_loan": false, "sources": ["виноградарь_2468", "коневод_10130", "лесовод_11216", "льноводческий_11534", "овцеводм_16004"], "near": ["юсдюрюучю", "ётдюрюучю"]}
+{"form": "джюрюучю", "form_src": "джюрюучю", "count_cite": 2, "count_ctx": 13, "kb_marker": false, "is_rus_loan": false, "sources": ["быстроходный_1843", "мореплаватель_12431", "наземный_13012", "некурящий_14229", "посыльный_21008"], "near": ["джюзюучю"]}
+{"form": "хыртдылы", "form_src": "хыртдылы", "count_cite": 4, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["корявый_10422", "неровный_14622", "шероховатый_32152", "шершаветь_32166", "шершавить_32167"], "near": ["гыртдылы", "хырттылы"]}
+{"form": "орнунда", "form_src": "орнунда", "count_cite": 2, "count_ctx": 8, "kb_marker": false, "is_rus_loan": false, "sources": ["быть_1850", "замещать_7469", "исполняющий_9045", "кстати_10831", "менять_11986"], "near": ["орнуна"]}
+{"form": "ары-оери", "form_src": "ары-оери", "count_cite": 1, "count_ctx": 11, "kb_marker": false, "is_rus_loan": false, "sources": ["вертеться_2164", "взаперти_2278", "вкривь_2558", "водить_2723", "возиться_2861"], "near": ["ары-бери"]}
+{"form": "билмеклик", "form_src": "билмеклик", "count_cite": 1, "count_ctx": 11, "kb_marker": false, "is_rus_loan": false, "sources": ["грамота_4939", "грамотность_4940", "дальновидность_5181", "достоинство_6179", "ловкость_11412"], "near": ["билеклик", "билемеклик", "бишмеклик", "бёлмеклик"]}
+{"form": "накъут-налмаз", "form_src": "накъут-налмаз", "count_cite": 4, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["бриллиант_1623", "бриллиантовый_1624", "жемчужина_6676", "перл_18837", "сокровище_27030"], "near": ["накъут-налмас"]}
+{"form": "халлы", "form_src": "халлы", "count_cite": 1, "count_ctx": 10, "kb_marker": false, "is_rus_loan": false, "sources": ["знаменатель_8246", "неоднородный_14355", "особенный_16887", "равномерный_23413", "типизация_28631"], "near": ["jаллы", "аллы", "баллы", "наллы"]}
+{"form": "сызчыкъ", "form_src": "сызчыкъ", "count_cite": 4, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["дефис_5583", "прожилкаж_22572", "черточка_31810"], "near": ["сызлыкъ", "сызчык", "сынчыкъ"]}
+{"form": "дууадакъ", "form_src": "дууадакъ", "count_cite": 4, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["дрофа_6311", "лебединый_11112", "лебедь_11113", "лебяжий_11115"], "near": ["бууадакъ", "дуадакъ"]}
+{"form": "абзыратыргъа", "form_src": "абзыратыргъа", "count_cite": 4, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["забить_6844", "замешательство_7464", "обескуражить_15316", "огорошить_16064"], "near": ["абызыратыргъа"]}
+{"form": "бусагъатчыкъдан", "form_src": "бусагъатчыкъдан", "count_cite": 4, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["минута_12205", "сей_25897", "секунда_25921"], "near": ["бусагъатчыкъда"]}
+{"form": "учуучу", "form_src": "учуучу", "count_cite": 2, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["аэронавт_614", "взлетный_2354", "воздухоплаватель_2856", "высотник_4195", "конькобежец_10275"], "near": ["удуучу", "уруучу"]}
+{"form": "венгр", "form_src": "венгр", "count_cite": 3, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["венгерка_2103", "венгерка_2104", "венгерский_2105"], "near": ["венгер"]}
+{"form": "кёргюзтюучю", "form_src": "кёргюзтюучю", "count_cite": 2, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["звезда_8096", "зрительный_8308", "маяк_11867", "указатель_29789", "указка_29792"], "near": ["кёргюзюучю"]}
+{"form": "джонгурчха", "form_src": "джонгурчха", "count_cite": 1, "count_ctx": 7, "kb_marker": true, "is_rus_loan": false, "sources": ["отколоть_17221", "отщепить_17748", "расщепить_24711", "расщепиться_24712", "расщепление_24713"], "near": ["джонгурча", "джонгурчхал"]}
+{"form": "ыхдырылыргъа", "form_src": "ыхдырылыргъа", "count_cite": 3, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["отхлынуть_17679", "попятитьсясов_20681", "пятитьсянесов_23353", "схлынуть_28177"], "near": ["ыхтырылыргъа"]}
+{"form": "юрениучю", "form_src": "юрениучю", "count_cite": 2, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["плац_19098", "стрельбище_27920", "тренировочный_29003", "учебный_30580"], "near": ["юретиучю"]}
+{"form": "айланч-буйланч", "form_src": "айланч-буйланч", "count_cite": 2, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["виться_2511", "зигзаг_8191", "извиваться_8449", "изломанный_8534", "петлять_18891"], "near": ["айланч-бойланч"]}
+{"form": "абзыраргъа", "form_src": "абзыраргъа", "count_cite": 3, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["замешательство_7464", "осунуться_16955", "потеряться_21040"], "near": ["абызыраргъа"]}
+{"form": "сепкилчик", "form_src": "сепкилчик", "count_cite": 3, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["крапина_10556", "мушка_12593", "рябина_25325"], "near": ["сепкиллик"]}
+{"form": "америкачы", "form_src": "америкачы", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["американец_283", "американка_284", "американский_285", "краснокожие_10577"], "near": ["америкалы", "американчы"]}
+{"form": "эджиги-юстюню", "form_src": "эджиги-юстюню", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["вдаваться_1997", "деталь_5560", "тонкость_28769"], "near": ["эжиги-юстюню"]}
+{"form": "эрши-буршу", "form_src": "эрши-буршу", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["всклокоченный_3411", "гримаса_4998", "гримасничать_4999", "неприязненный_14541"], "near": ["эриши-буршу"]}
+{"form": "тешик-тешик", "form_src": "тешик-тешик", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["изрешетить_8658", "ноздреватый_15028", "пористый_20715"], "near": ["тешик-телик"]}
+{"form": "чапракълы", "form_src": "чапракълы", "count_cite": 1, "count_ctx": 5, "kb_marker": true, "is_rus_loan": false, "sources": ["лиственный_11339", "листный_11340", "махровый_11851", "чернолесье_31778"], "near": ["чапыракълы"]}
+{"form": "знаю", "form_src": "знаю", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["отчего_17705", "подойти_19753", "почемнареч_21173", "право_21283"], "near": ["знак"]}
+{"form": "джайыучу", "form_src": "джайыучу", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["популяризаторм_20665", "проповедник_22817", "просветитель_22865", "распространитель_24381"], "near": ["джазыучу", "джарыучу", "джыйыучу"]}
+{"form": "сёзчюк", "form_src": "сёзчюк", "count_cite": 1, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["ввернуть_1972", "вставить_3479", "замолвить_7478", "словечко_26556"], "near": ["сёзлюк", "сёзчю"]}
+{"form": "балачыкъ", "form_src": "балачыкъ", "count_cite": 2, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["волчонок_2966", "звереныш_8102", "крошка_10758"], "near": ["балалыкъ", "балчыкъ"]}
+{"form": "гютдю", "form_src": "гютдю", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["галета_4438", "колобок_9943", "очко_17861"], "near": ["гюттю"]}
+{"form": "татран", "form_src": "татран", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["горчица_4870", "горчичница_4872", "хрен_31352"], "near": ["таран", "татхан", "татыран"]}
+{"form": "кёлтюрюучю", "form_src": "кёлтюрюучю", "count_cite": 1, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["грузоподъемник_5067", "подлиза_19663", "подъемный_20006", "фарисей_30724"], "near": ["кёлтюртюучю"]}
+{"form": "кёрюучю", "form_src": "кёрюучю", "count_cite": 1, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["дальновидный_5182", "дегустатор_5373", "дегустатор_5473", "зрительный_8308", "ценитель_31509"], "near": ["кёбюучю", "кёрюкчю", "кёчюучю"]}
+{"form": "чегетчик", "form_src": "чегетчик", "count_cite": 1, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["дубовый_6348", "перелесок_18490", "роща_25182", "тополевый_28795"], "near": ["чегетчи"]}
+{"form": "бурхучукъ", "form_src": "бурхучукъ", "count_cite": 2, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["капелька_9349", "ноготок_15018", "частица_31645"], "near": ["бурхулукъ"]}
+{"form": "молекул", "form_src": "молекул", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["молекула_12337", "молекулярный_12338"], "near": ["молекула"]}
+{"form": "церк", "form_src": "церк", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["образ_15710", "отпеть_17413", "панихида_17978"], "near": ["jерк", "берк", "жерк", "керк"]}
+{"form": "суучукъ", "form_src": "суучукъ", "count_cite": 2, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["речка_25005", "ручей_25278"], "near": ["суулукъ", "сууукъ"]}
+{"form": "чаначыкъ", "form_src": "чаначыкъ", "count_cite": 2, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["салазки_25370", "санки_25503"], "near": ["чаналыкъ", "чыначыкъ"]}
+{"form": "билсин", "form_src": "билсин", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["авось_63", "бабушка_630", "господь_4894"], "near": ["билин"]}
+{"form": "экичлен", "form_src": "экичлен", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["бином_1268", "двучлен_5329"], "near": ["экилен"]}
+{"form": "джетегейли", "form_src": "джетегейли", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["большой_1504", "медведица_11887"], "near": ["джетегейле"]}
+{"form": "къала-балыкъ", "form_src": "къала-балыкъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["буча_1819", "суматоха_28087"], "near": ["къалабалыкъ"]}
+{"form": "экиджашар", "form_src": "экиджашар", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["бычок_1852", "двухгодовалый_5311"], "near": ["экижашар"]}
+{"form": "чыбыкъчыкъ", "form_src": "чыбыкъчыкъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["волосок_2956", "черенок_31739"], "near": ["чыбыкълыкъ"]}
+{"form": "хынгкял", "form_src": "хынгкял", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["галушки_4451", "лапша_11081"], "near": ["хынкял"]}
+{"form": "деме-нгили", "form_src": "деме-нгили", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["гигантский_4573", "устойчивый_30360"], "near": ["деменгили"]}
+{"form": "онэки", "form_src": "онэки", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["двенадцать_5232", "разделиться_23733", "час_31636"], "near": ["онеки"]}
+{"form": "тогъузчукъ", "form_src": "тогъузчукъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["девятка_5359", "девятка_5459"], "near": ["тогъузлукъ"]}
+{"form": "сызыкъ", "form_src": "сызыкъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["деление_5433", "деление_5533"], "near": ["сызлыкъ", "сылыкъ", "сыныкъ"]}
+{"form": "джуму-шакълыкъ", "form_src": "джуму-шакълыкъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["деликатность_5436", "деликатность_5536"], "near": ["джумушакълыкъ"]}
+{"form": "гашхан", "form_src": "гашхан", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["деловитый_5446", "деловитый_5546"], "near": ["шашхан"]}
+{"form": "шагърейлик", "form_src": "шагърейлик", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["знакомство_8244", "сведение_25615"], "near": ["шагъырейлик"]}
+{"form": "халисин", "form_src": "халисин", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["изучить_8684", "насквозь_13479", "узнать_29765", "характеризовать_31078"], "near": ["халисиз"]}
+{"form": "джоппучукъ", "form_src": "джоппучукъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["кисточка_9671", "кучка_11001"], "near": ["джоппулукъ"]}
+{"form": "тёгерекчик", "form_src": "тёгерекчик", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["кругленький_10761", "кружок_10779"], "near": ["тёгереклик"]}
+{"form": "татлаууз", "form_src": "татлаууз", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["лакомиться_11059", "ласковый_11091"], "near": ["татлыаууз"]}
+{"form": "аякъчыкъ", "form_src": "аякъчыкъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["лапка_11077", "ножка_15023"], "near": ["аякълыкъ", "таякъчыкъ"]}
+{"form": "къолчукъ", "form_src": "къолчукъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["лапка_11077", "ручка_25279"], "near": ["къоллукъ", "къолтукъ"]}
+{"form": "хомпа", "form_src": "хомпа", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["мешковатый_12128"], "near": ["хомпар", "хомпач", "хомпу", "хымпа"]}
+{"form": "джартысын", "form_src": "джартысын", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["наполовину_13325", "половинный_20316"], "near": ["джарлысын"]}
+{"form": "къурар-гъа", "form_src": "къурар-гъа", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["основать_16877", "построить_20978"], "near": ["къураргъа"]}
+{"form": "помочь", "form_src": "помочь", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["подсадить_19853", "пока_20122", "помогатьнесов_20511", "провести_22399"], "near": ["помощь"]}
+{"form": "юсгюрюрге", "form_src": "юсгюрюрге", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["подучить_19965", "травить_28887"], "near": ["юсдюрюрге"]}
+{"form": "леширге", "form_src": "леширге", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["резкость_24863", "спор_27448"], "near": ["илеширге", "юлеширге"]}
+{"form": "джамаучу", "form_src": "джамаучу", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["ремонтный_24922", "сапожник_25517", "судоремонтный_28054", "штопка_32386"], "near": ["джалаучу", "джашаучу"]}
+{"form": "румка", "form_src": "румка", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["рюмка_25323", "стопка_27848"], "near": ["рамка", "рубка", "ручка", "рюмка"]}
+{"form": "хурттачыкъ", "form_src": "хурттачыкъ", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["рябина_25325", "щербина_32491"], "near": ["хуртталыкъ"]}
+{"form": "акъеакъал", "form_src": "акъеакъал", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["старина_27664", "старина_27764"], "near": ["акъсакъал"]}
+{"form": "табкала", "form_src": "табкала", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["стеллаж_27731", "стеллаж_27831"], "near": ["табала"]}
+{"form": "тёнгекчик", "form_src": "тёнгекчик", "count_cite": 2, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["торец_28822", "чурка_32028"], "near": ["тёнгеклик"]}
+{"form": "бёркчюк", "form_src": "бёркчюк", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["тюбетейка_29318", "чепчик_31716", "шляпка_32297"], "near": ["бёрклюк", "бёркчю"]}
+{"form": "шап-шап", "form_src": "шап-шап", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["чавканье_31599", "чавкать_31600", "чмоканье_31950", "чмокать_31951"], "near": ["шап-шуп"]}
+{"form": "сакъалчыкъ", "form_src": "сакъалчыкъ", "count_cite": 1, "count_ctx": 2, "kb_marker": true, "is_rus_loan": false, "sources": ["бородка_1529", "козлиный_9876", "эспаньолка_32801"], "near": ["сакъаллыкъ"]}
+{"form": "кетерик", "form_src": "кетерик", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["бы_1824", "отъезжающий_17756", "эфирный_32856"], "near": ["кетери", "кетерил", "кетериу"]}
+{"form": "джангырыучу", "form_src": "джангырыучу", "count_cite": 1, "count_ctx": 2, "kb_marker": true, "is_rus_loan": false, "sources": ["возвратный_2820", "тиф_28661"], "near": ["джандырыучу"]}
+{"form": "къайтыучу", "form_src": "къайтыучу", "count_cite": 1, "count_ctx": 2, "kb_marker": true, "is_rus_loan": false, "sources": ["возвратный_2820", "отходчивый_17683"], "near": ["къайытыучу"]}
+{"form": "джаныучу", "form_src": "джаныучу", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["воспламеняемый_3115", "рожок_25117", "сгорание_25806"], "near": ["джазыучу", "джарыучу"]}
+{"form": "къабчыкъ", "form_src": "къабчыкъ", "count_cite": 1, "count_ctx": 2, "kb_marker": true, "is_rus_loan": false, "sources": ["говорливый_4726", "краснобай_10572", "мешок_12129"], "near": ["къанчыкъ", "къапчыкъ", "къарчыкъ"]}
+{"form": "келсин", "form_src": "келсин", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["год_4730", "принестисов_22022", "пусть_23261"], "near": ["келин", "кемсин"]}
+{"form": "кетсин", "form_src": "кетсин", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["долой_6006", "трава_28885", "тяп_29361"], "near": ["бетсин", "кемсин"]}
+{"form": "айтчы", "form_src": "айтчы", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["загадать_7000", "ка_9197", "ну_15112"], "near": ["айты", "антчы", "атчы"]}
+{"form": "къагыт", "form_src": "къагыт", "count_cite": 1, "count_ctx": 2, "kb_marker": true, "is_rus_loan": false, "sources": ["обои_15641", "эмиссия_32729", "ярлык_33002"], "near": ["къагъыт", "къайыт", "къашыт"]}
+{"form": "гаганак", "form_src": "гаганак", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": false, "sources": ["шишка_32256"], "near": ["гагарак"]}
+{"form": "кёзюлдреуюк", "form_src": "кёзюлдреуюк", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["бинокль_1267", "в_1865"], "near": ["кёзюлдюреуюк"]}
+{"form": "кайтыргъа", "form_src": "кайтыргъа", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["возвратиться_2819", "зайти_7229"], "near": ["айтыргъа"]}
+{"form": "къычы-рыргъа", "form_src": "къычы-рыргъа", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["гаркнуть_4472", "орать_16669"], "near": ["къычырыргъа"]}
+{"form": "башчыкъ", "form_src": "башчыкъ", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["головка_4748", "пестик_18879"], "near": ["jашчыкъ", "балчыкъ", "башлыкъ", "жашчыкъ"]}
+{"form": "къулакъчыкъ", "form_src": "къулакъчыкъ", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["грибок_4995", "ушко_30627"], "near": ["къалакъчыкъ", "къулакълыкъ"]}
+{"form": "бузуучу", "form_src": "бузуучу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["губитель_5108", "меняла_11985"], "near": ["бузоучу"]}
+{"form": "гонта", "form_src": "гонта", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["дылда_6420", "олух_16428"], "near": ["гонда", "гота", "хонта"]}
+{"form": "сапран", "form_src": "сапран", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["желтуха_6663"], "near": ["саплан", "сапыран"]}
+{"form": "табыучу", "form_src": "табыучу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["изобретатель_8623", "разведчик_23567"], "near": ["таныучу", "ташыучу", "чабыучу"]}
+{"form": "индонезия", "form_src": "индонезия", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["индонезийский_8798"], "near": ["индонезии"]}
+{"form": "ланнган", "form_src": "ланнган", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["колотый_9975", "плацдарм_19099"], "near": ["jаннган"]}
+{"form": "тогъайлы", "form_src": "тогъайлы", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["кольчатый_9999"], "near": ["ногъайлы", "тогъайты", "тогъайы"]}
+{"form": "чанчыучу", "form_src": "чанчыучу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["колющий_10003", "холодный_31284"], "near": ["чачыучу"]}
+{"form": "ёс-дюрюу", "form_src": "ёс-дюрюу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["культивирование_10896", "урожайность_30218"], "near": ["ёсдюрюу"]}
+{"form": "культура-джашау", "form_src": "культура-джашау", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["культурно_10904"], "near": ["культура-жашау"]}
+{"form": "талачыкъ", "form_src": "талачыкъ", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["лужайка_11492"], "near": ["табачыкъ", "талчыкъ"]}
+{"form": "махтаучу", "form_src": "махтаучу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["льстец_11537", "трубадур_29125"], "near": ["махтаулу"]}
+{"form": "атлаучу", "form_src": "атлаучу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["мостовой_12459", "подножка_19720"], "near": ["азлаучу", "атаучу"]}
+{"form": "кергюзтюрге", "form_src": "кергюзтюрге", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["напоказ_13317"], "near": ["кёргюзтюрге"]}
+{"form": "сынмаучу", "form_src": "сынмаучу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["небьющийся_13811"], "near": ["сынаучу"]}
+{"form": "энйшге", "form_src": "энйшге", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["ниже_14889"], "near": ["энишге"]}
+{"form": "ноллюк", "form_src": "ноллюк", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["нолевой_15032"], "near": ["нольлюк"]}
+{"form": "къара-къара", "form_src": "къара-къара", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["ого_16046"], "near": ["къара-къура"]}
+{"form": "ыхдырыу", "form_src": "ыхдырыу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["отпор_17436", "отражение_17481"], "near": ["ыхтырыу"]}
+{"form": "теричик", "form_src": "теричик", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["пленка_19126", "шкурка_32268"], "near": ["теличик", "теричи"]}
+{"form": "гатон", "form_src": "гатон", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["плуг_19193", "электроплуг_32688"], "near": ["батон", "газон", "готон"]}
+{"form": "атчыкъ", "form_src": "атчыкъ", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["поним_20564", "трусить_29159"], "near": ["азчыкъ", "атлыкъ", "ачыкъ"]}
+{"form": "пьесу", "form_src": "пьесу", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["посмотреть_20890", "поставить_20929"], "near": ["пьеса"]}
+{"form": "дараджасын", "form_src": "дараджасын", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["продвижение_22499", "развенчать_23573"], "near": ["дараджасыз"]}
+{"form": "халлылыкъ", "form_src": "халлылыкъ", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["равномерность_23412", "типичность_28634"], "near": ["баллылыкъ", "халылыкъ"]}
+{"form": "тийиучю", "form_src": "тийиучю", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["раздражитель_23754", "щепетильный_32486"], "near": ["тигиучю", "титиучю"]}
+{"form": "чыкълы", "form_src": "чыкълы", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["росистый_25159"], "near": ["чакълы"]}
+{"form": "сууукъчукъ", "form_src": "сууукъчукъ", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["холодок_31285"], "near": ["сууукълукъ"]}
+{"form": "кёзюулешдирирге", "form_src": "кёзюулешдирирге", "count_cite": 1, "count_ctx": 1, "kb_marker": true, "is_rus_loan": false, "sources": ["чередовать_31734"], "near": ["кёзюулетдирирге"]}
+{"form": "кёнчекчик", "form_src": "кёнчекчик", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": false, "sources": ["штанишки_32369"], "near": ["кёнчеклик"]}
+{"form": "чиллаякъ", "form_src": "чиллаякъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["аист_166"], "near": ["чиллеаякъ"]}
+{"form": "акушёр", "form_src": "акушёр", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["акушер_223"], "near": ["акушер"]}
+{"form": "америка", "form_src": "америка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["американский_285"], "near": ["американ"]}
+{"form": "афри-ка", "form_src": "афри-ка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["африканский_598"], "near": ["африка"]}
+{"form": "каптал", "form_src": "каптал", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["балахон_669"], "near": ["капитал", "къаптал", "шаптал"]}
+{"form": "джеигил", "form_src": "джеигил", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["бегло_805"], "near": ["джегил", "дженгил"]}
+{"form": "аамансыз", "form_src": "аамансыз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["безвременный_870"], "near": ["замансыз"]}
+{"form": "юйюрсюз", "form_src": "юйюрсюз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["бездомный_897"], "near": ["юйюрсюн"]}
+{"form": "тынгылауук", "form_src": "тынгылауук", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["безмолвный_931"], "near": ["тынгылауукъ"]}
+{"form": "бельгия", "form_src": "бельгия", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["бельгийский_1054"], "near": ["бельгий"]}
+{"form": "джарачыкъ", "form_src": "джарачыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["болячка_1505"], "near": ["джарчыкъ"]}
+{"form": "бёчкечик", "form_src": "бёчкечик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["бочонок_1554"], "near": ["бёчкелик", "бёчкечи"]}
+{"form": "брошь", "form_src": "брошь", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["брошка_1665"], "near": ["бронь"]}
+{"form": "алгъынгы", "form_src": "алгъынгы", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["бывший_1828"], "near": ["алгъыннгы"]}
+{"form": "биши-риу", "form_src": "биши-риу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["варенец_1924"], "near": ["бишириу"]}
+{"form": "джагъымлы-лыкъ", "form_src": "джагъымлы-лыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["вежливость_2064"], "near": ["джагъымлылыкъ"]}
+{"form": "ёхтем-лик", "form_src": "ёхтем-лик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["велйчие_2091"], "near": ["ёхтемлик"]}
+{"form": "сеп-килбет", "form_src": "сеп-килбет", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["веснушчатый_2203"], "near": ["сепкилбет"]}
+{"form": "чайкъар-гъа", "form_src": "чайкъар-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["взволновать_2311"], "near": ["чайкъаргъа"]}
+{"form": "тёгю-люу", "form_src": "тёгю-люу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["взрыв_2386"], "near": ["тёгюлюу"]}
+{"form": "атыл-тыучу", "form_src": "атыл-тыучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["взрыватель_2387"], "near": ["атылтыучу"]}
+{"form": "кюч-лю", "form_src": "кюч-лю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["взыскательный_2403"], "near": ["кючлю"]}
+{"form": "сыйыныр-гъа", "form_src": "сыйыныр-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["вместиться_2627"], "near": ["сыйыныргъа"]}
+{"form": "джасыкъсындырыргъа", "form_src": "джасыкъсындырыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["внушить_2694"], "near": ["джазыкъсындырыргъа"]}
+{"form": "таууш-тюйюш", "form_src": "таууш-тюйюш", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["возня_2893"], "near": ["таууш-тюйюн"]}
+{"form": "ай-тылыргъа", "form_src": "ай-тылыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["войти_2926"], "near": ["айтылыргъа"]}
+{"form": "къа-джыкъмагъан", "form_src": "къа-джыкъмагъан", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["волевой_2934"], "near": ["къаджыкъмагъан"]}
+{"form": "хой-нух", "form_src": "хой-нух", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["волчок_2965"], "near": ["хойнух"]}
+{"form": "тюнгю-люрге", "form_src": "тюнгю-люрге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["впасть_3207"], "near": ["тюнгюлюрге"]}
+{"form": "кенъ", "form_src": "кенъ", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["вразрядку_3293"], "near": ["кенг"]}
+{"form": "тющюрюрге", "form_src": "тющюрюрге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["выбить_3615"], "near": ["тюкюрюрге", "тюшюрюрге"]}
+{"form": "сакъларъгъа", "form_src": "сакъларъгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["выждать_3773"], "near": ["сакъларгъа"]}
+{"form": "кабаргъа", "form_src": "кабаргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["выиграть_3803"], "near": ["къабаргъа", "табаргъа", "чабаргъа"]}
+{"form": "къобар-гъа", "form_src": "къобар-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["выступить_4225"], "near": ["къобаргъа"]}
+{"form": "аша-тыргъа", "form_src": "аша-тыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["вытравить_4271"], "near": ["ашалтыргъа", "ашатыргъа"]}
+{"form": "эчкагъач", "form_src": "эчкагъач", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["вяз_4373"], "near": ["эчкиагъач"]}
+{"form": "къор-къунчлу", "form_src": "къор-къунчлу", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["гибельный_4564"], "near": ["къоркъунчлу"]}
+{"form": "кёзчюк", "form_src": "кёзчюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["глазок_4635"], "near": ["кёзлюк"]}
+{"form": "ангъысызлыкъ", "form_src": "ангъысызлыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["глупость_4676"], "near": ["ангысызлыкъ"]}
+{"form": "пошот", "form_src": "пошот", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["головка_4748"], "near": ["пашот", "пошт"]}
+{"form": "сылхыр-башлыкъ", "form_src": "сылхыр-башлыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["головотяпство_4757"], "near": ["сылхырбашлыкъ"]}
+{"form": "таучукъ", "form_src": "таучукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["горка_4833"], "near": ["тауукъ"]}
+{"form": "тамакъчыкъ", "form_src": "тамакъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["горлышко_4842"], "near": ["тамакълыкъ"]}
+{"form": "къоркъу-тургъа", "form_src": "къоркъу-тургъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["грозйЦть_5014"], "near": ["къоркъутургъа"]}
+{"form": "сакъ-ларгъа", "form_src": "сакъ-ларгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["грозйЦть_5014"], "near": ["сакъларгъа"]}
+{"form": "кемириучу", "form_src": "кемириучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["грызун_5090"], "near": ["кемириучю"]}
+{"form": "джытча", "form_src": "джытча", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["губа_5103"], "near": ["джитча"]}
+{"form": "дарвиниз", "form_src": "дарвиниз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["дарвинизм_5198"], "near": ["дарвинизм"]}
+{"form": "онэкинчи", "form_src": "онэкинчи", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["двенадцатый_5231"], "near": ["онекинчи"]}
+{"form": "млылыкъ", "form_src": "млылыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["долговечность_5977"], "near": ["мылылыкъ"]}
+{"form": "би-шириу", "form_src": "би-шириу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["доработка_6113"], "near": ["бишириу"]}
+{"form": "къангъачыкъ", "form_src": "къангъачыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["дощечка_6241"], "near": ["къангачыкъ"]}
+{"form": "юлешянирге", "form_src": "юлешянирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["дробиться_6294"], "near": ["юлешинирге"]}
+{"form": "тенгчик", "form_src": "тенгчик", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["дружок_6326"], "near": ["тенглик"]}
+{"form": "тэтах", "form_src": "тэтах", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["дружок_6326"], "near": ["татах"]}
+{"form": "салашгюр", "form_src": "салашгюр", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["дылда_6420"], "near": ["салашкюр"]}
+{"form": "дюимлюк", "form_src": "дюимлюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["дюймовый_6450"], "near": ["дюймлюк"]}
+{"form": "сыйыннгылы", "form_src": "сыйыннгылы", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["емкий_6547"], "near": ["сыйынгылы"]}
+{"form": "манггал", "form_src": "манггал", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["жаровня_6620"], "near": ["мангал"]}
+{"form": "кошакъланнган", "form_src": "кошакъланнган", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["жеманный_6674"], "near": ["къошакъланнган"]}
+{"form": "гъурманлыкъ", "form_src": "гьурманлыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["жертва_6698"], "near": ["къурманлыкъ"]}
+{"form": "патарчы", "form_src": "патарчы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["жилец_6755"], "near": ["фатарчы"]}
+{"form": "ашау-джашау", "form_src": "ашау-джашау", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["житье_6774"], "near": ["ашау-жашау"]}
+{"form": "уну-тулгъан", "form_src": "уну-тулгъан", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["забытый_6888"], "near": ["унутулгъан"]}
+{"form": "кеми-рирге", "form_src": "кеми-рирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["загрызть_7080"], "near": ["кемирирге"]}
+{"form": "къор-къутургъа", "form_src": "къор-къутургъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["задать_7094"], "near": ["къоркъутургъа"]}
+{"form": "къалкыргъа", "form_src": "къалкыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["задремать_7133"], "near": ["къалкъыргъа", "къалыргъа"]}
+{"form": "джукъусу-раргъа", "form_src": "джукъусу-раргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["задремать_7133"], "near": ["джукъусураргъа"]}
+{"form": "къоянчыкъ", "form_src": "къоянчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["зайчик_7231"], "near": ["къоянчакъ"]}
+{"form": "этиучу", "form_src": "этиучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["законодательной_7312"], "near": ["этиучю"]}
+{"form": "джа-быкъ", "form_src": "джа-быкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["закрытый_7356"], "near": ["джабыкъ"]}
+{"form": "къа-баргъа", "form_src": "къа-баргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["закусить_7371"], "near": ["къабаргъа"]}
+{"form": "аууз-ланыргъа", "form_src": "аууз-ланыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["закусить_7372"], "near": ["ауузланыргъа"]}
+{"form": "ашар-гъа", "form_src": "ашар-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["закусить_7372"], "near": ["ашаргъа"]}
+{"form": "чёр-герге", "form_src": "чёр-герге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["закутать_7376"], "near": ["чёргерге"]}
+{"form": "мы-чытыргъа", "form_src": "мы-чытыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["замедлить_7435"], "near": ["мычытыргъа"]}
+{"form": "сезер-ге", "form_src": "сезер-ге", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["заметить_7455"], "near": ["сезерге"]}
+{"form": "абзырамакълыкъ", "form_src": "абзырамакълыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["замешательство_7464"], "near": ["абызырамакълыкъ"]}
+{"form": "къатыш-дырыргъа", "form_src": "къатыш-дырыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["замешать_7465"], "near": ["къатышдырыргъа"]}
+{"form": "кер-ти", "form_src": "кер-ти", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["заслуженно_7798"], "near": ["керти"]}
+{"form": "чюй-ре", "form_src": "чюй-ре", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["затруднительный_7963"], "near": ["чюйре"]}
+{"form": "созул-гъан", "form_src": "созул-гъан", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["затяжной_7985"], "near": ["созулгъан"]}
+{"form": "узайтыр-гъа", "form_src": "узайтыр-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["затянуть_7986"], "near": ["узайтыргъа"]}
+{"form": "чыр-маргъа", "form_src": "чыр-маргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["затянуть_7986"], "near": ["чырмаргъа"]}
+{"form": "джул-дузлу", "form_src": "джул-дузлу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["звездный_8097"], "near": ["джулдузлу"]}
+{"form": "беги-меген", "form_src": "беги-меген", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["зыбкий_8326"], "near": ["бегимеген"]}
+{"form": "тебиниучю", "form_src": "тебиниучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["импульсивный_8760"], "near": ["тешиниучю"]}
+{"form": "испаниялы", "form_src": "испаниялы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["испанец_9005"], "near": ["испаниячы"]}
+{"form": "тебсеучю", "form_src": "тебсеучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["исполнитель_9037"], "near": ["тепсеучю"]}
+{"form": "къырыучу", "form_src": "къырыучу", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["истребитель_9135"], "near": ["къызыучу", "къыйыучу", "къымыучу"]}
+{"form": "харчевня", "form_src": "харчевня", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["кабак_9198"], "near": ["харчевна"]}
+{"form": "квалификациясын", "form_src": "квалификациясын", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["квалифицировать_9548"], "near": ["квалификациясыз"]}
+{"form": "токъмакъчыкъ", "form_src": "токъмакъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["кисточка_9671"], "near": ["токъмакълыкъ"]}
+{"form": "кюйюзчюк", "form_src": "кюйюзчюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["коврик_9840"], "near": ["кюйюзлюк", "кюйюзчю"]}
+{"form": "тюбгюч", "form_src": "тюбгюч", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["колода_9944"], "near": ["тюйгюч", "тюкгюч", "тюнгюч", "тюпгюч"]}
+{"form": "тартдырыучу", "form_src": "тартдырыучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["колок_9949"], "near": ["тартдырыулу"]}
+{"form": "джарыр-гъа", "form_src": "джарыр-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["колоть_9977"], "near": ["джарыргъа"]}
+{"form": "хыликке-лик", "form_src": "хыликке-лик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["комедия_10032"], "near": ["хыликкелик"]}
+{"form": "тюшюыдюрюу", "form_src": "тюшюыдюрюу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["комментарии_10047"], "near": ["тюшюндюрюу"]}
+{"form": "контингент", "form_src": "контингент", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["контингент_10196"], "near": ["континент"]}
+{"form": "ортаат", "form_src": "ортаат", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["коренник_10330"], "near": ["орталат"]}
+{"form": "къысхачач", "form_src": "къысхачач", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["коротко_10383"], "near": ["къысхача"]}
+{"form": "къыйтыгъаууз", "form_src": "къыйтыгъаууз", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["косо_10456"], "near": ["къыйсыгъаууз"]}
+{"form": "къабыргъз", "form_src": "къабыргъз", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["косогор_10463"], "near": ["къабыргъа"]}
+{"form": "чоюнчу", "form_src": "чоюнчу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["котельщик_10490"], "near": ["оюнчу"]}
+{"form": "къыйырчыкъ", "form_src": "къыйырчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["краешек_10541"], "near": ["къыйырлыкъ"]}
+{"form": "къызылджаякъ", "form_src": "къызылджаякъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["краснощекий_10582"], "near": ["къызылжаякъ"]}
+{"form": "джартакъыл", "form_src": "джартакъыл", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["кретин_10665"], "near": ["джартыакъыл"]}
+{"form": "бузу-луу", "form_src": "бузу-луу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["крушение_10805"], "near": ["бузулуу"]}
+{"form": "гюр-беджи", "form_src": "гюр-беджи", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["кузнечный_10861"], "near": ["гюрбеджи"]}
+{"form": "гинджичик", "form_src": "гинджичик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["куколка_10869"], "near": ["гинджилик"]}
+{"form": "гу-гук", "form_src": "гу-гук", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ку_10871"], "near": ["гугук"]}
+{"form": "джарашыу-лукъ", "form_src": "джарашыу-лукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["лад_11027"], "near": ["джарашыулукъ"]}
+{"form": "чыракъчыкъ", "form_src": "чыракъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["лампочка_11071"], "near": ["чыракълыкъ"]}
+{"form": "ахыюл", "form_src": "ахыюл", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ледоход_11151"], "near": ["ахуюл", "ахыл"]}
+{"form": "сызлыкълы", "form_src": "сызлыкълы", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["линованный_11313"], "near": ["ызлыкълы"]}
+{"form": "бетчик", "form_src": "бетчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["личико_11386"], "near": ["бетлик"]}
+{"form": "къаиыкъ", "form_src": "къаиыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["лодочн_11424"], "near": ["къазыкъ", "къайыкъ", "къаныкъ", "къарыкъ"]}
+{"form": "тилкемчик", "form_src": "тилкемчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ломтик_11458"], "near": ["тилкемлик"]}
+{"form": "беккя-хын", "form_src": "беккя-хын", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["лопата_11461"], "near": ["беккяхын"]}
+{"form": "джа-рытыргъа", "form_src": "джа-рытыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["луч_11510"], "near": ["джарытыргъа"]}
+{"form": "алдырла-ныргъа", "form_src": "алдырла-ныргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["льстить_11539"], "near": ["алдырланыргъа"]}
+{"form": "анам", "form_src": "анам", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["мама_11705"], "near": ["адам", "алам", "анай", "арам"]}
+{"form": "мармалат", "form_src": "мармалат", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["мармелад_11767"], "near": ["jармалат", "жармалат", "мардалат"]}
+{"form": "сарайгъалла", "form_src": "сарайгъалла", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["медведица_11887"], "near": ["сарайгъанла"]}
+{"form": "лыш-мыш", "form_src": "лыш-мыш", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["мешковатый_12128"], "near": ["хыш-мыш"]}
+{"form": "джумашакъ", "form_src": "джумашакъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["милостивый_12169"], "near": ["джумушакъ"]}
+{"form": "хатер-ли", "form_src": "хатер-ли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["милостивый_12169"], "near": ["хатерли"]}
+{"form": "карыулу", "form_src": "карыулу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["могучий_12300"], "near": ["къарыулу"]}
+{"form": "къудрет", "form_src": "къудрет", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["могущество_12302"], "near": ["къудурет"]}
+{"form": "сы-лыкъ", "form_src": "сы-лыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["молодчик_12356"], "near": ["сызлыкъ", "сыйлыкъ", "сылыкъ"]}
+{"form": "мотобычхы", "form_src": "мотобычхы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["мотопила_12472"], "near": ["мотомычхы"]}
+{"form": "хумелек", "form_src": "хумелек", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["мотылек_12486"], "near": ["хумеллек"]}
+{"form": "юйдегим", "form_src": "юйдегим", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["моя_12515"], "near": ["юйдеги"]}
+{"form": "муазин", "form_src": "муазин", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["муэдзин_12597"], "near": ["муадзин", "мууазин"]}
+{"form": "къаландырыртъа", "form_src": "къаландырыртъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["нагромоздить_12865"], "near": ["къаландырыргъа"]}
+{"form": "рургъа", "form_src": "рургъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["наклонност_13102"], "near": ["орургъа", "урургъа"]}
+{"form": "сын-дырыргъа", "form_src": "сын-дырыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["наколоть_13108"], "near": ["сындырыргъа"]}
+{"form": "ахы-рында", "form_src": "ахы-рында", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["наконец_13111"], "near": ["ахырында"]}
+{"form": "ахы-рысы-къысхасы", "form_src": "ахы-рысы-къысхасы", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["наконец_13111"], "near": ["ахырысы-къысхасы"]}
+{"form": "чюй-ресине", "form_src": "чюй-ресине", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["наперекор_13285"], "near": ["чюйресине"]}
+{"form": "дук-кулларгъа", "form_src": "дук-кулларгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["нарвать_13388"], "near": ["дуккулларгъа"]}
+{"form": "къа-дар", "form_src": "къа-дар", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["насколько_13481"], "near": ["къадар"]}
+{"form": "тарты-лыргъа", "form_src": "тарты-лыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["натянуться_13652"], "near": ["тартылыргъа"]}
+{"form": "хый-сабсыз", "form_src": "хый-сабсыз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["невероятный_13830"], "near": ["хыйсабсыз"]}
+{"form": "чегимсизлик", "form_src": "чегимсизлик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["невесомость_13833"], "near": ["бегимсизлик"]}
+{"form": "чегимсиз", "form_src": "чегимсиз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["невесомый_13834"], "near": ["бегимсиз"]}
+{"form": "карамсыз", "form_src": "карамсыз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["невзрачный_13843"], "near": ["къарамсыз"]}
+{"form": "тыигъысызлыкъ", "form_src": "тыигъысызлыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["невоздержанность_13870"], "near": ["тыйгъысызлыкъ"]}
+{"form": "басымлы-лыкъ", "form_src": "басымлы-лыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["невозмутимость_13875"], "near": ["басымлылыкъ"]}
+{"form": "тыйгъы-сыз", "form_src": "тыйгъы-сыз", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["невыдержанный_13904"], "near": ["тыйгъысыз", "тыйгъычсыз"]}
+{"form": "ыйыкъ-лыкъ", "form_src": "ыйыкъ-лыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["недельный_13956"], "near": ["ыйыкълыкъ"]}
+{"form": "арад", "form_src": "арад", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["недоразумение_14036"], "near": ["араb", "араб", "арада", "арал"]}
+{"form": "танъ", "form_src": "танъ", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["недурной_14081"], "near": ["тагъ", "такъ", "тана", "танг"]}
+{"form": "сыл-таулу", "form_src": "сыл-таулу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["неестественный_14084"], "near": ["сылтаулу"]}
+{"form": "магъа-насызлыкъ", "form_src": "магъа-насызлыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["нелепость_14240"], "near": ["магъанасызлыкъ"]}
+{"form": "хала-хосталыкъ", "form_src": "хала-хосталыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["неопрятность_14378"], "near": ["халахосталыкъ"]}
+{"form": "хала-хоста", "form_src": "хала-хоста", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["неопрятный_14379"], "near": ["халахоста"]}
+{"form": "коймагъан", "form_src": "коймагъан", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["неотступный_14408"], "near": ["тоймагъан"]}
+{"form": "джалгъан-маучу", "form_src": "джалгъан-маучу", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["несклоняемый_14647"], "near": ["джалгъанмаучу"]}
+{"form": "заман-сыз", "form_src": "заман-сыз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["неурочный_14796"], "near": ["замансыз"]}
+{"form": "буаукъсуз", "form_src": "буаукъсуз", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["неуязвимый_14821"], "near": ["бузукъсуз"]}
+{"form": "алага", "form_src": "алага", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ним_14942"], "near": ["алагъа", "алада", "алаша"]}
+{"form": "къоратыртъа", "form_src": "къоратыртъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ниспровергнуть_14954"], "near": ["къоратыргъа"]}
+{"form": "халычыкъ", "form_src": "халычыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ниточка_14957"], "near": ["халылыкъ"]}
+{"form": "маггъанасызлыкъ", "form_src": "маггъанасызлыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ничтожность_14971"], "near": ["магъанасызлыкъ"]}
+{"form": "бурунчукъ", "form_src": "бурунчукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["носик_15066"], "near": ["бурундукъ"]}
+{"form": "окет", "form_src": "окет", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ну_15113"], "near": ["окот", "октет"]}
+{"form": "эски-рирге", "form_src": "эски-рирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["обветшать_15183"], "near": ["эскирирге"]}
+{"form": "терелеучю", "form_src": "терелеучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["обвинитель_15191"], "near": ["керелеучю", "терлеучю", "терслеучю"]}
+{"form": "айыблаучу", "form_src": "айыблаучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["обвинитель_15191"], "near": ["айыплаучу"]}
+{"form": "сейиреиндирирге", "form_src": "сейиреиндирирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["обворожить_15215"], "near": ["сейирсиндирирге"]}
+{"form": "овоулашыргъа", "form_src": "овоулашыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["обговорить_15222"], "near": ["оноулашыргъа"]}
+{"form": "баджарыл-макълыкъ", "form_src": "баджарыл-макълыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["обеспеченность_15318"], "near": ["баджарылмакълыкъ"]}
+{"form": "охот", "form_src": "охот", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["обложить_15474"], "near": ["окот"]}
+{"form": "сюр-терге", "form_src": "сюр-терге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["обмахнуть_15511"], "near": ["сюртерге"]}
+{"form": "веществ", "form_src": "веществ", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["обмен_15515"], "near": ["вещество"]}
+{"form": "икон", "form_src": "икон", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["образ_15710"], "near": ["икона"]}
+{"form": "без-дирирге", "form_src": "без-дирирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["одолеть_16195"], "near": ["бездирирге"]}
+{"form": "баппап", "form_src": "баппап", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["одуванчик_16199"], "near": ["баппан"]}
+{"form": "кёллеыиу", "form_src": "кёллеыиу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["одушевление_16217"], "near": ["кёллениу"]}
+{"form": "малхуяр", "form_src": "малхуяр", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["олух_16428"], "near": ["малхыяр"]}
+{"form": "курамлы", "form_src": "курамлы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["организованно_16679"], "near": ["къурамлы"]}
+{"form": "юре-нирге", "form_src": "юре-нирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ориентироваться_16704"], "near": ["юренирге"]}
+{"form": "ачыкъ-лау", "form_src": "ачыкъ-лау", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["освещение_16768"], "near": ["ачыкълау"]}
+{"form": "бошлаучу", "form_src": "бошлаучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["освободитель_16772"], "near": ["башлаучу"]}
+{"form": "хор-ларгъа", "form_src": "хор-ларгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["осилить_16800"], "near": ["хорларгъа"]}
+{"form": "бош-ларгъа", "form_src": "бош-ларгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ослабить_16830"], "near": ["бошларгъа"]}
+{"form": "таяышыргъа", "form_src": "таяышыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["осмотреться_16858"], "near": ["табышыргъа", "тайышыргъа", "тамышыргъа", "танышыргъа"]}
+{"form": "къы-зыу", "form_src": "къы-зыу", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ответственный_17049"], "near": ["къызыу"]}
+{"form": "кайдан", "form_src": "кайдан", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["откуда_17252"], "near": ["айдан", "кардан", "къайдан", "майдан"]}
+{"form": "чир-китирге", "form_src": "чир-китирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["оттолкнуть_17649"], "near": ["чиркитирге"]}
+{"form": "тазалар-гъа", "form_src": "тазалар-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["отчистить_17724"], "near": ["тазаларгъа"]}
+{"form": "зтиу", "form_src": "зтиу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["оформление_17780"], "near": ["итиу", "этиу"]}
+{"form": "очам", "form_src": "очам", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["очей_17838"], "near": ["орам"]}
+{"form": "атам", "form_src": "атам", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["папа_17988"], "near": ["адам", "алам", "арам", "атай"]}
+{"form": "тенг-лик", "form_src": "тенг-лик", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["паритет_18028"], "near": ["тенглик"]}
+{"form": "хынгкел", "form_src": "хынгкел", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["перевязь_18309"], "near": ["хынкел"]}
+{"form": "джырчыкъ", "form_src": "джырчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["песенка_18865"], "near": ["джарчыкъ", "джырыкъ"]}
+{"form": "понг", "form_src": "понг", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["пинг_18968"], "near": ["гонг", "донг", "монг", "пони"]}
+{"form": "бёрекчик", "form_src": "бёрекчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пирожок_18986"], "near": ["бёреклик"]}
+{"form": "пирчик", "form_src": "пирчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пирушка_18989"], "near": ["бирчик", "чирчик"]}
+{"form": "ёзтутхан", "form_src": "ёзтутхан", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["питательный_19011"], "near": ["кёзтутхан"]}
+{"form": "кюйган", "form_src": "кюйган", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["подгорелый_19522"], "near": ["кюйген"]}
+{"form": "подъёмник", "form_src": "подъёмник", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["подъемник_20005"], "near": ["подъемник"]}
+{"form": "ленинча", "form_src": "ленинча", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["по_20238"], "near": ["ленинчи"]}
+{"form": "кууукъ", "form_src": "кууукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["полова_20313"], "near": ["jууукъ", "жууукъ", "къууукъ", "сууукъ"]}
+{"form": "помадка", "form_src": "помадка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["помадкаж_20450"], "near": ["помада"]}
+{"form": "помета", "form_src": "помета", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пометкаж_20479"], "near": ["комета"]}
+{"form": "яанг", "form_src": "яанг", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["понятиес_20591"], "near": ["данг", "занг", "манг", "ранг"]}
+{"form": "понятой", "form_src": "понятой", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["понятойм_20596"], "near": ["понатой"]}
+{"form": "эштилирге", "form_src": "эштилирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["послышаться_20881"], "near": ["этилирге", "эшилирге", "эшитилирге"]}
+{"form": "посул", "form_src": "посул", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["посудный_21000"], "near": ["посол"]}
+{"form": "сюнюмлю", "form_src": "сюнюмлю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["привлекательный_21713"], "near": ["сюйюмлю"]}
+{"form": "привод", "form_src": "привод", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["приводной_21718"], "near": ["приход"]}
+{"form": "резолюций", "form_src": "резолюций", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["принятиес_22042"], "near": ["резолюция"]}
+{"form": "притон", "form_src": "притон", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["притонм_22238"], "near": ["питон", "протон", "тритон"]}
+{"form": "проекция", "form_src": "проекция", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["проекцияж_22558"], "near": ["протекция"]}
+{"form": "прозалы", "form_src": "прозалы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["прозаический_22578"], "near": ["пробалы", "прозачы"]}
+{"form": "чамат", "form_src": "чамат", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["прозвищес_22582"], "near": ["jамат", "жамат"]}
+{"form": "архит", "form_src": "архит", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["просвет_22864"], "near": ["архив"]}
+{"form": "ыстындау", "form_src": "ыстындау", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["простокваша_22956"], "near": ["мыстындау", "ыстымдау"]}
+{"form": "шешачыкъ", "form_src": "шешачыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["пузырекм_23225"], "near": ["шышачыкъ"]}
+{"form": "пулемет", "form_src": "пулемет", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пулеметм_23228"], "near": ["пулемёт"]}
+{"form": "тынгъылы", "form_src": "тынгъылы", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["пунктуальный_23238"], "near": ["тыгъылы", "тыйгъылы", "тынгылы"]}
+{"form": "тутхучеуз", "form_src": "тутхучеуз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пустой_23252"], "near": ["тутхучсуз"]}
+{"form": "джандракёз", "form_src": "джандракёз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пучеглазый_23288"], "near": ["джандыракёз"]}
+{"form": "бешчик", "form_src": "бешчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["пятокм_23365"], "near": ["бешик", "пешчик"]}
+{"form": "тенгликъ", "form_src": "тенгликъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["равномерность_23412"], "near": ["тенглик"]}
+{"form": "аиырылыргъа", "form_src": "аиырылыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["разбираться_23512"], "near": ["айырылыргъа", "ашырылыргъа"]}
+{"form": "зулмучут", "form_src": "зулмучут", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["разбойник_23519"], "near": ["зулмучу"]}
+{"form": "кёгюзтюргё", "form_src": "кёгюзтюргё", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["развернуть_23576"], "near": ["кёгюзтюрге"]}
+{"form": "айрылыргъа", "form_src": "айрылыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["развестись_23587"], "near": ["айтылыргъа", "айырылыргъа"]}
+{"form": "айтдырыртъа", "form_src": "айтдырыртъа", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["развязать_23639"], "near": ["айтдырыргъа"]}
+{"form": "ачытыучу", "form_src": "ачытыучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["раздражитель_23754"], "near": ["ачылыучу"]}
+{"form": "ачыкъаууз", "form_src": "ачыкъаууз", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["разиня_23793"], "near": ["ачыгъаууз"]}
+{"form": "седретирге", "form_src": "седретирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["размотать_23902"], "near": ["седиретирге"]}
+{"form": "седрерге", "form_src": "седрерге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["размотаться_23903"], "near": ["седирерге"]}
+{"form": "тюйгюлген", "form_src": "тюйгюлген", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["разочарованный_24009"], "near": ["тюнгюлген"]}
+{"form": "чачылыучу", "form_src": "чачылыучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["разрывной_24058"], "near": ["ачылыучу"]}
+{"form": "нган", "form_src": "нган", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["расписной_24306"], "near": ["наган"]}
+{"form": "кел-бетли", "form_src": "кел-бетли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["располагающий_24341"], "near": ["келбетли"]}
+{"form": "тющгени", "form_src": "тющгени", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["распределение_24366"], "near": ["тюгени"]}
+{"form": "зсеб", "form_src": "зсеб", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["расчетный_24677"], "near": ["эсеб"]}
+{"form": "джегенчик", "form_src": "джегенчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["рогожка_25073"], "near": ["джегенлик"]}
+{"form": "хамхотчукъ", "form_src": "хамхотчукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["рыльце_25303"], "near": ["хамхотлукъ"]}
+{"form": "терсакъыллык", "form_src": "терсакъыллык", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["самодурство_25415"], "near": ["терсакъыллыкъ"]}
+{"form": "мур-мурчу", "form_src": "мур-мурчу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["сварливый_25603"], "near": ["мурмурчу"]}
+{"form": "северо-восток", "form_src": "северо-восток", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["северо_25873"], "near": ["север-восток"]}
+{"form": "сербиялы", "form_src": "сербиялы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["серб_26005"], "near": ["сериялы"]}
+{"form": "кегерирге", "form_src": "кегерирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["синеть_26141"], "near": ["кенгерирге", "кетерирге", "кёгерирге"]}
+{"form": "сирия", "form_src": "сирия", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["сирийский_26165"], "near": ["серия", "сириу"]}
+{"form": "тёрк", "form_src": "тёрк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["скоро_26344"], "near": ["бёрк", "терк", "тюрк", "тёре"]}
+{"form": "словакиялы", "form_src": "словакиялы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["словак_26550"], "near": ["словакиячы"]}
+{"form": "ущаргъа", "form_src": "ущаргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["смахивать_26639"], "near": ["унаргъа", "утаргъа", "ууаргъа", "учаргъа"]}
+{"form": "хылик-келик", "form_src": "хылик-келик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["смехотворный_26683"], "near": ["хыликкелик"]}
+{"form": "ийиучю", "form_src": "ийиучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["смешливый_26690"], "near": ["ичиучю"]}
+{"form": "тум-къара", "form_src": "тум-къара", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["смоль_26715"], "near": ["дум-къара", "тум къара"]}
+{"form": "джумашатыу", "form_src": "джумашатыу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["смягчение_26758"], "near": ["джумушатыу"]}
+{"form": "абзырау", "form_src": "абзырау", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["смятение_26761"], "near": ["абызырау"]}
+{"form": "элтирте", "form_src": "элтирте", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["снести_26791"], "near": ["элтирге"]}
+{"form": "тыйыишлы", "form_src": "тыйыишлы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["соответствующийй_27110"], "near": ["тыйыншлы"]}
+{"form": "зиина", "form_src": "зиина", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["сорванец_27146"], "near": ["зийна"]}
+{"form": "кирчик", "form_src": "кирчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["соринка_27151"], "near": ["бирчик", "кирлик", "кирпик", "чирчик"]}
+{"form": "спит", "form_src": "спит", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["спишь_27401"], "near": ["спирт"]}
+{"form": "джащырыргъа", "form_src": "джащырыргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["спрятать_27506"], "near": ["джашырыргъа"]}
+{"form": "тюпкюч", "form_src": "тюпкюч", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["сруб_27576"], "near": ["тюккюч", "тюпгюч"]}
+{"form": "джабрайил", "form_src": "джабрайил", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["стоять_27872"], "near": ["джабраил"]}
+{"form": "къоркуу", "form_src": "къоркуу", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["страх_27900"], "near": ["къоркъуу", "къоруу"]}
+{"form": "атлауушлу", "form_src": "атлауушлу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ступенчатый_27997"], "near": ["атлауучлу", "атлаушлу"]}
+{"form": "чай-къалгъан", "form_src": "чай-къалгъан", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["сумбурный_28089"], "near": ["чайкъалгъан"]}
+{"form": "танкчыкъ", "form_src": "танкчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["танкетка_28357"], "near": ["танкачыкъ"]}
+{"form": "джаратыучу", "form_src": "джаратыучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["творец_28410"], "near": ["джарытыучу"]}
+{"form": "качаргъа", "form_src": "качаргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["тикать_28627"], "near": ["ачаргъа", "къачаргъа", "чачаргъа"]}
+{"form": "типлендириу", "form_src": "типлендириу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["типизация_28631"], "near": ["тиллендириу", "тинлендириу"]}
+{"form": "типлендирирге", "form_src": "типлендирирге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["типизировать_28632"], "near": ["тинлендирирге"]}
+{"form": "зулмулу", "form_src": "зулмулу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["тиранический_28645"], "near": ["зулмучу"]}
+{"form": "эр-киши", "form_src": "эр-киши", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["толстяк_28738"], "near": ["эркиши"]}
+{"form": "юсгюрюу", "form_src": "юсгюрюу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["травля_28890"], "near": ["юсдюрюу", "юскюрюу", "юфгюрюу"]}
+{"form": "лшсюймез", "form_src": "лшсюймез", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["трутень_29167"], "near": ["ишсюймез"]}
+{"form": "джах-тана", "form_src": "джах-тана", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["туалет_29183"], "near": ["джахтана"]}
+{"form": "ёлюрте", "form_src": "ёлюрте", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["убивать_29388"], "near": ["ёлюрге"]}
+{"form": "орур-гъа", "form_src": "орур-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["убрать_29413"], "near": ["орургъа"]}
+{"form": "таш-кёмюрчю", "form_src": "таш-кёмюрчю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["углекоп_29524"], "near": ["ташкёмюрчю"]}
+{"form": "мюйюшчюк", "form_src": "мюйюшчюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["уголок_29560"], "near": ["мюйюшлюк"]}
+{"form": "къысхакъыд", "form_src": "къысхакъыд", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["узколобый_29759"], "near": ["къысхакъыл"]}
+{"form": "тюйюмчекли", "form_src": "тюйюмчекли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["узловатый_29762"], "near": ["тюйюмчекле"]}
+{"form": "дукъур-дукъур", "form_src": "дукъур-дукъур", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["узловатый_29762"], "near": ["дукъур-мукъур"]}
+{"form": "уретиу", "form_src": "уретиу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["указка_29792"], "near": ["юретиу"]}
+{"form": "тёшеучю", "form_src": "тёшеучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["укладчик_29804"], "near": ["тёлеучю"]}
+{"form": "джанлаучу", "form_src": "джанлаучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["уклончивый_29811"], "near": ["джалаучу", "джаулаучу"]}
+{"form": "берли", "form_src": "берли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["уклончивый_29811"], "near": ["jерли", "берги", "бери", "берили"]}
+{"form": "тамыр-ланыу", "form_src": "тамыр-ланыу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["укоренение_29823"], "near": ["тамырланыу"]}
+{"form": "бысдырырга", "form_src": "бысдырырга", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["умять_30022"], "near": ["бысдырыргъа"]}
+{"form": "унтла", "form_src": "унтла", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["унты_30055"], "near": ["уртла"]}
+{"form": "буруш-лукъ", "form_src": "буруш-лукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["упорство_30119"], "near": ["бурушлукъ"]}
+{"form": "айыб-ларгъа", "form_src": "айыб-ларгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["упрекать_30148"], "near": ["айыбларгъа"]}
+{"form": "ийилиучю", "form_src": "ийилиучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["упругий_30162"], "near": ["ийириучю"]}
+{"form": "этер-ге", "form_src": "этер-ге", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["урезать_30201"], "near": ["этерге"]}
+{"form": "гина-суу", "form_src": "гина-суу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["уровень_30207"], "near": ["гинасуу"]}
+{"form": "би-лиу", "form_src": "би-лиу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["усвоение_30243"], "near": ["билиу"]}
+{"form": "билир-ге", "form_src": "билир-ге", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["усвоить_30244"], "near": ["билирге"]}
+{"form": "башлар-гъа", "form_src": "башлар-гъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["усесться_30251"], "near": ["башларгъа"]}
+{"form": "тох-татыу", "form_src": "тох-татыу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["успокоение_30326"], "near": ["тохтатыу"]}
+{"form": "талмакъ-лыкъ", "form_src": "талмакъ-лыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["усталость_30337"], "near": ["талмакълыкъ"]}
+{"form": "талырга", "form_src": "талырга", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["устать_30352"], "near": ["талыргъа"]}
+{"form": "аумаучу", "form_src": "аумаучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["устойчивый_30360"], "near": ["аямаучу"]}
+{"form": "кетерку", "form_src": "кетерку", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["утоление_30461"], "near": ["кетериу"]}
+{"form": "ушам", "form_src": "ушам", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ушей_30618"], "near": ["ашам", "ушат", "ушау", "ушаш"]}
+{"form": "къыедырыу", "form_src": "къыедырыу", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ущемление_30633"], "near": ["къыдырыу", "къыздырыу", "къыйдырыу", "къылдырыу"]}
+{"form": "филолотиялыкъ", "form_src": "филолотиялыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["филологический_30841"], "near": ["филологиялыкъ"]}
+{"form": "байракъчыкъ", "form_src": "байракъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["флажок_30886"], "near": ["байракълыкъ"]}
+{"form": "фрак-циячы", "form_src": "фрак-циячы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["фракционер_30989"], "near": ["фракциячы"]}
+{"form": "фрезерчв", "form_src": "фрезерчв", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["фрезеровщик_31001"], "near": ["фрезерчи"]}
+{"form": "зуруучу", "form_src": "зуруучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["хворый_31115"], "near": ["ауруучу", "туруучу", "уруучу"]}
+{"form": "туз-дам", "form_src": "туз-дам", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["хлеб_31160"], "near": ["туздам"]}
+{"form": "туз-гырджын", "form_src": "туз-гырджын", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["хлеб_31160"], "near": ["туз-гыржын"]}
+{"form": "игичик", "form_src": "игичик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["хорошенький_31317"], "near": ["игилик"]}
+{"form": "сыныучу", "form_src": "сыныучу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["хрупкий_31393"], "near": ["сынаучу"]}
+{"form": "арыкъчыкъ", "form_src": "арыкъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["худенький_31406"], "near": ["арыкълыкъ"]}
+{"form": "назикчик", "form_src": "назикчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["худенький_31406"], "near": ["назиклик"]}
+{"form": "сёгюучю", "form_src": "сёгюучю", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["хулитель_31429"], "near": ["сёгюулю"]}
+{"form": "чагыу", "form_src": "чагыу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["цветение_31460"], "near": ["чабыу", "чагъыу", "чалыу", "чачыу"]}
+{"form": "гюлчюк", "form_src": "гюлчюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["цветочек_31468"], "near": ["гюллюк", "гюлчю"]}
+{"form": "шайлы", "form_src": "шайлы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["чайный_31620"], "near": ["майлы", "шайчы"]}
+{"form": "кунтуш", "form_src": "кунтуш", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["чемерица_31707"], "near": ["кундуш"]}
+{"form": "къуртчукъ", "form_src": "къуртчукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["червячок_31729"], "near": ["къургчукъ"]}
+{"form": "кёзюулешиу", "form_src": "кёзюулешиу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["чередование_31733"], "near": ["кёзюулетиу"]}
+{"form": "кёзюулеширге", "form_src": "кёзюулеширге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["чередоваться_31735"], "near": ["кёзюулетирге"]}
+{"form": "къаркёз", "form_src": "къаркёз", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["черноокий_31781"], "near": ["къаракёз"]}
+{"form": "шайтанчыкъ", "form_src": "шайтанчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["чертенок_31803"], "near": ["шайтанлыкъ"]}
+{"form": "налатчыкъ", "form_src": "налатчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["чертенок_31803"], "near": ["налатлыкъ"]}
+{"form": "пасыкъчыкъ", "form_src": "пасыкъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["чертенок_31803"], "near": ["пасыкълыкъ"]}
+{"form": "томураучукъ", "form_src": "томураучукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["чурка_32028"], "near": ["томураулукъ"]}
+{"form": "шарчыкъ", "form_src": "шарчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["шарик_32095"], "near": ["jарчыкъ"]}
+{"form": "къатъаргъа", "form_src": "къатъаргъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["шлепать_32280"], "near": ["къагъаргъа", "къатаргъа", "къатларгъа"]}
+{"form": "къалпакъчыкъ", "form_src": "къалпакъчыкъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["шляпка_32297"], "near": ["къалакъчыкъ", "къалпакълыкъ"]}
+{"form": "тауушчукъ", "form_src": "тауушчукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["шумок_32420"], "near": ["тауушлукъ"]}
+{"form": "жефили", "form_src": "жефили", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["щелистый_32470"], "near": ["жетили"]}
+{"form": "кючюкчюк", "form_src": "кючюкчюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["щенок_32483"], "near": ["кючюклюк"]}
+{"form": "чимдеширге", "form_src": "чимдеширге", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["щипаться_32498"], "near": ["чимделирге", "чимдетирге", "чимдиширге"]}
+{"form": "ядохимиката", "form_src": "ядохимиката", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["ядохимикаты_32943"], "near": ["ядохимикатла"]}
+{"form": "тил-чик", "form_src": "тил-чик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": false, "sources": ["язычок_32960"], "near": ["тилчик"]}
+{"form": "уручукъ", "form_src": "уручукъ", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ямка_32983"], "near": ["урчукъ"]}
+{"form": "къартжыгъа", "form_src": "къартжыгъа", "count_cite": 1, "count_ctx": 0, "kb_marker": true, "is_rus_loan": false, "sources": ["ястребиный_33025"], "near": ["къартчыгъа"]}
+{"form": "магъанасын", "form_src": "магъанасын", "count_cite": 0, "count_ctx": 26, "kb_marker": true, "is_rus_loan": false, "sources": ["вкратце_2557", "войти_2926", "вульгаризация_3574", "выхолостить_4304", "знакомиться_8243"], "near": ["магъанасыз"]}
+{"form": "орнун", "form_src": "орнун", "count_cite": 0, "count_ctx": 25, "kb_marker": false, "is_rus_loan": false, "sources": ["вытеснение_4256", "вытеснить_4257", "дать_5216", "жар_6610", "замена_7439"], "near": ["орнуна", "орун"]}
+{"form": "къалыучу", "form_src": "къалыучу", "count_cite": 0, "count_ctx": 23, "kb_marker": true, "is_rus_loan": false, "sources": ["воспламеняемый_3115", "доверчивый_5824", "дом_6011", "запальчивый_7562", "навязчивый_12805"], "near": ["къабыучу", "къалаучу"]}
+{"form": "гинчи", "form_src": "гинчи", "count_cite": 0, "count_ctx": 21, "kb_marker": false, "is_rus_loan": false, "sources": ["впредь_3252", "до_5752", "дождаться_5883", "дожить_5894", "доколе_5947"], "near": ["динчи"]}
+{"form": "погов", "form_src": "погов", "count_cite": 0, "count_ctx": 20, "kb_marker": false, "is_rus_loan": false, "sources": ["объять_15958", "овчинкаж_16012", "огонь_16055", "одежка_16106", "остаток_16915"], "near": ["погон"]}
+{"form": "къайгъысын", "form_src": "къайгъысын", "count_cite": 0, "count_ctx": 18, "kb_marker": true, "is_rus_loan": false, "sources": ["забота_6866", "заботиться_6867", "нянчиться_15142", "озабоченность_16243", "печься_18921"], "near": ["къайгъысыз"]}
+{"form": "дирирге", "form_src": "дирирге", "count_cite": 0, "count_ctx": 13, "kb_marker": true, "is_rus_loan": false, "sources": ["ввести_1977", "внушить_2694", "вселить_3368", "вызвать_3787", "даться_5217"], "near": ["кирирге", "чирирге"]}
+{"form": "лагъа", "form_src": "лагъа", "count_cite": 0, "count_ctx": 13, "kb_marker": true, "is_rus_loan": false, "sources": ["расписать_24303", "расписка_24305", "расселение_24432", "расселить_24434", "расселиться_24435"], "near": ["jагъа", "агъа", "алагъа", "багъа"]}
+{"form": "къазыучу", "form_src": "къазыучу", "count_cite": 0, "count_ctx": 12, "kb_marker": true, "is_rus_loan": false, "sources": ["горняк_4851", "землекоп_8158", "землечерпалка_8164", "канавокопатель_9322", "картофелекопатель_9441"], "near": ["къабыучу", "къызыучу"]}
+{"form": "леге", "form_src": "леге", "count_cite": 0, "count_ctx": 12, "kb_marker": false, "is_rus_loan": false, "sources": ["расписать_24303", "расписка_24305", "расселение_24432", "расселить_24434", "расселиться_24435"], "near": ["неге", "чеге"]}
+{"form": "букъусун", "form_src": "букъусун", "count_cite": 0, "count_ctx": 11, "kb_marker": true, "is_rus_loan": false, "sources": ["взбучка_2293", "всыпать_3513", "выколотить_3845", "наломать_13184", "нахлобучка_13683"], "near": ["букъусур"]}
+{"form": "сюйюучю", "form_src": "сюйюучю", "count_cite": 0, "count_ctx": 10, "kb_marker": false, "is_rus_loan": false, "sources": ["влюбчивый_2614", "индивидуалист_8785", "любитель_11551", "охотник_17802", "себялюбивый_25869"], "near": ["сюйюмчю", "сюйюнчю", "сюрюучю"]}
+{"form": "юеюнден", "form_src": "юеюнден", "count_cite": 0, "count_ctx": 10, "kb_marker": false, "is_rus_loan": false, "sources": ["договор_5861", "информировать_8915", "ломать_11448", "толковать_28721", "торговаться_28813"], "near": ["юсюнден"]}
+{"form": "къалдым", "form_src": "къалдым", "count_cite": 0, "count_ctx": 10, "kb_marker": true, "is_rus_loan": false, "sources": ["найтись_13052", "поверить_19292", "получиться_20412", "потому_21066", "признатьсов_21852"], "near": ["къалдыр", "къалым"]}
+{"form": "болдум", "form_src": "болдум", "count_cite": 0, "count_ctx": 9, "kb_marker": false, "is_rus_loan": false, "sources": ["взгрустнуться_2319", "гора_4802", "зародиться_7725", "круг_10760", "неприятно_14544"], "near": ["болдур", "болум"]}
+{"form": "бёлюмлю", "form_src": "бёлюмлю", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": false, "sources": ["двусложный_5299", "многосложный_12272", "односложный_16177", "часть_31657", "четырехсложный_31871"], "near": ["ёлюмлю"]}
+{"form": "акъыл-балыкъ", "form_src": "акъыл-балыкъ", "count_cite": 0, "count_ctx": 6, "kb_marker": true, "is_rus_loan": false, "sources": ["аттестат_574", "взрбслЦый_2385", "возмужалый_2873", "возмужать_2874", "достижение_6173"], "near": ["акъылбалыкъ"]}
+{"form": "иман", "form_src": "иман", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": false, "sources": ["козел_9873", "крестины_10651", "крещение_10667", "крещеный_10668", "окрестить_16367"], "near": ["аман", "ийман", "имам", "иран"]}
+{"form": "салыныучу", "form_src": "салыныучу", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": false, "sources": ["мертвецкая_12013", "настольный_13548", "обшивка_15887", "пластырь_19084", "склоняемый_26292"], "near": ["алыныучу"]}
+{"form": "билиучю", "form_src": "билиучю", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": false, "sources": ["палеонтология_17941", "психологм_23196", "разведочный_23566", "разведчик_23567", "разведывательный_23569"], "near": ["билеучю", "бичиучю"]}
+{"form": "югга", "form_src": "югга", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["вести_2208", "возможность_2871", "курс_10962", "течь_28612"], "near": ["юнга"]}
+{"form": "айтдым", "form_src": "айтдым", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["вытерпеть_4254", "же_6638", "нем_14257", "так_28317", "что_31967"], "near": ["айтдыр", "айтым"]}
+{"form": "сыбызгъылы", "form_src": "сыбызгъылы", "count_cite": 0, "count_ctx": 5, "kb_marker": true, "is_rus_loan": false, "sources": ["двустволка_5304", "двуствольный_5305", "одноствольный_16179"], "near": ["сыбызгъычы"]}
+{"form": "ортасындан", "form_src": "ортасындан", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["за_6815", "отдаленность_17124", "пополамнареч_20632", "посередине_20830", "центробежный_31524"], "near": ["ортасында"]}
+{"form": "къраллы", "form_src": "къраллы", "count_cite": 0, "count_ctx": 5, "kb_marker": true, "is_rus_loan": false, "sources": ["заграничный_7066", "ино_8832", "иноземный_8835", "иностранный_8844", "чужеземный_32015"], "near": ["къралчы"]}
+{"form": "этдим", "form_src": "этдим", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["как_9260", "посчитать_21004", "то_28685", "удивить_29647", "уметь_29958"], "near": ["эдим", "этдир", "этим"]}
+{"form": "макъамлы", "form_src": "макъамлы", "count_cite": 0, "count_ctx": 5, "kb_marker": true, "is_rus_loan": false, "sources": ["мелодичный_11951", "многоголосый_12252", "напевный_13280", "певучий_18166"], "near": ["макъамчы"]}
+{"form": "терисин", "form_src": "терисин", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["освежевать_16761", "содрать_26970", "спустить_27514", "цыпленок_31593"], "near": ["телисин", "терссин"]}
+{"form": "прав", "form_src": "прав", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": false, "sources": ["отчасти_17700", "пожалуй_20027", "полагать_20216", "правый_21296", "предположить_21433"], "near": ["право"]}
+{"form": "къойдум", "form_src": "къойдум", "count_cite": 0, "count_ctx": 5, "kb_marker": true, "is_rus_loan": false, "sources": ["поверить_19292", "посчитать_21004", "сообразить_27095", "угадать_29511", "ускользнуть_30268"], "near": ["къойдур"]}
+{"form": "къабыргъам", "form_src": "къабыргъам", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["бок_1457", "заколоть_7309", "колоть_9976", "покалывать_20131"], "near": ["къабыргъа"]}
+{"form": "къоюучу", "form_src": "къоюучу", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["забывчивый_6887", "увлекающийся_29488", "уничтожающий_30049"], "near": ["къодучу", "къуюучу"]}
+{"form": "джабыучу", "form_src": "джабыучу", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["заградительный_7061", "кровельный_10706", "кровельщик_10707"], "near": ["джазыучу", "джарыучу"]}
+{"form": "байлаучу", "form_src": "байлаучу", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["костный_10473", "относительный_17345", "перевязочный_18307"], "near": ["башлаучу", "сайлаучу"]}
+{"form": "дженгеиз", "form_src": "дженгеиз", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["накидка_13077", "смирительный_26699", "телогрейка_28465", "туника_29225"], "near": ["дженгсиз"]}
+{"form": "амма-джукка", "form_src": "амма-джукка", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["ножка_15023", "поскакать_20842", "прискакатьсов_22137", "скакать_26202"], "near": ["амма-жукка", "аммаджукка"]}
+{"form": "кояргъа", "form_src": "кояргъа", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["обелить_15301", "отвязать_17087", "откормить_17228", "починить_21194"], "near": ["бояргъа", "къояргъа", "ояргъа", "сояргъа"]}
+{"form": "книг", "form_src": "книг", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["обмахнуть_15511", "отсутствие_17614", "оформление_17780", "перечень_18798"], "near": ["книга"]}
+{"form": "бармакълы", "form_src": "бармакълы", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["палый_17955", "перчатки_18861", "шестипалый_32184"], "near": ["батмакълы"]}
+{"form": "гъыз", "form_src": "гъыз", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["поминать_20500", "постоять_20970", "проститься_22950"], "near": ["агъыз", "гъыж", "къыз"]}
+{"form": "юеюне", "form_src": "юеюне", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": false, "sources": ["у_29366", "усеять_30253", "утыкать_30518", "ушить_30626"], "near": ["юсюне"]}
+{"form": "къан-джан", "form_src": "къан-джан", "count_cite": 0, "count_ctx": 4, "kb_marker": true, "is_rus_loan": false, "sources": ["усердие_30247", "усердно_30248", "усердный_30249", "усердствовать_30250"], "near": ["къан-жан"]}
+{"form": "римни", "form_src": "римни", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["античный_387", "римский_25032"], "near": ["римли"]}
+{"form": "отчукъ", "form_src": "отчукъ", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["брезжить_1609", "забрезжить_6877", "огонек_16054"], "near": ["отлукъ"]}
+{"form": "ыучу", "form_src": "ыучу", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["бывало_1825", "ежедневный_6511", "периодический_18832"], "near": ["аучу", "уучу"]}
+{"form": "бурнундан", "form_src": "бурнундан", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["весь_2214", "вылитый_3894", "уродиться_30212"], "near": ["бурундан"]}
+{"form": "помощи", "form_src": "помощи", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["взывать_2401", "при_21645"], "near": ["помощь"]}
+{"form": "тыйыншлысын", "form_src": "тыйыншлысын", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["воздать_2839", "дать_5216", "должный_5999"], "near": ["тыйыншлысыз"]}
+{"form": "арасындан", "form_src": "арасындан", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["далеко_5175", "перевалить_18254", "среда_27554"], "near": ["арасында"]}
+{"form": "табарыкъ", "form_src": "табарыкъ", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["днем_5748", "управиться_30134", "черт_31796"], "near": ["табачыкъ"]}
+{"form": "бардыкъ", "form_src": "бардыкъ", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["до_5752", "около_16341"], "near": ["барлыкъ"]}
+{"form": "мардасын", "form_src": "мардасын", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["доза_5895", "мера_11989", "пре_21321"], "near": ["мардасыз"]}
+{"form": "дерн", "form_src": "дерн", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["допить_6074", "нетрудоспособность_14739", "подрезать_19828"], "near": ["дери", "дерс", "дерт"]}
+{"form": "ленинни", "form_src": "ленинни", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["завет_6928", "ленинский_11194", "орден_16687"], "near": ["ленинчи"]}
+{"form": "басыучу", "form_src": "басыучу", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["заступник_7875", "пойма_20118", "утешитель_30437"], "near": ["асыучу"]}
+{"form": "урунуучу", "form_src": "урунуучу", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["земле_8152", "земледелец_8155", "резерв_24853"], "near": ["урушуучу"]}
+{"form": "джетгин", "form_src": "джетгин", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["куда_10851", "угнаться_29539", "угодить_29550"], "near": ["джетген", "джетгиз"]}
+{"form": "джокду", "form_src": "джокду", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["мочь_12500", "неоткуда_14402", "проезд_22545"], "near": ["джокку", "джокъду"]}
+{"form": "меген", "form_src": "меген", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["нерегулярный_14613", "неровный_14622"], "near": ["jеген", "деген", "жеген", "эмеген"]}
+{"form": "пальца", "form_src": "пальца", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["обвести_15177", "палец_17942"], "near": ["пальма"]}
+{"form": "болдукъ", "form_src": "болдукъ", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["полк_20286", "просмотреть_22917", "тогда_28699"], "near": ["боллукъ", "булдукъ"]}
+{"form": "къонуучу", "form_src": "къонуучу", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["посадочный_20804", "шесток_32195"], "near": ["къозуучу", "къоруучу", "къошуучу"]}
+{"form": "кёрдюм", "form_src": "кёрдюм", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["привидетьсясов_21704", "приснитьсясов_22153", "сниться_26807"], "near": ["кёрдюр", "кёрюм"]}
+{"form": "гокга", "form_src": "гокга", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["роза_25122", "ромашка_25150", "утопать_30481"], "near": ["гокка"]}
+{"form": "юйленнгенли", "form_src": "юйленнгенли", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["свадьба_25588", "серебряный_26027"], "near": ["юйленнгенлик"]}
+{"form": "джукъусун", "form_src": "джукъусун", "count_cite": 0, "count_ctx": 3, "kb_marker": true, "is_rus_loan": false, "sources": ["убаюкать_29370", "усыпить_30404", "усыпление_30405"], "near": ["джукъусуз", "джукъусур"]}
+{"form": "битдириучю", "form_src": "битдириучю", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": false, "sources": ["хлебороб_31171", "хлопкороб_31191", "чаевод_31608"], "near": ["билдириучю"]}
+{"form": "через", "form_src": "через", "count_cite": 7, "count_ctx": 37, "kb_marker": false, "is_rus_loan": true, "sources": ["отправиться_17442", "пень_18203", "перебежать_18229", "перебраться_18246", "перебросить_18248"], "near": ["черек", "черен"]}
+{"form": "чаре", "form_src": "чаре", "count_cite": 9, "count_ctx": 10, "kb_marker": false, "is_rus_loan": true, "sources": ["гандикап_4461", "дымка_6424", "завеса_6924", "затуманить_7971", "затуманиться_7972"], "near": ["чара", "чарл", "чарп", "чарс"]}
+{"form": "книгу", "form_src": "книгу", "count_cite": 2, "count_ctx": 13, "kb_marker": false, "is_rus_loan": true, "sources": ["взять_2412", "обернуть_15306", "осилить_16800", "отдать_17129", "отклик_17208"], "near": ["книга"]}
+{"form": "слова", "form_src": "слова", "count_cite": 1, "count_ctx": 16, "kb_marker": false, "is_rus_loan": true, "sources": ["облечь_15446", "объясненное_15952", "однозначный_16149", "основа_16871", "отказываться_17187"], "near": ["словак"]}
+{"form": "электро", "form_src": "электро", "count_cite": 1, "count_ctx": 15, "kb_marker": false, "is_rus_loan": true, "sources": ["дуга_6350", "заряд_7747", "зарядить_7748", "звонок_8113", "счетчик_28205"], "near": ["электр", "электрод", "электрон"]}
+{"form": "руку", "form_src": "руку", "count_cite": 1, "count_ctx": 13, "kb_marker": false, "is_rus_loan": true, "sources": ["вести_2208", "взять_2412", "занавес_8336", "отдернуть_17146", "отстранить_17600"], "near": ["чуку"]}
+{"form": "будут", "form_src": "будут", "count_cite": 4, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["грозовой_5017", "заслонить_7793", "облак_15415", "облачность_15423", "обложить_15474"], "near": ["булут", "удут"]}
+{"form": "глаза", "form_src": "глаза", "count_cite": 1, "count_ctx": 13, "kb_marker": false, "is_rus_loan": true, "sources": ["за_7015", "оболочка_15649", "открытый_17249", "открыть_17250", "поволока_19342"], "near": ["глапа"]}
+{"form": "этом", "form_src": "этом", "count_cite": 1, "count_ctx": 10, "kb_marker": false, "is_rus_loan": true, "sources": ["гугу_5115", "обвинять_15195", "один_16121", "отношение_17348", "подмывать_19708"], "near": ["атом", "этим"]}
+{"form": "простой", "form_src": "простой", "count_cite": 3, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["незамысловатый_14120", "незатейливый_14128", "обращение_15738", "общедоступный_15896", "примитивный_22002"], "near": ["прастой"]}
+{"form": "голос", "form_src": "голос", "count_cite": 1, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["голос_4764", "один_16121", "плачевный_19103", "пленительный_19123", "повысить_19365"], "near": ["гулос"]}
+{"form": "таки", "form_src": "таки", "count_cite": 3, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["все_3395", "опять_16663", "так_28329"], "near": ["такси", "такт", "такъ", "такы"]}
+{"form": "надо", "form_src": "надо", "count_cite": 2, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["над_12879", "над_12880", "обдумать_15242", "пока_20122", "полагать_20216"], "near": ["кадо"]}
+{"form": "игре", "form_src": "игре", "count_cite": 1, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["обыграть_15960", "очко_17861", "партия_18071", "передернуть_18364", "покрыть_20198"], "near": ["игрек"]}
+{"form": "пожар", "form_src": "пожар", "count_cite": 2, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["поджечь_19580", "пожар_20029", "пожарный_20033", "предупредить_21483"], "near": ["повар"]}
+{"form": "социаль", "form_src": "социаль", "count_cite": 1, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["положение_20325", "социальный_27278", "соцстрах_27281", "страхкасса_27901", "страхование_27902"], "near": ["социал"]}
+{"form": "машину", "form_src": "машину", "count_cite": 1, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["вести_2208", "обкатать_15396", "опреснить_16597", "подать_19455", "подбросить_19474"], "near": ["машина"]}
+{"form": "крепости", "form_src": "крепости", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["взятие_2406", "осада_16736", "падение_17914", "пасть_18111"], "near": ["крепость"]}
+{"form": "декорациялы", "form_src": "декорациялы", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["декоративный_5420", "декоративный_5520"], "near": ["декорациячы"]}
+{"form": "машины", "form_src": "машины", "count_cite": 1, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["облегченный_15428", "отяжелить_17770", "поливочный_20254", "починка_21195", "предел_21384"], "near": ["машина"]}
+{"form": "погода", "form_src": "погода", "count_cite": 1, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обманчивый_15505", "отвратительный_17081", "отличный_17287", "погода_19400", "портиться_20754"], "near": ["пагода", "порода"]}
+{"form": "отношения", "form_src": "отношения", "count_cite": 1, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обостренный_15695", "обострить_15696", "общественный_15913", "портить_20753", "приятельский_22341"], "near": ["отношение"]}
+{"form": "тайком", "form_src": "тайком", "count_cite": 2, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["подбросить_19474", "подкинуть_19612", "подложить_19670", "пробраться_22375"], "near": ["райком"]}
+{"form": "белг", "form_src": "белг", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["данный_5194", "дважды_5229", "дверь_5235"], "near": ["бела", "белги", "беля"]}
+{"form": "кедр", "form_src": "кедр", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["кедр_9572", "кедровый_9573"], "near": ["кадр"]}
+{"form": "коммуналь", "form_src": "коммуналь", "count_cite": 1, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["коммунальный_10054", "услуга_30289"], "near": ["коммунал"]}
+{"form": "земли", "form_src": "земли", "count_cite": 1, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["обработка_15706", "общинный_15919", "оторваться_17395", "поверхность_19300", "поднять_19726"], "near": ["кемли"]}
+{"form": "туберкулез", "form_src": "туберкулез", "count_cite": 2, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["поразитьсов_20701", "туберкулез_29186", "туберкулезный_29187"], "near": ["туберкулёз"]}
+{"form": "поло", "form_src": "поло", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["ватерполо_1941", "водный_2727", "поло_20311"], "near": ["полк", "соло"]}
+{"form": "реке", "form_src": "реке", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["вести_2208", "перекат_18432", "прилегатьнесов_21938", "протекать_23000"], "near": ["рекет", "реле", "теке", "эреке"]}
+{"form": "двух", "form_src": "двух", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["дву_5278", "огонь_16055", "палка_17948", "продолжение_22525"], "near": ["джух"]}
+{"form": "дети", "form_src": "дети", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["детеныш_5567", "обступить_15812", "осиротелый_16804", "переболеть_18240"], "near": ["jети", "бети", "дери", "джети"]}
+{"form": "дренаж", "form_src": "дренаж", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["дренаж_6286"], "near": ["тренаж"]}
+{"form": "кастор", "form_src": "кастор", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кастор_9473", "касторовый_9476"], "near": ["кантор", "пастор"]}
+{"form": "круг", "form_src": "круг", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["круг_10760", "оборот_15675", "ореол_16694", "спасательный_27322"], "near": ["округ"]}
+{"form": "болчу", "form_src": "болчу", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ну_15112"], "near": ["jолчу", "болу", "болуу", "голчу"]}
+{"form": "лечь", "form_src": "лечь", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["основа_16871", "пересечь_18696", "прилечьсов_21947", "протянуться_23062"], "near": ["печь"]}
+{"form": "долг", "form_src": "долг", "count_cite": 1, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["отдать_17129", "платеж_19086", "погасить_19375"], "near": ["донг"]}
+{"form": "листка", "form_src": "листка", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["отрывм_17523"], "near": ["чистка"]}
+{"form": "рожа", "form_src": "рожа", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рожа_25109", "рожистый_25116"], "near": ["божа", "ложа", "роза", "рота"]}
+{"form": "улитка", "form_src": "улитка", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["улитка_29893"], "near": ["плитка"]}
+{"form": "утиль", "form_src": "утиль", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["утиль_30445", "утильсырье_30446"], "near": ["стиль"]}
+{"form": "щука", "form_src": "щука", "count_cite": 2, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["щука_32505", "щучий_32512"], "near": ["кука"]}
+{"form": "бракга", "form_src": "бракга", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["бракованный_1574", "браковать_1575", "браковщик_1576"], "near": ["брага"]}
+{"form": "куда", "form_src": "куда", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["кое_9860", "под_19438", "провалиться_22388"], "near": ["кудра", "кука", "кулда", "руда"]}
+{"form": "двор", "form_src": "двор", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["обежать_15258", "очистить_17854", "постоялый_20967"], "near": ["джор"]}
+{"form": "сырья", "form_src": "сырья", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["обладание_15410", "переработка_18651", "поставка_20931"], "near": ["сырьё"]}
+{"form": "флаг", "form_src": "флаг", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["опустить_16634", "поднять_19726", "флаг_30883"], "near": ["фланг"]}
+{"form": "было", "form_src": "было", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["особенно_16885", "очевидно_17836", "по_19215"], "near": ["была"]}
+{"form": "линия", "form_src": "линия", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["ответвление_17045", "отрез_17494", "перегиб_18311"], "near": ["лилия"]}
+{"form": "забор", "form_src": "забор", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["падать_17910", "перебросить_18248", "поднять_19726"], "near": ["забой", "набор", "табор"]}
+{"form": "рука", "form_src": "рука", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["парализовать_18006", "перевязь_18309", "протянуться_23062"], "near": ["кука", "рубка", "руда", "руна"]}
+{"form": "посуду", "form_src": "посуду", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["перетереть_18764", "побить_19240", "помятьсов_20550"], "near": ["посуда"]}
+{"form": "поза", "form_src": "поза", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["поза_20055", "позировать_20086", "положение_20325"], "near": ["боза", "доза", "проза", "роза"]}
+{"form": "спиртли", "form_src": "спиртли", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["политура_20279", "спиртной_27388"], "near": ["спиртле"]}
+{"form": "саботаж", "form_src": "саботаж", "count_cite": 1, "count_ctx": 2, "kb_marker": false, "is_rus_loan": true, "sources": ["саботаж_25345", "саботировать_25346"], "near": ["каботаж", "сабатаж"]}
+{"form": "блат", "form_src": "блат", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["блат_1356"], "near": ["болат"]}
+{"form": "вдали", "form_src": "вдали", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["вдалеке_2001", "обрисоваться_15755"], "near": ["вали"]}
+{"form": "угла", "form_src": "угла", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["вершина_2183", "повернуть_19294"], "near": ["урла", "уула", "уяла"]}
+{"form": "толпа", "form_src": "толпа", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["дрогнуть_6303", "отхлынуть_17679"], "near": ["тилпа", "толма", "топпа"]}
+{"form": "носилки", "form_src": "носилки", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["занавес_8336", "носилки_15067"], "near": ["носилка"]}
+{"form": "кант", "form_src": "кант", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["кант_9339", "кантовать_9341"], "near": ["бант", "канат", "карт", "квант"]}
+{"form": "корт", "form_src": "корт", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["корт_10408"], "near": ["jорт", "борт", "жорт", "карт"]}
+{"form": "статьи", "form_src": "статьи", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["обработка_15706", "помещениес_20491"], "near": ["статья"]}
+{"form": "задний", "form_src": "задний", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["окорок_16354", "проход_23090"], "near": ["задник"]}
+{"form": "олива", "form_src": "олива", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["олива_16415", "оливка_16416"], "near": ["олифа"]}
+{"form": "решка", "form_src": "решка", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["орел_16693", "решка_25021"], "near": ["пешка", "рейка", "речка"]}
+{"form": "судах", "form_src": "судах", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["отплыть_17432", "причалить_22303"], "near": ["мудах", "судак"]}
+{"form": "нападения", "form_src": "нападения", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["отражение_17481"], "near": ["нападение"]}
+{"form": "педаль", "form_src": "педаль", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["педаль_18171", "работать_23381"], "near": ["медаль"]}
+{"form": "лице", "form_src": "лице", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["перекоситься_18462", "перемениться_18525"], "near": ["вице"]}
+{"form": "вследствие", "form_src": "вследствие", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["по_19215", "под_19438"], "near": ["следствие"]}
+{"form": "делах", "form_src": "делах", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["поверенный_19291", "поговорить_19398"], "near": ["пелах"]}
+{"form": "рост", "form_src": "рост", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["подъем_20004", "покупательный_20203"], "near": ["пост", "тост"]}
+{"form": "беде", "form_src": "беде", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["познаваться_20093", "постичь_20957"], "near": ["бедек", "бедер", "бедеу", "безе"]}
+{"form": "свод", "form_src": "свод", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["положение_20325", "свод_25738"], "near": ["сход"]}
+{"form": "сечь", "form_src": "сечь", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["пороть_20739", "сечь_26056"], "near": ["печь", "сеть"]}
+{"form": "порох", "form_src": "порох", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["порох_20741", "пороховница_20742"], "near": ["горох"]}
+{"form": "почка", "form_src": "почка", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["почечный_21190", "почка_21206"], "near": ["бочка", "пачка", "полка", "почта"]}
+{"form": "рукук", "form_src": "рукук", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["приложитьсов_21957"], "near": ["кукук", "чукук"]}
+{"form": "работ", "form_src": "работ", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["производитель_22601", "производств_22609"], "near": ["робот"]}
+{"form": "тело", "form_src": "тело", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["пронизать_22757", "тело_28464"], "near": ["дело", "тели"]}
+{"form": "разводка", "form_src": "разводка", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["разводка_23613", "разводной_23614"], "near": ["разведка"]}
+{"form": "управа", "form_src": "управа", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["управа_30132"], "near": ["оправа"]}
+{"form": "фальцовка", "form_src": "фальцовка", "count_cite": 1, "count_ctx": 1, "kb_marker": false, "is_rus_loan": true, "sources": ["фальцовка_30691", "фальцовщик_30692"], "near": ["вальцовка"]}
+{"form": "альтруистли", "form_src": "альтруистли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["альтруистический_269"], "near": ["альтруистлик"]}
+{"form": "аршин", "form_src": "аршин", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["аршин_504"], "near": ["аршын"]}
+{"form": "бадья", "form_src": "бадья", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["бадья_639"], "near": ["ладья"]}
+{"form": "бандаж", "form_src": "бандаж", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["бандаж_706"], "near": ["банда"]}
+{"form": "банщик", "form_src": "банщик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["банщица_721"], "near": ["бантик"]}
+{"form": "барка", "form_src": "барка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["барка_741"], "near": ["арка", "байка", "банка", "барда"]}
+{"form": "бегут", "form_src": "бегут", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["бегу_812"], "near": ["бегит"]}
+{"form": "безо", "form_src": "безо", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["без_834"], "near": ["безе", "бези"]}
+{"form": "блуза", "form_src": "блуза", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["блуза_1398"], "near": ["блузка", "буза"]}
+{"form": "коровка", "form_src": "коровка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["божий_1448"], "near": ["коробка", "коронка"]}
+{"form": "босс", "form_src": "босс", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["босс_1544"], "near": ["бокс"]}
+{"form": "бридж", "form_src": "бридж", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["бридж_1619"], "near": ["бриджа"]}
+{"form": "бриз", "form_src": "бриз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["бриз_1620"], "near": ["криз", "приз"]}
+{"form": "бронх", "form_src": "бронх", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["бронхи_1654"], "near": ["бронха", "бронь", "броня"]}
+{"form": "вахтер", "form_src": "вахтер", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["вахтер_1949"], "near": ["вахтёр"]}
+{"form": "веха", "form_src": "веха", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["веха_2237"], "near": ["вена"]}
+{"form": "вече", "form_src": "вече", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["вече_2238"], "near": ["вечер", "кече"]}
+{"form": "вишневка", "form_src": "вишневка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["вишневка_2519"], "near": ["вишнёвка"]}
+{"form": "вожатая", "form_src": "вожатая", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["вожатая_2789"], "near": ["вожата"]}
+{"form": "ворот", "form_src": "ворот", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ворот_3050"], "near": ["ворота"]}
+{"form": "секретаря", "form_src": "секретаря", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["временно_3327"], "near": ["секретарь"]}
+{"form": "небоскреб", "form_src": "небоскреб", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["высотный_4196"], "near": ["небоскрёб"]}
+{"form": "вышла", "form_src": "вышла", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["вышел_4337"], "near": ["вышка", "тышла"]}
+{"form": "гадла", "form_src": "гадла", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["гад_4397"], "near": ["газла"]}
+{"form": "гамак", "form_src": "гамак", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["гамак_4456"], "near": ["гамай"]}
+{"form": "гвардиялы", "form_src": "гвардиялы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["гвардейский_4503"], "near": ["гвардиячы"]}
+{"form": "гимнастка", "form_src": "гимнастка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["гимнастка_4598"], "near": ["гимнастика"]}
+{"form": "губа", "form_src": "губа", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["губа_5104"], "near": ["губка", "губу", "гуза", "гула"]}
+{"form": "двум", "form_src": "двум", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["двух_5308"], "near": ["джум"]}
+{"form": "факто", "form_src": "факто", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["де_5579"], "near": ["факт", "фактор"]}
+{"form": "догматчы", "form_src": "догматчы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["догматик_5855"], "near": ["догмачы"]}
+{"form": "богу", "form_src": "богу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ей_6535"], "near": ["болу", "бору", "бояу"]}
+{"form": "затон", "form_src": "затон", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["затон_7942"], "near": ["батон", "закон"]}
+{"form": "змей", "form_src": "змей", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["змей_8239"], "near": ["юзмей"]}
+{"form": "инъекция", "form_src": "инъекция", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["инъекция_8919"], "near": ["ингекция", "инфекция"]}
+{"form": "истериялы", "form_src": "истериялы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["истеричка_9096"], "near": ["историялы"]}
+{"form": "историячы", "form_src": "историячы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["историк_9123"], "near": ["историялы"]}
+{"form": "итого", "form_src": "итого", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["итого_9174"], "near": ["итог", "итогл"]}
+{"form": "йота", "form_src": "йота", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["йота_9195"], "near": ["бота", "гота", "нота", "рота"]}
+{"form": "каверна", "form_src": "каверна", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["каверна_9225"], "near": ["даверна"]}
+{"form": "канва", "form_src": "канва", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["канва_9328"], "near": ["канава"]}
+{"form": "капюшон", "form_src": "капюшон", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["капюшон_9373"], "near": ["капушон"]}
+{"form": "картель", "form_src": "картель", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["картель_9431"], "near": ["артель", "каратель"]}
+{"form": "киль", "form_src": "киль", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["киль_9613"], "near": ["кила", "кило"]}
+{"form": "киста", "form_src": "киста", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["киста_9670"], "near": ["каста"]}
+{"form": "клюка", "form_src": "клюка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["клюшка_9786"], "near": ["клика", "клюшка"]}
+{"form": "како", "form_src": "како", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кое_9858"], "near": ["кадо", "кака", "какао"]}
+{"form": "койка", "form_src": "койка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["койка_9887"], "near": ["кока"]}
+{"form": "кокк", "form_src": "кокк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кокк_9893"], "near": ["кока", "кокс"]}
+{"form": "колчан", "form_src": "колчан", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["колчан_9987"], "near": ["кочан"]}
+{"form": "косяк", "form_src": "косяк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["косяк_10483"], "near": ["босяк", "косук"]}
+{"form": "крен", "form_src": "крен", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["крен_10626"], "near": ["кран", "крем", "креп", "кюрен"]}
+{"form": "критикачы", "form_src": "критикачы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["критик_10695"], "near": ["критикалы"]}
+{"form": "круп", "form_src": "круп", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["круп_10781"], "near": ["креп", "крупа", "къуп"]}
+{"form": "юртюн", "form_src": "юртюн", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["крыжовник_10807"], "near": ["юркюн"]}
+{"form": "кубрик", "form_src": "кубрик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кубрик_10846"], "near": ["кубик"]}
+{"form": "кулич", "form_src": "кулич", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кулич_10887"], "near": ["кулик"]}
+{"form": "кумир", "form_src": "кумир", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кумир_10912"], "near": ["кемир"]}
+{"form": "курок", "form_src": "курок", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["курок_10956"], "near": ["кубок", "урок"]}
+{"form": "кустарь", "form_src": "кустарь", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кустарь_10990"], "near": ["кустар"]}
+{"form": "куча", "form_src": "куча", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["кучка_11001"], "near": ["кука", "купча", "кучка"]}
+{"form": "ладан", "form_src": "ладан", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ладан_11028"], "near": ["аладан", "лаудан"]}
+{"form": "лета", "form_src": "лета", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["Лета_11233"], "near": ["лента", "леса"]}
+{"form": "магарыч", "form_src": "магарыч", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["магарыч_11594"], "near": ["магарич"]}
+{"form": "маевка", "form_src": "маевка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["маевка_11609"], "near": ["маёвка"]}
+{"form": "мелли", "form_src": "мелли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["меловой_11950"], "near": ["jелли", "желли", "мели"]}
+{"form": "мостик", "form_src": "мостик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["мостик_12455"], "near": ["мистик"]}
+{"form": "нашла", "form_src": "нашла", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["нашел_13757"], "near": ["башла", "налла", "наша", "ташла"]}
+{"form": "портн", "form_src": "портн", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["обметать_15526"], "near": ["порт"]}
+{"form": "кантом", "form_src": "кантом", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["обшивка_15887"], "near": ["кантор"]}
+{"form": "огородчу", "form_src": "огородчу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["огородник_16060"], "near": ["городчу"]}
+{"form": "торг", "form_src": "торг", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["операция_16484"], "near": ["морг", "терг", "торс", "торт"]}
+{"form": "оракул", "form_src": "оракул", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["оракул_16665"], "near": ["оракъл"]}
+{"form": "орлу", "form_src": "орлу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["орла_16712"], "near": ["орулу", "оруу", "отлу", "оюлу"]}
+{"form": "отношении", "form_src": "отношении", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["оскудеть_16826"], "near": ["отношение"]}
+{"form": "ослу", "form_src": "ослу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["осла_16827"], "near": ["дослу", "отлу", "оюлу", "услу"]}
+{"form": "повод", "form_src": "повод", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["основание_16872"], "near": ["поход"]}
+{"form": "дельный", "form_src": "дельный", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["основательный_16876"], "near": ["удельный"]}
+{"form": "ножа", "form_src": "ножа", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["острота_16939"], "near": ["божа", "ложа", "нота", "хожа"]}
+{"form": "выставки", "form_src": "выставки", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["открытие_17246"], "near": ["выставка"]}
+{"form": "слог", "form_src": "слог", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["открытый_17249"], "near": ["слон"]}
+{"form": "личинку", "form_src": "личинку", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["отложить_17289"], "near": ["личинка"]}
+{"form": "отход", "form_src": "отход", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["отходы_17684"], "near": ["обход", "отвод"]}
+{"form": "паникер", "form_src": "паникер", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["паникерша_17977"], "near": ["паникёр"]}
+{"form": "пассаж", "form_src": "пассаж", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["пассаж_18097"], "near": ["массаж"]}
+{"form": "фарм", "form_src": "фарм", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["пенициллин_18195"], "near": ["фара", "фарс", "фарш"]}
+{"form": "перевоз", "form_src": "перевоз", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["перевозка_18281"], "near": ["перевод"]}
+{"form": "перевозчик", "form_src": "перевозчик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["перевозчица_18283"], "near": ["переводчик"]}
+{"form": "колонну", "form_src": "колонну", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["перестроить_18743"], "near": ["колонна"]}
+{"form": "пистон", "form_src": "пистон", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["пистон_19002"], "near": ["питон"]}
+{"form": "плавки", "form_src": "плавки", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["плавки_19038"], "near": ["плавка"]}
+{"form": "плац", "form_src": "плац", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["плац_19098"], "near": ["план", "плащ"]}
+{"form": "корзину", "form_src": "корзину", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["плести_19139"], "near": ["корзина"]}
+{"form": "корзины", "form_src": "корзины", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["плетение_19141"], "near": ["корзина"]}
+{"form": "тольк", "form_src": "тольк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["плохой_19190"], "near": ["тальк", "толь"]}
+{"form": "области", "form_src": "области", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["по_19215"], "near": ["область"]}
+{"form": "печаль", "form_src": "печаль", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["повергнуть_19290"], "near": ["печать"]}
+{"form": "бабка", "form_src": "бабка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["повивальный_19322"], "near": ["баба", "байка", "банка"]}
+{"form": "повести", "form_src": "повести", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["поводить_19337"], "near": ["повесть"]}
+{"form": "порча", "form_src": "порча", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["повреждение_19351"], "near": ["борча", "горча", "орча", "парча"]}
+{"form": "подливка", "form_src": "подливка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["подливка_19662"], "near": ["подшивка"]}
+{"form": "флага", "form_src": "флага", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["поднятие_19725"], "near": ["фляга"]}
+{"form": "гостиницу", "form_src": "гостиницу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["помещениес_20491"], "near": ["гостиница"]}
+{"form": "поры", "form_src": "поры", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["пораж_20683"], "near": ["порт"]}
+{"form": "порала", "form_src": "порала", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["порымн_20789"], "near": ["jорала", "жорала", "парала"]}
+{"form": "себебп", "form_src": "себебп", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["последствие_20866"], "near": ["себеб", "себеп"]}
+{"form": "здание", "form_src": "здание", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["постройка_20980"], "near": ["задание", "звание", "издание"]}
+{"form": "корреспонденции", "form_src": "корреспонденции", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["поступление_20989"], "near": ["корреспонденция"]}
+{"form": "требований", "form_src": "требований", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["предъявлениес_21500"], "near": ["требование"]}
+{"form": "прения", "form_src": "прения", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["прения_21559"], "near": ["премия"]}
+{"form": "каше", "form_src": "каше", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["пригоретьсов_21771"], "near": ["кафе", "каша", "кашне"]}
+{"form": "партию", "form_src": "партию", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["приемм_21817"], "near": ["партия"]}
+{"form": "прицел", "form_src": "прицел", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["прицел_22292"], "near": ["прицеп"]}
+{"form": "бока", "form_src": "бока", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["пролежать_22681"], "near": ["божа", "боза", "бокал", "бокка"]}
+{"form": "дату", "form_src": "дату", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["проставить_22933"], "near": ["дата"]}
+{"form": "холоде", "form_src": "холоде", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["прохватить_23083"], "near": ["холодец"]}
+{"form": "путник", "form_src": "путник", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["путница_23279"], "near": ["спутник"]}
+{"form": "равнение", "form_src": "равнение", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["равнение_23398"], "near": ["уравнение"]}
+{"form": "рампа", "form_src": "рампа", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рампа_24146"], "near": ["ампа", "лампа", "рама", "рамка"]}
+{"form": "рант", "form_src": "рант", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рант_24157"], "near": ["бант", "мант", "ранг", "сант"]}
+{"form": "рационализм", "form_src": "рационализм", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рационализм_24731"], "near": ["национализм"]}
+{"form": "ремилитаризация", "form_src": "ремилитаризация", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ремилитаризация_24917"], "near": ["демилитаризация"]}
+{"form": "рений", "form_src": "рений", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рений_24927"], "near": ["гений"]}
+{"form": "ритмли", "form_src": "ритмли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ритмичный_25049"], "near": ["римли"]}
+{"form": "рождество", "form_src": "рождество", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рождество_25114"], "near": ["тождество"]}
+{"form": "росла", "form_src": "росла", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["рос_25155"], "near": ["тосла"]}
+{"form": "румб", "form_src": "румб", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["румб_25251"], "near": ["ромб"]}
+{"form": "свита", "form_src": "свита", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["свита_25726"], "near": ["сюита"]}
+{"form": "сейте", "form_src": "сейте", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["сей_25898"], "near": ["селте"]}
+{"form": "секста", "form_src": "секста", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["секста_25913"], "near": ["секта"]}
+{"form": "скафандр", "form_src": "скафандр", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["скафандр_26238"], "near": ["скафандыр"]}
+{"form": "сноска", "form_src": "сноска", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["сноска_26821"], "near": ["соска"]}
+{"form": "сопка", "form_src": "сопка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["сопка_27119"], "near": ["соппа", "соска", "сотка", "стопка"]}
+{"form": "стружка", "form_src": "стружка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["стружка_27968"], "near": ["стрижка"]}
+{"form": "студентка", "form_src": "студентка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["студентка_27983"], "near": ["студентча"]}
+{"form": "тактик", "form_src": "тактик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["тактик_28330"], "near": ["тактика"]}
+{"form": "тапёр", "form_src": "тапёр", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["тапёр_28366"], "near": ["сапёр"]}
+{"form": "текли", "form_src": "текли", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["тек_28429"], "near": ["тели", "тикли"]}
+{"form": "текут", "form_src": "текут", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["теку_28436"], "near": ["текст"]}
+{"form": "теориялы", "form_src": "теориялы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["теоретический_28511"], "near": ["теориячы"]}
+{"form": "торос", "form_src": "торос", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["торос_28842"], "near": ["торс", "трос"]}
+{"form": "тракт", "form_src": "тракт", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["тракт_28907"], "near": ["такт"]}
+{"form": "тракторлу", "form_src": "тракторлу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["тракторный_28916"], "near": ["тракторчу"]}
+{"form": "трех", "form_src": "трех", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["тре_28973"], "near": ["тред", "трек"]}
+{"form": "трите", "form_src": "трите", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["три_29063"], "near": ["тите"]}
+{"form": "трюк", "form_src": "трюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["трюк_29171"], "near": ["трек", "трюм"]}
+{"form": "туфля", "form_src": "туфля", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["туфли_29272"], "near": ["туфли"]}
+{"form": "углу", "form_src": "углу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["угла_29518"], "near": ["угулу", "уллу", "услу", "уулу"]}
+{"form": "узлу", "form_src": "узлу", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["узла_29761"], "near": ["тузлу", "уллу", "услу", "уулу"]}
+{"form": "узка", "form_src": "узка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["узок_29768"], "near": ["укка"]}
+{"form": "уния", "form_src": "уния", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["уния_30052"], "near": ["дуния", "урия"]}
+{"form": "урюк", "form_src": "урюк", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["урюк_30232"], "near": ["урок"]}
+{"form": "утопиячы", "form_src": "утопиячы", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["утопист_30484"], "near": ["утопиялы"]}
+{"form": "фальцовщик", "form_src": "фальцовщик", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["фальцовщица_30693"], "near": ["вальцовщик"]}
+{"form": "фант", "form_src": "фант", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["фант_30710"], "near": ["бант", "мант", "сант", "факт"]}
+{"form": "фиорд", "form_src": "фиорд", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["фиорд_30874"], "near": ["форд"]}
+{"form": "фишка", "form_src": "фишка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["фишка_30882"], "near": ["финка"]}
+{"form": "фонография", "form_src": "фонография", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["фоно_30924"], "near": ["монография", "фотография"]}
+{"form": "фурия", "form_src": "фурия", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["фурия_31031"], "near": ["урия"]}
+{"form": "хаки", "form_src": "хаки", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["хаки_31051"], "near": ["хаги", "хажи", "хаким", "хакъ"]}
+{"form": "хитин", "form_src": "хитин", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["хитин_31141"], "near": ["итин", "хинин"]}
+{"form": "хроник", "form_src": "хроник", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["хроник_31380"], "near": ["хроника"]}
+{"form": "чашка", "form_src": "чашка", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["чашка_31666"], "near": ["чайка", "чакка", "чанка", "часка"]}
+{"form": "читальня", "form_src": "читальня", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["читальня_31932"], "near": ["читальна"]}
+{"form": "шарабан", "form_src": "шарабан", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["шарабан_32089"], "near": ["барабан"]}
+{"form": "крыто", "form_src": "крыто", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["шито_32243"], "near": ["крыло"]}
+{"form": "штемпели", "form_src": "штемпели", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["штемпель_32379"], "near": ["штемпель"]}
+{"form": "эмпирия", "form_src": "эмпирия", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["эмпирия_32736"], "near": ["эмпирик"]}
+{"form": "юбилейчи", "form_src": "юбилейчи", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["юбиляр_32869"], "near": ["юбилейли"]}
+{"form": "чады", "form_src": "чады", "count_cite": 1, "count_ctx": 0, "kb_marker": false, "is_rus_loan": true, "sources": ["ягода_32937"], "near": ["чалы"]}
+{"form": "вокруг", "form_src": "вокруг", "count_cite": 0, "count_ctx": 15, "kb_marker": false, "is_rus_loan": true, "sources": ["обвести_15177", "обвить_15199", "обвиться_15200", "облететь_15445", "обогнуть_15602"], "near": ["округ"]}
+{"form": "шилли", "form_src": "шилли", "count_cite": 0, "count_ctx": 11, "kb_marker": false, "is_rus_loan": true, "sources": ["белобрысый_1037", "белокурый_1042", "бледнолицый_1359", "блондин_1393", "блондинка_1394"], "near": ["тилли", "шинли"]}
+{"form": "самолет", "form_src": "самолет", "count_cite": 0, "count_ctx": 11, "kb_marker": false, "is_rus_loan": true, "sources": ["вылететь_3886", "одномоторный_16164", "опоздать_16532", "оторваться_17395", "пилотировать_18962"], "near": ["самолёт"]}
+{"form": "дождь", "form_src": "дождь", "count_cite": 0, "count_ctx": 10, "kb_marker": false, "is_rus_loan": true, "sources": ["обложной_15477", "оросить_16718", "парить_18030", "переждать_18394", "перестать_18728"], "near": ["вождь"]}
+{"form": "книги", "form_src": "книги", "count_cite": 0, "count_ctx": 9, "kb_marker": false, "is_rus_loan": true, "sources": ["взамен_2277", "обсуждение_15815", "остальной_16908", "отдать_17129", "оторваться_17395"], "near": ["книга"]}
+{"form": "лица", "form_src": "лица", "count_cite": 0, "count_ctx": 9, "kb_marker": false, "is_rus_loan": true, "sources": ["обоего_15619", "обостренный_15695", "обостриться_15697", "овалм_15982", "оживиться_16230"], "near": ["лига", "лира"]}
+{"form": "вода", "form_src": "вода", "count_cite": 0, "count_ctx": 9, "kb_marker": false, "is_rus_loan": true, "sources": ["обратиться_15733", "отварной_17020", "отливать_17275", "питьевой_19019", "пресный_21606"], "near": ["мода", "сода"]}
+{"form": "собой", "form_src": "собой", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["владеть_2572", "опутать_16641", "повлечь_19333", "поделиться_19560", "покончить_20170"], "near": ["обой"]}
+{"form": "ответ", "form_src": "ответ", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["обстоятельный_15797", "односложный_16177", "определенный_16591", "отклик_17208", "отрицательн_17510"], "near": ["отвес"]}
+{"form": "свет", "form_src": "свет", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["огонь_16055", "освещение_16768", "ослепительный_16837", "отправить_17441", "отправиться_17442"], "near": ["совет", "сюет"]}
+{"form": "самый", "form_src": "самый", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["один_16121", "первоочередной_18219", "последний_20859", "предельный_21385", "прежний_21508"], "near": ["самыр"]}
+{"form": "часы", "form_src": "часы", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["опаздывать_16463", "остановить_16912", "отстать_17583", "пик_18942", "позолотаж_20098"], "near": ["сасы", "чалы"]}
+{"form": "счет", "form_src": "счет", "count_cite": 0, "count_ctx": 8, "kb_marker": false, "is_rus_loan": true, "sources": ["острить_16932", "открыть_17250", "перечислить_18806", "поголовный_19405", "поживиться_20046"], "near": ["счёт", "сюет"]}
+{"form": "река", "form_src": "река", "count_cite": 0, "count_ctx": 7, "kb_marker": false, "is_rus_loan": true, "sources": ["обмелеть_15514", "оледенеть_16409", "опоясать_16565", "отделить_17143", "очиститься_17855"], "near": ["дека", "рейка", "речка"]}
+{"form": "ткани", "form_src": "ткани", "count_cite": 0, "count_ctx": 7, "kb_marker": false, "is_rus_loan": true, "sources": ["образец_15711", "образчик_15726", "основа_16871", "отрезок_17501", "плотность_19186"], "near": ["ткань"]}
+{"form": "окна", "form_src": "окна", "count_cite": 0, "count_ctx": 7, "kb_marker": false, "is_rus_loan": true, "sources": ["окно_16331", "отворить_17076", "отставить_17575", "перемычка_18551", "перспектива_18857"], "near": ["ойна", "окка", "окъа"]}
+{"form": "ветер", "form_src": "ветер", "count_cite": 0, "count_ctx": 7, "kb_marker": false, "is_rus_loan": true, "sources": ["окрепнуть_16366", "ост_16904", "перемениться_18525", "перемениый_18526", "подняться_19727"], "near": ["jетер", "веер", "вечер", "кетер"]}
+{"form": "берег", "form_src": "берег", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["вдаваться_1997", "обрывистый_15774", "отлогий_17288", "оттеснить_17644", "подмыть_19709"], "near": ["берет"]}
+{"form": "властны", "form_src": "властны", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["власть_2585", "единовластие_6476", "имущий_8763", "орган_16672", "у_29365"], "near": ["властлы"]}
+{"form": "нефтни", "form_src": "нефтни", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["неистощимый_14189", "нефтепродукты_14829", "нефтяной_14834", "отходы_17684", "фонтан_30926"], "near": ["нефтли", "нефтчи"]}
+{"form": "труд", "form_src": "труд", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["общеполезный_15902", "окупиться_16397", "плодотворный_19171", "подневольный_19713", "право_21282"], "near": ["тред", "трус"]}
+{"form": "года", "form_src": "года", "count_cite": 0, "count_ctx": 6, "kb_marker": false, "is_rus_loan": true, "sources": ["первый_18225", "последовательность_20863", "предел_21384", "противпредлог_23008", "прошествиес_23122"], "near": ["гида", "гола", "гонда", "горда"]}
+{"form": "делу", "form_src": "делу", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["беспечный_1118", "относиться_17347", "подход_19978", "подшить_19998", "приступить_22196"], "near": ["дело"]}
+{"form": "науки", "form_src": "науки", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["область_15419", "общий_15917", "основываться_16883", "от_16976", "титан_28655"], "near": ["наука"]}
+{"form": "всем", "form_src": "всем", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обо_15586", "отказывать_17186", "открыться_17251", "при_21645", "прямонареч_23172"], "near": ["эсем"]}
+{"form": "месте", "form_src": "месте", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обосноваться_15685", "основаться_16878", "очутиться_17867", "перехватить_18790", "преступление_21617"], "near": ["мелте"]}
+{"form": "кровь", "form_src": "кровь", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обращаться_15737", "перелить_18502", "плоть_19188", "прилитьсов_21953"], "near": ["кроль"]}
+{"form": "врага", "form_src": "врага", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обрушиться_15771", "освободить_16775", "отбиться_16993", "перебежать_18229", "переметнуться_18532"], "near": ["брага"]}
+{"form": "поля", "form_src": "поля", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обширный_15888", "озариться_16250", "оросить_16718", "пестреть_18880", "поливной_20253"], "near": ["воля", "пиля", "полк", "поляк"]}
+{"form": "срок", "form_src": "срок", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["обязатьсов_15978", "отбыть_17006", "отсрочка_17572", "передвинуть_18357", "предельный_21385"], "near": ["урок"]}
+{"form": "гостинице", "form_src": "гостинице", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["остановиться_16913", "поместитьсов_20471", "поселиться_20824", "при_21645", "прожитьсов_22574"], "near": ["гостиница"]}
+{"form": "окну", "form_src": "окну", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["отвести_17042", "подвинуть_19498", "поднести_19714", "поставить_20929", "продвинуть_22500"], "near": ["окъу"]}
+{"form": "скота", "form_src": "скота", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["отгон_17102", "откорм_17227", "перегон_18325", "поголовный_19405", "поголовье_19406"], "near": ["скоба"]}
+{"form": "слов", "form_src": "слов", "count_cite": 0, "count_ctx": 5, "kb_marker": false, "is_rus_loan": true, "sources": ["отпереться_17411", "отречение_17506", "отречься_17507", "покоробить_20179", "поток_21058"], "near": ["плов", "слон"]}
+{"form": "вещества", "form_src": "вещества", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["взрывчатый_2392", "огнеопасный_16039", "отравляющий_17475", "парообразный_18056"], "near": ["вещество"]}
+{"form": "битам", "form_src": "битам", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["высокоурожайный_4191", "невиданный_13846", "работа_23380", "родить_25087"], "near": ["битим", "битум"]}
+{"form": "плата", "form_src": "плата", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["зарплата_7732", "оплата_16513", "провоз_22423", "проезд_22545"], "near": ["палата", "плита"]}
+{"form": "калибрли", "form_src": "калибрли", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["крупнокалиберный_10789", "малокалиберный_11666", "мелкокалиберный_11946"], "near": ["калибрлы"]}
+{"form": "бурнун", "form_src": "бурнун", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["наставить_13525", "расквасить_24195", "ткнуть_28676", "тыкать_29298"], "near": ["бурун"]}
+{"form": "боль", "form_src": "боль", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["облегчить_15429", "о_16943", "отдаться_17130", "пересилить_18699"], "near": ["болт", "болу", "ноль", "роль"]}
+{"form": "губы", "form_src": "губы", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["обметать_15526", "оттопырить_17652", "плотно_19185", "поджать_19578"], "near": ["губу", "гыбы"]}
+{"form": "речь", "form_src": "речь", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["оборвать_15665", "плавный_19043", "приветствиес_21699", "проникновенный_22763"], "near": ["печь"]}
+{"form": "бочку", "form_src": "бочку", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["обруч_15764", "охвати_17786", "подкатить_19605", "прокатить_22643"], "near": ["бочка"]}
+{"form": "гром", "form_src": "гром", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["оглуши_16028", "отгреметь_17111", "прогреметь_22472", "прокатиться_22644"], "near": ["бром", "грим", "гроб", "хром"]}
+{"form": "наши", "form_src": "наши", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["оправдаться_16580", "осуществиться_16963", "отец_17165", "прадед_21298"], "near": ["наша"]}
+{"form": "запах", "form_src": "запах", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["о_16943", "отбить_16992", "отвратительный_17081", "прельж_21540"], "near": ["запад", "запас", "папах"]}
+{"form": "холода", "form_src": "холода", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["от_16976", "перемерзнуть_18529", "посинеть_20841", "простоять_22963"], "near": ["колода"]}
+{"form": "гайку", "form_src": "гайку", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["отвернуть_17031", "отвинтить_17056", "подвернуть_19482", "подвинтить_19497"], "near": ["гайка"]}
+{"form": "науке", "form_src": "науке", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["отдать_17129", "отдаться_17130", "переворот_18293", "посвятитьсов_20814"], "near": ["наука", "тауке"]}
+{"form": "права", "form_src": "права", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["отмена_17310", "отстоять_17593", "передача_18352", "превысить_21342"], "near": ["оправа", "право"]}
+{"form": "почте", "form_src": "почте", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["перевести_18267", "переслать_18705", "пересылка_18754", "по_19215"], "near": ["почта"]}
+{"form": "меры", "form_src": "меры", "count_cite": 0, "count_ctx": 4, "kb_marker": false, "is_rus_loan": true, "sources": ["перелить_18502", "пересыпать_18755", "предосторожность_21414", "предпринять_21446"], "near": ["мыры"]}
+{"form": "довод", "form_src": "довод", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["веский_2198", "обоснование_15681", "полновесный_20296"], "near": ["доход"]}
+{"form": "власты", "form_src": "власты", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["диктаторский_5657", "полновластный_20297", "трудящийся_29148"], "near": ["властлы", "власть"]}
+{"form": "лето", "form_src": "лето", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["жаркий_6616", "окрепнуть_16366", "провести_22399"], "near": ["вето", "лото"]}
+{"form": "хозяйством", "form_src": "хозяйством", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["завхоз_6985", "обзаведение_15359", "обрасти_15730"], "near": ["хозяйство"]}
+{"form": "бойнун", "form_src": "бойнун", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["натереть_13612", "ниже_14889", "свернуть_25642"], "near": ["бойсун"]}
+{"form": "нефти", "form_src": "нефти", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["нефтеносный_14826", "отгонка_17103"], "near": ["нефтли", "нефтчи", "нефть"]}
+{"form": "партии", "form_src": "партии", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["обком_15403", "партийность_18068", "ЦК_31584"], "near": ["партия"]}
+{"form": "зерна", "form_src": "зерна", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["обмолот_15532", "оболочка_15649", "полновесный_20296"], "near": ["зурна"]}
+{"form": "предложения", "form_src": "предложения", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["обособление_15689", "однородный_16172", "построение_20977"], "near": ["предложение"]}
+{"form": "обучение", "form_src": "обучение", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["образование_15717", "очный_17866", "платный_19091"], "near": ["облучение"]}
+{"form": "палку", "form_src": "палку", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["обрубить_15761", "опереться_16490", "перегнуть_18319"], "near": ["палау"]}
+{"form": "учителя", "form_src": "учителя", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["обступить_15812", "перерасти_18657", "у_29365"], "near": ["учитель"]}
+{"form": "старых", "form_src": "старых", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["обществ_15914", "особенно_16885", "отдалиться_17127"], "near": ["тарых"]}
+{"form": "наций", "form_src": "наций", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["объединенный_15927", "ООН_16460", "организация_16677"], "near": ["нация"]}
+{"form": "враг", "form_src": "враг", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["озверелый_16252", "остервенелый_16920", "противникм_23011"], "near": ["врач"]}
+{"form": "практике", "form_src": "практике", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["оправдать_16579", "осуществить_16962", "приложениес_21956"], "near": ["практика"]}
+{"form": "стул", "form_src": "стул", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["опрокинуть_16602", "опуститься_16635", "приставной_22172"], "near": ["стол", "утул"]}
+{"form": "имени", "form_src": "имени", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["от_16976", "припомнитьсов_22100", "присвоениес_22130"], "near": ["иймени", "мени"]}
+{"form": "письма", "form_src": "письма", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["отвезти_17023", "отправить_17441", "переписка_18595"], "near": ["письмо"]}
+{"form": "книге", "form_src": "книге", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["отзыв_17179", "отметить_17322", "посвящение_20816"], "near": ["книга"]}
+{"form": "другу", "form_src": "другу", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["открыться_17251", "поверить_19292", "подходить_19979"], "near": ["джугу"]}
+{"form": "песня", "form_src": "песня", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["откуда_17255", "плач_19102", "причитание_22319"], "near": ["пеня"]}
+{"form": "производства", "form_src": "производства", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["отличник_17284", "отрывм_17523", "поточный_21077"], "near": ["производство"]}
+{"form": "качества", "form_src": "качества", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["отличный_17287", "оценка_17821"], "near": ["качество"]}
+{"form": "ветра", "form_src": "ветра", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["относительно_17344", "порывм_20790", "противпредлог_23008"], "near": ["ветка"]}
+{"form": "продукции", "form_src": "продукции", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["оценка_17821", "повысить_19365", "повыситься_19366"], "near": ["продукция"]}
+{"form": "форме", "form_src": "форме", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["парализовать_18006", "письменный_19006", "популяризацияж_20666"], "near": ["форма"]}
+{"form": "мост", "form_src": "мост", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["перебросить_18248", "подъемный_20006", "постоянный_20969"], "near": ["морт", "пост", "тост"]}
+{"form": "двери", "form_src": "двери", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["перемычка_18551", "петля_18890", "портьера_20768"], "near": ["дери"]}
+{"form": "населения", "form_src": "населения", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["перепись_18598", "плотность_19186", "потребность_21087"], "near": ["население"]}
+{"form": "строю", "form_src": "строю", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["перестроиться_18744", "перестройка_18745", "пристроиться_22192"], "near": ["строй"]}
+{"form": "хозяйства", "form_src": "хозяйства", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["переустройство_18780", "планирование_19064", "совнархоз_26916"], "near": ["хозяйство"]}
+{"form": "планёр", "form_src": "планёр", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["планер_19058", "планирование_19065", "планировать_19067"], "near": ["планер"]}
+{"form": "луна", "form_src": "луна", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["плыть_19199", "полный_20310", "проглянуть_22454"], "near": ["ауна", "лупа", "руна", "суна"]}
+{"form": "слой", "form_src": "слой", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["поверхностиый_19299", "прокладка_22651", "прослойка_22909"], "near": ["слон"]}
+{"form": "горлу", "form_src": "горлу", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["подкатить_19605", "подступить_19919", "пристать_22177"], "near": ["голлу"]}
+{"form": "корм", "form_src": "корм", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["подкорм_19630", "подножный_19721", "птичий_23204"], "near": ["корма"]}
+{"form": "цена", "form_src": "цена", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["подписи_19785", "покупной_20206", "продажный_22495"], "near": ["вена", "иена", "сцена", "ценз"]}
+{"form": "земле", "form_src": "земле", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["предание_21354", "предать_21362", "прибитьсов_21664"], "near": ["jемле", "жемле", "зееле", "зехле"]}
+{"form": "сети", "form_src": "сети", "count_cite": 0, "count_ctx": 3, "kb_marker": false, "is_rus_loan": true, "sources": ["радиосеть_23458", "сеть_26053"], "near": ["jети", "бети", "жети", "сеть"]}
