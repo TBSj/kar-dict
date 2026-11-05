@@ -69,7 +69,7 @@ jаман↔аман). Полный список — `checkpoints/review_queues/
 **2026-11-05: шаги 1 и 1б обзора выполнены** (статус и цифры — в начале `docs/SOURCES_SURVEY.md`;
 «было → стало» для лингвиста — `checkpoints/review_queues/repair_review.xlsx`).
 **2026-11-05: шаг 2 выполнен** — 299 статей трёх потерянных блоков КБРС прочитаны со скана
-(`pipeline/s17_kbrs_blocks.py`; корпус 39 748 статей; для лингвиста — `checkpoints/review_queues/kbrs_blocks_review.xlsx`).
+(`pipeline/s17_kbrs_blocks.py`; корпус 39 747 статей; для лингвиста — `checkpoints/review_queues/kbrs_blocks_review.xlsx`).
 Следующие шаги обзора: 3 (словарь омонимов Гузеева), 4 (фразеология).
 
 ## 5. Политика разбиения омонимов / многозначности
