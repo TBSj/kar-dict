@@ -6,3 +6,8 @@ checkpoints/batch_state/failed/
 # sources survey: book texts and book-derived data (copyright) + lookup cache
 local/
 pipeline/survey_tools/corpus_index.pkl
+
+# backups made before each repair step (06_lextagged.pre_s10.jsonl, vol2.pre_s12.jsonl.bak …)
+checkpoints/**/*.pre_*
+# Excel lock files of open workbooks
+~$*

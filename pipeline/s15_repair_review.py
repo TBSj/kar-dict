@@ -160,7 +160,10 @@ def main():
             rows.append((e["word"], e["dict_id"], e.get("tags", ""), short(e.get("def2"), 160), short(e.get("def1"), 160), short(e.get("misc2"), 200)))
     sheet(wb, "4_ТСКБЯ_пропуск", ["слово", "dict_id", "пометы", "def2 (ТСКБЯ)", "def1 (КБРС)", "misc2"], sorted(rows), [22, 8, 14, 45, 45, 60])
 
-    # 5. markers: examples from a direct comparison of misc2 before/after the marker pass
+    # 5. markers: examples from a direct comparison of misc2 before/after the marker pass.
+    #    The two backups were deleted after commit bb13ba0; to re-run, restore them first:
+    #    git show bb13ba0:checkpoints/06_lextagged.pre_s11.jsonl > checkpoints/06_lextagged.pre_s11.jsonl
+    #    (same for 06_lextagged.pre_s10apply.jsonl)
     before_m = {json.loads(l)["entry_id"]: json.loads(l).get("misc2") or "" for l in open(CK / "06_lextagged.pre_s11.jsonl", encoding="utf-8")}
     after_m = {json.loads(l)["entry_id"]: json.loads(l).get("misc2") or "" for l in open(CK / "06_lextagged.pre_s10apply.jsonl", encoding="utf-8")}
     random.seed(5)
