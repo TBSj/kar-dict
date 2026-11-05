@@ -1,0 +1,34 @@
+{
+ "block1": {
+  "articles_on_pages": 124,
+  "gap": 100,
+  "first": "актрисалыкъ",
+  "last": "акъыллашмакълыкъ",
+  "overlap_checked": 23,
+  "overlap_sim_mean": 0.985,
+  "overlap_sim_lt_0.9": 1,
+  "with_doubts": 6
+ },
+ "block2": {
+  "articles_on_pages": 165,
+  "gap": 100,
+  "first": "маймул",
+  "last": "малчылыкъ",
+  "overlap_checked": 65,
+  "overlap_sim_mean": 0.969,
+  "overlap_sim_lt_0.9": 10,
+  "with_doubts": 2
+ },
+ "block3": {
+  "articles_on_pages": 153,
+  "gap": 99,
+  "first": "джангырыучу",
+  "last": "джарашыулу",
+  "overlap_checked": 53,
+  "overlap_sim_mean": 0.974,
+  "overlap_sim_lt_0.9": 6,
+  "with_doubts": 9
+ },
+ "items": 299,
+ "s0_batches": 12
+}
