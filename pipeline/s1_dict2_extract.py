@@ -140,6 +140,9 @@ def segment_volume(vol: int, pages: list[dict]) -> list[dict]:
     return out
 
 def main():
+    # BUG (found 2026-11-04): the vocabulary of vols 2–3 starts at index 10, not 17 — pages 10–16
+    # were recovered separately by s12_dict2_gap.py.  Do not change these values and re-run:
+    # all d2_ ids (referenced everywhere downstream) would be renumbered.
     body_start = {1: 29, 2: 17, 3: 17}
     OUT_PAGES.mkdir(parents=True, exist_ok=True)
     all_entries, report = [], {}

@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_02952@81",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02953@167",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02957@99",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02958@105",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02964@93",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02977@109",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02981@128",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02981@203",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02981@353",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02982@610",
+   "type": "citation",
+   "note": "начало — цитата с подписью; дальше в блоке без своего знака идёт фразеологизм «Алчылыкъ эт …/»"
+  },
+  {
+   "id": "e_02986@533",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02988@68",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02989@328",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03001@120",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03011@112",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03016@102",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03016@192",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03035@158",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03035@195",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03036@444",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03046@42",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03046@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03049@134",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03050@140",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03065@189",
+   "type": "unclear",
+   "note": "в оригинале «||» (OCR «Ц») — разделитель оттенков значения внутри п. 2 «В позиции определения: алюминиевый/»: толкование подзначения + словосочетание; не цитата и не фразеологизм — по конвенции корпуса это «//»"
+  },
+  {
+   "id": "e_03065@229",
+   "type": "unclear",
+   "note": "в оригинале «||» (OCR «Ц») — разделитель оттенков значения внутри п. 2 «В позиции определения: алюминиевый/»: толкование подзначения + словосочетание; не цитата и не фразеологизм — по конвенции корпуса это «//»"
+  },
+  {
+   "id": "e_03066@1362",
+   "type": "phrase",
+   "note": "фразеологизм с отсылкой «(къ. амал)» и примером; глиф потерян OCR"
+  },
+  {
+   "id": "e_03082@788",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03082@2490",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03082@5417",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03082@6065",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03082@7006",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03087@68",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03089@55",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03106@51",
+   "type": "citation",
+   "note": "словосочетание-пример без перевода и толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_03108@100",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03143@101",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03144@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03149@95",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03156@169",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03159@153",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03161@116",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03162@172",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03162@664",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03169@285",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03169@655",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03169@688",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03170@99",
+   "type": "citation",
+   "note": "словосочетание-пример без перевода и толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_03215@109",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03216@79",
+   "type": "citation",
+   "note": "словосочетание-пример без перевода и толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_03229@40",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03230@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03233@131",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03248@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03248@176",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03249@168",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03250@62",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03287@461",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03302@147",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03302@366",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03309@198",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03313@176",
+   "type": "citation",
+   "note": "словосочетание-пример без перевода и толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_03327@376",
+   "type": "phrase",
+   "note": "фразеологизм «Ант аны (сени) къурутсун» с русским переводом и толкованием"
+  },
+  {
+   "id": "e_03336@107",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03336@219",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03337@143",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03358@217",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03364@418",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03377@760",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03397@259",
+   "type": "citation",
+   "note": "глиф похож на залитый, но блок — цитата с подписью источника"
+  },
+  {
+   "id": "e_03426@226",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03443@217",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03457@104",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03470@411",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03470@1843",
+   "type": "citation",
+   "note": "словосочетания-примеры «Ара фондла. Ара мал.» после пословицы, не фразеологизм"
+  },
+  {
+   "id": "e_03470@2845",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03470@3635",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03471@326",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03486@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03519@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03533@238",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03534@152",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03536@111",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03539@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03550@553",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03553@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03555@189",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03564@679",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03565@341",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03565@846",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03578@93",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03586@57",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03586@114",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03588@60",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03590@501",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03590@632",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03591@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03595@130",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03617@501",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03632@999",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03649@128",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03663@170",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03674@59",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03677@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03686@2636",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03722@902",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03723@99",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03734@304",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03735@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03735@451",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03735@1738",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03735@2800",
+   "type": "citation",
+   "note": "начало — цитата с подписью; дальше в блоке без своего знака идёт фразеологизм «Артха тарт …/»"
+  },
+  {
+   "id": "e_03744@236",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03746@289",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03773@98",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03774@201",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03774@362",
+   "type": "citation",
+   "note": "глиф похож на залитый, но блок — цитата с подписью источника"
+  },
+  {
+   "id": "e_03776@69",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03782@119",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03804@121",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03810@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03826@88",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03833@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03839@138",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03841@63",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03846@80",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03847@80",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03849@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03855@126",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03871@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03878@104",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03886@1023",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03886@1298",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03926@165",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03929@165",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03942@50",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03943@220",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03952@423",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03964@218",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03966@180",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03966@347",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03971@60",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03971@255",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04012@293",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04023@41",
+   "type": "citation",
+   "note": "глиф похож на залитый, но блок — цитата с подписью источника"
+  },
+  {
+   "id": "e_04042@96",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04043@5059",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04048@1238",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04056@475",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04095@193",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

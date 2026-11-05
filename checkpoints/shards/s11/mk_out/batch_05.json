@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_05721@1149",
+   "type": "citation",
+   "note": "начало — ремарка [Омар Сакийнатха:] и цитата с подписью (глиф залитый); далее в блоке без знака фразы «Башханы къой», «Башха этмей»"
+  },
+  {
+   "id": "e_05721@1615",
+   "type": "citation",
+   "note": "стихотворная цитата с источником, начинается словами фразы «Башха этмей»"
+  },
+  {
+   "id": "e_05761@89",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05766@114",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05774@152",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05780@194",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05788@179",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05794@45",
+   "type": "citation",
+   "note": "свободные словосочетания-примеры без перевода и толкования, не подстатья"
+  },
+  {
+   "id": "e_05795@118",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05798@75",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05844@94",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05846@519",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05849@514",
+   "type": "phrase",
+   "note": "фраза с отсылкой (къ. бедишлик), глиф полый"
+  },
+  {
+   "id": "e_05849@614",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05849@751",
+   "type": "phrase",
+   "note": "фраза с отсылкой (къ. бедишлик)"
+  },
+  {
+   "id": "e_05859@385",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05859@831",
+   "type": "phrase",
+   "note": "фраза с отсылкой (къ. бедишлик бол)"
+  },
+  {
+   "id": "e_05859@1539",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05878@116",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05897@97",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05903@270",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05904@515",
+   "type": "citation",
+   "note": "пословица (Нарт сёз.) как пример употребления"
+  },
+  {
+   "id": "e_05904@908",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05904@1161",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05909@214",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05916@334",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05920@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05921@71",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05931@88",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05977@642",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05978@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05985@443",
+   "type": "citation",
+   "note": "цитата из грамматики с источником; далее в блоке без знака фраза «Белгисиз иели айтым грам.»"
+  },
+  {
+   "id": "e_06006@88",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06010@203",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06024@95",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06032@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06032@311",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06036@107",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06055@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06066@63",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06076@59",
+   "type": "citation",
+   "note": "словосочетания-примеры без перевода, не подстатья"
+  },
+  {
+   "id": "e_06095@95",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06095@208",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06098@390",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06099@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06102@172",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06112@129",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06113@392",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06113@2495",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06113@4883",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06115@107",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06117@43",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06151@201",
+   "type": "phrase",
+   "note": "фраза с отсылкой (къ. бетсиз), за ней цитата"
+  },
+  {
+   "id": "e_06167@326",
+   "type": "citation",
+   "note": "глиф I, но содержание — цитата с источником"
+  },
+  {
+   "id": "e_06181@98",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06183@182",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06189@284",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06195@636",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06203@155",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06216@87",
+   "type": "citation",
+   "note": "пословица как пример употребления"
+  },
+  {
+   "id": "e_06217@438",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06217@553",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06217@1295",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06218@78",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06220@135",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06221@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06226@137",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06240@530",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06242@473",
+   "type": "citation",
+   "note": "короткое предложение-пример"
+  },
+  {
+   "id": "e_06242@564",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06249@92",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06251@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06270@210",
+   "type": "phrase",
+   "note": "фраза с отсылкой (къ. билек)"
+  },
+  {
+   "id": "e_06279@70",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06280@94",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06287@139",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06297@103",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06307@39",
+   "type": "citation",
+   "note": "фольклорный пример (Фольк.)"
+  },
+  {
+   "id": "e_06307@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06318@129",
+   "type": "citation",
+   "note": "пословица (Нарт сёз.)"
+  },
+  {
+   "id": "e_06332@458",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@4551",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@6277",
+   "type": "citation",
+   "note": "пословица (Нарт сёз.)"
+  },
+  {
+   "id": "e_06332@7539",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@11623",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@12831",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@16975",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@17956",
+   "type": "phrase",
+   "note": "фраза: пометы хал. сёзл. и отсылка къ. бир жолгъа"
+  },
+  {
+   "id": "e_06337@189",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06339@118",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06345@427",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06351@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06385@92",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06418@1034",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06431@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06450@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06455@87",
+   "type": "phrase",
+   "note": "фраза с отсылкой (къ. сокъур)"
+  },
+  {
+   "id": "e_06456@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06468@569",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06469@167",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06474@112",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06479@79",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06480@66",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06509@106",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06516@90",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06520@90",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06525@169",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06529@635",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06552@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06553@1060",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06553@1280",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06645@856",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06669@91",
+   "type": "citation",
+   "note": "словосочетание-пример без перевода"
+  },
+  {
+   "id": "e_06700@191",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06709@410",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06729@47",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06757@126",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06780@141",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06780@441",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06780@1410",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06803@132",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06804@155",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06817@766",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06822@158",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06824@165",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06828@166",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06830@152",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06836@424",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06841@468",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06854@3319",
+   "type": "phrase",
+   "note": "фраза с русским переводом; далее в блоке фраза «Борчха кир … /»"
+  },
+  {
+   "id": "e_06870@647",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06873@50",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06874@69",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06875@125",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06878@104",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06894@1659",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06894@2545",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06894@2946",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06895@971",
+   "type": "citation",
+   "note": "глиф I, но содержание — цитата с источником"
+  },
+  {
+   "id": "e_06895@1128",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06896@565",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06897@94",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06899@349",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06904@275",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06918@1111",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06919@103",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06922@187",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06925@50",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06929@154",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06937@328",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

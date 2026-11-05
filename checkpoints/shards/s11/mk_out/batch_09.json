@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_24856@62",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24876@1475",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24888@65",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24895@1544",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24896@131",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24936@206",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24940@1124",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24944@87",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25015@103",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25015@5408",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25015@6042",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25020@143",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25038@93",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25039@79",
+   "type": "citation",
+   "note": "блок начинается с толкования заглавного слова, оказавшегося за знаком (≈ рус. «Проросшие зерна, пригодные для солода»), далее цитата «Шуёхлукъ», № 51, 73; фразеологизма нет, глиф «В» на этих страницах обычно открывает цитаты"
+  },
+  {
+   "id": "e_25076@57",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_25114@71",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25168@579",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_25169@84",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25242@70",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25261@455",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25289@1087",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25352@101",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_25367@55",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_25378@72",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25423@42",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25484@63",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25499@177",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25500@328",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_25506@1780",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25516@111",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25703@120",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25703@171",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25706@53",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25708@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25796@191",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25796@3030",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25796@3563",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25886@173",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25901@401",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26088@88",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26101@349",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26107@505",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26107@1048",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26116@69",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26116@116",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26165@134",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26272@159",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26292@57",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26296@96",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26308@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26636@119",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26771@253",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26776@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26794@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26806@494",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26845@126",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26851@147",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26861@392",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_27036@62",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_27235@239",
+   "type": "citation",
+   "note": "предложение-пример без подписи после пословицы (в OCR перед ним «О»)"
+  },
+  {
+   "id": "e_27431@50",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_27763@446",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28064@309",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28106@433",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28207@101",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28233@3612",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28233@4743",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28233@5177",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28233@9981",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28233@13422",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28238@63",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28240@441",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28240@628",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28242@92",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28248@80",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28261@74",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_28261@275",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_28295@81",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28623@179",
+   "type": "citation",
+   "note": "предложение-пример без подписи после пословицы (в OCR перед ним «0»)"
+  },
+  {
+   "id": "e_28675@98",
+   "type": "citation",
+   "note": "предложение-пример без подписи после пословицы (в OCR перед ним «О»)"
+  },
+  {
+   "id": "e_28808@86",
+   "type": "citation",
+   "note": "предложение-пример без подписи после пословицы (в OCR перед ним «О»)"
+  },
+  {
+   "id": "e_28836@198",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28837@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28883@83",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28885@117",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28941@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29031@65",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_29054@678",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_29071@432",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29182@293",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29245@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29252@389",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29376@238",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_29608@1649",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_29656@80",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29750@233",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29909@72",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_29924@75",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_30044@1065",
+   "type": "phrase",
+   "note": "в misc2 потеряны заголовок и перевод; в OCR страницы: «■ Техника редактор технический редактор / басмаланырыкъ…» — знак залитый (■, т.е. ◊), а не ▯; глиф «/» — артефакт поиска"
+  },
+  {
+   "id": "e_30270@432",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_30296@94",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_30302@152",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_30351@290",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_30369@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_30430@103",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_30827@604",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_31044@135",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31062@108",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31112@44",
+   "type": "citation",
+   "note": "короткий пример без перевода и толкования после пословицы (в OCR «0», полый); в dict-1 есть «тоюму болмагъан ненасытный», но здесь это пример, не подстатья"
+  },
+  {
+   "id": "e_31290@1849",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31482@361",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31591@57",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31593@18",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31655@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_31677@81",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32045@416",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32045@1235",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32046@1606",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32078@57",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32078@697",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_32143@363",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32299@368",
+   "type": "phrase",
+   "note": "глиф не найден; в OCR страницы: «♦ Тюкюрюк къуругъунчу очень быстро (делать что-либо) / бек терк.» — знак залитый (♦), русский перевод в misc2 потерян"
+  },
+  {
+   "id": "e_32351@257",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_32474@69",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32503@118",
+   "type": "citation",
+   "note": "словосочетания-примеры без перевода и толкования после пословицы (в OCR «О»); не подстатья"
+  },
+  {
+   "id": "e_32507@295",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32511@66",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32512@465",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32554@96",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_32912@4221",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_33125@65",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_34040@34",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_34110@224",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_34116@41",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_34120@142",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_34120@327",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_34823@137",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_35046@978",
+   "type": "citation",
+   "note": "глиф не найден; в OCR страницы перед блоком «О» после «(Нарт сёз.)»; фольклорная цитата"
+  },
+  {
+   "id": "e_35050@1244",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35051@130",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_35080@133",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35115@560",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35115@871",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_35183@979",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35369@74",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35446@42",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35479@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35632@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35662@21",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35731@738",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

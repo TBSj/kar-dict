@@ -1,0 +1,64 @@
+{
+ "items": [
+  {
+   "sid": 29446,
+   "verdict": "ok",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "",
+   "evidence": "с. 718 лев.: «цилиндр…; цинга мед. цинга||цинготный; цинк…» — порядок книги; заимствование с «нг» (алфавитная ловушка), слово верное.",
+   "confidence": "high"
+  },
+  {
+   "sid": 29823,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "чарпыулу",
+   "evidence": "с. 727 прав.: между «чарпыу» и «чарпыусуз»; в самой печати опечатка «чапыулу 1) убыточный…». Правильно «чарпыулу» (чарпыу + -лу; антоним чарпыусуз).",
+   "confidence": "high"
+  },
+  {
+   "sid": 30302,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "чуппа-чубар",
+   "evidence": "с. 738 прав. вверху: «-чуппа парн. к уппа-» / «чуппа-чубар то же, что чуп-чубар» / «чупулдамакълыкъ…». Ключ «чубар» — обрубок заглавного «чуппа-чубар» (первая часть потеряна). В корпусе запись влита в настоящее «чубар» (e_35980, src1 [30249, 30302]; в def1 «…; то же, что чуп-чубар») — отделить sid 30302 в отдельную статью «чуппа-чубар».",
+   "confidence": "high"
+  },
+  {
+   "sid": 30444,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "чынар",
+   "evidence": "с. 743 лев. внизу: «чынакай балк. мизинец; чынар (тж. ~ терек) чинара; бук||буковый», далее «чыначыкъ». OCR ы→и; в misc1 «(тж. чинар терек)» → «чынар терек».",
+   "confidence": "high"
+  },
+  {
+   "sid": 31281,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "ынгычхау",
+   "evidence": "с. 759 лев.: «ынгычхау карач. и. д. к ынгычхаргъа 1) стон…» между «ынгычхатыу» и «ынгычхауукъ». OCR «нь» вместо «нг».",
+   "confidence": "high"
+  }
+ ]
+}

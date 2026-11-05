@@ -1,0 +1,1250 @@
+{
+ "items": [
+  {
+   "sid": 25842,
+   "is_hyphen": true,
+   "cut": "-тёгерек",
+   "headword": "тёп-тёгерек",
+   "note": ""
+  },
+  {
+   "sid": 25843,
+   "is_hyphen": true,
+   "cut": "-тёгерекде",
+   "headword": "тёп-тёгерекде",
+   "note": ""
+  },
+  {
+   "sid": 25844,
+   "is_hyphen": true,
+   "cut": "-тёгерекден",
+   "headword": "тёп-тёгерекден",
+   "note": ""
+  },
+  {
+   "sid": 25886,
+   "is_hyphen": true,
+   "cut": "-джастыкъ",
+   "headword": "тёшек-джастыкъ",
+   "note": ""
+  },
+  {
+   "sid": 25894,
+   "is_hyphen": true,
+   "cut": "-мёше",
+   "headword": "тёше-мёше",
+   "note": ""
+  },
+  {
+   "sid": 26016,
+   "is_hyphen": true,
+   "cut": "-тюзлю",
+   "headword": "тикли-тюзлю",
+   "note": ""
+  },
+  {
+   "sid": 26093,
+   "is_hyphen": true,
+   "cut": "-тёнчек",
+   "headword": "тин-тёнчек",
+   "note": ""
+  },
+  {
+   "sid": 26099,
+   "is_hyphen": true,
+   "cut": "-минт",
+   "headword": "тинт-минт",
+   "note": ""
+  },
+  {
+   "sid": 26108,
+   "is_hyphen": true,
+   "cut": "-тик",
+   "headword": "типпе-тик",
+   "note": ""
+  },
+  {
+   "sid": 26109,
+   "is_hyphen": true,
+   "cut": "-тик",
+   "headword": "тип-тик",
+   "note": ""
+  },
+  {
+   "sid": 26208,
+   "is_hyphen": true,
+   "cut": "-башы",
+   "headword": "тиши-башы",
+   "note": "случай 2: «-башылик» = «башы» + рус. «лик» (перевод «лик, облик»; *башылик нарушает сингармонизм)"
+  },
+  {
+   "sid": 26247,
+   "is_hyphen": true,
+   "cut": "-кёзбау",
+   "headword": "тобалакъ-кёзбау",
+   "note": "номер значения «1)» слипся со словом; граница перед «1)»"
+  },
+  {
+   "sid": 26251,
+   "is_hyphen": true,
+   "cut": "-тоба",
+   "headword": "тоба-тоба",
+   "note": ""
+  },
+  {
+   "sid": 26357,
+   "is_hyphen": true,
+   "cut": "-къууанч",
+   "headword": "той-къууанч",
+   "note": ""
+  },
+  {
+   "sid": 26362,
+   "is_hyphen": true,
+   "cut": "-оюн",
+   "headword": "той-оюн",
+   "note": ""
+  },
+  {
+   "sid": 26365,
+   "is_hyphen": true,
+   "cut": "-оюнчу",
+   "headword": "тойчу-оюнчу",
+   "note": ""
+  },
+  {
+   "sid": 26573,
+   "is_hyphen": true,
+   "cut": "-толуду",
+   "headword": "топпа-толуду",
+   "note": ""
+  },
+  {
+   "sid": 26574,
+   "is_hyphen": true,
+   "cut": "-толу",
+   "headword": "топ-толу",
+   "note": ""
+  },
+  {
+   "sid": 26575,
+   "is_hyphen": true,
+   "cut": "-топ",
+   "headword": "топ-топ",
+   "note": ""
+  },
+  {
+   "sid": 26576,
+   "is_hyphen": true,
+   "cut": "-туп",
+   "headword": "топ-туп",
+   "note": ""
+  },
+  {
+   "sid": 26594,
+   "is_hyphen": true,
+   "cut": "-тупул",
+   "headword": "топул-тупул",
+   "note": ""
+  },
+  {
+   "sid": 26598,
+   "is_hyphen": true,
+   "cut": "-топур",
+   "headword": "топур-топур",
+   "note": ""
+  },
+  {
+   "sid": 26648,
+   "is_hyphen": true,
+   "cut": "-тынны",
+   "headword": "тохтаны-тынны",
+   "note": ""
+  },
+  {
+   "sid": 26732,
+   "is_hyphen": true,
+   "cut": "-юнион",
+   "headword": "тред-юнион",
+   "note": ""
+  },
+  {
+   "sid": 26766,
+   "is_hyphen": true,
+   "cut": "-р",
+   "headword": "тр-р",
+   "note": "случай 5: звукоподражание тр-р, как в печати"
+  },
+  {
+   "sid": 26798,
+   "is_hyphen": true,
+   "cut": "-гырджын",
+   "headword": "туз-гырджын",
+   "note": ""
+  },
+  {
+   "sid": 26824,
+   "is_hyphen": true,
+   "cut": "-джукъ",
+   "headword": "тукъум-джукъ",
+   "note": ""
+  },
+  {
+   "sid": 26825,
+   "is_hyphen": true,
+   "cut": "-джууукъ",
+   "headword": "тукъум-джууукъ",
+   "note": ""
+  },
+  {
+   "sid": 26830,
+   "is_hyphen": true,
+   "cut": "-джууукъсуз",
+   "headword": "тукъумсуз-джууукъсуз",
+   "note": ""
+  },
+  {
+   "sid": 26833,
+   "is_hyphen": false,
+   "cut": "",
+   "headword": "",
+   "note": "случай 3: «-горбый» — перевод самого тукъуш (экитукъуш тюе = двугорбый верблюд)"
+  },
+  {
+   "sid": 26834,
+   "is_hyphen": true,
+   "cut": "-мукъуш",
+   "headword": "тукъуш-мукъуш",
+   "note": ""
+  },
+  {
+   "sid": 26842,
+   "is_hyphen": true,
+   "cut": "-тубан",
+   "headword": "тул-тубан",
+   "note": ""
+  },
+  {
+   "sid": 26861,
+   "is_hyphen": true,
+   "cut": "-къара",
+   "headword": "тум-къара",
+   "note": ""
+  },
+  {
+   "sid": 26891,
+   "is_hyphen": true,
+   "cut": "-тузлу",
+   "headword": "туппа-тузлу",
+   "note": ""
+  },
+  {
+   "sid": 26893,
+   "is_hyphen": true,
+   "cut": "-тузлу",
+   "headword": "туп-тузлу",
+   "note": ""
+  },
+  {
+   "sid": 26894,
+   "is_hyphen": true,
+   "cut": "-туру",
+   "headword": "туп-туру",
+   "note": ""
+  },
+  {
+   "sid": 26953,
+   "is_hyphen": true,
+   "cut": "-тур",
+   "headword": "тур-тур",
+   "note": ""
+  },
+  {
+   "sid": 27105,
+   "is_hyphen": true,
+   "cut": "-сугъула",
+   "headword": "тыгъыла-сугъула",
+   "note": ""
+  },
+  {
+   "sid": 27157,
+   "is_hyphen": true,
+   "cut": "-мык",
+   "headword": "тык-мык",
+   "note": ""
+  },
+  {
+   "sid": 27161,
+   "is_hyphen": true,
+   "cut": "-тукъул",
+   "headword": "тыкъал-тукъул",
+   "note": "слиплось с пометой «$подр.%»; граница перед «$»"
+  },
+  {
+   "sid": 27162,
+   "is_hyphen": true,
+   "cut": "-тукъур",
+   "headword": "тыкъар-тукъур",
+   "note": ""
+  },
+  {
+   "sid": 27180,
+   "is_hyphen": true,
+   "cut": "-тыкълама",
+   "headword": "тыкъ-тыкълама",
+   "note": ""
+  },
+  {
+   "sid": 27187,
+   "is_hyphen": true,
+   "cut": "-мыкъыр",
+   "headword": "тыкъыр-мыкъыр",
+   "note": ""
+  },
+  {
+   "sid": 27188,
+   "is_hyphen": true,
+   "cut": "-тыкъыр",
+   "headword": "тыкъыр-тыкъыр",
+   "note": "слиплось с пометой «$то же, что»; граница перед «$»"
+  },
+  {
+   "sid": 27202,
+   "is_hyphen": true,
+   "cut": "-мылы",
+   "headword": "тылы-мылы",
+   "note": ""
+  },
+  {
+   "sid": 27262,
+   "is_hyphen": true,
+   "cut": "-рахатлыкъ",
+   "headword": "тынчлыкъ-рахатлыкъ",
+   "note": "помета (-гъы) слиплась без пробела, оставлена в тексте"
+  },
+  {
+   "sid": 27265,
+   "is_hyphen": true,
+   "cut": "-эсенлик",
+   "headword": "тынчлыкъ-эсенлик",
+   "note": "помета (-ги) слиплась без пробела, оставлена в тексте"
+  },
+  {
+   "sid": 27266,
+   "is_hyphen": true,
+   "cut": "-рахат",
+   "headword": "тынч-рахат",
+   "note": "слиплось с пометой «$то же, что»; граница перед «$»"
+  },
+  {
+   "sid": 27273,
+   "is_hyphen": true,
+   "cut": "-эсен",
+   "headword": "тынч-эсен",
+   "note": ""
+  },
+  {
+   "sid": 27299,
+   "is_hyphen": true,
+   "cut": "-тупул",
+   "headword": "тыпал-тупул",
+   "note": ""
+  },
+  {
+   "sid": 27300,
+   "is_hyphen": true,
+   "cut": "-тупур",
+   "headword": "тыпар-тупур",
+   "note": ""
+  },
+  {
+   "sid": 27301,
+   "is_hyphen": true,
+   "cut": "-тынч",
+   "headword": "тыппа-тынч",
+   "note": "после запятой вариант «тып-тынч» (второе заглавное слово) оставлен в тексте статьи"
+  },
+  {
+   "sid": 27312,
+   "is_hyphen": true,
+   "cut": "-тыпыр",
+   "headword": "тыпыр-тыпыр",
+   "note": ""
+  },
+  {
+   "sid": 27371,
+   "is_hyphen": true,
+   "cut": "-тыр",
+   "headword": "тыр-тыр",
+   "note": ""
+  },
+  {
+   "sid": 27424,
+   "is_hyphen": true,
+   "cut": "-баш",
+   "headword": "тюб-баш",
+   "note": ""
+  },
+  {
+   "sid": 27429,
+   "is_hyphen": true,
+   "cut": "-башдан",
+   "headword": "тюбден-башдан",
+   "note": ""
+  },
+  {
+   "sid": 27454,
+   "is_hyphen": true,
+   "cut": "-башлы",
+   "headword": "тюблю-башлы",
+   "note": ""
+  },
+  {
+   "sid": 27458,
+   "is_hyphen": true,
+   "cut": "-тереке",
+   "headword": "тюб-тереке",
+   "note": ""
+  },
+  {
+   "sid": 27476,
+   "is_hyphen": true,
+   "cut": "-джамы",
+   "headword": "тюгю-джамы",
+   "note": ""
+  },
+  {
+   "sid": 27527,
+   "is_hyphen": true,
+   "cut": "-илгик",
+   "headword": "тюйме-илгик",
+   "note": ""
+  },
+  {
+   "sid": 27572,
+   "is_hyphen": true,
+   "cut": "-уруш",
+   "headword": "тюйюш-уруш",
+   "note": ""
+  },
+  {
+   "sid": 27617,
+   "is_hyphen": true,
+   "cut": "-бюрсюкюн",
+   "headword": "тюнене-бюрсюкюн",
+   "note": ""
+  },
+  {
+   "sid": 27636,
+   "is_hyphen": true,
+   "cut": "-тюз",
+   "headword": "тюппе-тюз",
+   "note": "номер значения «1)» слипся со словом; граница перед «1)»"
+  },
+  {
+   "sid": 27657,
+   "is_hyphen": true,
+   "cut": "-тюрлю",
+   "headword": "тюрлю-тюрлю",
+   "note": ""
+  },
+  {
+   "sid": 27674,
+   "is_hyphen": true,
+   "cut": "-мюрт",
+   "headword": "тюрт-мюрт",
+   "note": ""
+  },
+  {
+   "sid": 27675,
+   "is_hyphen": true,
+   "cut": "-мюртчю",
+   "headword": "тюрт-мюртчю",
+   "note": ""
+  },
+  {
+   "sid": 27676,
+   "is_hyphen": true,
+   "cut": "-мюртчюлюк",
+   "headword": "тюрт-мюртчюлюк",
+   "note": ""
+  },
+  {
+   "sid": 27731,
+   "is_hyphen": true,
+   "cut": "-тыя",
+   "headword": "тюя-тыя",
+   "note": ""
+  },
+  {
+   "sid": 27736,
+   "is_hyphen": true,
+   "cut": "-тя",
+   "headword": "тя-тя",
+   "note": ""
+  },
+  {
+   "sid": 27906,
+   "is_hyphen": true,
+   "cut": "-чумур",
+   "headword": "умур-чумур",
+   "note": ""
+  },
+  {
+   "sid": 27948,
+   "is_hyphen": true,
+   "cut": "-буюкъмагъан",
+   "headword": "унукъмагъан-буюкъмагъан",
+   "note": ""
+  },
+  {
+   "sid": 27968,
+   "is_hyphen": true,
+   "cut": "-узакъ",
+   "headword": "уппа-узакъ",
+   "note": ""
+  },
+  {
+   "sid": 27969,
+   "is_hyphen": true,
+   "cut": "-ушаш",
+   "headword": "уппа-ушаш",
+   "note": ""
+  },
+  {
+   "sid": 27970,
+   "is_hyphen": true,
+   "cut": "-чуппа",
+   "headword": "уппа-чуппа",
+   "note": ""
+  },
+  {
+   "sid": 28098,
+   "is_hyphen": true,
+   "cut": "-тюек",
+   "headword": "ууакъ-тюек",
+   "note": ""
+  },
+  {
+   "sid": 28149,
+   "is_hyphen": true,
+   "cut": "-чуф",
+   "headword": "уф-чуф",
+   "note": ""
+  },
+  {
+   "sid": 28158,
+   "is_hyphen": true,
+   "cut": "-кет",
+   "headword": "учда-кет",
+   "note": ""
+  },
+  {
+   "sid": 28168,
+   "is_hyphen": true,
+   "cut": "-къыйырсыз",
+   "headword": "учсуз-къыйырсыз",
+   "note": ""
+  },
+  {
+   "sid": 28180,
+   "is_hyphen": true,
+   "cut": "-къыйыры",
+   "headword": "учу-къыйыры",
+   "note": ""
+  },
+  {
+   "sid": 28217,
+   "is_hyphen": true,
+   "cut": "-кёбелек",
+   "headword": "учхун-кёбелек",
+   "note": ""
+  },
+  {
+   "sid": 28289,
+   "is_hyphen": true,
+   "cut": "-тартынмай",
+   "headword": "уялмай-тартынмай",
+   "note": ""
+  },
+  {
+   "sid": 28320,
+   "is_hyphen": true,
+   "cut": "-хаят",
+   "headword": "уят-хаят",
+   "note": ""
+  },
+  {
+   "sid": 28327,
+   "is_hyphen": true,
+   "cut": "-завод",
+   "headword": "фабрика-завод",
+   "note": ""
+  },
+  {
+   "sid": 28328,
+   "is_hyphen": true,
+   "cut": "-кухня",
+   "headword": "фабрика-кухня",
+   "note": ""
+  },
+  {
+   "sid": 28450,
+   "is_hyphen": true,
+   "cut": "-акушер",
+   "headword": "фельдшер-акушер",
+   "note": ""
+  },
+  {
+   "sid": 28461,
+   "is_hyphen": true,
+   "cut": "-крепостнойлукъ",
+   "headword": "феодал-крепостнойлукъ",
+   "note": ""
+  },
+  {
+   "sid": 28678,
+   "is_hyphen": true,
+   "cut": "-чубур",
+   "headword": "хабур-чубур",
+   "note": ""
+  },
+  {
+   "sid": 28863,
+   "is_hyphen": true,
+   "cut": "-бийле",
+   "headword": "ханла-бийле",
+   "note": ""
+  },
+  {
+   "sid": 28887,
+   "is_hyphen": true,
+   "cut": "-тепер",
+   "headword": "хапар-тепер",
+   "note": ""
+  },
+  {
+   "sid": 28891,
+   "is_hyphen": true,
+   "cut": "-сапа",
+   "headword": "хапа-сапа",
+   "note": ""
+  },
+  {
+   "sid": 28892,
+   "is_hyphen": true,
+   "cut": "-хазыр",
+   "headword": "хаппа-хазыр",
+   "note": ""
+  },
+  {
+   "sid": 28893,
+   "is_hyphen": true,
+   "cut": "-халек",
+   "headword": "хаппа-халек",
+   "note": ""
+  },
+  {
+   "sid": 28894,
+   "is_hyphen": true,
+   "cut": "-хуп",
+   "headword": "хап-хуп",
+   "note": ""
+  },
+  {
+   "sid": 28904,
+   "is_hyphen": true,
+   "cut": "-хадек",
+   "headword": "харакет-хадек",
+   "note": ""
+  },
+  {
+   "sid": 28921,
+   "is_hyphen": true,
+   "cut": "-хауун",
+   "headword": "харбыз-хауун",
+   "note": ""
+  },
+  {
+   "sid": 28924,
+   "is_hyphen": true,
+   "cut": "-хадек",
+   "headword": "харекет-хадек",
+   "note": ""
+  },
+  {
+   "sid": 28927,
+   "is_hyphen": true,
+   "cut": "-джазыкъ",
+   "headword": "хариб-джазыкъ",
+   "note": ""
+  },
+  {
+   "sid": 28956,
+   "is_hyphen": true,
+   "cut": "-хута",
+   "headword": "хата-хута",
+   "note": ""
+  },
+  {
+   "sid": 28991,
+   "is_hyphen": true,
+   "cut": "-тууай",
+   "headword": "хахай-тууай",
+   "note": ""
+  },
+  {
+   "sid": 29075,
+   "is_hyphen": true,
+   "cut": "-тийре",
+   "headword": "хоншу-тийре",
+   "note": ""
+  },
+  {
+   "sid": 29250,
+   "is_hyphen": true,
+   "cut": "-фитна",
+   "headword": "хыйла-фитна",
+   "note": ""
+  },
+  {
+   "sid": 29257,
+   "is_hyphen": true,
+   "cut": "-халмеш",
+   "headword": "хыйны-халмеш",
+   "note": ""
+  },
+  {
+   "sid": 29309,
+   "is_hyphen": true,
+   "cut": "-мынтыр",
+   "headword": "хынтыр-мынтыр",
+   "note": ""
+  },
+  {
+   "sid": 29311,
+   "is_hyphen": true,
+   "cut": "-мынч",
+   "headword": "хынч-мынч",
+   "note": ""
+  },
+  {
+   "sid": 29316,
+   "is_hyphen": true,
+   "cut": "-хуну",
+   "headword": "хыны-хуну",
+   "note": ""
+  },
+  {
+   "sid": 29319,
+   "is_hyphen": true,
+   "cut": "-сипий",
+   "headword": "хыпий-сипий",
+   "note": ""
+  },
+  {
+   "sid": 29320,
+   "is_hyphen": true,
+   "cut": "-сипийленирге",
+   "headword": "хыпий-сипийленирге",
+   "note": ""
+  },
+  {
+   "sid": 29323,
+   "is_hyphen": true,
+   "cut": "-хылымылы",
+   "headword": "хыппа-хылымылы",
+   "note": ""
+  },
+  {
+   "sid": 29324,
+   "is_hyphen": true,
+   "cut": "-хыны",
+   "headword": "хыппа-хыны",
+   "note": ""
+  },
+  {
+   "sid": 29325,
+   "is_hyphen": true,
+   "cut": "-хыре",
+   "headword": "хыппа-хыре",
+   "note": ""
+  },
+  {
+   "sid": 29326,
+   "is_hyphen": true,
+   "cut": "-хыртты",
+   "headword": "хыппа-хыртты",
+   "note": ""
+  },
+  {
+   "sid": 29327,
+   "is_hyphen": true,
+   "cut": "-харха",
+   "headword": "хыппа-харха",
+   "note": ""
+  },
+  {
+   "sid": 29358,
+   "is_hyphen": true,
+   "cut": "-мыртты",
+   "headword": "хыртты-мыртты",
+   "note": ""
+  },
+  {
+   "sid": 29359,
+   "is_hyphen": true,
+   "cut": "-мырттылы",
+   "headword": "харттылы-мырттылы",
+   "note": "ключ «харттылы» — OCR-ошибка, в печати хырттылы-мырттылы (ср. мырттылы_19396 «парн. к хырттылы-», хырттылы_29357); первая часть оставлена = key_word по правилу"
+  },
+  {
+   "sid": 29396,
+   "is_hyphen": true,
+   "cut": "-бёрек",
+   "headword": "хычын-бёрек",
+   "note": ""
+  },
+  {
+   "sid": 29412,
+   "is_hyphen": true,
+   "cut": "-цах",
+   "headword": "цах-цах",
+   "note": ""
+  },
+  {
+   "sid": 29460,
+   "is_hyphen": false,
+   "cut": "",
+   "headword": "",
+   "note": "случай 3: «-значный» — перевод самого цифралы (эки ~ сан = двузначное число)"
+  },
+  {
+   "sid": 29462,
+   "is_hyphen": true,
+   "cut": "-цы",
+   "headword": "цы-цы",
+   "note": ""
+  },
+  {
+   "sid": 29463,
+   "is_hyphen": true,
+   "cut": "-цыбы",
+   "headword": "цыбы-цыбы",
+   "note": ""
+  },
+  {
+   "sid": 29650,
+   "is_hyphen": true,
+   "cut": "-къола",
+   "headword": "чала-къола",
+   "note": ""
+  },
+  {
+   "sid": 29726,
+   "is_hyphen": true,
+   "cut": "-накъырда",
+   "headword": "чам-накъырда",
+   "note": ""
+  },
+  {
+   "sid": 29804,
+   "is_hyphen": true,
+   "cut": "-чуркъ",
+   "headword": "чаркъ-чуркъ",
+   "note": ""
+  },
+  {
+   "sid": 29828,
+   "is_hyphen": true,
+   "cut": "-гурт",
+   "headword": "чарт-гурт",
+   "note": ""
+  },
+  {
+   "sid": 29921,
+   "is_hyphen": true,
+   "cut": "-къучуу",
+   "headword": "чачыу-къучуу",
+   "note": ""
+  },
+  {
+   "sid": 30025,
+   "is_hyphen": true,
+   "cut": "-салам",
+   "headword": "чёб-салам",
+   "note": ""
+  },
+  {
+   "sid": 30058,
+   "is_hyphen": true,
+   "cut": "-чёрчек",
+   "headword": "чёппе-чёрчек",
+   "note": ""
+  },
+  {
+   "sid": 30100,
+   "is_hyphen": true,
+   "cut": "-бишли",
+   "headword": "чийли-бишли",
+   "note": ""
+  },
+  {
+   "sid": 30131,
+   "is_hyphen": true,
+   "cut": "-чириген",
+   "headword": "чиппе-чириген",
+   "note": ""
+  },
+  {
+   "sid": 30132,
+   "is_hyphen": true,
+   "cut": "-чий",
+   "headword": "чип-чий",
+   "note": ""
+  },
+  {
+   "sid": 30215,
+   "is_hyphen": true,
+   "cut": "-чомарт",
+   "headword": "чоппа-чомарт",
+   "note": ""
+  },
+  {
+   "sid": 30298,
+   "is_hyphen": true,
+   "cut": "-дуппурлу",
+   "headword": "чунгурлу-дуппурлу",
+   "note": ""
+  },
+  {
+   "sid": 30313,
+   "is_hyphen": true,
+   "cut": "-чубар",
+   "headword": "чуп-чубар",
+   "note": ""
+  },
+  {
+   "sid": 30334,
+   "is_hyphen": true,
+   "cut": "-чух",
+   "headword": "чух-чух",
+   "note": ""
+  },
+  {
+   "sid": 30399,
+   "is_hyphen": true,
+   "cut": "-тёзюм",
+   "headword": "чыдам-тёзюм",
+   "note": ""
+  },
+  {
+   "sid": 30414,
+   "is_hyphen": true,
+   "cut": "-чукъур",
+   "headword": "чыкъар-чукъур",
+   "note": ""
+  },
+  {
+   "sid": 30432,
+   "is_hyphen": true,
+   "cut": "-чыкъыр",
+   "headword": "чыкъыр-чыкъыр",
+   "note": ""
+  },
+  {
+   "sid": 30483,
+   "is_hyphen": true,
+   "cut": "-чупул",
+   "headword": "чыпал-чупул",
+   "note": ""
+  },
+  {
+   "sid": 30598,
+   "is_hyphen": true,
+   "cut": "-чюйре",
+   "headword": "чюппе-чюйре",
+   "note": ""
+  },
+  {
+   "sid": 30600,
+   "is_hyphen": true,
+   "cut": "-ш",
+   "headword": "ш-ш",
+   "note": "случай 5: звукоподражание/междометие ш-ш, как в печати"
+  },
+  {
+   "sid": 30635,
+   "is_hyphen": true,
+   "cut": "-джек",
+   "headword": "шайтан-джек",
+   "note": ""
+  },
+  {
+   "sid": 30636,
+   "is_hyphen": true,
+   "cut": "-джин",
+   "headword": "шайтан-джин",
+   "note": "в хвосте текста слиты следующие статьи «шайтан-ибилис» и «шайтанлы»"
+  },
+  {
+   "sid": 30643,
+   "is_hyphen": true,
+   "cut": "-къалам",
+   "headword": "шакий-къалам",
+   "note": ""
+  },
+  {
+   "sid": 30657,
+   "is_hyphen": true,
+   "cut": "-мальдир",
+   "headword": "шальдир-мальдир",
+   "note": ""
+  },
+  {
+   "sid": 30658,
+   "is_hyphen": true,
+   "cut": "-мальдирине",
+   "headword": "шальдир-мальдирине",
+   "note": ""
+  },
+  {
+   "sid": 30676,
+   "is_hyphen": true,
+   "cut": "-шатык",
+   "headword": "шаппа-шатык",
+   "note": ""
+  },
+  {
+   "sid": 30678,
+   "is_hyphen": true,
+   "cut": "-шатык",
+   "headword": "шап-шатык",
+   "note": ""
+  },
+  {
+   "sid": 30679,
+   "is_hyphen": true,
+   "cut": "-шуп",
+   "headword": "шап-шуп",
+   "note": ""
+  },
+  {
+   "sid": 30680,
+   "is_hyphen": true,
+   "cut": "-шупул",
+   "headword": "шапыл-шупул",
+   "note": ""
+  },
+  {
+   "sid": 30697,
+   "is_hyphen": true,
+   "cut": "-шуркъ",
+   "headword": "шаркъ-шуркъ",
+   "note": ""
+  },
+  {
+   "sid": 30918,
+   "is_hyphen": true,
+   "cut": "-шупул",
+   "headword": "шопул-шупул",
+   "note": ""
+  },
+  {
+   "sid": 30939,
+   "is_hyphen": true,
+   "cut": "-шоркъ",
+   "headword": "шоркъ-шоркъ",
+   "note": ""
+  },
+  {
+   "sid": 31108,
+   "is_hyphen": true,
+   "cut": "-шукъур",
+   "headword": "шыкъар-шукъур",
+   "note": ""
+  },
+  {
+   "sid": 31150,
+   "is_hyphen": true,
+   "cut": "-шыпыр",
+   "headword": "шыпыр-шыпыр",
+   "note": ""
+  },
+  {
+   "sid": 31210,
+   "is_hyphen": true,
+   "cut": "-тюбю",
+   "headword": "ызы-тюбю",
+   "note": ""
+  },
+  {
+   "sid": 31237,
+   "is_hyphen": true,
+   "cut": "-быйт",
+   "headword": "ыйт-быйт",
+   "note": ""
+  },
+  {
+   "sid": 31286,
+   "is_hyphen": true,
+   "cut": "-разы",
+   "headword": "ыппа-разы",
+   "note": ""
+  },
+  {
+   "sid": 31287,
+   "is_hyphen": true,
+   "cut": "-рахат",
+   "headword": "ыппа-рахат",
+   "note": ""
+  },
+  {
+   "sid": 31348,
+   "is_hyphen": true,
+   "cut": "-быт",
+   "headword": "ыт-быт",
+   "note": ""
+  },
+  {
+   "sid": 31497,
+   "is_hyphen": true,
+   "cut": "-къарнаш",
+   "headword": "эгеч-къарнаш",
+   "note": ""
+  },
+  {
+   "sid": 31510,
+   "is_hyphen": true,
+   "cut": "-юстюню",
+   "headword": "эджиги-юстюню",
+   "note": ""
+  },
+  {
+   "sid": 31559,
+   "is_hyphen": true,
+   "cut": "-ючеулен",
+   "headword": "экеулен-ючеулен",
+   "note": ""
+  },
+  {
+   "sid": 31560,
+   "is_hyphen": true,
+   "cut": "-ючеу",
+   "headword": "экеу-ючеу",
+   "note": ""
+  },
+  {
+   "sid": 31844,
+   "is_hyphen": true,
+   "cut": "-эссиз",
+   "headword": "эппе-эссиз",
+   "note": ""
+  },
+  {
+   "sid": 31870,
+   "is_hyphen": true,
+   "cut": "-бурун",
+   "headword": "эрин-бурун",
+   "note": ""
+  },
+  {
+   "sid": 31913,
+   "is_hyphen": true,
+   "cut": "-тишилик",
+   "headword": "эркеклик-тишилик",
+   "note": ""
+  },
+  {
+   "sid": 31943,
+   "is_hyphen": true,
+   "cut": "-къатын",
+   "headword": "эр-къатын",
+   "note": ""
+  },
+  {
+   "sid": 31945,
+   "is_hyphen": true,
+   "cut": "-бурлай",
+   "headword": "эрлай-бурлай",
+   "note": ""
+  },
+  {
+   "sid": 31952,
+   "is_hyphen": true,
+   "cut": "-тишилик",
+   "headword": "эрлик-тишилик",
+   "note": ""
+  },
+  {
+   "sid": 32053,
+   "is_hyphen": true,
+   "cut": "-бюскю",
+   "headword": "эски-бюскю",
+   "note": ""
+  },
+  {
+   "sid": 32054,
+   "is_hyphen": true,
+   "cut": "-бюскючю",
+   "headword": "эски-бюскючю",
+   "note": ""
+  },
+  {
+   "sid": 32114,
+   "is_hyphen": true,
+   "cut": "-джен",
+   "headword": "эт-джен",
+   "note": ""
+  },
+  {
+   "sid": 32116,
+   "is_hyphen": true,
+   "cut": "-дженг",
+   "headword": "этек-дженг",
+   "note": ""
+  },
+  {
+   "sid": 32158,
+   "is_hyphen": true,
+   "cut": "-хей",
+   "headword": "эхе-хей",
+   "note": ""
+  },
+  {
+   "sid": 32208,
+   "is_hyphen": true,
+   "cut": "-восток",
+   "headword": "юго-восток",
+   "note": ""
+  },
+  {
+   "sid": 32209,
+   "is_hyphen": true,
+   "cut": "-запад",
+   "headword": "юго-запад",
+   "note": ""
+  },
+  {
+   "sid": 32298,
+   "is_hyphen": true,
+   "cut": "-кюнсюз",
+   "headword": "юйсюз-кюнсюз",
+   "note": ""
+  },
+  {
+   "sid": 32300,
+   "is_hyphen": true,
+   "cut": "-кюнсюзлюк",
+   "headword": "юйсюзлюк-кюнсюзлюк",
+   "note": ""
+  },
+  {
+   "sid": 32420,
+   "is_hyphen": true,
+   "cut": "-баш",
+   "headword": "юс-баш",
+   "note": ""
+  }
+ ]
+}

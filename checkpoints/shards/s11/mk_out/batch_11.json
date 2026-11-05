@@ -1,0 +1,414 @@
+{
+ "items": [
+  {
+   "id": "e_00264@13403",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00433@471",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00803@2049",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_01149@1069",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_01291@9124",
+   "type": "citation",
+   "note": "цитата, за ней подстатья «Жюрегине жетди»"
+  },
+  {
+   "id": "e_01617@1463",
+   "type": "citation",
+   "note": "пример-предложение, за ним «Агъач атха мин»"
+  },
+  {
+   "id": "e_02094@2648",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02574@1532",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_02788@121",
+   "type": "citation",
+   "note": "пример-предложение, далее словосочетания-примеры без перевода"
+  },
+  {
+   "id": "e_02982@382",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03201@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03236@479",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_03333@64",
+   "type": "phrase",
+   "note": "составное слово «Антаужин» с переводом"
+  },
+  {
+   "id": "e_03470@444",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03749@331",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_04048@558",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04063@256",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04121@740",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04222@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04353@9196",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_04517@1301",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04548@1991",
+   "type": "citation",
+   "note": "пример к знач. 1) подстатьи «ач юйню киштиги»"
+  },
+  {
+   "id": "e_04599@1646",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04894@5119",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_04995@390",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05090@406",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05299@286",
+   "type": "citation",
+   "note": "поясняющее предложение без подписи в зоне примеров, не сочетание с переводом"
+  },
+  {
+   "id": "e_05435@2016",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05858@348",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06112@1118",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06113@2594",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06240@258",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_06332@4996",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@7625",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_06332@12432",
+   "type": "citation",
+   "note": "второй пример к подстатье «Бир кезиуде»"
+  },
+  {
+   "id": "e_06332@12571",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06332@14667",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_06332@16833",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_06332@19003",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06714@815",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06894@571",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06894@1826",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06894@2010",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_07085@1177",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_07138@93",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_07300@5737",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_07766@89",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08670@518",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10980@3941",
+   "type": "citation",
+   "note": "глиф Щ, но блок — стихотворная цитата с подписью «Жилтинле»"
+  },
+  {
+   "id": "e_10986@229",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11219@162",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11540@216",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11748@159",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12330@622",
+   "type": "phrase",
+   "note": "«Зачёт книжка:» с толкованием"
+  },
+  {
+   "id": "e_12883@282",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_13655@421",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16144@4116",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16144@4373",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16478@349",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17017@308",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17467@811",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_18272@2672",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_18493@313",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_19093@1081",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_19260@198",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_20808@221",
+   "type": "phrase",
+   "note": "«Межди: межди тана» — похоже на приклеенную чужую статью (межди), по форме phrase"
+  },
+  {
+   "id": "e_22101@473",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22535@49",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22581@1267",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22581@1375",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22866@293",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22866@374",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_24004@918",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_24371@103",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_26414@456",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_30351@379",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_32612@2227",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_33230@2556",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_34113@212",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_35183@1151",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_35753@68",
+   "type": "phrase",
+   "note": "«Чик-чик эрикл. сёз.» — похоже на приклеенную соседнюю статью, по форме phrase"
+  },
+  {
+   "id": "e_37617@27",
+   "type": "phrase",
+   "note": ""
+  }
+ ]
+}

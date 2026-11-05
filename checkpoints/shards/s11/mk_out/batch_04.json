@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_05119@55",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05120@91",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05124@58",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05125@122",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05127@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05128@58",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05129@57",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05130@102",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05131@96",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05136@41",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05138@87",
+   "type": "citation",
+   "note": "глиф I, но блок - предложение с подписью (Этезланы О., Тарда)"
+  },
+  {
+   "id": "e_05141@78",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05142@47",
+   "type": "citation",
+   "note": "краткий пример-словосочетание без перевода/толкования/отсылки"
+  },
+  {
+   "id": "e_05144@64",
+   "type": "citation",
+   "note": "краткие примеры-словосочетания без перевода/толкования/отсылки"
+  },
+  {
+   "id": "e_05145@151",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05145@221",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05145@1013",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05146@229",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05146@732",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05147@211",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05148@146",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05149@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05150@106",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05150@147",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05156@237",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05162@110",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05162@197",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05164@1417",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05167@219",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05167@297",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05167@393",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05169@136",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05193@196",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05194@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05204@439",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05205@228",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05206@131",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05209@255",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05210@209",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05210@767",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05210@1304",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05210@1732",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05213@168",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05214@143",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05223@645",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05225@104",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05227@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05236@90",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05237@239",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05237@521",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05241@157",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05242@401",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05243@447",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05244@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05259@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05260@145",
+   "type": "citation",
+   "note": "краткие примеры-словосочетания (Эл мюлк бактериология...) без перевода/толкования"
+  },
+  {
+   "id": "e_05287@154",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05289@173",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05298@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05305@648",
+   "type": "phrase",
+   "note": "Балаууз чыракъ - жау чыракъ (къ. жау 1), затем цитата"
+  },
+  {
+   "id": "e_05331@311",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05331@358",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05338@930",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05340@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05344@143",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05345@142",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05347@121",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05348@182",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05349@130",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05351@178",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05353@105",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05354@211",
+   "type": "citation",
+   "note": "краткий пример-словосочетание без перевода/толкования/отсылки"
+  },
+  {
+   "id": "e_05355@135",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05355@195",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05355@298",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05355@463",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05356@615",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05357@121",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05362@110",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05366@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05374@744",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05376@194",
+   "type": "citation",
+   "note": "глиф I, но блок - предложение с подписью (Къарачай халкъ таурухла)"
+  },
+  {
+   "id": "e_05380@162",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05381@102",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05382@65",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05383@577",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05387@195",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05388@77",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05390@85",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05395@77",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05397@175",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05408@247",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05420@132",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05432@162",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05438@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05445@242",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05448@160",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05455@307",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05458@139",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05462@114",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05463@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@1039",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@2055",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@2370",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@2659",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@3165",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@3391",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05464@3717",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05466@708",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05466@970",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05475@173",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05476@202",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05496@154",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05509@226",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05515@688",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05520@106",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05521@179",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05523@134",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05524@100",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05526@58",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05527@103",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05529@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05536@89",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05537@91",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05560@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05562@1352",
+   "type": "citation",
+   "note": "глиф I, но блок - предложение с подписью (Малкъар халкъ жомакъла)"
+  },
+  {
+   "id": "e_05562@2728",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05563@209",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05567@56",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05568@75",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05571@60",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05584@104",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05585@772",
+   "type": "phrase",
+   "note": "Батмакъ жакъ + толкование и отсылка (къ. балчыкъ), затем цитата"
+  },
+  {
+   "id": "e_05587@60",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05609@897",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05622@95",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05623@156",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05628@124",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05630@81",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05631@78",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05634@68",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05655@407",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05681@593",
+   "type": "phrase",
+   "note": "глиф полый, но блок - подстатья Башла бармакъ (къ. балан), затем примеры"
+  },
+  {
+   "id": "e_05683@152",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05684@146",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05685@215",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05685@500",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05688@119",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05703@196",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_05720@515",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

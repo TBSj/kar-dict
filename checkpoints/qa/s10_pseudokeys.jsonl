@@ -1,0 +1,46 @@
+{"sid": 409, "verdict": "garbled_key", "old_word": "аджымла", "old_print": "аджымларгъа", "new_print": "ажымларгъа", "new_base": "ажымла"}
+{"sid": 997, "verdict": "garbled_key", "old_word": "ахтла", "old_print": "ахтларгъа", "new_print": "актларгъа", "new_base": "актла", "renamed": true}
+{"sid": 1400, "verdict": "garbled_key", "old_word": "альциынмакълыкъ", "old_print": "альциынмакълыкъ", "new_print": "алышынмакълыкъ", "new_base": "алышынмакълыкъ", "renamed": true}
+{"sid": 2337, "verdict": "garbled_key", "old_word": "аталышыу", "old_print": "аталышыу", "new_print": "атылышыу", "new_base": "атылышыу", "renamed": true}
+{"sid": 3169, "verdict": "garbled_key", "old_word": "балпакъ", "old_print": "балпакъ", "new_print": "баппакъ", "new_base": "баппакъ", "merged_into": "баппакъ"}
+{"sid": 3904, "verdict": "pseudo_tail", "owner": "бирлешдирт", "added": {"def1": "", "misc1": "болгъан кючню бирлешдиртирге заставить объединить все усилия"}, "dropped": []}
+{"sid": 7212, "verdict": "garbled_key", "old_word": "jынгызлыкъ", "old_print": "джынгызлыкъ", "new_print": "джангызлыкъ", "new_base": "jангызлыкъ", "merged_into": "jангызлыкъ"}
+{"sid": 8024, "verdict": "pseudo_tail", "owner": "jик1", "added": {"def1": "", "misc1": "; дери до мельчайших подробностей; джигине дери тинтерге провести доскональный разбор, детально разобрать что; ◊ джигинден тюртерге (или джигине къатылыргъа) а) задеть кого за живое; б) уязвить кого; говорить кому колкости"}, "dropped": ["дери2"]}
+{"sid": 8730, "verdict": "garbled_key", "old_word": "jалауукълукъ", "old_print": "джалауукълукъ", "new_print": "джылауукълукъ", "new_base": "jылауукълукъ", "renamed": true}
+{"sid": 8938, "verdict": "garbled_key", "old_word": "jюклетиу1", "old_print": "джкжлетиу", "new_print": "джюклетиу", "new_base": "jюклетиу"}
+{"sid": 9167, "verdict": "garbled_key", "old_word": "ёнкелеу", "old_print": "ёнкелеу", "new_print": "ёпкелеу", "new_base": "ёпкелеу", "merged_into": "ёпкелеу"}
+{"sid": 9202, "verdict": "garbled_key", "old_word": "ёлелешдириу", "old_print": "ёлелешдириу", "new_print": "ёрелешдириу", "new_base": "ёрелешдириу", "merged_into": "ёрелешдириу"}
+{"sid": 9356, "verdict": "garbled_key", "old_word": "жёрмелениу", "old_print": "жёрмелениу", "new_print": "джёрмелениу", "new_base": "jёрмелениу"}
+{"sid": 9509, "verdict": "garbled_key", "old_word": "заигкой", "old_print": "заигкой", "new_print": "зангкой", "new_base": "зангкой", "renamed": true}
+{"sid": 9522, "verdict": "garbled_key", "old_word": "зал2", "old_print": "зал", "new_print": "зап", "new_base": "зап", "merged_into": "зап"}
+{"sid": 10236, "verdict": "garbled_key", "old_word": "ингекция", "old_print": "ингекция", "new_print": "инъекция", "new_base": "инъекция", "renamed": true}
+{"sid": 10237, "verdict": "garbled_key", "old_word": "инггил", "old_print": "инггил", "new_print": "ингил", "new_base": "ингил", "merged_into": "ингил"}
+{"sid": 10418, "verdict": "garbled_key", "old_word": "нёгерлешиу", "old_print": "иёгерлешиу", "new_print": "нёгерлешиу", "new_base": "нёгерлешиу"}
+{"sid": 12745, "verdict": "garbled_key", "old_word": "къаклан", "old_print": "къакланыргъа", "new_print": "къакъланыргъа", "new_base": "къакълан", "merged_into": "къакълан"}
+{"sid": 12755, "verdict": "garbled_key", "old_word": "къаксылыкъ", "old_print": "къаксылыкъ", "new_print": "къакъсылыкъ", "new_base": "къакъсылыкъ", "renamed": true}
+{"sid": 13039, "verdict": "garbled_key", "old_word": "къагъкъылдат", "old_print": "къагъкъылдатыргъа", "new_print": "къангкъылдатыргъа", "new_base": "къангкъылдат", "renamed": true}
+{"sid": 14510, "verdict": "garbled_key", "old_word": "къдырыш", "old_print": "къдырышыргъа", "new_print": "къыдырышыргъа", "new_base": "къыдырыш", "renamed": true}
+{"sid": 18163, "verdict": "pseudo_tail", "owner": "даулаш3", "added": {"def1": "", "misc1": "; муну не даулашы барды? какой может быть [здесь] спор?"}, "dropped": ["муну3"]}
+{"sid": 19478, "verdict": "garbled_key", "old_word": "мюкюллеу1", "old_print": "мкжюллеу", "new_print": "мюкюллеу", "new_base": "мюкюллеу"}
+{"sid": 19502, "verdict": "pseudo_tail", "owner": "хорла", "added": {"def1": "", "misc1": "; мамырлыкъ хорларыкъды! мир победит!; сабанны ханс хорлаб барды сорняки задавили посевы"}, "dropped": []}
+{"sid": 20299, "verdict": "garbled_key", "old_word": "оннгундуруу", "old_print": "оннгундуруу", "new_print": "онгсундуруу", "new_base": "онгсундуруу", "merged_into": "онгсундуруу"}
+{"sid": 20557, "verdict": "garbled_key", "old_word": "отнускалыкъ", "old_print": "отнускалыкъ", "new_print": "отпускалыкъ", "new_base": "отпускалыкъ", "renamed": true}
+{"sid": 21744, "verdict": "garbled_key", "old_word": "расхылылыкъ", "old_print": "расхылылыкъ", "new_print": "рысхылылыкъ", "new_base": "рысхылылыкъ", "renamed": true}
+{"sid": 21750, "verdict": "pseudo_tail", "status": "owner not unique (3)"}
+{"sid": 22154, "verdict": "garbled_key", "old_word": "сайта", "old_print": "сайта", "new_print": "санта", "new_base": "санта", "merged_into": "санта"}
+{"sid": 22315, "verdict": "garbled_key", "status": "manual (1 hosts / shared sources)"}
+{"sid": 22352, "verdict": "garbled_key", "status": "manual (2 hosts / shared sources)"}
+{"sid": 23978, "verdict": "garbled_key", "old_word": "самарлат", "old_print": "самарлатыргъа", "new_print": "сымарлатыргъа", "new_base": "сымарлат", "merged_into": "сымарлат2"}
+{"sid": 24364, "verdict": "pseudo_tail", "owner": "бокъланнган", "added": {"def1": "", "misc1": " терен кёрюнюр погов. мутная вода кажется глубокой"}, "dropped": []}
+{"sid": 27303, "verdict": "garbled_key", "old_word": "тылыр", "old_print": "тылыр", "new_print": "тыпыр", "new_base": "тыпыр", "merged_into": "тыпыр"}
+{"sid": 28023, "verdict": "split_word", "old_word": "ур2", "old_print": "ур", "new_print": "уру", "new_base": "уру", "merged_into": "уру2"}
+{"sid": 28764, "verdict": "garbled_key", "old_word": "хаиырландырмакълыкъ", "old_print": "хаиырландырмакълыкъ", "new_print": "хайырландырмакълыкъ", "new_base": "хайырландырмакълыкъ", "renamed": true}
+{"sid": 28767, "verdict": "garbled_key", "old_word": "хййырландыр", "old_print": "хййырландырыргъа", "new_print": "хайырландырыргъа", "new_base": "хайырландыр", "merged_into": "хайырландыр"}
+{"sid": 29210, "verdict": "garbled_key", "old_word": "харттаклыкъ", "old_print": "харттаклыкъ", "new_print": "хурттаклыкъ", "new_base": "хурттаклыкъ", "renamed": true}
+{"sid": 29322, "verdict": "garbled_key", "old_word": "хылиярлыкъ", "old_print": "хылиярлыкъ", "new_print": "хыпиярлыкъ", "new_base": "хыпиярлыкъ", "renamed": true}
+{"sid": 29346, "verdict": "garbled_key", "old_word": "хартламакълыкъ", "old_print": "хартламакълыкъ", "new_print": "хыртламакълыкъ", "new_base": "хыртламакълыкъ", "renamed": true}
+{"sid": 29409, "verdict": "garbled_key", "status": "manual (1 hosts / shared sources)"}
+{"sid": 29823, "verdict": "garbled_key", "old_word": "чапыулу", "old_print": "чапыулу", "new_print": "чарпыулу", "new_base": "чарпыулу", "merged_into": "чарпыулу"}
+{"sid": 30302, "verdict": "garbled_key", "status": "manual (1 hosts / shared sources)"}
+{"sid": 30444, "verdict": "garbled_key", "old_word": "чинар", "old_print": "чинар", "new_print": "чынар", "new_base": "чынар", "renamed": true}
+{"sid": 31281, "verdict": "garbled_key", "old_word": "ыньычхау", "old_print": "ыньычхау", "new_print": "ынгычхау", "new_base": "ынгычхау", "renamed": true}

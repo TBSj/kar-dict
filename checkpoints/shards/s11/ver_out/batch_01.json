@@ -1,0 +1,274 @@
+{
+ "items": [
+  {
+   "id": "e_16636@4125",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_01767@650",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_23393@502",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_16144@9011",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "crop_batch: NOT_FOUND (искал pdf-стр. 537–539); найдено на pdf-стр. 540: «…№ 30, 196. Къан тёле» — знака нет"
+  },
+  {
+   "id": "e_08762@188",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35335@143",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "❍ после «(Нарт сёз.)»; рамка только на «М» (OCR разбил «Мийик»)"
+  },
+  {
+   "id": "e_06240@591",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "после «(Фольк.)»"
+  },
+  {
+   "id": "e_03082@6907",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_00265@3083",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02235@3092",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_32912@3223",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "напечатан ♦ (залитый ромб) в начале строки; т.3: по легенде ♦ = фразеологизмы"
+  },
+  {
+   "id": "e_05961@652",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_36204@6457",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "crop_batch: NOT_FOUND (искал pdf-стр. 941–943); найдено на pdf-стр. 944: «(Нарт сёз.) ❍ Зурап»"
+  },
+  {
+   "id": "e_04894@12041",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "crop_batch: NOT_FOUND (искал pdf-стр. 286–288); найдено на pdf-стр. 290: «…Тарда, 127. Аякъ тюбюнде» — знака нет"
+  },
+  {
+   "id": "e_24351@135",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ с белыми дефектами печати, первая строка страницы (OCR: «Ш»); т.2"
+  },
+  {
+   "id": "e_00426@1084",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_18892@105",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»; курсивные примеры без подписи"
+  },
+  {
+   "id": "e_05668@6278",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "напечатан ▲ (залитый треугольник) в начале строки; т.1: в легенде ▼ = фразеологизмы"
+  },
+  {
+   "id": "e_00451@259",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14435@61",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❒ с тенью"
+  },
+  {
+   "id": "e_16636@3637",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_04894@4133",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_09402@288",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": "❑ в начале строки с отступом"
+  },
+  {
+   "id": "e_31964@1212",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_02504@225",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_03565@764",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": "❑ в начале строки с отступом"
+  },
+  {
+   "id": "e_06454@143",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❑ в начале строки"
+  },
+  {
+   "id": "e_04549@2596",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_39025@100",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "❍ в начале строки, «(Нарт сёз.)» в конце предыдущей"
+  },
+  {
+   "id": "e_15552@92",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❒ с тенью в начале строки"
+  },
+  {
+   "id": "e_03082@3222",
+   "glyph": "circle",
+   "content": "phrase",
+   "note": "○ после «(Нарт сёз.)», но за ним полужирное сочетание «Аман жутун сюрдю», не цитата"
+  },
+  {
+   "id": "e_04894@4543",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_02314@1414",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": "❑ в начале строки с отступом"
+  },
+  {
+   "id": "e_14347@354",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ в начале строки с отступом; т.2"
+  },
+  {
+   "id": "e_08342@65",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": "❑ в начале строки с отступом"
+  },
+  {
+   "id": "e_14491@504",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "новая строка с отступом без знака; зону открыл ■ перед «Киеу къарындаш» двумя строками выше"
+  },
+  {
+   "id": "e_37178@26",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ в начале строки; т.3: по легенде ■ = сложные слова"
+  },
+  {
+   "id": "e_04517@787",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "напечатан ▲ (залитый треугольник) в начале строки; т.1: в легенде ▼ = фразеологизмы"
+  },
+  {
+   "id": "e_01300@2014",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02492@372",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14347@86",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_23258@5820",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_07469@804",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_02575@4526",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "после «(Фольк.)»"
+  },
+  {
+   "id": "e_23258@2451",
+   "glyph": "none",
+   "content": "phrase",
+   "note": ""
+  }
+ ]
+}

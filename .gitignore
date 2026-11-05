@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 checkpoints/batch_state/failed/
+
+# sources survey: book texts and book-derived data (copyright) + lookup cache
+local/
+pipeline/survey_tools/corpus_index.pkl

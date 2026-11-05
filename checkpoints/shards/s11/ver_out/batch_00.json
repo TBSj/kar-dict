@@ -1,0 +1,274 @@
+{
+ "items": [
+  {
+   "id": "e_01073@1223",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_01239@287",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_00355@568",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16803@1590",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_04033@920",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_31347@840",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый ромб ♦ (вариант залитого знака фразеологической зоны), не квадрат"
+  },
+  {
+   "id": "e_02861@600",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❑ в конце предыдущей строки"
+  },
+  {
+   "id": "e_00415@840",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❑ в конце предыдущей строки"
+  },
+  {
+   "id": "e_03565@879",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый треугольник ▲ (вариант залитого знака фразеологической зоны), не квадрат"
+  },
+  {
+   "id": "e_03071@76",
+   "glyph": "circle",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02218@154",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_33529@728",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый ромб ♦ (вариант залитого знака фразеологической зоны)"
+  },
+  {
+   "id": "e_02835@2628",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04353@11590",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "crop_batch дал NOT_FOUND: фрагмент на PDF-с. 239 (окно поиска 236-238); найден вручную, картинка e_04353@11590.png: полужирное «Ауузу тутулду» идёт сразу после подписи «\"Огъурлу танг\", 186.», знака нет"
+  },
+  {
+   "id": "e_09344@330",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_34703@137",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_37216@288",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_11551@174",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24936@863",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_10980@1683",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00469@587",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❑ в конце предыдущей строки, далее реплика «– Къой»"
+  },
+  {
+   "id": "e_29426@107",
+   "glyph": "circle",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04043@2101",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "новая строка с абзацным отступом, перед словом знака нет (строка выше кончается «№ 32, 96.»)"
+  },
+  {
+   "id": "e_23393@2122",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый ромб ♦ (вариант залитого знака фразеологической зоны)"
+  },
+  {
+   "id": "e_01904@275",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый треугольник ▲ (вариант залитого знака фразеологической зоны)"
+  },
+  {
+   "id": "e_07378@168",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09086@80",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17695@79",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_35727@77",
+   "glyph": "circle",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10739@795",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18081@186",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "кружок похож на прописную «О», стоит после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_38789@522",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_24286@128",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_25509@143",
+   "glyph": "circle",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00803@2792",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "полужирное «Жолгъа сал» сразу после подписи «…унутмагъандыла, 26.», знака нет"
+  },
+  {
+   "id": "e_05685@278",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_25468@827",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый ромб ♦ (вариант залитого знака фразеологической зоны); стоит перед заглавным «САТАНАЙ:» после пустой строки — похоже на отдельную статью (слово только в «сатанай сохан»), приклеенную к «сат»"
+  },
+  {
+   "id": "e_12737@215",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_19262@328",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый ромб ♦ (вариант залитого знака фразеологической зоны)"
+  },
+  {
+   "id": "e_05625@289",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06113@4005",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "кружок после «(Нарт сёз.)»; блок — пословица"
+  },
+  {
+   "id": "e_00642@3947",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_36811@149",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "залитый ромб ♦ (вариант залитого знака фразеологической зоны)"
+  },
+  {
+   "id": "e_21480@1282",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_03327@922",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❑ перед репликой «– Ант»"
+  }
+ ]
+}

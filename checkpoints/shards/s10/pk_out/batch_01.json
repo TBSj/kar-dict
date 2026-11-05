@@ -1,0 +1,148 @@
+{
+ "items": [
+  {
+   "sid": 8938,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "джюклетиу",
+   "evidence": "соседи «джюклетирге» → «джюклетмеклик», текст «и. д. к джюклетирге»; OCR «ю»→«кж»",
+   "confidence": "high"
+  },
+  {
+   "sid": 9167,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "ёпкелеу",
+   "evidence": "соседи «ёпкелетмеклик» → «ёпкелеучю», текст «и. д. к ёпкелерге обида, выражение недовольства»; OCR «п»→«н»",
+   "confidence": "high"
+  },
+  {
+   "sid": 9202,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "ёрелешдириу",
+   "evidence": "соседи «ёрелешдирирге» → «ёрелеширге», текст «и. д. к ёрелешдирирге»; OCR «р»→«л»",
+   "confidence": "high"
+  },
+  {
+   "sid": 9356,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "джёрмелениу",
+   "evidence": "в книге статья «джёрмелениу и. д. к джёрмеленирге» стоит на своём месте — с. 246 прав., между «джёрмеленирге» и «джёрмеленмеклик» (в выгрузке там её нет); на с. 283 на стыке Ё/Ж («ёшюнсюз» → буква Ж → «жакет») такой статьи нет — выгрузка поставила её не туда с искажённым ключом. Переименование ключа даёт правильную статью",
+   "confidence": "high"
+  },
+  {
+   "sid": 9509,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "зангкой",
+   "evidence": "с. 287 лев.: «занъкой карач. пренебр. увалень м, неуклюжий человек» между «занъ подр.» и «занъырдагъан» (нъ = нг выгрузки); OCR «н»→«и»",
+   "confidence": "high"
+  },
+  {
+   "sid": 9522,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "зап",
+   "evidence": "с. 287 прав.: «зап подр. — о звуке удара или падения; ~деб тюшерге упасть с грохотом …; ~ деб къулагъына берирге дать (треснуть) по уху» между «заочный» и «запад»; OCR «п»→«л». Корпусное «зал2» — ложный омоним настоящего «зал» (sid 9468)",
+   "confidence": "high"
+  },
+  {
+   "sid": 10236,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "инъекция",
+   "evidence": "с. 304 прав.: «инъекция мед. инъекция; ~ этерге сделать инъекцию» между «иншаллах» и «инъил»: это русский твёрдый знак, а выгрузка заменила «нъ» на «нг» как велярное н. Тот же сбой в тексте: «ингекция/ингекцию» → «инъекция/инъекцию» (def1 и misc1 корпуса тоже надо поправить)",
+   "confidence": "high"
+  },
+  {
+   "sid": 10237,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "ингил",
+   "evidence": "с. 304 прав.: «инъил румяна; косметика» между «инъекция» и «инъилиз» (нъ = нг выгрузки, ср. «ингилиз», «ингиллик»); в ключе лишнее «г»",
+   "confidence": "high"
+  },
+  {
+   "sid": 10418,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "нёгерлешиу",
+   "evidence": "в книге «нёгерлешиу и. д. к нёгерлеширге» стоит на своём месте — с. 485 лев., между «нёгерлеширге» и «нёгерлешмеклик» (в выгрузке там её нет); на с. 311–312 (конец И: «иясын» → буква Й → «йод») такой статьи нет; OCR «н»→«и». Корпусное слово уже исправлено на «нёгерлешиу»",
+   "confidence": "high"
+  },
+  {
+   "sid": 11787,
+   "verdict": "ok",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "",
+   "evidence": "русское заимствование «конгресс» (н+г, не нъ); стоит в «конв-»/«конд-» по порядку н+г — нарушение только из-за сортировки «нг» как отдельной буквы",
+   "confidence": "high"
+  },
+  {
+   "sid": 12745,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "къакъланыргъа",
+   "evidence": "соседи «къакъланмакълыкъ» → «къакъланыу», текст «страд.-возвр. к къакларгъа (= къакъларгъа) вялиться, сушиться; … къакъланнган вяленый»; OCR потерял «ъ» в «-къл-» (к вместо къ)",
+   "confidence": "high"
+  },
+  {
+   "sid": 12755,
+   "verdict": "garbled_key",
+   "owner_sid": null,
+   "owner_key": "",
+   "owner_headword": "",
+   "tail_def1": "",
+   "tail_misc1": "",
+   "correct_headword": "къакъсылыкъ",
+   "evidence": "соседи «къакъсы» → «къакъсымакълыкъ», текст «отвлеч. к къакъсы прогорклость; затхлость»; OCR потерял «ъ» (к вместо къ)",
+   "confidence": "high"
+  }
+ ]
+}

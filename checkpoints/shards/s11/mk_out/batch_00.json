@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_00012@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00016@2751",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00025@335",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00034@182",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00049@588",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00065@96",
+   "type": "citation",
+   "note": "короткий пример-словосочетание без подписи, не подстатья"
+  },
+  {
+   "id": "e_00065@121",
+   "type": "citation",
+   "note": "короткий пример-словосочетание без подписи, не подстатья"
+  },
+  {
+   "id": "e_00065@961",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00065@2189",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00067@156",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00077@105",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00088@240",
+   "type": "phrase",
+   "note": "«Жазыгъы келеди» + помета б-ч гов. + толкование «жаны ауруйду» + (къ. жан), далее цитаты"
+  },
+  {
+   "id": "e_00089@120",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00095@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00109@4029",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00112@136",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00116@60",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00116@89",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00127@172",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00134@212",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00148@936",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00150@100",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00160@270",
+   "type": "phrase",
+   "note": "«Жакълыкъ эт» + толкование «жакъ бас» + (къ. жакъх), далее цитата"
+  },
+  {
+   "id": "e_00175@358",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00189@121",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00196@1284",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00209@40",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00225@296",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00240@98",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00240@321",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00241@647",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00243@203",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00244@192",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00264@11002",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00264@21339",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00265@577",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00265@5039",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00266@767",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00280@623",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00283@77",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00285@353",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00289@95",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00296@321",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00306@183",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00309@213",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00314@51",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00322@198",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00327@71",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00329@251",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00336@344",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00336@531",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00346@66",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00354@138",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00373@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00379@81",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00382@615",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00384@110",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00384@138",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00394@93",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00402@46",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00413@79",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00427@366",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00429@484",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00435@362",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00440@156",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00446@70",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00468@167",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00484@197",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00498@219",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00504@148",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00508@529",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00512@110",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00517@1835",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00523@2459",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00526@667",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00554@105",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00556@149",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00559@188",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00564@341",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00566@288",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00611@202",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00611@829",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00621@808",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00622@725",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00626@1575",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00626@3178",
+   "type": "citation",
+   "note": "после цитаты с новой строки без знака идёт фраза «Женгил промышленность къ. женгил индустрия»"
+  },
+  {
+   "id": "e_00639@354",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00642@1122",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00642@2675",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00642@2761",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00642@3438",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00642@9414",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00654@440",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00662@56",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00680@164",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00680@1828",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00680@2028",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00682@889",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00715@109",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00715@980",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00717@97",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00731@110",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00734@173",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00756@211",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00760@84",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00761@1743",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00780@137",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00794@434",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00799@108",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00803@911",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00803@2539",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00803@4517",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00803@4927",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00806@402",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00810@129",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00813@70",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00814@298",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00833@309",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00845@146",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00846@121",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00850@2039",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00851@139",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00860@124",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00866@574",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00895@770",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00896@861",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00897@378",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00898@501",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00898@1914",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00898@2030",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00898@2154",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00899@246",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00912@531",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00914@180",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00929@3523",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00941@173",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00941@455",
+   "type": "phrase",
+   "note": "«Жума кюн» + толкование «байрым кюн» + (къ. байрым), далее цитата; глиф полый, но это подстатья"
+  },
+  {
+   "id": "e_00943@158",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00953@722",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00953@819",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00976@337",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00981@91",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00985@457",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00985@524",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00985@650",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00986@814",
+   "type": "phrase",
+   "note": "«Журун-журун эт» + рус. перевод «изорвать в клочья» + КБ толкование; глиф полый, но это подстатья"
+  },
+  {
+   "id": "e_01031@311",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_01031@807",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_01044@1635",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_01073@821",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

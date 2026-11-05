@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_08458@0",
+   "type": "unclear",
+   "note": "ложный знак: «I» в OCR = «/» между рус. переводом и КБ-толкованием; блок — само толкование с примером, не цитата и не фраз. блок; знак на поз. 0 удалить"
+  },
+  {
+   "id": "e_08469@169",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08472@123",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08482@167",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08503@240",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08517@184",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08519@490",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08527@113",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08527@151",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08528@52",
+   "type": "citation",
+   "note": "иллюстративное словосочетание без перевода/толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_08531@76",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08562@151",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08566@316",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08580@156",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08631@72",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08644@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08656@250",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08657@178",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08658@131",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08670@38",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08672@536",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08686@142",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08698@240",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08714@311",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08730@606",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08769@130",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08769@212",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08799@224",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08805@175",
+   "type": "citation",
+   "note": "иллюстративное словосочетание без перевода/толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_08810@175",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08815@200",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08817@558",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08818@240",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08838@109",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08838@153",
+   "type": "citation",
+   "note": "иллюстративное словосочетание без перевода/толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_08845@101",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08855@171",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08855@340",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08877@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08897@161",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08899@329",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08926@704",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08928@59",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08929@65",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08936@224",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08942@199",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08951@61",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08953@118",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08955@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_08983@108",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09033@107",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09308@313",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09308@382",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09311@104",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09335@140",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09341@668",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09436@425",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09436@475",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09459@29",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09627@2151",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09670@78",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09672@68",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_09884@282",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10397@156",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10397@202",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10679@90",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10705@59",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10722@70",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10728@1314",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10732@199",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10744@182",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10748@284",
+   "type": "citation",
+   "note": "иллюстративное словосочетание без перевода/толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_10757@104",
+   "type": "citation",
+   "note": "иллюстративное словосочетание без перевода/толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_10759@202",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10773@126",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10785@91",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10791@98",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10795@208",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10805@231",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10823@283",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10854@194",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10883@168",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10885@969",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10909@36",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10944@30",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10980@1351",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10980@1420",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10980@1949",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10980@2284",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10980@4840",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10986@68",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_10986@155",
+   "type": "phrase",
+   "note": "составной глагол «Дуппукъ бол» с толкованием и отсылкой къ. гумух"
+  },
+  {
+   "id": "e_11013@167",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11014@98",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11025@350",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11041@119",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11053@153",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11060@77",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11089@1065",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11090@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11169@319",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11187@0",
+   "type": "phrase",
+   "note": "вся статья — фразеологизм «Дыппыдыгылык бол» с толкованием; в OCR перед заглавным словом «А» (залитый знак)"
+  },
+  {
+   "id": "e_11195@162",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11196@0",
+   "type": "phrase",
+   "note": "вся статья — фразеологизм «Дырхам бол» с толкованием; в OCR перед заглавным словом «А» (залитый знак)"
+  },
+  {
+   "id": "e_11196@192",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11205@61",
+   "type": "citation",
+   "note": "иллюстративное словосочетание без перевода/толкования (зона примеров), не подстатья"
+  },
+  {
+   "id": "e_11211@176",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11254@71",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11260@1092",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11274@122",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11290@143",
+   "type": "phrase",
+   "note": "составной глагол «Жабу-жаха эт» с пометой ц. диал. и отсылкой къ. жабу-жубу"
+  },
+  {
+   "id": "e_11312@156",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11318@62",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11326@118",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11327@122",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11334@83",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11343@69",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11348@123",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11374@89",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11392@55",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11414@60",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11414@116",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11419@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11430@120",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11434@90",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11442@67",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11448@108",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11471@66",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11503@923",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11508@111",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11509@88",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11514@143",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11515@85",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11518@45",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11521@83",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11532@480",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11536@3123",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11562@170",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11581@83",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11599@96",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11601@168",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11601@210",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11614@131",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11617@170",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11641@68",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11648@172",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11653@176",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11666@49",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11748@87",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11768@263",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

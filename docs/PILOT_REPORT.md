@@ -167,6 +167,23 @@ S7 invariants: clean except 2 borderline «къ.» cross-refs inside def2 (polic
    къарачайлы, айтылгъан). Systematic repair: `pipeline/s7_kjgj_fix.py` (--phase1 / --apply);
    rule hardened in `prompts/s0_parse.md` and `prompts/s2_parse.md` so future re-parses fix it
    at the source. Related single case caught earlier by audit: шохайлашмакьлыкъ.
+8. **Repairs after the 2026-11-04 sources survey (S10–S15, 2026-11-05)** — see
+   `docs/SOURCES_SURVEY.md` (status box) and `checkpoints/qa/s10_*.jsonl`, `s12_changes.jsonl`,
+   `s13_*.jsonl`, `s11_markers_report*.json`:
+   - **S1 page-range bug**: `s1_dict2_extract.py` started vols 2–3 at index 17; the vocabulary
+     starts at index 10 → ЗАВА…ЗАКОНСУЗ and САБА…САБЫРЛАНДЫРЫУ were never extracted. Recovered
+     by `s12_dict2_gap.py` (segments appended as d2_25875–d2_25971, flag `gap_fill`). Do NOT
+     re-run S1 with a changed `body_start` — every d2_ id would shift.
+   - **S2 marker bug**: the S2 prompt called «О» a phraseology marker; in ТСКБЯ it starts
+     citations. Legends differ per volume (т.1 ❑ compound / ▼ phraseology; т.2 ❒ / ◊; т.3 ■ / ♦;
+     body of т.2–3 prints compounds with a filled ■). Corpus convention now: ◊ phraseology,
+     ▯ compound words, ▭/○ citation starts (`s11_markers.py`, prompt table fixed).
+   - **qmos hyphen splits**: 835 values «-word» = headwords cut at the hyphen (КБРС rule p.11:
+     hyphenated words are separate articles) → `s10_hyphen.py` (+ `s10_pseudokeys.py` for keys
+     out of alphabetical order, `s10_postfix.py` for asserted manual cases).
+   - **Tilde voicing**: with a hint (-ги/-гъы…) «~» before a vowel = voiced stem (хапчюгю);
+     S0a expanded the bare headword → `s13_corpus_fixes.py voicing`; same rule in
+     `s10_hyphen.expand_tilde` for future re-parses.
 
 ## 7. HOW TO CONTINUE IN A FRESH SESSION
 

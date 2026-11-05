@@ -1,0 +1,1334 @@
+{
+ "items": [
+  {
+   "sid": 8,
+   "is_hyphen": true,
+   "cut": "-абадан",
+   "headword": "абадан-абадан",
+   "note": ""
+  },
+  {
+   "sid": 61,
+   "is_hyphen": true,
+   "cut": "-сюрюне",
+   "headword": "абына-сюрюне",
+   "note": ""
+  },
+  {
+   "sid": 66,
+   "is_hyphen": true,
+   "cut": "-сюрюн",
+   "headword": "абын-сюрюн",
+   "note": ""
+  },
+  {
+   "sid": 313,
+   "is_hyphen": true,
+   "cut": "-намыс",
+   "headword": "адеб-намыс",
+   "note": ""
+  },
+  {
+   "sid": 403,
+   "is_hyphen": true,
+   "cut": "-мюджю",
+   "headword": "аджю-мюджю",
+   "note": ""
+  },
+  {
+   "sid": 479,
+   "is_hyphen": true,
+   "cut": "-буз",
+   "headword": "аз-буз",
+   "note": ""
+  },
+  {
+   "sid": 503,
+   "is_hyphen": true,
+   "cut": "-буздан",
+   "headword": "аздан-буздан",
+   "note": ""
+  },
+  {
+   "sid": 513,
+   "is_hyphen": true,
+   "cut": "-керим!",
+   "headword": "азим-керим",
+   "note": "«!» междометной формулы «азим-керим!» отрезан вместе со словом, в headword не включён"
+  },
+  {
+   "sid": 530,
+   "is_hyphen": true,
+   "cut": "-маз",
+   "headword": "аз-маз",
+   "note": ""
+  },
+  {
+   "sid": 547,
+   "is_hyphen": true,
+   "cut": "-тозуб",
+   "headword": "азыб-тозуб",
+   "note": ""
+  },
+  {
+   "sid": 548,
+   "is_hyphen": true,
+   "cut": "-кёбю",
+   "headword": "азы-кёбю",
+   "note": ""
+  },
+  {
+   "sid": 554,
+   "is_hyphen": true,
+   "cut": "-туз",
+   "headword": "азыкъ-туз",
+   "note": ""
+  },
+  {
+   "sid": 573,
+   "is_hyphen": true,
+   "cut": "-айбат",
+   "headword": "айбат-айбат",
+   "note": ""
+  },
+  {
+   "sid": 618,
+   "is_hyphen": true,
+   "cut": "-джылдан",
+   "headword": "айдан-джылдан",
+   "note": ""
+  },
+  {
+   "sid": 647,
+   "is_hyphen": true,
+   "cut": "-буйланч",
+   "headword": "айланч-буйланч",
+   "note": ""
+  },
+  {
+   "sid": 680,
+   "is_hyphen": true,
+   "cut": "-сют",
+   "headword": "айран-сют",
+   "note": ""
+  },
+  {
+   "sid": 709,
+   "is_hyphen": true,
+   "cut": "-хайт",
+   "headword": "айт-хайт",
+   "note": ""
+  },
+  {
+   "sid": 724,
+   "is_hyphen": true,
+   "cut": "-айтмаз",
+   "headword": "айтыр-айтмаз",
+   "note": ""
+  },
+  {
+   "sid": 792,
+   "is_hyphen": true,
+   "cut": "-айырыб",
+   "headword": "айырыб-айырыб",
+   "note": ""
+  },
+  {
+   "sid": 931,
+   "is_hyphen": true,
+   "cut": "-аммала",
+   "headword": "аккала-аммала",
+   "note": ""
+  },
+  {
+   "sid": 958,
+   "is_hyphen": true,
+   "cut": "-теккилли",
+   "headword": "аккыллы-теккилли",
+   "note": ""
+  },
+  {
+   "sid": 959,
+   "is_hyphen": true,
+   "cut": "-тенгкилли",
+   "headword": "аккыллы-тенгкилли",
+   "note": ""
+  },
+  {
+   "sid": 960,
+   "is_hyphen": true,
+   "cut": "-маккыл",
+   "headword": "аккыл-маккыл",
+   "note": ""
+  },
+  {
+   "sid": 966,
+   "is_hyphen": true,
+   "cut": "-теккил",
+   "headword": "аккыл-теккил",
+   "note": ""
+  },
+  {
+   "sid": 967,
+   "is_hyphen": true,
+   "cut": "-тенгкил",
+   "headword": "аккыл-тенгкил",
+   "note": ""
+  },
+  {
+   "sid": 1017,
+   "is_hyphen": true,
+   "cut": "-акъыртын",
+   "headword": "акъыртын-акъыртын",
+   "note": ""
+  },
+  {
+   "sid": 1027,
+   "is_hyphen": true,
+   "cut": "-акъырын",
+   "headword": "акъырын-акъырын",
+   "note": ""
+  },
+  {
+   "sid": 1051,
+   "is_hyphen": true,
+   "cut": "-алай",
+   "headword": "алай-алай",
+   "note": ""
+  },
+  {
+   "sid": 1052,
+   "is_hyphen": true,
+   "cut": "-былай",
+   "headword": "алай-былай",
+   "note": ""
+  },
+  {
+   "sid": 1067,
+   "is_hyphen": true,
+   "cut": "-къула",
+   "headword": "ала-къула",
+   "note": ""
+  },
+  {
+   "sid": 1079,
+   "is_hyphen": true,
+   "cut": "-арт",
+   "headword": "ал-арт",
+   "note": ""
+  },
+  {
+   "sid": 1080,
+   "is_hyphen": true,
+   "cut": "-булас",
+   "headword": "алас-булас",
+   "note": ""
+  },
+  {
+   "sid": 1081,
+   "is_hyphen": true,
+   "cut": "-къарасы",
+   "headword": "аласы-къарасы",
+   "note": ""
+  },
+  {
+   "sid": 1088,
+   "is_hyphen": true,
+   "cut": "-чола",
+   "headword": "ала-чола",
+   "note": ""
+  },
+  {
+   "sid": 1108,
+   "is_hyphen": true,
+   "cut": "-алгъа",
+   "headword": "алгъа-алгъа",
+   "note": ""
+  },
+  {
+   "sid": 1109,
+   "is_hyphen": true,
+   "cut": "-артха",
+   "headword": "алгъа-артха",
+   "note": ""
+  },
+  {
+   "sid": 1144,
+   "is_hyphen": true,
+   "cut": "-артда",
+   "headword": "алда-артда",
+   "note": ""
+  },
+  {
+   "sid": 1150,
+   "is_hyphen": true,
+   "cut": "-алгъа",
+   "headword": "алдан-алгъа",
+   "note": ""
+  },
+  {
+   "sid": 1174,
+   "is_hyphen": true,
+   "cut": "-гюлдюр",
+   "headword": "алдыр-гюлдюр",
+   "note": ""
+  },
+  {
+   "sid": 1188,
+   "is_hyphen": true,
+   "cut": "-чылдыр",
+   "headword": "алдыр-чылдыр",
+   "note": ""
+  },
+  {
+   "sid": 1191,
+   "is_hyphen": true,
+   "cut": "-гылдыу",
+   "headword": "алдыу-гылдыу",
+   "note": ""
+  },
+  {
+   "sid": 1235,
+   "is_hyphen": true,
+   "cut": "-быллай",
+   "headword": "аллай-быллай",
+   "note": ""
+  },
+  {
+   "sid": 1245,
+   "is_hyphen": true,
+   "cut": "-адам",
+   "headword": "аллах-адам",
+   "note": ""
+  },
+  {
+   "sid": 1256,
+   "is_hyphen": true,
+   "cut": "-арты",
+   "headword": "аллы-арты",
+   "note": ""
+  },
+  {
+   "sid": 1258,
+   "is_hyphen": true,
+   "cut": "-гюллю",
+   "headword": "аллы-гюллю",
+   "note": ""
+  },
+  {
+   "sid": 1261,
+   "is_hyphen": true,
+   "cut": "-артын",
+   "headword": "аллын-артын",
+   "note": ""
+  },
+  {
+   "sid": 1273,
+   "is_hyphen": true,
+   "cut": "-кертме",
+   "headword": "алма-кертме",
+   "note": ""
+  },
+  {
+   "sid": 1277,
+   "is_hyphen": true,
+   "cut": "-малма",
+   "headword": "алма-малма",
+   "note": ""
+  },
+  {
+   "sid": 1282,
+   "is_hyphen": true,
+   "cut": "-чалма",
+   "headword": "алма-чалма",
+   "note": ""
+  },
+  {
+   "sid": 1304,
+   "is_hyphen": true,
+   "cut": "-артсыз",
+   "headword": "алсыз-артсыз",
+   "note": ""
+  },
+  {
+   "sid": 1313,
+   "is_hyphen": true,
+   "cut": "-алтау",
+   "headword": "алтау-алтау",
+   "note": ""
+  },
+  {
+   "sid": 1317,
+   "is_hyphen": true,
+   "cut": "-алтмыш",
+   "headword": "алтмыш-алтмыш",
+   "note": ""
+  },
+  {
+   "sid": 1320,
+   "is_hyphen": true,
+   "cut": "-алты",
+   "headword": "алты-алты",
+   "note": ""
+  },
+  {
+   "sid": 1335,
+   "is_hyphen": true,
+   "cut": "-кюмюш",
+   "headword": "алтын-кюмюш",
+   "note": ""
+  },
+  {
+   "sid": 1362,
+   "is_hyphen": true,
+   "cut": "-берим",
+   "headword": "алым-берим",
+   "note": ""
+  },
+  {
+   "sid": 1369,
+   "is_hyphen": true,
+   "cut": "-салыннган",
+   "headword": "алыннган-салыннган",
+   "note": "случай 2: слиплось с переводом «вставной, съёмный»"
+  },
+  {
+   "sid": 1383,
+   "is_hyphen": true,
+   "cut": "-бериш",
+   "headword": "алыш-бериш",
+   "note": ""
+  },
+  {
+   "sid": 1384,
+   "is_hyphen": true,
+   "cut": "-беришчи",
+   "headword": "алыш-беришчи",
+   "note": ""
+  },
+  {
+   "sid": 1385,
+   "is_hyphen": true,
+   "cut": "-беришчилик",
+   "headword": "алыш-беришчилик",
+   "note": ""
+  },
+  {
+   "sid": 1396,
+   "is_hyphen": true,
+   "cut": "-беришчи",
+   "headword": "алышчы-беришчи",
+   "note": ""
+  },
+  {
+   "sid": 1419,
+   "is_hyphen": true,
+   "cut": "-гюлчю",
+   "headword": "альчю-гюлчю",
+   "note": ""
+  },
+  {
+   "sid": 1425,
+   "is_hyphen": true,
+   "cut": "-такъалы",
+   "headword": "амаллы-такъалы",
+   "note": ""
+  },
+  {
+   "sid": 1429,
+   "is_hyphen": true,
+   "cut": "-такъал",
+   "headword": "амал-такъал",
+   "note": ""
+  },
+  {
+   "sid": 1434,
+   "is_hyphen": true,
+   "cut": "-такъалчы",
+   "headword": "амалчы-такъалчы",
+   "note": ""
+  },
+  {
+   "sid": 1438,
+   "is_hyphen": true,
+   "cut": "-аман",
+   "headword": "аман-аман",
+   "note": ""
+  },
+  {
+   "sid": 1439,
+   "is_hyphen": true,
+   "cut": "-аманы",
+   "headword": "аман-аманы",
+   "note": ""
+  },
+  {
+   "sid": 1448,
+   "is_hyphen": true,
+   "cut": "-иги",
+   "headword": "аман-иги",
+   "note": ""
+  },
+  {
+   "sid": 1458,
+   "is_hyphen": true,
+   "cut": "-игилиги",
+   "headword": "аманлыгъы-игилиги",
+   "note": ""
+  },
+  {
+   "sid": 1466,
+   "is_hyphen": true,
+   "cut": "-чуман",
+   "headword": "аман-чуман",
+   "note": ""
+  },
+  {
+   "sid": 1505,
+   "is_hyphen": true,
+   "cut": "-бала",
+   "headword": "ана-бала",
+   "note": ""
+  },
+  {
+   "sid": 1516,
+   "is_hyphen": true,
+   "cut": "-аталы",
+   "headword": "аналы-аталы",
+   "note": ""
+  },
+  {
+   "sid": 1518,
+   "is_hyphen": true,
+   "cut": "-аталыкъ",
+   "headword": "аналыкъ-аталыкъ",
+   "note": ""
+  },
+  {
+   "sid": 1519,
+   "is_hyphen": true,
+   "cut": "-балалыкъ",
+   "headword": "аналыкъ-балалыкъ",
+   "note": ""
+  },
+  {
+   "sid": 1545,
+   "is_hyphen": true,
+   "cut": "-мында",
+   "headword": "анда-мында",
+   "note": ""
+  },
+  {
+   "sid": 1548,
+   "is_hyphen": true,
+   "cut": "-мындан",
+   "headword": "андан-мындан",
+   "note": ""
+  },
+  {
+   "sid": 1549,
+   "is_hyphen": true,
+   "cut": "-санда",
+   "headword": "анда-санда",
+   "note": ""
+  },
+  {
+   "sid": 1594,
+   "is_hyphen": true,
+   "cut": "-къырал",
+   "headword": "ант-къырал",
+   "note": ""
+  },
+  {
+   "sid": 1606,
+   "is_hyphen": true,
+   "cut": "-тоба",
+   "headword": "ант-тоба",
+   "note": ""
+  },
+  {
+   "sid": 1610,
+   "is_hyphen": true,
+   "cut": "-мынча",
+   "headword": "анча-мынча",
+   "note": ""
+  },
+  {
+   "sid": 1612,
+   "is_hyphen": true,
+   "cut": "-мынчанчы",
+   "headword": "анчанчы-мынчанчы",
+   "note": ""
+  },
+  {
+   "sid": 1615,
+   "is_hyphen": true,
+   "cut": "-мынчаулан",
+   "headword": "анчаулан-мынчаулан",
+   "note": ""
+  },
+  {
+   "sid": 1616,
+   "is_hyphen": true,
+   "cut": "-мынчау",
+   "headword": "анчау-мынчау",
+   "note": ""
+  },
+  {
+   "sid": 1618,
+   "is_hyphen": true,
+   "cut": "-мынчашар",
+   "headword": "анчашар-мынчашар",
+   "note": ""
+  },
+  {
+   "sid": 1622,
+   "is_hyphen": true,
+   "cut": "-муну",
+   "headword": "аны-муну",
+   "note": ""
+  },
+  {
+   "sid": 1704,
+   "is_hyphen": true,
+   "cut": "-адаргы",
+   "headword": "аппа-адаргы",
+   "note": ""
+  },
+  {
+   "sid": 1705,
+   "is_hyphen": true,
+   "cut": "-аджайыб",
+   "headword": "аппа-аджайыб",
+   "note": ""
+  },
+  {
+   "sid": 1706,
+   "is_hyphen": true,
+   "cut": "-аз",
+   "headword": "аппа-аз",
+   "note": ""
+  },
+  {
+   "sid": 1707,
+   "is_hyphen": true,
+   "cut": "-азгъын",
+   "headword": "аппа-азгъын",
+   "note": ""
+  },
+  {
+   "sid": 1708,
+   "is_hyphen": true,
+   "cut": "-айбат",
+   "headword": "аппа-айбат",
+   "note": ""
+  },
+  {
+   "sid": 1709,
+   "is_hyphen": true,
+   "cut": "-айгъыр",
+   "headword": "аппа-айгъыр",
+   "note": ""
+  },
+  {
+   "sid": 1710,
+   "is_hyphen": true,
+   "cut": "-акъ",
+   "headword": "аппа-акъ",
+   "note": ""
+  },
+  {
+   "sid": 1711,
+   "is_hyphen": true,
+   "cut": "-акъыллы",
+   "headword": "аппа-акъыллы",
+   "note": ""
+  },
+  {
+   "sid": 1712,
+   "is_hyphen": true,
+   "cut": "-ач",
+   "headword": "аппа-ач",
+   "note": ""
+  },
+  {
+   "sid": 1713,
+   "is_hyphen": true,
+   "cut": "-ачы",
+   "headword": "аппа-ачы",
+   "note": ""
+  },
+  {
+   "sid": 1714,
+   "is_hyphen": true,
+   "cut": "-ачыкъ",
+   "headword": "аппа-ачыкъ",
+   "note": ""
+  },
+  {
+   "sid": 1715,
+   "is_hyphen": true,
+   "cut": "-аяз",
+   "headword": "аппа-аяз",
+   "note": ""
+  },
+  {
+   "sid": 1800,
+   "is_hyphen": true,
+   "cut": "-къарам",
+   "headword": "арам-къарам",
+   "note": ""
+  },
+  {
+   "sid": 1904,
+   "is_hyphen": true,
+   "cut": "-берли",
+   "headword": "арлы-берли",
+   "note": ""
+  },
+  {
+   "sid": 1931,
+   "is_hyphen": true,
+   "cut": "-бурс",
+   "headword": "арс-бурс",
+   "note": ""
+  },
+  {
+   "sid": 1934,
+   "is_hyphen": true,
+   "cut": "-мурс",
+   "headword": "арс-мурс",
+   "note": ""
+  },
+  {
+   "sid": 1938,
+   "is_hyphen": true,
+   "cut": "-артда",
+   "headword": "артда-артда",
+   "note": "случай 2: слиплось с переводом «спустя долгое время»"
+  },
+  {
+   "sid": 1972,
+   "is_hyphen": true,
+   "cut": "-алсыз",
+   "headword": "артсыз-алсыз",
+   "note": ""
+  },
+  {
+   "sid": 1974,
+   "is_hyphen": true,
+   "cut": "-алгъа",
+   "headword": "артха-алгъа",
+   "note": ""
+  },
+  {
+   "sid": 1975,
+   "is_hyphen": true,
+   "cut": "-буртха",
+   "headword": "артха-буртха",
+   "note": ""
+  },
+  {
+   "sid": 1979,
+   "is_hyphen": true,
+   "cut": "-аллы",
+   "headword": "арты-аллы",
+   "note": ""
+  },
+  {
+   "sid": 1980,
+   "is_hyphen": true,
+   "cut": "-аллына",
+   "headword": "арты-аллына",
+   "note": ""
+  },
+  {
+   "sid": 1982,
+   "is_hyphen": true,
+   "cut": "-кеми",
+   "headword": "артыгъы-кеми",
+   "note": ""
+  },
+  {
+   "sid": 1985,
+   "is_hyphen": true,
+   "cut": "-буртукь",
+   "headword": "артыкъ-буртукъ",
+   "note": "случай 4: в raw «-буртукь» (OCR кь); в headword исправлено на къ, cut как в raw"
+  },
+  {
+   "sid": 1989,
+   "is_hyphen": true,
+   "cut": "-кемсиз",
+   "headword": "артыкъсыз-кемсиз",
+   "note": ""
+  },
+  {
+   "sid": 1992,
+   "is_hyphen": true,
+   "cut": "-аллына",
+   "headword": "артына-аллына",
+   "note": ""
+  },
+  {
+   "sid": 2017,
+   "is_hyphen": true,
+   "cut": "-бери",
+   "headword": "ары-бери",
+   "note": ""
+  },
+  {
+   "sid": 2019,
+   "is_hyphen": true,
+   "cut": "-тала",
+   "headword": "арый-тала",
+   "note": ""
+  },
+  {
+   "sid": 2023,
+   "is_hyphen": true,
+   "cut": "-семизлиги",
+   "headword": "арыкълыгъы-семизлиги",
+   "note": "случай 2: слиплось с переводом «упитанность»"
+  },
+  {
+   "sid": 2031,
+   "is_hyphen": true,
+   "cut": "-талмай",
+   "headword": "арымай-талмай",
+   "note": ""
+  },
+  {
+   "sid": 2037,
+   "is_hyphen": true,
+   "cut": "-бериси",
+   "headword": "арысы-бериси",
+   "note": ""
+  },
+  {
+   "sid": 2038,
+   "is_hyphen": true,
+   "cut": "-берисиз",
+   "headword": "арысыз-берисиз",
+   "note": ""
+  },
+  {
+   "sid": 2052,
+   "is_hyphen": true,
+   "cut": "-талыу",
+   "headword": "арыу-талыу",
+   "note": ""
+  },
+  {
+   "sid": 2057,
+   "is_hyphen": true,
+   "cut": "-бус",
+   "headword": "ас-бус",
+   "note": ""
+  },
+  {
+   "sid": 2072,
+   "is_hyphen": true,
+   "cut": "-тенгиз",
+   "headword": "аскер-тенгиз",
+   "note": ""
+  },
+  {
+   "sid": 2073,
+   "is_hyphen": true,
+   "cut": "-хауа",
+   "headword": "аскер-хауа",
+   "note": ""
+  },
+  {
+   "sid": 2079,
+   "is_hyphen": true,
+   "cut": "-аслам",
+   "headword": "аслам-аслам",
+   "note": ""
+  },
+  {
+   "sid": 2143,
+   "is_hyphen": true,
+   "cut": "-асхай",
+   "headword": "асхай-асхай",
+   "note": ""
+  },
+  {
+   "sid": 2146,
+   "is_hyphen": true,
+   "cut": "-сокъур",
+   "headword": "асхакъ-сокъур",
+   "note": ""
+  },
+  {
+   "sid": 2171,
+   "is_hyphen": true,
+   "cut": "-юстюню",
+   "headword": "асырасы-юстюню",
+   "note": ""
+  },
+  {
+   "sid": 2193,
+   "is_hyphen": true,
+   "cut": "-ана",
+   "headword": "ата-ана",
+   "note": ""
+  },
+  {
+   "sid": 2194,
+   "is_hyphen": true,
+   "cut": "-баба",
+   "headword": "ата-баба",
+   "note": ""
+  },
+  {
+   "sid": 2207,
+   "is_hyphen": true,
+   "cut": "-аналыкъ",
+   "headword": "атылыкъ-аналыкъ",
+   "note": "key_word «атылыкъ», вероятно, OCR вместо «аталыкъ» (статья стоит между аталыкъ II и аталыргъа; ср. аналыкъ-аталыкъ); первая часть оставлена по правилу"
+  },
+  {
+   "sid": 2219,
+   "is_hyphen": true,
+   "cut": "-анасы",
+   "headword": "атасы-анасы",
+   "note": ""
+  },
+  {
+   "sid": 2221,
+   "is_hyphen": true,
+   "cut": "-анасыз",
+   "headword": "атасыз-анасыз",
+   "note": "случай 2: слиплось с переводом «круглый сирота»"
+  },
+  {
+   "sid": 2223,
+   "is_hyphen": true,
+   "cut": "-анасызлыкъ",
+   "headword": "атасызлыкъ-анасызлыкъ",
+   "note": ""
+  },
+  {
+   "sid": 2236,
+   "is_hyphen": true,
+   "cut": "-бет",
+   "headword": "ат-бет",
+   "note": ""
+  },
+  {
+   "sid": 2250,
+   "is_hyphen": true,
+   "cut": "-ёгюз",
+   "headword": "ат-ёгюз",
+   "note": ""
+  },
+  {
+   "sid": 2287,
+   "is_hyphen": true,
+   "cut": "-бетли",
+   "headword": "атлы-бетли",
+   "note": ""
+  },
+  {
+   "sid": 2290,
+   "is_hyphen": true,
+   "cut": "-мат",
+   "headword": "ат-мат",
+   "note": ""
+  },
+  {
+   "sid": 2301,
+   "is_hyphen": true,
+   "cut": "-чуусуз",
+   "headword": "атсыз-чуусуз",
+   "note": ""
+  },
+  {
+   "sid": 2309,
+   "is_hyphen": true,
+   "cut": "-тукъум",
+   "headword": "ат-тукъум",
+   "note": "случай 6: помета омонима @I# оставлена в тексте"
+  },
+  {
+   "sid": 2310,
+   "is_hyphen": true,
+   "cut": "-тукъум",
+   "headword": "ат-тукъум",
+   "note": "случай 6: помета омонима @II# оставлена в тексте"
+  },
+  {
+   "sid": 2311,
+   "is_hyphen": true,
+   "cut": "-тууар",
+   "headword": "ат-тууар",
+   "note": ""
+  },
+  {
+   "sid": 2319,
+   "is_hyphen": true,
+   "cut": "-башы",
+   "headword": "аты-башы",
+   "note": ""
+  },
+  {
+   "sid": 2342,
+   "is_hyphen": true,
+   "cut": "-чууу",
+   "headword": "аты-чууу",
+   "note": ""
+  },
+  {
+   "sid": 2378,
+   "is_hyphen": true,
+   "cut": "-сауа",
+   "headword": "ауа-сауа",
+   "note": ""
+  },
+  {
+   "sid": 2447,
+   "is_hyphen": true,
+   "cut": "-талаусуз",
+   "headword": "ауруусуз-талаусуз",
+   "note": ""
+  },
+  {
+   "sid": 2448,
+   "is_hyphen": true,
+   "cut": "-талау",
+   "headword": "ауруу-талау",
+   "note": ""
+  },
+  {
+   "sid": 2474,
+   "is_hyphen": true,
+   "cut": "-бурну",
+   "headword": "ауузу-бурну",
+   "note": ""
+  },
+  {
+   "sid": 2475,
+   "is_hyphen": true,
+   "cut": "-тили",
+   "headword": "ауузу-тили",
+   "note": ""
+  },
+  {
+   "sid": 2497,
+   "is_hyphen": true,
+   "cut": "-ау",
+   "headword": "ау-ау",
+   "note": ""
+  },
+  {
+   "sid": 2519,
+   "is_hyphen": true,
+   "cut": "-ахууал",
+   "headword": "аухал-ахууал",
+   "note": ""
+  },
+  {
+   "sid": 2526,
+   "is_hyphen": true,
+   "cut": "-молла",
+   "headword": "афенди-молла",
+   "note": ""
+  },
+  {
+   "sid": 2563,
+   "is_hyphen": true,
+   "cut": "-тыхсыныу",
+   "headword": "ахсыныу-тыхсыныу",
+   "note": ""
+  },
+  {
+   "sid": 2588,
+   "is_hyphen": true,
+   "cut": "-къысхасы",
+   "headword": "ахырысы-къысхасы",
+   "note": "к слову без пробела примыкает помета «$вводн. сл.»; оставлена в тексте"
+  },
+  {
+   "sid": 2605,
+   "is_hyphen": true,
+   "cut": "-джаланнгач",
+   "headword": "ач-джаланнгач",
+   "note": ""
+  },
+  {
+   "sid": 2613,
+   "is_hyphen": true,
+   "cut": "-токъ",
+   "headword": "ач-токъ",
+   "note": ""
+  },
+  {
+   "sid": 2616,
+   "is_hyphen": true,
+   "cut": "-бочха",
+   "headword": "ачха-бочха",
+   "note": ""
+  },
+  {
+   "sid": 2620,
+   "is_hyphen": true,
+   "cut": "-мачха",
+   "headword": "ачха-мачха",
+   "note": ""
+  },
+  {
+   "sid": 2728,
+   "is_hyphen": true,
+   "cut": "-ичери",
+   "headword": "ашары-ичери",
+   "note": ""
+  },
+  {
+   "sid": 2730,
+   "is_hyphen": true,
+   "cut": "-ичерик",
+   "headword": "ашарыкъ-ичерик",
+   "note": ""
+  },
+  {
+   "sid": 2736,
+   "is_hyphen": true,
+   "cut": "-джашау",
+   "headword": "ашау-джашау",
+   "note": ""
+  },
+  {
+   "sid": 2737,
+   "is_hyphen": true,
+   "cut": "-ичиу",
+   "headword": "ашау-ичиу",
+   "note": "случай 2: слиплось с переводом «пир» (raw целиком «-ичиупир»)"
+  },
+  {
+   "sid": 2738,
+   "is_hyphen": true,
+   "cut": "-турмуш",
+   "headword": "ашау-турмуш",
+   "note": ""
+  },
+  {
+   "sid": 2747,
+   "is_hyphen": true,
+   "cut": "-суу",
+   "headword": "аш-суу",
+   "note": ""
+  },
+  {
+   "sid": 2748,
+   "is_hyphen": true,
+   "cut": "-схат",
+   "headword": "аш-схат",
+   "note": ""
+  },
+  {
+   "sid": 2762,
+   "is_hyphen": true,
+   "cut": "-аман",
+   "headword": "ашхы-аман",
+   "note": ""
+  },
+  {
+   "sid": 2764,
+   "is_hyphen": true,
+   "cut": "-аманлыкъ",
+   "headword": "ашхылыкъ-аманлыкъ",
+   "note": ""
+  },
+  {
+   "sid": 2785,
+   "is_hyphen": true,
+   "cut": "-бушукъ",
+   "headword": "ашыкъ-бушукъ",
+   "note": ""
+  },
+  {
+   "sid": 2829,
+   "is_hyphen": true,
+   "cut": "-башы",
+   "headword": "аягъы-башы",
+   "note": ""
+  },
+  {
+   "sid": 2830,
+   "is_hyphen": true,
+   "cut": "-къолу",
+   "headword": "аягъы-къолу",
+   "note": ""
+  },
+  {
+   "sid": 2845,
+   "is_hyphen": true,
+   "cut": "-къашыкъ",
+   "headword": "аякъ-къашыкъ",
+   "note": ""
+  },
+  {
+   "sid": 2866,
+   "is_hyphen": true,
+   "cut": "-къолсуз",
+   "headword": "аякъсыз-къолсуз",
+   "note": ""
+  },
+  {
+   "sid": 2918,
+   "is_hyphen": true,
+   "cut": "-башха",
+   "headword": "баб-башха",
+   "note": ""
+  },
+  {
+   "sid": 3029,
+   "is_hyphen": true,
+   "cut": "-бийле",
+   "headword": "байла-бийле",
+   "note": ""
+  },
+  {
+   "sid": 3127,
+   "is_hyphen": true,
+   "cut": "-джау",
+   "headword": "бал-джау",
+   "note": ""
+  },
+  {
+   "sid": 3211,
+   "is_hyphen": true,
+   "cut": "-келчи",
+   "headword": "барчы-келчи",
+   "note": "случай 2: слиплось с переводом «человек на побегушках»"
+  },
+  {
+   "sid": 3214,
+   "is_hyphen": true,
+   "cut": "-джогъу",
+   "headword": "бары-джогъу",
+   "note": "случай 2: слиплось с переводом «наличие или отсутствие»"
+  },
+  {
+   "sid": 3337,
+   "is_hyphen": true,
+   "cut": "-аякъ",
+   "headword": "баш-аякъ",
+   "note": "к слову без пробела примыкает помета склонения «(-гъы)»; оставлена в тексте"
+  },
+  {
+   "sid": 3338,
+   "is_hyphen": true,
+   "cut": "-аякъ",
+   "headword": "башдан-аякъ",
+   "note": "к слову без пробела примыкает русское «[всё] подряд»; оставлено в тексте"
+  },
+  {
+   "sid": 3360,
+   "is_hyphen": true,
+   "cut": "-тюблю",
+   "headword": "башлы-тюблю",
+   "note": ""
+  },
+  {
+   "sid": 3365,
+   "is_hyphen": true,
+   "cut": "-тюбсюз",
+   "headword": "башсыз-тюбсюз",
+   "note": "случай 2: слиплось с переводом «уклончивый, неопределённый»"
+  },
+  {
+   "sid": 3367,
+   "is_hyphen": true,
+   "cut": "-тюб",
+   "headword": "баш-тюб",
+   "note": ""
+  },
+  {
+   "sid": 3369,
+   "is_hyphen": true,
+   "cut": "-башха",
+   "headword": "башха-башха",
+   "note": "случай 2: слиплось с переводом «врозь, порознь»"
+  },
+  {
+   "sid": 3380,
+   "is_hyphen": true,
+   "cut": "-аягъы",
+   "headword": "башы-аягъы",
+   "note": ""
+  },
+  {
+   "sid": 3385,
+   "is_hyphen": true,
+   "cut": "-тюбюне",
+   "headword": "башы-тюбюне",
+   "note": ""
+  },
+  {
+   "sid": 3466,
+   "is_hyphen": true,
+   "cut": "-сёгюш",
+   "headword": "бедиш-сёгюш",
+   "note": ""
+  },
+  {
+   "sid": 3559,
+   "is_hyphen": true,
+   "cut": "-белляу",
+   "headword": "белляу-белляу",
+   "note": ""
+  },
+  {
+   "sid": 3643,
+   "is_hyphen": true,
+   "cut": "-къуту",
+   "headword": "бети-къуту",
+   "note": ""
+  },
+  {
+   "sid": 3644,
+   "is_hyphen": true,
+   "cut": "-къол",
+   "headword": "бет-къол",
+   "note": ""
+  },
+  {
+   "sid": 3671,
+   "is_hyphen": true,
+   "cut": "-ырыз",
+   "headword": "бет-ырыз",
+   "note": ""
+  },
+  {
+   "sid": 3712,
+   "is_hyphen": true,
+   "cut": "-бёлек",
+   "headword": "бёлек-бёлек",
+   "note": ""
+  },
+  {
+   "sid": 3783,
+   "is_hyphen": true,
+   "cut": "-байла",
+   "headword": "бийле-байла",
+   "note": ""
+  },
+  {
+   "sid": 3788,
+   "is_hyphen": true,
+   "cut": "-ёзденлик",
+   "headword": "бийлик-ёзденлик",
+   "note": ""
+  },
+  {
+   "sid": 3806,
+   "is_hyphen": true,
+   "cut": "-биле",
+   "headword": "биле-биле",
+   "note": ""
+  }
+ ]
+}

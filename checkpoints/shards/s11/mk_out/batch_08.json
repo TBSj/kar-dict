@@ -1,0 +1,754 @@
+{
+ "items": [
+  {
+   "id": "e_11785@98",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11847@86",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11860@195",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11895@44",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11944@118",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11965@4106",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_11965@4514",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12002@143",
+   "type": "citation",
+   "note": "пример-предложение без подписи"
+  },
+  {
+   "id": "e_12024@228",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12026@114",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12065@172",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12077@105",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12093@211",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12454@956",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_12471@43",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_12484@667",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_12564@624",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12700@236",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12701@516",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12703@66",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12705@72",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12888@284",
+   "type": "citation",
+   "note": "начало - авторские примеры-словосочетания без толкования (Ийлыкъ сёзле. Ийлыкъ иш.), далее цитата с подписью; не подстатья"
+  },
+  {
+   "id": "e_12891@540",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12949@80",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_12989@735",
+   "type": "citation",
+   "note": "начинается цитатой с подписью; подстатья «Илгиздик эт» идёт дальше в блоке"
+  },
+  {
+   "id": "e_13053@97",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_13055@73",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_13092@839",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_13207@69",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_13366@272",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_13428@311",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_13527@351",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_13527@684",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_13621@154",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_13908@543",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_14091@1774",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14092@1208",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14147@412",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14305@483",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14305@3854",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14386@96",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14475@71",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14604@919",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14708@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_14912@213",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15051@257",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15356@542",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15358@589",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15487@101",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15575@877",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15651@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15655@894",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15675@919",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15675@960",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15697@1307",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15867@46",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15869@48",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15882@106",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15897@99",
+   "type": "citation",
+   "note": "блок - только авторские примеры-словосочетания без перевода и толкования (Къакъсы жау. Къакъсы чабакъ.); не подстатья, знак, видимо, смещён при распознавании"
+  },
+  {
+   "id": "e_15922@446",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15931@127",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15962@82",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15987@577",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16100@386",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16144@2030",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16144@5001",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16144@8098",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16144@11008",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16189@1096",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16349@72",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_16514@414",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_16522@506",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_16640@422",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_16666@75",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_16681@55",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_16733@450",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17057@580",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17057@2317",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17102@58",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_17216@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_17334@48",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_17467@616",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17538@3246",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17899@1151",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_17912@601",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_17912@824",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_17933@1630",
+   "type": "citation",
+   "note": "пример-предложение без подписи"
+  },
+  {
+   "id": "e_17933@1737",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18037@139",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18493@533",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18553@88",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18553@135",
+   "type": "citation",
+   "note": "пример-предложение без подписи"
+  },
+  {
+   "id": "e_18632@112",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18823@871",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18880@51",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_18947@377",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19014@114",
+   "type": "citation",
+   "note": "пример-предложение без подписи"
+  },
+  {
+   "id": "e_19107@87",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19139@413",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19202@64",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19251@2500",
+   "type": "citation",
+   "note": "начинается цитатой с подписью; подстатья «Кюню жангыдан тийди» идёт дальше в блоке"
+  },
+  {
+   "id": "e_19252@6668",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19369@942",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19369@2018",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19372@489",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_19413@1333",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19479@1088",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_19501@303",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_19531@52",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19549@89",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19703@75",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19764@115",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_19824@153",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_20017@340",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_20131@214",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_20132@86",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_20294@112",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_20294@410",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_20332@188",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_21037@105",
+   "type": "citation",
+   "note": "пример-предложение без подписи"
+  },
+  {
+   "id": "e_21291@199",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_21417@50",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_21667@641",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_21676@209",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_21746@533",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_22178@6613",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22525@2162",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22541@65",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_22580@59",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_22676@54",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_22767@166",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22782@1846",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22820@159",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_22847@423",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_22984@87",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_23136@4871",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_23175@2157",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_23258@2736",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_23258@10277",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_23262@70",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_23262@116",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_23336@343",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_23513@61",
+   "type": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_23627@63",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_23726@77",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24402@195",
+   "type": "phrase",
+   "note": "подстатья «Радио бериу» с переводом и толкованием (заглавное слово статьи - радиоантенна)"
+  },
+  {
+   "id": "e_24811@80",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24812@56",
+   "type": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_24850@231",
+   "type": "citation",
+   "note": "начинается цитатой с подписью; подстатья «Сагъакъ безле» идёт дальше в блоке"
+  },
+  {
+   "id": "e_24853@1418",
+   "type": "citation",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "items": [
+  {
+   "id": "e_16144@6872",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "«…жырлары, 22. Къан кирди» — перед словом знака нет"
+  },
+  {
+   "id": "e_31866@1370",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "«Тынч» начинает строку без отступа, выше «…жюрекле, 406.» — знака нет"
+  },
+  {
+   "id": "e_19496@230",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ залитый квадрат"
+  },
+  {
+   "id": "e_16144@7414",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "«Къан къус» начинает строку, выше «…Кюйген тап, 16.» — знака нет"
+  },
+  {
+   "id": "e_16349@14139",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "рамка crop_batch не на месте (с.563: «къара / халкъдан» внутри толкования); фраза найдена доп. кропом на с.566 (page+5): «Дерт, 22. ■ Къара халкъ» — ■ залитый квадрат"
+  },
+  {
+   "id": "e_11152@380",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": "❑ полый квадрат с тенью"
+  },
+  {
+   "id": "e_09171@78",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "▲ залитый ТРЕУГОЛЬНИК, не квадрат (знак фразеологизмов т.1, в легенде ▼)"
+  },
+  {
+   "id": "e_39524@292",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_05865@184",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_04899@190",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06580@334",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_00622@934",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.).»"
+  },
+  {
+   "id": "e_17467@1131",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "«Къоян» начинает строку, выше конец цитаты «…турадыла.» — знака нет"
+  },
+  {
+   "id": "e_00642@5035",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_33311@893",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "♦ залитый РОМБ, не квадрат (по легенде т.3 ♦ = фразеологизмы)"
+  },
+  {
+   "id": "e_02574@3581",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "рамка crop_batch на «аллы» внутри цитаты «Хамзат аллы бла…»; заголовок «Аллы бла чыпчыкъ ётмеген» (OCR «ч ь п п ы к ъ») на с.111 начинает строку после «…жырла”, 98.» — по доп. кропу знака нет"
+  },
+  {
+   "id": "e_01021@256",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_17728@578",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ в конце предыдущей строки после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_08966@682",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "«Гуппур» начинает строку, выше «…талисман, 47.» — знака нет"
+  },
+  {
+   "id": "e_00265@5757",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "«…кюбюр, 96. Жан сюреннги» — перед словом знака нет"
+  },
+  {
+   "id": "e_14695@368",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❒ после примеров «Кисей кёлек. Кисей ал бота.»"
+  },
+  {
+   "id": "e_06113@2594",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "блок начинается цитатой; дальше в том же блоке фраза «Бет жарыкълы бол» без своего знака"
+  },
+  {
+   "id": "e_23258@11413",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "crop_batch NOT_FOUND: текст на с.1079 (page+3); доп. кроп: «…саугъасы, 26. От юй эск. къарач.» — знака нет"
+  },
+  {
+   "id": "e_09156@106",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_15468@795",
+   "glyph": "circle",
+   "content": "phrase",
+   "note": "○ после «(Нарт сёз.)», но за ним полужирное «Къабыргъа кир къ. ёл.» (подстатья с отсылкой), потом цитата"
+  },
+  {
+   "id": "e_04894@8574",
+   "glyph": "none",
+   "content": "phrase",
+   "note": "crop_batch NOT_FOUND: текст на с.289 (page+3, OCR «бдок»); доп. кроп: «№ 118. Аякъ бюк колено…» — знака нет"
+  },
+  {
+   "id": "e_01261@219",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_06336@201",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_18776@93",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_00602@390",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_12002@222",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": ""
+  },
+  {
+   "id": "e_01273@1687",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_00962@1052",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": "❑, затем «…» (сокращение в цитате)"
+  },
+  {
+   "id": "e_32078@1056",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ залитый квадрат"
+  },
+  {
+   "id": "e_35388@313",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ залитый квадрат"
+  },
+  {
+   "id": "e_00793@115",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз).»"
+  },
+  {
+   "id": "e_04548@688",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»"
+  },
+  {
+   "id": "e_00683@141",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_02491@197",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_15734@1339",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "♦ залитый РОМБ, не квадрат"
+  },
+  {
+   "id": "e_04900@137",
+   "glyph": "hollow",
+   "content": "citation",
+   "note": ""
+  },
+  {
+   "id": "e_28945@284",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ залитый квадрат"
+  },
+  {
+   "id": "e_08899@1347",
+   "glyph": "hollow",
+   "content": "phrase",
+   "note": "начало колонки под колонтитулом «615 ГУЗ»"
+  },
+  {
+   "id": "e_15919@475",
+   "glyph": "filled",
+   "content": "phrase",
+   "note": "■ залитый квадрат"
+  },
+  {
+   "id": "e_28233@195",
+   "glyph": "circle",
+   "content": "citation",
+   "note": "○ после «(Нарт сёз.)»"
+  }
+ ]
+}

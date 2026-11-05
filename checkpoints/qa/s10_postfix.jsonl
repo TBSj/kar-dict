@@ -1,0 +1,10 @@
+{"fix": "A bare-headword remnants removed", "count": 36}
+{"fix": "B кеп-керексиз / кеп-керти misc1 re-expanded"}
+{"fix": "C саугъалыкъ separated from сувенир"}
+{"fix": "D сау-саламат: d1 22352 moved from саламат1/2 to сау-саламат1/2"}
+{"fix": "E сау I restored from pseudo key «целый»", "m1": "неначатый, нераздельный; сау ётмек целая буханка хлеба; сау къыппа целый клубок;", "m2": "сау дуния весь мир; сау дуниягъа белгили известный на весь мир; сау кюнню узуну "}
+{"fix": "F чуппа-чубар separated from чубар"}
+{"fix": "G сылтаучу tail -> байлам3, false homonym сылтаучу2 dropped"}
+{"fix": "H чынар: d1 merged into dict-2 чынар1"}
+{"fix": "I жёрмелениу -> jёрмелениу"}
+{"fix": "J эт-jен needs_review cleared"}
