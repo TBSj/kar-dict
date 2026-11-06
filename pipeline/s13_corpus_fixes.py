@@ -10,6 +10,11 @@
              voiced final consonant when the entry has a voicing hint (-гъы, -ги, -гю …)
              (КБРС, «О структуре словаря», п. 2: ёзек (-ги) … агъачны ~и = ёзеги).  S0a
              expanded every «~» to the bare headword (хапчюкю instead of хапчюгю).
+  voicing2   (2026-11-06) the other spelling of the same possessive: «~гъы», «~ги», «~гъынгы» —
+             tilde + voiced consonant + high vowel — repeats the voicing hint, so the tilde is the
+             headword minus its final къ/к (агрессиялыкъ (-гъы) … политиканы ~гъы = агрессиялыгъы,
+             адамлыкъ … ~гъын билебиз = адамлыгъын).  S0a and s17 prep put the whole headword in
+             front (агрессиялыкъгъы, джитиликги).  Raw texts: qmos + the s17 scan blocks.
   flags      no_russian_def := def1 and def2 both empty (the S2 flag meant «the ТСКБЯ
              article has no Russian part» and survived merges with dict-1 translations).
 Every phase logs its changes to checkpoints/qa/s13_<phase>.jsonl.
@@ -176,6 +181,57 @@ def voicing():
                       "skipped": skipped}, ensure_ascii=False, default=dict))
 
 
+def voicing2():
+    """re-expand «~гъV»/«~гV» (V = ы у и ю) as stem-without-къ/к + suffix, at most as many times as
+    the raw texts of the entry's dict-1 sources have such a tilde"""
+    q = json.load(open(ROOT / "sources" / "1" / "qmos_def_32499.txt", encoding="utf-8"))
+    raw_by_sid = {int(k.rsplit("_", 1)[1]): (kj(k.rsplit("_", 1)[0]), kj(v)) for k, v in q.items()}
+    s17 = CK / "shards" / "s17" / "items.jsonl"          # КБРС blocks read from the scan (step 2)
+    if s17.exists():
+        for l in open(s17, encoding="utf-8"):
+            it = json.loads(l)
+            raw_by_sid[it["sid"]] = (it["W_print"], kj(it["raw"]))
+    es = load()
+    rows, skipped = [], []
+    for e in es:
+        need = Counter()
+        for s in e.get("src1") or []:
+            if int(s) not in raw_by_sid:
+                continue
+            word, raw = raw_by_sid[int(s)]
+            if "hyphen_restored" in (e.get("flags") or []) and e.get("word1_orig"):
+                word = e["word1_orig"]                    # the article cut out of a glued qmos value
+            if word.endswith("къ"):
+                stem, pat = word[:-2], r"~(гъ[ыуию][а-яёъь]*)"
+            elif word.endswith("к"):
+                stem, pat = word[:-1], r"~(г[ыуию][а-яёъь]*)"
+            else:
+                continue
+            for m in re.finditer(pat, raw):
+                need[(word + m.group(1), stem + m.group(1))] += 1
+        for (bad, good), n in need.items():
+            rx = re.compile(r"(?<![а-яёА-ЯЁ\-])" + re.escape(bad) + r"(?![а-яё])")
+            hits = {f: len(rx.findall(e.get(f) or "")) for f in ("misc1", "def1")}
+            if not sum(hits.values()):
+                continue
+            if sum(hits.values()) > n:
+                skipped.append({"entry_id": e["entry_id"], "word": e["word"], "form": bad,
+                                "in_text": sum(hits.values()), "tildes": n})
+                continue
+            for f, k in hits.items():
+                if k:
+                    e[f] = rx.sub(good, e[f])
+            rows.append({"entry_id": e["entry_id"], "word": e["word"], "form": f"{bad}->{good}",
+                         "count": sum(hits.values())})
+            flag(e, "tilde_voicing_fixed")
+            for k in [k for k in list(e) if k.startswith(("misc1_", "misc2_"))]:
+                e.pop(k, None)
+    save(es)
+    log("voicing2", rows + [dict(r, skipped=True) for r in skipped])
+    print(json.dumps({"replacements": sum(r["count"] for r in rows), "entries": len({r["entry_id"] for r in rows}),
+                      "skipped": skipped}, ensure_ascii=False))
+
+
 def flags():
     es = load()
     before = sum("no_russian_def" in (e.get("flags") or []) for e in es)
@@ -191,6 +247,6 @@ def flags():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("phase", choices=["word2orig", "et2", "voicing", "flags"])
+    ap.add_argument("phase", choices=["word2orig", "et2", "voicing", "voicing2", "flags"])
     a = ap.parse_args()
-    {"word2orig": word2orig, "et2": et2, "voicing": voicing, "flags": flags}[a.phase]()
+    {"word2orig": word2orig, "et2": et2, "voicing": voicing, "voicing2": voicing2, "flags": flags}[a.phase]()

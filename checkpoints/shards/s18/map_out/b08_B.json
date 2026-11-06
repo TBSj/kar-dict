@@ -1,0 +1,222 @@
+{"batch": "b08", "mapper": "B", "nests": [
+  {"nid": "g0347", "entries": [
+     {"entry_id": "e_11537", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_11538", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1. КБРС 1) «упорядочивать, улаживать что; устраивать кого-что» продублировано в обеих статьях (split_def1).",
+   "parse_issue": ""},
+
+  {"nid": "g0348", "entries": [
+     {"entry_id": "e_11546", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_11547", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_11548", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0351", "entries": [
+     {"entry_id": "e_00388", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00389", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00390", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "жаркъма1 = ЖАРКЪМА¹ 'осколок', жаркъма2 = ЖАРКЪМА² сыф. ц. диал.; жаркъма3 (только КБРС, «джаркъма шкок — вид ружья») у Гузеева нет (возможно, это определительное употребление ЖАРКЪМА¹).",
+   "parse_issue": ""},
+
+  {"nid": "g0352", "entries": [
+     {"entry_id": "e_00393", "g": [1, 3], "role": "covers_several", "def2_split": "1,2→1", "def1_split": "1), 2) (прил.)→1; «тж. сущ., бедняк» (и «тж. сущ., горемыка»)→3"},
+     {"entry_id": "e_00394", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "жарлы1 (прил.) = ЖАРЛЫ¹ сыф.; ЖАРЛЫ³ ат. 'бедняк' есть у нас только как «тж. сущ., бедняк» в def1 КБРС — выделить отдельной статьёй. жарлы2 = ЖАРЛЫ² сёзл.",
+   "parse_issue": ""},
+
+  {"nid": "g0354", "entries": [
+     {"entry_id": "e_00423", "g": [1, 2], "role": "covers_several", "def2_split": "единств. «Не испытывая нужды»→2", "def1_split": "1) до || (беззаботный, спокойный)→1; после || (беззаботно, спокойно) и 2) без ущерба→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш жарсыусуз (нареч.) = ЖАРСЫУСУЗ² сёзл.; прилагательное ЖАРСЫУСУЗ¹ есть только в def1 КБРС до || («беззаботный, спокойный») — выделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0355", "entries": [
+     {"entry_id": "e_00425", "g": [1, 2], "role": "covers_several", "def2_split": "1,2 (только в KB, «къ. жарым»)→1; 3 (KB «къ. сакъатлы»), 4, 5→2", "def1_split": "1. половина→1; 2. пол-, полу-; 3.→2"},
+     {"entry_id": "e_00426", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш жарты1 (сущ.) объединяет ЖАРТЫ¹ ат. 'половина' (ТСКБЯ 1–2, КБРС 1.) и ЖАРТЫ² сыф. 'неполный; ущербный; недоученный; глупый' (ТСКБЯ 3–5, КБРС 2.–3.) — разделить. жарты2 = ЖАРТЫ³ сёзл.",
+   "parse_issue": ""},
+
+  {"nid": "g0356", "entries": [
+     {"entry_id": "e_00428", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00429", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00430", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00431", "g": [], "role": "other_word", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "жары1–3 = ЖАРЫ 1–3 по порядку; жары4 (только КБРС, 'раскалывать, колоть, резать') — это глагол жар- (инфинитив джарыргъа совпал с жары-), к гнезду ЖАРЫ не относится.",
+   "parse_issue": ""},
+
+  {"nid": "g0357", "entries": [
+     {"entry_id": "e_00433", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00434", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00435", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, порядок другой: наш 1 (сущ. 'свет') = ЖАРЫКЪ³ ат., наш 2 (прил.) = ЖАРЫКЪ¹ сыф., наш 3 (нареч.) = ЖАРЫКЪ² сёзл.",
+   "parse_issue": ""},
+
+  {"nid": "g0359", "entries": [
+     {"entry_id": "e_00469", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00470", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, порядок другой: наш 1 'поздний вечер' = ЖАССЫ² ат., наш 2 'плоский, широкий' = ЖАССЫ¹ сыф.",
+   "parse_issue": ""},
+
+  {"nid": "g0360", "entries": [
+     {"entry_id": "e_00480", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00481", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00482", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0361", "entries": [
+     {"entry_id": "e_00499", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00500", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00501", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: наш 1 'платок' = ЖАУЛУКЪ², наш 2 'вражда' = ЖАУЛУКЪ¹. жаулукъ3 'жирность' (только КБРС, отвлеч. к жау I) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0362", "entries": [
+     {"entry_id": "e_00516", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00517", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00518", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: наш 1 (сущ. 'сын, парень') = ЖАШ² ат., наш 2 (прил. 'молодой') = ЖАШ¹ сыф. жаш3 'слеза' (только КБРС) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0363", "entries": [
+     {"entry_id": "e_00536", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00537", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0364", "entries": [
+     {"entry_id": "e_00538", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00539", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0365", "entries": [
+     {"entry_id": "e_00559", "g": [4], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00560", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00561", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00562", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, порядок другой: наш 1 (глаг. 'прятаться', къ. букъ) = ЖАШЫРЫН⁴ эт., 2 (прил.) = ЖАШЫРЫН¹ сыф., 3 (нареч.) = ЖАШЫРЫН² сёзл., 4 (сущ. 'тайна') = ЖАШЫРЫН³ ат.",
+   "parse_issue": ""},
+
+  {"nid": "g0366", "entries": [
+     {"entry_id": "e_00564", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00565", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_10053", "g": [], "role": "other_word", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "жая1 = ЖАЯ¹ 'лук', жая2 = ЖАЯ² 'шерстобитный лучок'; жая3 (только КБРС, 'расстилать, распространять') — глагол жай- (инф. джаяргъа), к гнезду ЖАЯ не относится.",
+   "parse_issue": ""},
+
+  {"nid": "g0367", "entries": [
+     {"entry_id": "e_00575", "g": [1, 2], "role": "covers_several", "def2_split": "единств. «Пешеход»→1", "def1_split": "2. пеший→2; «тж. сущ.»→1"},
+     {"entry_id": "e_00576", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш жаяу1 = ЖАЯУ¹ ат. 'пешеход'; прил. ЖАЯУ² 'пеший' есть только в def1 КБРС («2. пеший тж. сущ.») — выделить. жаяу2 = ЖАЯУ³ сёзл. 'пешком'.",
+   "parse_issue": ""},
+
+  {"nid": "g0368", "entries": [
+     {"entry_id": "e_00589", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00590", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00591", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "жек1 = ЖЕК¹ 'нечистая сила', жек3 = ЖЕК² эт. 'запрягать'; жек2 'глупый' (ТСКБЯ, сыф. малоупотр.) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0369", "entries": [
+     {"entry_id": "e_11680", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_11681", "g": [2, 3], "role": "covers_several", "def2_split": "1→2; 2 (только в KB: «къарач. къ. алчи»)→3", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "желпегей1 = ЖЕЛПЕГЕЙ¹ сыф.; наш желпегей2 (нареч.) объединяет ЖЕЛПЕГЕЙ² 'нараспашку, внакидку' (ТСКБЯ 1) и ЖЕЛПЕГЕЙ³ къарач. 'набекрень, набок' (ТСКБЯ 2 «къ. алчи») — разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0371", "entries": [
+     {"entry_id": "e_00626", "g": [1, 2], "role": "covers_several", "def2_split": "1–6→1", "def1_split": "1)–3) прил. (лёгкий, быстрый, вспыльчивый)→1; после || («легко», «быстро»)→2"},
+     {"entry_id": "e_00627", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "женгил1 (прил.) = ЖЕНГИЛ¹; нареч. ЖЕНГИЛ² 'быстро' есть только в def1 КБРС после || («легко», «быстро») — выделить. женгил2 'быть побеждённым' (страд. от женг) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0372", "entries": [
+     {"entry_id": "e_00642", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00643", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00644", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0373", "entries": [
+     {"entry_id": "e_00660", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00661", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00662", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "жерлеш1 = ЖЕРЛЕШ¹ 'земляк', жерлеш2 = ЖЕРЛЕШ² 'селиться'; жерлеш3 (ТСКБЯ, взаимн.-совм. от жерле 'седлать') у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0374", "entries": [
+     {"entry_id": "e_00681", "g": [1, 2], "role": "covers_several", "def2_split": "единств. «Каждый, любой человек»→2", "def1_split": "1)–3) (прич.; зрелый, спелый; возмужалый)→1; 4) встречный→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш жетген объединяет ЖЕТГЕН² алм. 'всякий, любой' (ТСКБЯ; КБРС 4) «встречный») и ЖЕТГЕН¹ сыф. 'взрослый, зрелый' (КБРС 2)–3)) — разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0375", "entries": [
+     {"entry_id": "e_00702", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2,3→2", "def1_split": "1)→1; 2),3)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш единый жетиш: 1 'хватать' = ЖЕТИШ¹, 2–3 'успевать, справляться; достигать' = ЖЕТИШ² (у Гузеева лексические омонимы) — разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0378", "entries": [
+     {"entry_id": "e_00738", "g": [1, 2], "role": "covers_several", "def2_split": "1,3,4→2; 2→1", "def1_split": "1.→1; 2.→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш жигит (сущ.) = ЖИГИТ² ат. + «в позиции определения: смелый, храбрый» (ТСКБЯ 2, КБРС 1.) = ЖИГИТ¹ сыф. — разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0379", "entries": [
+     {"entry_id": "e_00745", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00746", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0380", "entries": [
+     {"entry_id": "e_11795", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_11796", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, порядок другой: наш 1 (сущ. 'слеза', диал.) = ЖИЛЯУУКЪ² ат. ц. диал., наш 2 (прил. 'плаксивый') = ЖИЛЯУУКЪ¹ сыф.",
+   "parse_issue": ""},
+
+  {"nid": "g0381", "entries": [
+     {"entry_id": "e_00767", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00768", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0382", "entries": [
+     {"entry_id": "e_00771", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00772", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0383", "entries": [
+     {"entry_id": "e_00803", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00804", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_00805", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "жол1 = ЖОЛ¹, жол2 = ЖОЛ² 'раз'; жол3 'удача, везение' (только КБРС) у Гузеева нет (возможно, переносное от ЖОЛ¹).",
+   "parse_issue": ""}
+]}

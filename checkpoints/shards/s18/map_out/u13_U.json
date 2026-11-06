@@ -1,0 +1,723 @@
+{
+ "batch": "u13",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0832",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27446",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_27447",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_27448",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0835",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_27488",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; ТСКБЯ фразеол. ◊ «Сыйлы кёр уважать, почитать» (с примерами)→2",
+     "def1_split": "1)–4) и прочие примеры→1; КБРС пример «сыйлы кёрюрге почитать, уважать кого»→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "СЫЙЛЫ² сёзл. у нас есть: среди КБРС-примеров сыйлы (поле misc1, в тексте пачки не показано) — «сыйлы кёрюрге почитать, уважать кого», в ТСКБЯ — ◊ «Сыйлы кёр уважать, почитать». Конструкцию «X-ни прил. кёр-/кёрюн-» Гузеев последовательно относит к сёзл.: «Адамлагъа сыйлы кёрюн» (СЫЙЛЫ²), «Биреуню сыйсыз кёрюу» (СЫЙСЫЗ²), «Оноуну дурус кёрюу» (ДУРУС²), «башха кёрюу» (БАШХА²) — значит, сыйлы = covers_several [1,2], g_missing пуст.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0836",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_27522",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; ТСКБЯ ◊ «Сыйсыз кёр унижать, не уважать»→2",
+     "def1_split": "1)–3)→1 (с примерами «сыйсыз адам», «сыйсыз сёз», «сыйсыз болургъа», «сыйсыз этерге», «сыйсыз иш», «сыйсыз тукъум»); КБРС примеры «кесинги сыйсыз джюрютюрге вести себя недостойно», «сыйсыз кёрюрге не считать за авторитет», «сыйсыз джашагъандан эсе сыйлы ёлген игиди»→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "СЫЙСЫЗ² сёзл. у нас есть в КБРС-примерах сыйсыз (misc1, в пачке не показаны): «кесинги сыйсыз джюрютюрге вести себя недостойно», «сыйсыз кёрюрге не считать за авторитет», «сыйсыз джашагъандан эсе сыйлы ёлген игиди» — почти дословно примеры Гузеева к СЫЙСЫЗ² («Кесини сыйсыз жюрютюу», «Биреуню сыйсыз кёрюу», та же пословица); в ТСКБЯ ещё ◊ «Сыйсыз кёр». Поэтому сыйсыз = covers_several [1,2], g_missing пуст.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0840",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27631",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0841",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_27640",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→1",
+     "def1_split": "1), 2)→1; КБРС пример «кесинги сылыкъ джюрютюрге проявлять своё ничтожество»→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "Единственный КБРС-пример сылыкъ (misc1, в пачке не показан) — «кесинги сылыкъ джюрютюрге проявлять своё ничтожество» — это пример Гузеева к наречию СЫЛЫКЪ² сёзл. «Кесин сылыкъ жюрютюу» (оборот «кесин X жюрютюу» Гузеев всегда даёт в сёзл.: сыйсыз², осал², эриши², эркин² …). Значит, СЫЛЫКЪ² у нас есть: сылыкъ = covers_several [1,2], g_missing пуст.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0844",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27700",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_27701",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0847",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27763",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; 3→2",
+     "def1_split": "1), 2)→1; 3)→2"
+    },
+    {
+     "entry_id": "e_27764",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "у СЫНЫКЪ¹ нет пометы ч. р. (labels: —), хотя у СЫНЫКЪ² ат. и у СЫНЫКЪ³ эт. — помета, видимо, потеряна (ожидалась ат.)"
+  },
+  {
+   "nid": "g0849",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27798",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "1)→2; 2)→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0850",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27806",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "all→2"
+    },
+    {
+     "entry_id": "e_27807",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_27808",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0851",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27837",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0852",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_27839",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_27840",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1",
+     "def1_split": "«чистый, без примеси» и примеры «сырма алтын», «сырма кюмюш», «сырма ёзден»→1; КБРС пример «сырма шынтахы нить, пряденная из грубой шерсти (для прошивания матрацев)»→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "Среди КБРС-примеров сырма2 (misc1, в пачке не показаны) есть «сырма шынтахы нить, пряденная из грубой шерсти (для прошивания матрацев)»; шынтагы/шынтахы в корпусе = 'нитки из грубой шерсти', т.е. это 'нитка для стёжки' — СЫРМА² ат. 'линия стёжки', а не СЫРМА¹ 'чистый'. Поэтому сырма2 = covers_several [1,2] (пример отходит к СЫРМА²), а сырма1 = part_of [2], как сыр1/сыр2 в гнезде Сыр.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0853",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27843",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0855",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27864",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,3→1; 2→2",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0859",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27922",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,5→1; 4→2",
+     "def1_split": "1)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0860",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27951",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0863",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27992",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "СЮЙДЮМСЮЗ²: примеры (Сюйдюмсюз къарау. Сюйдюмсюз кюлюрге.) слиты с определением"
+  },
+  {
+   "nid": "g0867",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28326",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0869",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_28434",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→2 (1, 2, 4 и KB 3 «находка» о человеке)",
+     "def1_split": "all→1 (КБРС «см. табым», помета карач., пример «табышы къалайды? деловит ли он?; смекалист ли он?»)"
+    },
+    {
+     "entry_id": "e_28435",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "КБРС-часть табыш1 (def1 «см. табым», помета карач., пример в misc1 «табышы къалайды? деловит ли он?; смекалист ли он?») — это ТАБЫШ¹ къарач. 'сметка, умение найти выход' (у Гузеева «Табышы болгъан адам. Аны табышы игиди»); КБРС табым в корпусе = 'деловитость; смекалка, находчивость' (къарач.). Значит, ТАБЫШ¹ у нас есть: табыш1 = covers_several [1,2] (КБРС→1, ТСКБЯ 'находка; добыча; доход'→2), g_missing пуст; табыш2 (глагол) — not_in_guzeev, верно.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0872",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28450",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; 3,4→2",
+     "def1_split": "1),2)→1; 3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0875",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28513",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28514",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_28515",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28516",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28517",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0878",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28601",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28602",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28603",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "ТАКЪЫР²: отсылка «тар3» не сходится с гнездом ТАР (наречие 'тесно' там ТАР², а ТАР³ = 'ущелье')"
+  },
+  {
+   "nid": "g0881",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28753",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1,2; 2,3,4,5→1",
+     "def1_split": "1.1)→1; 1.2)→1,2; 2. before ||→3; after ||→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": "ТАМАМ¹: знач. 4 (хапар. магъ. Боллукъду…) слито с примерами знач. 3"
+  },
+  {
+   "nid": "g0885",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28786",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28787",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28788",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0887",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28908",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0888",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28943",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28944",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28945",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0889",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28883",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28884",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_28885",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28886",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0891",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28974",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    1
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0892",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28394",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,3→1; 2→2",
+     "def1_split": "1),3)-5)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0896",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28994",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,4→1",
+     "def1_split": "before ||→1; after ||→2"
+    },
+    {
+     "entry_id": "e_28995",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "ТАР¹ знач. 4: начало примера (*Тилни ёрге-энишге…) слито с определением"
+  },
+  {
+   "nid": "g0900",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_29069",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_29070",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

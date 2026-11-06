@@ -1,0 +1,747 @@
+{
+ "batch": "u07",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0361",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00499",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00500",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00501",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0362",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00516",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00517",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00518",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0367",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_00575",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→1",
+     "def1_split": "«2. пеший», «джаяу аскер», «джаяу джол»→2; «тж. сущ.», «аланы орталары атлы бла джаяу кибикди», «атлы джаяугъа джёнгер тюлдю»→1"
+    },
+    {
+     "entry_id": "e_00576",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→3",
+     "def1_split": "«1.пешком», «джаяу келди», «джаяумуса?», «атха къарай билмеген джаяу джюрюр»→3; погов. «джаяу къонакъ - тынч къонакъ» (пеший гость - лёгкий гость)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "В КБРС-примерах jаяу2 (нареч.) есть погов. «джаяу къонакъ - тынч къонакъ» («пеший гость - лёгкий гость»), а Гузеев приводит её при ЖАЯУ² сыф. («Жаяу къонакъ – тынч къонакъ (айт.)»): jаяу2 содержит и ЖАЯУ², нужно g=[2,3] с выделением этой пословицы. jаяу1 = [1,2] верно (КБРС «джаяу аскер», «джаяу джол» → 2; «атлы бла джаяу кибикди», «атлы джаяугъа джёнгер тюлдю» → 1).",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0368",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00589",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00590",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_00591",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0369",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_11680",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_11681",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→3"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0371",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00626",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1-6→1",
+     "def1_split": "1)-3) до ||→1; || легко, || быстро→2"
+    },
+    {
+     "entry_id": "e_00627",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0373",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00660",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00661",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00662",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0374",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00681",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→2",
+     "def1_split": "1)-3)→1; 4)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0375",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00702",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2,3→2",
+     "def1_split": "1)→1; 2),3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0378",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00738",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,3,4→2; 2→1",
+     "def1_split": "1.→1; 2.→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0380",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_11795",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_11796",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0383",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00803",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00804",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00805",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0385",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_00863",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_00864",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→2; 3→3",
+     "def1_split": "all→3"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0397",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_01026",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_01027",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0398",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_01030",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_01031",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0404",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_01108",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_01109",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1),2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0407",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_01188",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_01189",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_01190",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0408",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12020",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0410",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_01249",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_01250",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_01251",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0424",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_12391",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "ТСКБЯ 1, 2, 3 и ▭ «Зийнадан туугъан»→1; ▯ «Зийна жюрю» (прелюбодействовать, развратничать, распутничать / Саякъ жюрю, хауле айлан) в конце ТСКБЯ-текста→2",
+     "def1_split": "всё→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "ЗИЙНА² сёзл. у нас есть: в конце ТСКБЯ-текста статьи зийна стоит «▯ Зийна жюрю — Прелюбодействовать, развратничать, распутничать / Саякъ жюрю, хауле айлан» — это наречие ЗИЙНА² (у Гузеева «Зийна жюрюу. Зийна айланыу»); читатели видели обрезанный текст. Значит зийна = [1,2] covers_several, g_missing пуст.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0427",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12546",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2,
+    3
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0428",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12547",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_12548",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0430",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12564",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_12565",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_12566",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0431",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12579",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_12580",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0434",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12623",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_12624",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_12625",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0438",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12913",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_12914",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_12915",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0443",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_12952",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→2",
+     "def1_split": "all→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0449",
+   "verdict": "ok",
+   "entries": [],
+   "g_missing": [
+    1,
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0450",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_13133",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0451",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_13139",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    1
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

@@ -1,0 +1,771 @@
+{
+ "batch": "u12",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0768",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25306",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25307",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0770",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25484",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2; 3→— (нет у Гузеева)",
+     "def1_split": "1.→1; 2. before ||→2; 2. after ||→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0771",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_25506",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→3; ТСКБЯ ◊ «Сау бол! спасибо!», «Сау кел! Добро пожаловать!», «Сау къал до свидания», «Сау кёрейим (кёрейик)»→2; ▭ «Сау бол» 1)–2) 'выздоравливать, заживать' и ▯ «Сау эт» 'вылечить'→3",
+     "def1_split": "живой, невредимый→1; здоровый→3; КБРС-примеры-формулы «сау бол! спасибо!», «сау бол демезге / дерге», «сау болсун, джаным», «сау кел!», «сау кёрейик», «сау кёрюшейик до счастливого свидания», «сау къалгъын / къаллыкъ», «сау къалыгъыз! до свидания!», «сау къал дерге», «сау ашагъыз!», «сау джырт!», «сау тутугъуз», «сау джашаргъа»→2; «сау болургъа выздоравливать», «сау этерге вылечивать», «сау битген»→3"
+    },
+    {
+     "entry_id": "e_25507",
+     "g": [
+      4
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25508",
+     "g": [
+      5
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25509",
+     "g": [
+      6
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "g_missing=[2] неверно: у САУ² сёзл. есть соответствие внутри сау1 — КБРС-примеры «сау бол! спасибо!», «сау кёрюшейик до счастливого свидания» (это пример самого Гузеева «Сау кёрюшейик», ср. его «Сау болугъуз»), «сау къалыгъыз! до свидания!», «сау кел!», «сау ашагъыз!», «сау тутугъуз», а в ТСКБЯ-части сау1 фразеология ◊ «Сау бол! спасибо!», «Сау кел!», «Сау къал» (в просмотре читателей эти поля были скрыты/обрезаны). Значит сау1 = САУ¹ + САУ² + САУ³ (формулы-пожелания → 2), заглушка для САУ² не нужна.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0773",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25559",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25560",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25561",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0775",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_25632",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "основное значение 'распутный, развратный' (Хауле, аман айланыучу …)→1; ▯ «Саякъ айлан» 'распутничать / хауле, аман айлан' с обоими примерами→2",
+     "def1_split": "1., 2.→1; КБРС-примеры «саякъ айланыргъа распутничать, вести развратный образ жизни», «саякъ айланнган таякъ табар»→2; прочие примеры («саякъ адам», «саякъ джашау», «саякъ болургъа», «саякъ этерге» …)→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "g_missing=[2] неверно: САЯКЪ² сёзл. у нас есть — ТСКБЯ ▯ «Саякъ айлан распутничать / хауле, аман айлан» с примером «…аман, саякъ айланнганды» и КБРС-примеры «саякъ айланыргъа распутничать, вести развратный образ жизни», «саякъ айланнган таякъ табар». Это ровно употребления САЯКЪ² у Гузеева («Саякъ айлан», «Бир тиширыу саякъ айланнганды»), значит саякъ = САЯКЪ¹ + САЯКЪ² (эти выражения → 2), а не пропуск со стабом.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0776",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25678",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2,3→2",
+     "def1_split": "1)→1; 2),3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0777",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25755",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25756",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25757",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "СЕЙИР³ 1.: в начале определения лишний номер «1.»."
+  },
+  {
+   "nid": "g0778",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25768",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25769",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25770",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "СЕЙИРЛИК³: в книге «Сейир³(¹)» (= СЕЙИР³, 1-е знач.); разбор дал «same as: сейир» без номера"
+  },
+  {
+   "nid": "g0780",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25890",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25891",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25892",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0781",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25962",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,3→1; 2→2",
+     "def1_split": "before ||→1; after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0782",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25966",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; 3→2",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0783",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25990",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0784",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25998",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1"
+    },
+    {
+     "entry_id": "e_25999",
+     "g": [
+      1,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "all→3",
+     "def1_split": "1) before ||→1; 1) after ||→3; 2)→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "метка «same as: сел1» относится только к значению 2 СЕРИУЮН¹ (значение 1 — 'салкъын')"
+  },
+  {
+   "nid": "g0786",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26021",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "1)-3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "метка «same as: сер1» относится только к значению 1 СЕРЛЕН¹"
+  },
+  {
+   "nid": "g0792",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28241",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_28242",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28243",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_28244",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0793",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_28247",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0795",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26106",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26107",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_26108",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0798",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26199",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26200",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26201",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0801",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26305",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26306",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26307",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0803",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26441",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26442",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26443",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_26444",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0808",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26618",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→2",
+     "def1_split": "before ||→1; after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0810",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26680",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_26681",
+     "g": [
+      2,
+      3,
+      4
+     ],
+     "role": "covers_several",
+     "def2_split": "1→3; 2→2; 3→4",
+     "def1_split": "3)→3; 4)→4"
+    },
+    {
+     "entry_id": "e_26682",
+     "g": [
+      4
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": "СОРА¹ 2: начало примера («*Сен да, мен да жашайбыз, Бир бирибизге къууана.») попало в определение"
+  },
+  {
+   "nid": "g0812",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26747",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→2",
+     "def1_split": "before ||→1; after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0817",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26822",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,5→1; 2,3,4,6,7→2",
+     "def1_split": "1)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0818",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_26877",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; 3→2",
+     "def1_split": "all→1,2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0822",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27140",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_27141",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "в примерах СУР¹ стоит «Сур жел» — по смыслу это пример СУР² (ошибка книги или разбора)"
+  },
+  {
+   "nid": "g0823",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27168",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_27169",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0824",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27185",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,4→1; 5→2",
+     "def1_split": "1), 2) before ||, 4)→1; 2) after ||→2"
+    },
+    {
+     "entry_id": "e_27186",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0825",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27222",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "2,3→1; 1→2",
+     "def1_split": "1)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0827",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_27250",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1→3; 2,3→1",
+     "def1_split": "1. before ||→3; 1. after ||→1; 2.1), 2.2) before ||→1; 2.1), 2.2) after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

@@ -1,0 +1,749 @@
+{
+ "batch": "u11",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0708",
+   "verdict": "ok",
+   "entries": [],
+   "g_missing": [
+    1,
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "Слово в корпусе есть в написании огъесе (вне гнезда из-за орфографии огъосе ~ огъесе): e_22508 огъесе1 (союз «или, то ли») = ОГЪОСЕ¹ байл., e_22509 огъесе2 (частица пренебрежения) = ОГЪОСЕ² кес.; заглушки для этого гнезда не нужны."
+  },
+  {
+   "nid": "g0709",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22513",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "ТСКБЯ KB: 1→2; 2,3→1",
+     "def1_split": "before ||→2; after ||→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0712",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22546",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2-10→2",
+     "def1_split": "1),6)→1; 2)-5)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0714",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22579",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22580",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22581",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "У ОЙ³ нет знач. 2 (нумерация 1, 3, 4) — видимо, потеряно или склеено с соседним при разборе."
+  },
+  {
+   "nid": "g0715",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22678",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0720",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22961",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22962",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0721",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22865",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22866",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22867",
+     "g": [
+      4
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22868",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0722",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22888",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_22889",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0723",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22908",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0725",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_23040",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; 3→2",
+     "def1_split": "1)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0726",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_23136",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,3,4,5→2; 2,6→1",
+     "def1_split": "1.→2; 2.→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0727",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_23138",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23139",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0729",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_23175",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1-8→1; 9→2",
+     "def1_split": "1),3),4),5)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "У ОРУН¹ знач. 1 напечатано с двойным номером «1. 1.»."
+  },
+  {
+   "nid": "g0732",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_23258",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23259",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23260",
+     "g": [
+      4
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23261",
+     "g": [
+      5
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23262",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23263",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0737",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_23419",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_23420",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23421",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_23422",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0739",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24340",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1; 3→— (нет у Гузеева)",
+     "def1_split": "1) before ||→2; 1) after ||→1; 2)→— (нет у Гузеева)"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0741",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_39852",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_24759",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_24760",
+     "g": [],
+     "role": "fragment"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0743",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24810",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0744",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24812",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0745",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24832",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "1)→2; 2)→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0749",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24917",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1.→2; 2.→1"
+    },
+    {
+     "entry_id": "e_24918",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0750",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24936",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_24937",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0752",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24986",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1.→1; 2.→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0753",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24989",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "1)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0754",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_24991",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,9→1; 4,5,6,7,8,10→2",
+     "def1_split": "1),2)→1; 3),4),5)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0758",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25037",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25038",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0762",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25127",
+     "g": [
+      1,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1→3; 2→1",
+     "def1_split": "before ||→3; after ||→1"
+    },
+    {
+     "entry_id": "e_25128",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0763",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25168",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25169",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25170",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0766",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25230",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_25231",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_25232",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0767",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_25287",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25288",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25289",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_25290",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

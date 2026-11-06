@@ -1,0 +1,9 @@
+{
+ "page": 456,
+ "articles_compared": 20,
+ "diffs_total": 0,
+ "decisions": [],
+ "unresolved": [],
+ "clear_uncertain": [],
+ "notes": "Both passes agree word for word on all 20 articles of p.456 (маймул II … майрышдырыў; the only raw difference, spacing around || in майор, is whitespace), and doubts_ru.json has no notes for these sids. A visual check of the right column (crops R2-R4, zoom 6 on маймулландырыргъа) confirms the shared text, e.g. «кеси кесинъи ~» is printed with ъ; the bold «маймуллаиыр-» is the и/н trap for маймулланыргъа."
+}

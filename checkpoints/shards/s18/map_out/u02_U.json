@@ -1,0 +1,165 @@
+{"batch": "u02", "mapper": "U", "nests": [
+ {"nid": "g0027", "verdict": "ok", "entries": [
+   {"entry_id": "e_02217", "g": [], "role": "not_in_guzeev"},
+   {"entry_id": "e_02218", "g": [1], "role": "same"},
+   {"entry_id": "e_02219", "g": [2], "role": "same"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно",
+  "parse_issue": "Сверено с PDF (с. 16): «2. Поговорка.» по-русски стоит в самой книге — не сбой разбора."},
+ {"nid": "g0133", "verdict": "ok", "entries": [
+   {"entry_id": "e_04806", "g": [], "role": "not_in_guzeev"},
+   {"entry_id": "e_04807", "g": [1], "role": "same"},
+   {"entry_id": "e_04808", "g": [2], "role": "same"},
+   {"entry_id": "e_04809", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [], "confidence": "medium",
+  "note_ru": "верно. ашыгъыш4 (только КБРС, сущ. 'спешка; торопыга'): ат.-омонима у Гузеева нет; 'торопыга' — лишь субстантивированное АШЫГЪЫШ¹ (пословицу «Ашыгъышны иши да ашыгъыш» Гузеев даёт под АШЫГЪЫШ¹, КБРС — под ашыгъыш4), но главное значение 'спешка' в гнезде отсутствует, поэтому not_in_guzeev оставлено.",
+  "parse_issue": ""},
+ {"nid": "g0203", "verdict": "ok", "entries": [
+   {"entry_id": "e_06286", "g": [], "role": "not_in_guzeev"},
+   {"entry_id": "e_06287", "g": [1], "role": "same"},
+   {"entry_id": "e_06288", "g": [2], "role": "same"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0310", "verdict": "ok", "entries": [
+   {"entry_id": "e_39640", "g": [1], "role": "same"},
+   {"entry_id": "e_39641", "g": [2], "role": "same"},
+   {"entry_id": "e_39642", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [], "confidence": "high",
+  "note_ru": "верно (КБРС ёч II = 'премия, приз; пари' = ЁЧ² Гузеева, с. 109; отвлечённого ёчлюк от него в гнезде ЁЧЛЮК нет).",
+  "parse_issue": ""},
+ {"nid": "g0394", "verdict": "ok", "entries": [
+   {"entry_id": "e_00993", "g": [], "role": "not_in_guzeev"},
+   {"entry_id": "e_00994", "g": [1], "role": "same"},
+   {"entry_id": "e_00995", "g": [2], "role": "same"},
+   {"entry_id": "e_00996", "g": [], "role": "other_word"}],
+  "g_missing": [], "confidence": "medium", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0580", "verdict": "ok", "entries": [
+   {"entry_id": "e_16921", "g": [1], "role": "same"},
+   {"entry_id": "e_16922", "g": [2], "role": "same"},
+   {"entry_id": "e_16923", "g": [], "role": "not_in_guzeev"},
+   {"entry_id": "e_16924", "g": [3], "role": "same"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0663", "verdict": "ok", "entries": [
+   {"entry_id": "e_20332", "g": [1], "role": "same"},
+   {"entry_id": "e_20333", "g": [2], "role": "same"},
+   {"entry_id": "e_20334", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0814", "verdict": "ok", "entries": [
+   {"entry_id": "e_26750", "g": [1], "role": "same"},
+   {"entry_id": "e_26751", "g": [2], "role": "same"},
+   {"entry_id": "e_26752", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g1000", "verdict": "ok", "entries": [
+   {"entry_id": "e_31483", "g": [1], "role": "same"},
+   {"entry_id": "e_31484", "g": [2], "role": "same"},
+   {"entry_id": "e_31485", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [], "confidence": "medium", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g1101", "verdict": "ok", "entries": [
+   {"entry_id": "e_34571", "g": [1], "role": "same"},
+   {"entry_id": "e_34572", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [], "confidence": "medium",
+  "note_ru": "верно (в гнезде один омоним, другого сопоставления нет).",
+  "parse_issue": "Сверено с PDF (с. 444): в книге действительно только ХУБУДИЙ¹ сыф. — второго омонима нет в самой книге (пропуск автора: помета сыф. при единственном омониме), это не потеря при разборе. Нашему хубудий2 нареч. 'неряшливо' соответствовал бы непоставленный ХУБУДИЙ² сёзл."},
+ {"nid": "g0112", "verdict": "ok", "entries": [
+   {"entry_id": "e_04194", "g": [1], "role": "same"},
+   {"entry_id": "e_04195", "g": [2], "role": "part_of"},
+   {"entry_id": "e_04196", "g": [2], "role": "part_of"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0261", "verdict": "ok", "entries": [
+   {"entry_id": "e_08670", "g": [2], "role": "part_of"},
+   {"entry_id": "e_08671", "g": [2], "role": "part_of"},
+   {"entry_id": "e_08672", "g": [1], "role": "same"}],
+  "g_missing": [], "confidence": "high",
+  "note_ru": "верно (мелочь: пословица «гокка кёрген кёлге асыу», которую Гузеев даёт под ГОККА¹, в КБРС-примерах стоит при гокка1 — при слиянии её место у гокка3).",
+  "parse_issue": ""},
+ {"nid": "g0339", "verdict": "ok", "entries": [
+   {"entry_id": "e_00283", "g": [1], "role": "part_of"},
+   {"entry_id": "e_00284", "g": [1], "role": "part_of"},
+   {"entry_id": "e_00285", "g": [3], "role": "same"},
+   {"entry_id": "e_00286", "g": [2], "role": "same"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0446", "verdict": "ok", "entries": [
+   {"entry_id": "e_13167", "g": [1], "role": "same"},
+   {"entry_id": "e_13168", "g": [2], "role": "part_of"},
+   {"entry_id": "e_13170", "g": [2], "role": "part_of"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0604", "verdict": "ok", "entries": [
+   {"entry_id": "e_17694", "g": [1], "role": "part_of"},
+   {"entry_id": "e_17695", "g": [2], "role": "same"},
+   {"entry_id": "e_17696", "g": [1], "role": "part_of"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0807", "verdict": "ok", "entries": [
+   {"entry_id": "e_26611", "g": [1], "role": "part_of"},
+   {"entry_id": "e_26612", "g": [1], "role": "part_of"},
+   {"entry_id": "e_26613", "g": [2], "role": "part_of"},
+   {"entry_id": "e_26614", "g": [2], "role": "part_of"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0973", "verdict": "ok", "entries": [
+   {"entry_id": "e_30699", "g": [1], "role": "same"},
+   {"entry_id": "e_30700", "g": [2], "role": "part_of"},
+   {"entry_id": "e_30701", "g": [2], "role": "part_of"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g1056", "verdict": "ok", "entries": [
+   {"entry_id": "e_33234", "g": [1], "role": "same"},
+   {"entry_id": "e_33235", "g": [2], "role": "part_of"},
+   {"entry_id": "e_33236", "g": [2], "role": "part_of"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно",
+  "parse_issue": "Сверено с PDF (с. 429): «1.» без «2.» у УУАКЪЛА² стоит в самой книге — не потеря при разборе (КБРС ууакъла3 2) 'менять деньги' у Гузеева нет)."},
+ {"nid": "g0008", "verdict": "ok", "entries": [
+   {"entry_id": "e_01736", "g": [1], "role": "same"}],
+  "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0103", "verdict": "ok", "entries": [
+   {"entry_id": "e_03985", "g": [1], "role": "same"},
+   {"entry_id": "e_03986", "g": [3], "role": "same"}],
+  "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0448", "verdict": "ok", "entries": [
+   {"entry_id": "e_13183", "g": [1], "role": "same"}],
+  "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0696", "verdict": "ok", "entries": [
+   {"entry_id": "e_21842", "g": [1], "role": "same"}],
+  "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0765", "verdict": "ok", "entries": [
+   {"entry_id": "e_25201", "g": [1], "role": "same"},
+   {"entry_id": "e_25202", "g": [], "role": "not_in_guzeev"}],
+  "g_missing": [2], "confidence": "medium",
+  "note_ru": "верно: наречия как отдельного значения у нас нет. Наречные употребления есть только в примерах — ТСКБЯ «санаусуз кёп жылкъы» под прил. зн. 1 (та же цитата, что у Гузеева при САНАУСУЗ², с. 313) и КБРС «электрокючню санаусуз джоюу — неэкономное расходование»; оба словаря подают их как прилагательное. Если лингвист сочтёт такие примеры соответствием, то санаусуз1 → covers_several [1,2].",
+  "parse_issue": ""},
+ {"nid": "g0861", "verdict": "wrong", "entries": [
+   {"entry_id": "e_27971", "g": [1, 2], "role": "covers_several",
+    "def1_split": "def1 «заводь»→2; КБРС-пример «сюзюлме кёзле — глаза с поволокой, томные глаза»→1",
+    "def2_split": "весь def2 («Заводь»)→2"}],
+  "g_missing": [], "confidence": "medium",
+  "note_ru": "СЮЗЮЛМЕ¹ сыф. у нас есть. В КБРС-примерах статьи (misc1; читателям не показан, т.к. есть def1) стоит «сюзюлме кёзле — глаза с поволокой, томные глаза» — это ровно пример Гузеева «Сюзюлме кёзле» при СЮЗЮЛМЕ¹ (с. 343), к значению 'заводь' он не относится (ср. КБРС сюзюл 4) 'жеманиться', «сюзюлюб джюрюрге — ходить жеманной походкой»). Значит, статья держит оба омонима: 'заводь' → СЮЗЮЛМЕ², 'томные (глаза)' → СЮЗЮЛМЕ¹; расщепить, g_missing пуст.",
+  "parse_issue": ""},
+ {"nid": "g0994", "verdict": "wrong", "entries": [
+   {"entry_id": "e_31326", "g": [1, 2], "role": "covers_several",
+    "def1_split": "1)→2; 2)→1",
+    "def2_split": "1,2→1"}],
+  "g_missing": [], "confidence": "high",
+  "note_ru": "ТУМАЛАН² у нас есть: это КБРС-значение 1) «страд. к тумаларгъа». КБРС тумаларгъа = 'колотить; заканчивать; сваливать (джерге тумаларгъа — свалить на землю, закопать)', т.е. ТУМАЛА² къарач. Гузеева (1. ур, тюй; 2. этип боша; 3. жерге тумалау — с. 396), а его страдательное и есть ТУМАЛАН² къарач. 'Жерге жыгъыл, сойланып тюш'. КБРС-примеры (misc1, читателям не показан): «джерге тумаланыргъа — распластаться на земле», «тумаланныкъ! а) чтоб тебя поколотили!», «иш тумаланды — работа кончилась» → 2. ТСКБЯ 1 (страд. от тумала; по примерам «тон тюбюне тумаланды», «кече къарангысына тумаланды» — ТУМАЛА¹ 'укрыть') и 'умереть' (КБРС 2, ТСКБЯ 2; примеры «ол эртде тумаланнганды», «тумаланныкъ! б) чтоб ты помер!») → ТУМАЛАН¹. Статья держит оба омонима, расщепить; g_missing пуст.",
+  "parse_issue": ""},
+ {"nid": "g1120", "verdict": "ok", "entries": [
+   {"entry_id": "e_35075", "g": [2], "role": "same"}],
+  "g_missing": [1], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0108", "verdict": "ok", "entries": [
+   {"entry_id": "e_04043", "g": [1], "role": "same"},
+   {"entry_id": "e_04044", "g": [2], "role": "same"},
+   {"entry_id": "e_04047", "g": [], "role": "other_word"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0233", "verdict": "ok", "entries": [
+   {"entry_id": "e_07340", "g": [1], "role": "same"},
+   {"entry_id": "e_07341", "g": [2], "role": "same"},
+   {"entry_id": "e_07342", "g": [], "role": "fragment"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно",
+  "parse_issue": "Сверено с PDF (с. 86): «Жымыл нартюх. Жымыл будай.» так и стоит в книге (PDF цифровой, не OCR) — погрешность самой книги."},
+ {"nid": "g0366", "verdict": "ok", "entries": [
+   {"entry_id": "e_00564", "g": [1], "role": "same"},
+   {"entry_id": "e_00565", "g": [2], "role": "same"},
+   {"entry_id": "e_10053", "g": [], "role": "other_word"}],
+  "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+ {"nid": "g0576", "verdict": "ok", "entries": [
+   {"entry_id": "e_16759", "g": [1], "role": "same"},
+   {"entry_id": "e_16760", "g": [2], "role": "same"},
+   {"entry_id": "e_16761", "g": [], "role": "other_word"}],
+  "g_missing": [], "confidence": "high",
+  "note_ru": "верно (мелочь: в КБРС-примерах къаты3 стоит пословица «къаты сёз ташны тешер, ариу сёз къылычны кесер» — это КЪАТЫ¹ зн. 4, её место при къаты1; на роль статьи не влияет).",
+  "parse_issue": ""}
+]}

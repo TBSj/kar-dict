@@ -1,0 +1,82 @@
+{
+ "page": 458,
+ "articles_compared": 41,
+ "diffs_total": 0,
+ "decisions": [
+  {
+   "sid": 102084,
+   "head": "малтай",
+   "pass1": "ча-а ~ ичи[?] болтай чыкъ Тотай",
+   "pass2": "ча-а ~ ичи[?] болтай чыкъ Тотай",
+   "final": "ча-а ~ ичи болтай чыкъ Тотай",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "Pass-1 doubt (ичи or нчи) re-checked at zoom 8 and on the raw scan bitmap (x 0.465-0.490, y 0.846). The first letter is pixel-for-pixel identical (14x17 px, 0 px difference) to 27 other bold letters on p. 458: 12 of them are и (тейриси x2, минъ, билир x2, тиширыў x2, чибин x2, билимли, -мальдир, эдиле) and 15 are н (аны, къумачны, малгъунлукъ, мальтинлик, малхуння, мамонт, кюннъе, гырджын, ~ны, джаўну, маллыгъын, отунчугъа, бакъгъан, джерине x2). The scan's compression stores bold и and н as one shared shape, so no zoom can tell them apart here. The bar that looked like н carries no information. The third letter is a clearly different и with a visible diagonal. The tie is broken by language: ичи 'its inside' (ич + -и) is a real Karachay-Balkar form, and no Karachay-Balkar word can begin with нч-. Both readers chose ичи. Other sources: the rhyme (малтай / болтай / чыкъ Тотай) occurs nowhere else. 06_lextagged has only this КБРС entry (misc1 'ичи'). rus_kb_dict_33040 has none of these words. In the text layers малтай- appears only as forms of the verb малта- 'trample', and Тотай only as a personal name, a place name or the Virgo constellation (text/05, 23, 43, 50)."
+  },
+  {
+   "sid": 102088,
+   "head": "малтамакълыкъ",
+   "pass1": "к малтаргъа рубка (напр. сучьев)",
+   "pass2": "к малтаргъа рубка[?] (напр. сучьев)",
+   "final": "к малтаргъа рубка (напр. сучьев)",
+   "kind": "ru_word",
+   "confidence": "high",
+   "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; р-у-б-к are clear and the 5th letter is a narrow а (right stem + small lower bowl). рубка is the noun for рубить (малтаргъа 1) рубить). Pass-2 [?] only. Both passes have the same text."
+  },
+  {
+   "sid": 102089,
+   "head": "малтаргъа",
+   "pass1": "крушить врага 2) балк. см. теплерге;",
+   "pass2": "крушить врага 2) балк.[?] см. теплерге;",
+   "final": "крушить врага 2) балк. см. теплерге;",
+   "kind": "label",
+   "confidence": "high",
+   "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; the italic б-а-л-к and the dot are legible. The label pairs with '1) карач.' at the start of the article. The meaning fits: ТСКБЯ малта = 'Топтать кого-что' (06_lextagged, def2) = теплерге. Pass-2 [?] only."
+  },
+  {
+   "sid": 102092,
+   "head": "малташыргъа",
+   "pass1": "взаимн.-возвр. к малтаргъа рубиться, сечься",
+   "pass2": "взаимн.-возвр. к малтаргъа[?] рубиться, сечься",
+   "final": "взаимн.-возвр. к малтаргъа рубиться, сечься",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; the bold м-а-л-т-а-р-г are clear and are followed by two narrow broken letters, ъ and а. The reference target is the verb малтаргъа (the article two entries above; малташыргъа is its reciprocal). Pass-2 [?] only."
+  },
+  {
+   "sid": 102094,
+   "head": "малхуння",
+   "pass1": "идиот; дурак, балда м, ж;",
+   "pass2": "идиот; дурак, балда[?] м, ж;",
+   "final": "идиот; дурак, балда м, ж;",
+   "kind": "ru_word",
+   "confidence": "high",
+   "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; б-а-л-д (д with its descender) are clear and the 5th letter is a narrow а. The labels 'м, ж' fit the common-gender Russian noun балда. Pass-2 [?] only."
+  },
+  {
+   "sid": 102099,
+   "head": "малчы",
+   "pass1": "пастух||пастушеский, пастуший 2) животновод",
+   "pass2": "пастух||пастушеский, пастуший[?] 2) животновод",
+   "final": "пастух||пастушеский, пастуший 2) животновод",
+   "kind": "ru_word",
+   "confidence": "high",
+   "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; пасту (with a stress mark) is clear, then three narrow letters ш-и-й with a breve over the last one. There is no descender, so it is not щ. пастуший follows пастушеский as its synonym. Pass-2 [?] only."
+  },
+  {
+   "sid": 102099,
+   "head": "малчы",
+   "pass1": "~ таякъ пастушья палка;",
+   "pass2": "~ таякъ пастушья[?] палка;",
+   "final": "~ таякъ пастушья палка;",
+   "kind": "ru_word",
+   "confidence": "high",
+   "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; пасту (with a stress mark) is clear, then the narrow ш, ь and я (the я has a diagonal leg). The feminine form agrees with палка. Pass-2 [?] only."
+  }
+ ],
+ "unresolved": [],
+ "clear_uncertain": [
+  102084
+ ],
+ "notes": "Both passes read p. 458 identically: 41 articles, 0 differences once [?] marks are ignored. I re-checked the pass-1 doubt and the 6 pass-2 [?] marks on the squeezed right edge: all confirm the shared text, and малтай 'ичи' was decided by language, because this scan stores bold и and н as one identical bitmap (28 copies on the page: 12 и, 15 н and the disputed letter)."
+}

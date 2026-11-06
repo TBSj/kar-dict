@@ -1,0 +1,123 @@
+{"batch": "u17", "mapper": "U", "nests": [
+{"nid": "g1129", "verdict": "ok", "entries": [
+  {"entry_id": "e_35266", "g": [2], "role": "same"}],
+ "g_missing": [1], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1131", "verdict": "ok", "entries": [
+  {"entry_id": "e_35366", "g": [2], "role": "same"},
+  {"entry_id": "e_35367", "g": [1, 3], "role": "covers_several", "def2_split": "1→3; 2→1", "def1_split": "all→3"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1133", "verdict": "ok", "entries": [
+  {"entry_id": "e_35390", "g": [1, 2], "role": "covers_several", "def2_split": "all→2", "def1_split": "1.→2; 2.→1"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1135", "verdict": "ok", "entries": [
+  {"entry_id": "e_35451", "g": [2], "role": "same"},
+  {"entry_id": "e_35452", "g": [1], "role": "same"},
+  {"entry_id": "e_35453", "g": [3], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1140", "verdict": "ok", "entries": [
+  {"entry_id": "e_35606", "g": [1], "role": "same"},
+  {"entry_id": "e_35607", "g": [], "role": "not_in_guzeev"},
+  {"entry_id": "e_35608", "g": [2], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1149", "verdict": "wrong", "entries": [
+  {"entry_id": "e_35730", "g": [1], "role": "same"},
+  {"entry_id": "e_35731", "g": [2, 3], "role": "covers_several", "def2_split": "1-8→2; 9→3; ТСКБЯ (misc2) после зн. 9: ◊ «Чийин ач» → 3, а ▯ «Чий дарий», ◊ «Чий тели», «Чий сют», «Чий чюгюндюр эт» → 2", "def1_split": "1)-5)→2; КБРС-пример «чийин ачаргъа разоблачить кого» → 3; остальные КБРС-примеры → 2"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "Сопоставление g верно, но подсказка разбиения неполна: КБРС-пример «чийин ачаргъа разоблачить кого» и ТСКБЯ ◊ «Чийин ач» содержат сущ. «изъян» (= ЧИЙ³, ср. у Гузеева «Чийин билдирмезге»), их — в 3. А ▯/◊ ТСКБЯ, стоящие после зн. 9 («Чий дарий», «Чий тели», «Чий сют»), — прилагательное ЧИЙ², их нельзя уносить вместе с зн. 9 в ЧИЙ³.", "parse_issue": ""},
+{"nid": "g1150", "verdict": "ok", "entries": [
+  {"entry_id": "e_35754", "g": [1], "role": "same"},
+  {"entry_id": "e_35755", "g": [2], "role": "same"},
+  {"entry_id": "e_35756", "g": [], "role": "not_in_guzeev"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1155", "verdict": "ok", "entries": [
+  {"entry_id": "e_35878", "g": [1], "role": "same"}],
+ "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1156", "verdict": "ok", "entries": [
+  {"entry_id": "e_35931", "g": [1], "role": "same"},
+  {"entry_id": "e_35932", "g": [2], "role": "same"},
+  {"entry_id": "e_35933", "g": [], "role": "not_in_guzeev"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1157", "verdict": "ok", "entries": [
+  {"entry_id": "e_35948", "g": [2], "role": "same"},
+  {"entry_id": "e_35949", "g": [1], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1158", "verdict": "wrong", "entries": [
+  {"entry_id": "e_35951", "g": [1], "role": "same"},
+  {"entry_id": "e_35952", "g": [1, 2], "role": "covers_several", "def2_split": "1-6→2; 7,8→1; ТСКБЯ после зн. 8: ▯ «Чот эт считать», ◊ «Чотдан чыкъ», ◊ «Чотха ал» → 2", "def1_split": "1)-3)→2; 4),5)→1; КБРС-примеры → 2, кроме «ол сени чотунг тюлдю это не твоё дело» → 1"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "Сопоставление g верно, но подсказка «7,8→1» неполна: стоящие после зн. 8 ТСКБЯ ▯ «Чот эт считать», ◊ «Чотдан чыкъ», ◊ «Чотха ал» — это ЧОТ² (счёт, учёт; у Гузеева «Чотха алыргъа», «Чотдан чыгъарыу» — примеры к ЧОТ² зн. 3), а не ЧОТ¹. Из КБРС-примеров в 1 идёт только «ол сени чотунг тюлдю».", "parse_issue": ""},
+{"nid": "g1160", "verdict": "wrong", "entries": [
+  {"entry_id": "e_35983", "g": [], "role": "not_in_guzeev"},
+  {"entry_id": "e_35984", "g": [1], "role": "same"},
+  {"entry_id": "e_35985", "g": [1, 2], "role": "covers_several", "def2_split": "«Коротко, куцо» и толкование «Къысха этилип…» → 2; ТСКБЯ ▯ «Чубур тон полушубок» с примерами → 1"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "В наречии чубур3 стоит ТСКБЯ-термин ▯ «Чубур тон полушубок» (с примерами) — это прил. + сущ.; у Гузеева «Чубур тон» — пример к ЧУБУР¹ сыф., и в КБРС «чубур тон» стоит в прил. чубур2. чубур3 разделить: термин → 1, остальное → 2.", "parse_issue": ""},
+{"nid": "g1161", "verdict": "wrong", "entries": [
+  {"entry_id": "e_36077", "g": [1, 2], "role": "covers_several", "def2_split": "all→1", "def1_split": "all→1; КБРС-пример «кюн ариу, чууакъ турса да тохтамайды боранынг…» → 2"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "КБРС-пример «кюн ариу, чууакъ турса да тохтамайды боранынг» — та же цитата, которой Гузеев иллюстрирует ЧУУАКЪ² сёзл. Значит, у ЧУУАКЪ² есть соответствие в нашей статье: g_missing пуст, статью разделить (этот пример → 2).", "parse_issue": ""},
+{"nid": "g1162", "verdict": "ok", "entries": [
+  {"entry_id": "e_36169", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "before ||→2; after ||→1"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1163", "verdict": "ok", "entries": [
+  {"entry_id": "e_36202", "g": [1], "role": "same"},
+  {"entry_id": "e_36203", "g": [], "role": "not_in_guzeev"},
+  {"entry_id": "e_36204", "g": [2], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1167", "verdict": "ok", "entries": [
+  {"entry_id": "e_36370", "g": [1, 2], "role": "covers_several", "def2_split": "all→2", "def1_split": "before ||→1; after ||→2"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": "ЧЫРМАУСУЗ²: толкование «Чырмаусуз тебиреу» похоже на пример, а не на определение"},
+{"nid": "g1168", "verdict": "ok", "entries": [
+  {"entry_id": "e_36388", "g": [3], "role": "same"},
+  {"entry_id": "e_36389", "g": [2], "role": "same"}],
+ "g_missing": [1], "confidence": "medium", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1170", "verdict": "ok", "entries": [
+  {"entry_id": "e_36444", "g": [1], "role": "part_of"},
+  {"entry_id": "e_36445", "g": [1], "role": "part_of"},
+  {"entry_id": "e_36446", "g": [2], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1171", "verdict": "wrong", "entries": [
+  {"entry_id": "e_36454", "g": [1], "role": "same"},
+  {"entry_id": "e_36455", "g": [3], "role": "same"},
+  {"entry_id": "e_36456", "g": [2, 3], "role": "covers_several", "def2_split": "«Изнанка» и толкование → 2; ТСКБЯ ◊ «Чюйре къара» и ◊ «Чюйре сёлеш» → 3; ◊ «Чюйресине сыла» → 2", "def1_split": "all→2"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "В сущ. чюйре3 стоят ТСКБЯ-фразеологизмы ◊ «Чюйре къара» (смотреть с ненавистью) и ◊ «Чюйре сёлеш» (говорить невпопад) — это наречное употребление = ЧЮЙРЕ³ сёзл. (в КБРС «чюйре сёлеширге» стоит в наречии чюйре2). Их перенести в 3; ◊ «Чюйресине сыла» и остальное остаются в 2.", "parse_issue": "ЧЮЙРЕ³: в тексте книги (raw) только «1.», второго значения нет"},
+{"nid": "g1172", "verdict": "ok", "entries": [
+  {"entry_id": "e_36582", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "прил.→1; сущ.→2"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1180", "verdict": "wrong", "entries": [
+  {"entry_id": "e_36905", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1; ТСКБЯ ◊ «Шиш тур встать на дыбы» с примерами → 2", "def1_split": "«вертел» (КБРС шиш II) → 1; КБРС шиш I — пример «шиш турургъа встать на дыбы (о коне)» → 2"}],
+ "g_missing": [], "confidence": "high", "note_ru": "В КБРС было два омонима, оба слиты в нашу статью: шиш I «шиш турургъа встать на дыбы (о коне)» и шиш II «вертел». Шиш I (и ТСКБЯ ◊ «Шиш тур встать на дыбы») = ШИШ² сёзл. «Тик, ёрге» (у Гузеева «атны шиш тургъузады»), так что ШИШ² не отсутствует: статью разделить.", "parse_issue": ""},
+{"nid": "g1181", "verdict": "wrong", "entries": [
+  {"entry_id": "e_37007", "g": [2], "role": "same"},
+  {"entry_id": "e_37008", "g": [1, 2], "role": "covers_several", "def2_split": "all→1", "def1_split": "КБРС «то же, что шоркъа» (дубль def1 из шорха1; шоркъа = водопад, ручей, поток) → 2"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "КБРС-шный def1 «то же, что шоркъа» (одна статья КБРС) продублирован в обе наши статьи (dup_def1), но шоркъа в КБРС = водопад, ручей, поток, волна, водосточная труба — не воронка. В шорха2 (= ШОРХА¹ «воронка») этот КБРС-перевод соответствием не является, его место — ШОРХА².", "parse_issue": ""},
+{"nid": "g1184", "verdict": "ok", "entries": [
+  {"entry_id": "e_37156", "g": [1], "role": "same"}],
+ "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1186", "verdict": "wrong", "entries": [
+  {"entry_id": "e_37388", "g": [2], "role": "same"},
+  {"entry_id": "e_37389", "g": [1, 2], "role": "covers_several", "def2_split": "all→1; ТСКБЯ ◊ «Ыйлыкъ кёр позориться» с пословицей «…ит ыйлыгъын кёрюр» → 2", "def1_split": "all→1"}],
+ "g_missing": [], "confidence": "medium", "note_ru": "ТСКБЯ ◊ «Ыйлыкъ кёр позориться» с пословицей «Иш къылыгъын билмеген ит ыйлыгъын кёрюр» стоит в глаголе ыйлыкъ2, но содержит сущ. ыйлыкъ: у Гузеева эта пословица — пример к ЫЙЛЫКЪ² ат., а в КБРС «ыйлыкъ кёрюрге» стоит в сущ. ыйлыкъ1. ыйлыкъ2 разделить (◊ → 2).", "parse_issue": "ЫЙЛЫКЪ¹: зн. 2 «Биреуню кесинге тенг кёрме…» слито с текстом зн. 1"},
+{"nid": "g1188", "verdict": "ok", "entries": [
+  {"entry_id": "e_37538", "g": [2], "role": "same"},
+  {"entry_id": "e_37539", "g": [1], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1190", "verdict": "ok", "entries": [
+  {"entry_id": "e_37637", "g": [2], "role": "same"},
+  {"entry_id": "e_37638", "g": [3], "role": "same"},
+  {"entry_id": "e_37639", "g": [1], "role": "part_of"},
+  {"entry_id": "e_37640", "g": [1], "role": "part_of"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1191", "verdict": "ok", "entries": [
+  {"entry_id": "e_37654", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1", "def1_split": "before ||→1; after ||→2"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1193", "verdict": "ok", "entries": [
+  {"entry_id": "e_37663", "g": [1], "role": "same"}],
+ "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1194", "verdict": "ok", "entries": [
+  {"entry_id": "e_37701", "g": [3], "role": "same"},
+  {"entry_id": "e_37702", "g": [], "role": "not_in_guzeev"},
+  {"entry_id": "e_37703", "g": [1], "role": "same"}],
+ "g_missing": [2], "confidence": "high", "note_ru": "верно", "parse_issue": ""},
+{"nid": "g1196", "verdict": "ok", "entries": [
+  {"entry_id": "e_37946", "g": [1], "role": "part_of"},
+  {"entry_id": "e_37947", "g": [1], "role": "part_of"},
+  {"entry_id": "e_37948", "g": [2], "role": "same"}],
+ "g_missing": [], "confidence": "high", "note_ru": "верно", "parse_issue": ""}
+]}

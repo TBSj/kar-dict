@@ -1,0 +1,797 @@
+{
+ "batch": "u16",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g1038",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_32392",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2,3→2",
+     "def1_split": "1. 3)→1; 1. 1), 1. 2)→2; 2. (странный || странно) — нет у Гузеева"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1039",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_32395",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1–3→1; ▯-блок: «тюрт сёз» 'грубость', «тюрт сёзлю» 'грубый (человек)', «тюртдюм сёз»→2; ▯ «тюрт сёлеш» 'грубить'→3",
+     "def1_split": "1)–4) и все примеры КБРС→1"
+    },
+    {
+     "entry_id": "e_32396",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def1_split": "before ||→2 (и пример «тюрт джууаб» 'грубый ответ'); after ||→3 (и пример «тюрт джууаб этерге» 'отвечать грубо')"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "«4.» в ТСКБЯ KB у тюрт1 — не значение, а номер страницы цитаты (Ташыуул, 4.) перед ▯-блоком фразеологии; в этом блоке кроме «тюрт сёз», «тюрт сёзлю» (= ТЮРТ² сыф.) есть «тюрт сёлеш» 'грубить' — это ТЮРТ³ сёзл. (у Гузеева пример «Тюрт сёлешиу»). Значит, тюрт1 = [1, 2, 3], а не [1, 2]; тюрт2 = [2, 3] верно.",
+   "parse_issue": "kb_senses принял номер страницы цитаты «4.» за 4-е значение ТСКБЯ у тюрт1; на деле там ▯-блок («тюрт сёз», «тюрт сёзлю», «тюрт сёлеш», «тюртдюм сёз»)."
+  },
+  {
+   "nid": "g1041",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_32444",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_32445",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_32446",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1043",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_32809",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_32810",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    3
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1050",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33143",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33144",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33145",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1051",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33148",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1",
+     "def1_split": "1),2)→1; 3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": "У УРУН² стоит «1.», но второго значения нет — возможно, оно потеряно при разборе."
+  },
+  {
+   "nid": "g1052",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33162",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33163",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33164",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1053",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33195",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33196",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33197",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1054",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33223",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33224",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33225",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33226",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1055",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33230",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33231",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    3
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1057",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33266",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33267",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_33268",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "УУАХТЫ² 1: начало примера «*[Эфенди:] Жамауат, … хайыр жокъду!» приклеено к определению «Къадар, жазыу.»"
+  },
+  {
+   "nid": "g1058",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33278",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33279",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33280",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1068",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33442",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2,3→2",
+     "def1_split": "1),3)→1; 2)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1071",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33598",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→1",
+     "def1_split": "1.→1; 2.→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1072",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33656",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1075",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_33962",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33963",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_33964",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1080",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34091",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_34092",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_34093",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1081",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_34110",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_34111",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_34112",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_34113",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "хакъ4 'доля' у Гузеева не отдельное значение, а часть ХАКЪ²: его пример ХАКЪ² «мен кишини хакъын ашамаучума» = КБРС-пример хакъ4 «бюреуню хакъын ашаргъа присвоить чужой труд», а «хакъ кесерге б) договориться о плате (за труд)» (КБРС и ◊ ТСКБЯ) — прямо ХАКЪ²; КБРС и в хакъ3 смешивает 'долю' и 'заработок' («хакъ алыргъа а) получить свою долю; б) получить заработок»). Поэтому хакъ3 + хакъ4 = ХАКЪ² (part_of), хакъ2 'право' — not_in_guzeev.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1089",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34234",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_34235",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "В гнезде только ХАПАРЧЫ¹ — второй омоним (видимо, 'сказуемое') при разборе потерян."
+  },
+  {
+   "nid": "g1092",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34285",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1095",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_34342",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1, 2→1; ▭ «хауле жюрю (айлан)» 1) 'развратничать', 2) 'шататься без дела'→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "ХАУЛЕ² сёзл. у нас есть: в ТСКБЯ-статье хауле (за обрезом показа) ▭-фразема «Хауле жюрю (айлан) 1) развратничать / саякълыкъ этип, аман айлан; 2) шататься без дела», с примерами «Эри хауле жюрюйдю», «элде хауле айланып» — это ровно ХАУЛЕ² («Саякълыкъ этип»; «Хауле айлан. Хауле жюрю»). Значит, хауле = [1, 2] covers_several, g_missing пуст.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1100",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34529",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1109",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34707",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→1; phrase «хыбырт тон»→2"
+    },
+    {
+     "entry_id": "e_34708",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_34709",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1110",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34722",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1) before ||→2; 1) after ||→1; 2)→1"
+    },
+    {
+     "entry_id": "e_34723",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1112",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34738",
+     "g": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3→1; 6→2; 4,5→3; 7→4",
+     "def1_split": "1)→1; 2),3)→3; 4)→4"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1114",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34786",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_34787",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1",
+     "def1_split": "before ||→1; after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1116",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_34819",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_34820",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_34821",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1124",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_35117",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_35118",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,6→2; 2,3,4,5→1",
+     "def1_split": "all→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1127",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_35240",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1.1)→2; 1.2)→1; 2.→1"
+    },
+    {
+     "entry_id": "e_35241",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1128",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_35250",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3→2; 4→1",
+     "def1_split": "all (cross-ref «то же, что чалдыш»)→2"
+    },
+    {
+     "entry_id": "e_35251",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

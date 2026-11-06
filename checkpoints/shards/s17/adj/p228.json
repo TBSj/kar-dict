@@ -1,0 +1,54 @@
+{
+ "page": 228,
+ "articles_compared": 28,
+ "diffs_total": 0,
+ "decisions": [
+  {
+   "sid": 103021,
+   "head": "джапы",
+   "pass1": "~нъа голия[?] у тебя неважный вид",
+   "pass2": "~нъа голия[?] у тебя неважный вид",
+   "final": "~нъа голия у тебя неважный вид",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "Pass-1 doubt (doubts_ru); both passes read the same. Zoom 8 (local/s17_img2/zoom/p228_adj_japy_end.png, p228_adj_japy_golia.png) and a native-pixel dump: '~нъа' (tilde, н, ъ, а, no gap) squeezed at the right edge by the binding, bold 'голия' clearly at the start of the next line. Not a misprint: 'голия' is a real word. КБРС голия (corpus src1 5477): 'то же, что голджа; атанга голия! шиш (фигу) тебе!'. ТСКБЯ голия: 'Сени атанга голия!'. So джапынъа голия (lit. 'a fig to your looks') = 'у тебя неважный вид'."
+  },
+  {
+   "sid": 103025,
+   "head": "джара",
+   "pass1": "бычакъ ~ бителир, аўуз ~ бителмез",
+   "pass2": "бычакъ ~ бителир, аўуз ~ бителмез",
+   "final": "бычакъ ~ бителир, аўуз ~ бителмез",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "Pass-2 doubt аўуз[?] (squeezed binding edge); passes agree. The native-pixel dump (p228_adj_auuz_nn.png) shows а, у with a breve, у, з: two separate у glyphs, each with its own descender and tail hook, so the word is аўуз, not аўз. ТСКБЯ аууз: 'Бычакъ жара бителир, аууз жара бителмез. (Нарт сёз.)'. КБРС къылыч (src1 14841): 'къылыч джара бителир, аууз джара бителмез посл.' (corpus аууз = print аўуз)."
+  },
+  {
+   "sid": 103026,
+   "head": "джарагъан",
+   "pass1": "~ бир къой берди он дал хорошую овцу",
+   "pass2": "~ бир къой берди он дал хорошую овцу",
+   "final": "~ бир къой берди он дал хорошую овцу",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "Pass-2 doubt берди[?]; passes agree. At the right (binding) edge the last glyph looks like к ('бердк', p228_adj_berdi_nn.png). In a native-pixel dump its pattern (thin stem, upper-right arm, solid joint at mid-height, lower-right leg) matches two other glyphs at the same x: the certain и of the Russian word 'действие' (line 'а) действие', y~0.835) and к of 'кёз'. Page curvature makes и/н/к indistinguishable there, so the shape is no evidence of a misprint, and the language decides: берди = 'он дал'. КБРС сюйюмчюлюк (src1 24261): 'сюйюмчюлюкге къой берди ... он дал мне в подарок овцу'."
+  },
+  {
+   "sid": 103027,
+   "head": "джарагъан",
+   "pass1": "бу дарманны ~ы безгекгеди",
+   "pass2": "бу дарманны ~ы безгекгеди",
+   "final": "бу дарманны ~ы безгекгеди",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "Pass-2 doubt дарманны[?]; passes agree. The line ends 'дармак-' (p228_adj_darman_nn.png) and the next line starts 'ны'. The last glyph before the hyphen is pixel-identical to the и of 'действие' at the same x on the line just above (binding-edge distortion; bold и and н look alike in this font). So the print is дарман-|ны, not a misprint. The same article has 'дарманны ~ы а) действие лекарства' one line above. Дарманны is the genitive of дарман 'лекарство' (also КБРС джаз: 'врач бу дарманны джазгъанды')."
+  }
+ ],
+ "unresolved": [],
+ "clear_uncertain": [
+  103021,
+  103026,
+  103027
+ ],
+ "notes": "Both passes agree word for word on all 28 articles (0 differences). I re-checked the pass-1 doubt (голия) and the three pass-2 [?] spots on the image; all settled with high confidence, no misprints. The only other notes are stress-only (103026, 103027). Caution for fixups(): on 103021 (jапы) and 103026 (jарагъан1), uncertain_ocr was already on the ТСКБЯ entry before s17 (commit a211fd6), so clearing it by sid would drop a ТСКБЯ-side flag."
+}

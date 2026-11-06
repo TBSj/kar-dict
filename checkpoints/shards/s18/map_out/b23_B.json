@@ -1,0 +1,170 @@
+{"batch": "b23", "mapper": "B", "nests": [
+  {"nid": "g1039", "entries": [
+    {"entry_id": "e_32395", "g": [1, 2], "role": "covers_several", "def2_split": "1,2,3→1; 4 (есть только в ТСКБЯ KB, без перевода)→2", "def1_split": "1)-4)→1"},
+    {"entry_id": "e_32396", "g": [2, 3], "role": "covers_several", "def2_split": "", "def1_split": "before ||→2; after ||→3"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "тюрт1 (глагол) = ТЮРТ¹, но строка 4 ТСКБЯ KB (пример «тюрт сёз», русского перевода нет) — это прилагательное ТЮРТ². тюрт2 (только КБРС) 'грубый || грубо' = ТЮРТ² сыф. + ТЮРТ³ сёзл., разделить по ||.",
+   "parse_issue": ""},
+  {"nid": "g1040", "entries": [
+    {"entry_id": "e_32426", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_32427", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1041", "entries": [
+    {"entry_id": "e_32444", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_32445", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_32446", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок другой: тюш1 'сон' = ТЮШ², тюш2 'полдень' = ТЮШ³, тюш3 (глагол) = ТЮШ¹.",
+   "parse_issue": ""},
+  {"nid": "g1043", "entries": [
+    {"entry_id": "e_32809", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_32810", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [3], "confidence": "high",
+   "note_ru": "узакъ1 (прил.) = УЗАКЪ¹, узакъ2 (нареч.) = УЗАКЪ²; УЗАКЪ³ (сущ., мн. ч. «узакъла» 'дальние края') у нас нет.",
+   "parse_issue": ""},
+  {"nid": "g1049", "entries": [
+    {"entry_id": "e_33136", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33137", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1050", "entries": [
+    {"entry_id": "e_33143", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33144", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33145", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "урум1 'удар' = УРУМ¹, урум2 'раз (бир урумгъа)' = УРУМ²; урум3 'грек, римлянин; греческий' (эск.) у Гузеева нет.",
+   "parse_issue": ""},
+  {"nid": "g1051", "entries": [
+    {"entry_id": "e_33148", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1", "def1_split": "1),2)→1; 3)→2"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "Наш урун: 'трудиться, производить' = УРУН¹; КБРС 3) 'присматриваться, прицениваться, торговаться' ≈ УРУН² 'пытаться, пробовать что-то сделать'; разделить.",
+   "parse_issue": "У УРУН² напечатано только «1.» (пример без «*») — возможно, 2-е значение склеено с примерами."},
+  {"nid": "g1052", "entries": [
+    {"entry_id": "e_33162", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33163", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33164", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок другой: уруш1 (сущ. 'война') = УРУШ³, уруш2 'ругать; ссориться' = УРУШ¹, уруш3 'воевать' = УРУШ².",
+   "parse_issue": ""},
+  {"nid": "g1053", "entries": [
+    {"entry_id": "e_33195", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33196", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33197", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок другой: уста1 (сущ. 'мастер; лекарь') = УСТА³, уста2 (прил.) = УСТА¹, уста3 (нареч.) = УСТА².",
+   "parse_issue": ""},
+  {"nid": "g1054", "entries": [
+    {"entry_id": "e_33223", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33224", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33225", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33226", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "уу1–уу3 = УУ¹–УУ³ по порядку; уу4 (межд. 'ах!, о!', только КБРС) у Гузеева нет.",
+   "parse_issue": ""},
+  {"nid": "g1055", "entries": [
+    {"entry_id": "e_33230", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33231", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [3], "confidence": "high",
+   "note_ru": "ууакъ1 (прил.) = УУАКЪ¹, ууакъ2 (нареч.) = УУАКЪ²; УУАКЪ³ (сущ. 'мелочь, мелкие деньги') у нас нет — в ТСКБЯ лишь сочетание «ууакъ ахча» при прилагательном.",
+   "parse_issue": ""},
+  {"nid": "g1056", "entries": [
+    {"entry_id": "e_33234", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33235", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33236", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "ууакъла1 'дети' = УУАКЪЛА¹; ууакъла2 (ТСКБЯ, «къ. ууакъ эт») и ууакъла3 (только КБРС, 'размельчать; менять деньги') — один глагол УУАКЪЛА², объединить.",
+   "parse_issue": "У УУАКЪЛА² напечатано только «1.» — возможно, 2-е значение (ср. КБРС 'менять деньги') склеено с примерами."},
+  {"nid": "g1057", "entries": [
+    {"entry_id": "e_33266", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33267", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33268", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "ууахты1 'время, момент' = УУАХТЫ¹; ууахты2 'судьба' и ууахты3 'смерть' у Гузеева — значения 1 и 2 одного УУАХТЫ² (примеры совпадают), объединить.",
+   "parse_issue": "УУАХТЫ² 1.: в текст определения попал пример «*[Эфенди:] Жамауат, … хайыр жокъду!»."},
+  {"nid": "g1058", "entries": [
+    {"entry_id": "e_33278", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33279", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33280", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "уула1 'охотиться' = УУЛА¹, уула2 'отравлять' = УУЛА²; уула3 'налаживать (косу)' у Гузеева нет.",
+   "parse_issue": ""},
+  {"nid": "g1062", "entries": [
+    {"entry_id": "e_33413", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33414", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1063", "entries": [
+    {"entry_id": "e_33419", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33420", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1068", "entries": [
+    {"entry_id": "e_33442", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2,3→2", "def1_split": "1),3)→1; 2)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш ушат: 1 'понуд. от уша' и КБРС 3) 'принять одного за другого' = УШАТ¹; 2 'одобрять' и 3 'выбрать по нраву' = УШАТ² 'считать правильным, одобрять'; разделить.",
+   "parse_issue": ""},
+  {"nid": "g1071", "entries": [
+    {"entry_id": "e_33598", "g": [1, 2], "role": "covers_several", "def2_split": "все→1", "def1_split": "1.→1; 2.→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш факъыр (прил.) = ФАКЪЫР¹; значение КБРС 2. 'бедняк, нищий' = ФАКЪЫР² ат.; разделить.",
+   "parse_issue": ""},
+  {"nid": "g1072", "entries": [
+    {"entry_id": "e_33656", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "high",
+   "note_ru": "фасыкъ (прил.) = ФАСЫКЪ¹; ФАСЫКЪ² (сущ. 'подлый, бесчестный человек') у нас отдельным значением не дан, хотя примеры ТСКБЯ («фасыкълагъа», «аллай фасыкъла») субстантивные.",
+   "parse_issue": ""},
+  {"nid": "g1075", "entries": [
+    {"entry_id": "e_33962", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33963", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33964", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "ха1 (частица) = ХА¹, ха2 (возглас, которым гонят корову) = ХА²; ха3 'ха-ха-ха!' (только КБРС) у Гузеева нет.",
+   "parse_issue": ""},
+  {"nid": "g1076", "entries": [
+    {"entry_id": "e_33980", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_33981", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1080", "entries": [
+    {"entry_id": "e_34091", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34092", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34093", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "хайырсыз1 (прил.) = ХАЙЫРСЫЗ¹, хайырсыз2 (нареч.) = ХАЙЫРСЫЗ². Модального хайырсыз3 (ТСКБЯ 'выражает недовольство', пример «Дауум, хайырсыз, …») у Гузеева нет — это то же бранное обращение, что в ХАЙЫРСЫЗ¹ 2 («Хайырсызла, …»); слить с хайырсыз1.",
+   "parse_issue": ""},
+  {"nid": "g1081", "entries": [
+    {"entry_id": "e_34110", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34111", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34112", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34113", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "хакъ1 = ХАКЪ¹ сыф. (ТСКБЯ 2 «Керти. Хакъ дуния. Хакъ жашау» совпадает дословно), хакъ3 'плата за труд' = ХАКЪ²; хакъ2 'право' и хакъ4 'доля' у Гузеева нет.",
+   "parse_issue": ""},
+  {"nid": "g1084", "entries": [
+    {"entry_id": "e_34125", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34126", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1087", "entries": [
+    {"entry_id": "e_34205", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34206", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1088", "entries": [
+    {"entry_id": "e_34231", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34232", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1089", "entries": [
+    {"entry_id": "e_34234", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34235", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "хапарчы1 'рассказчик; вестник; корреспондент' = ХАПАРЧЫ¹; хапарчы2 'сказуемое' (грамм.) в распознанном тексте Гузеева нет.",
+   "parse_issue": "В гнезде распознан только один омоним (ХАПАРЧЫ¹) — возможно, ХАПАРЧЫ² потерян при разборе; проверить по книге."},
+  {"nid": "g1090", "entries": [
+    {"entry_id": "e_34241", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34242", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1091", "entries": [
+    {"entry_id": "e_34247", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_34248", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high", "note_ru": "1:1", "parse_issue": ""},
+  {"nid": "g1092", "entries": [
+    {"entry_id": "e_34285", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "medium",
+   "note_ru": "харф 'буква' = ХАРФ¹ (КБРС «то же, что хариф» — по-видимому, вариант того же слова); ХАРФ² сыф. ц. диал. 'щедрый' (= чомарт) у нас нет.",
+   "parse_issue": ""}
+]}

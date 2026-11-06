@@ -1,0 +1,939 @@
+{
+ "batch": "u09",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0545",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_15897",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_15898",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0547",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_15920",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_15921",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1-5→2; 6-7→3",
+     "def1_split": "all→2 (КБРС 2) «что» = «къалай этейим? что мне делать?», «былай этсем къалай болур? что будет…» — вопросительное КЪАЛАЙ² 1, не частица; 3) «как; какой» = КЪАЛАЙ² 5 и 3)"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "g верны, ошибка в def1_split: КБРС 2) «что» иллюстрируется примерами «къалай этейим? что мне делать?», «былай этсем къалай болур? что будет, если я так сделаю?» — это вопросительное КЪАЛАЙ² 1 (у Гузеева пример «Къалай этейик?»), а не частица-переспрос КЪАЛАЙ³. Весь КБРС → 2, КЪАЛАЙ³ даёт только ТСКБЯ 6–7.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0548",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16055",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16056",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "в определение КЪАЛТЫРАУУКЪ¹ зн. 2 попало начало примера «*[Азрет Камалгъа:] Нек бармай эдим, барлыкъма!»"
+  },
+  {
+   "nid": "g0549",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16063",
+     "g": [
+      4
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16064",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16065",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16066",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0550",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16083",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16084",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1,3,4→2; 2→3",
+     "def1_split": "1)-3)→2; 4)→3"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0553",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_16211",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_16212",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16213",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16214",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "къандагъай4 (КБРС «то же, что клапа») — не фрагмент: «клапа» — слово КБРС со значением «клоп» (статья e_14750 «клапа клоп || клопиный»), значит это КБРС-половина КЪАНДАГЪАЙ¹ «клоп»; вместе с ТСКБЯ къандагъай1 — part_of [1]. misc1 этой записи — хвост соседних статей (къандес, къандис «дужка»), к КЪАНДАГЪАЙ не относится.",
+   "parse_issue": "КБРС: в misc1 e_16214 склеены соседние статьи «къандес балк. то же, что къайдес» и «къандис карач. то же, что къайдес; ~ оюн игра в дужку курицы» (тильда раскрыта как «къандагъай»)."
+  },
+  {
+   "nid": "g0555",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16271",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_16272",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16273",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0556",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16288",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16289",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0557",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16293",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "1.→1; 2.→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0571",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16713",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16714",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16715",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16716",
+     "g": [
+      4
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "КЪАТ¹ знач. 1 напечатано с двойным номером «1. 1.»; в КЪАТ² знач. 1 пример «Жерни юч къатысы» приклеен к определению."
+  },
+  {
+   "nid": "g0575",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16758",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0577",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16799",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16800",
+     "g": [
+      4
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16801",
+     "g": [
+      5
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16802",
+     "g": [
+      6
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16803",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16804",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_16805",
+     "g": [
+      7
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0578",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16877",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0581",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_16965",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "2)→2"
+    },
+    {
+     "entry_id": "e_16966",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "before ||→2; after ||→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0583",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_17125",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17126",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1-14,16→2; 15→3",
+     "def1_split": "«пусть; дай[те]» с примерами «кетме къой», «ишлемеге къой», «къой кетсин!»→3; примеры «айт да къой!», «джашыр да къой!» (вспомогательный глагол после да, = ТСКБЯ 16)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "g верны, но разбиение неверно: в ТСКБЯ 16 значений (в выдаче обрезано на 11), и ТСКБЯ 15 «в повелительной форме — несогласие, требование прекратить разговор» («Къой, болмагъан затны айтма!», «Къой, энди былай мудах болма») — это частица КЪОЙ³ 2 («Къой энди»), а не глагол. КБРС «айт да къой!», «джашыр да къой!» — вспомогательный глагол (ТСКБЯ 16), их к КЪОЙ².",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0592",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17391",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17392",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17393",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "all→1"
+    },
+    {
+     "entry_id": "e_17394",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": "КЪОШ³ знач. 4: цитаты-примеры (Т.А., Т.Ж.) попали в определение."
+  },
+  {
+   "nid": "g0600",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17624",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1)→1; 2)-4)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "КЪУРАЛ¹: пример «Ишге къурал» приклеен к определению."
+  },
+  {
+   "nid": "g0602",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17646",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17647",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17648",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0603",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17673",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1-9→1",
+     "def1_split": "1),2) before ||,3)-5)→1; 2) after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0605",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_17727",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17728",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17729",
+     "g": [
+      3
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17730",
+     "g": [
+      4
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17731",
+     "g": [
+      5
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17732",
+     "g": [
+      6
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_17733",
+     "g": [],
+     "role": "other_word"
+    },
+    {
+     "entry_id": "e_19060",
+     "g": [
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "role": "covers_several",
+     "def1_split": "1.1)-2)→3; 1.3)→2; 2.1)→6; 2.2)→4; подстатья «къуру да (или хар къуру) всегда, постоянно» с примером «мен ишге къуру да былайтын джюрюйме» и посл. «къуру да мараучуну джолу болуб бармайды», «къуру да сюйгенингча болуб бармайды»→5"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "В КБРС-статье къуру8 есть подстатья «къуру да (или хар къуру) всегда, постоянно» с примером и двумя пословицами — это КЪУРУ⁵ сёзл. «хар заманда, дайым» (у Гузеева пример «Хар зат да къуру сюйгенингча болуп барса…» = КБРС «къуру да сюйгенингча болуб бармайды»). Поэтому къуру8 = [2,3,4,5,6], а къуру1, 3–6 делят свои омонимы с ним (part_of).",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0606",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17740",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→1; 3→3",
+     "def1_split": "1)→1; 2) вхолостую→1; 2) всухомятку→2; 3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0607",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17760",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,4→1; 5→2",
+     "def1_split": "1)→1; 2)→2"
+    },
+    {
+     "entry_id": "e_17761",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0609",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17842",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17843",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17844",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0610",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17881",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17882",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17883",
+     "g": [],
+     "role": "fragment"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0613",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_17929",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_17930",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17931",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17932",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17933",
+     "g": [
+      4
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_17934",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0618",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18063",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2→2",
+     "def1_split": "1.1)-3)→2 (кроме '|| дуплистый, полый'→1); 2.→1"
+    },
+    {
+     "entry_id": "e_18064",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18065",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_18066",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0619",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18101",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18102",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18103",
+     "g": [],
+     "role": "fragment"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0622",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_18307",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_18308",
+     "g": [
+      3
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_18309",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18310",
+     "g": [
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "all→2",
+     "def1_split": "1)-4)→2; КБРС фразеологизм «къызыуу бла а) по горячим следам; б) под шумок»→3"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "В misc1 наречия къызыу4 (одна КБРС-статья «къызыу» разрезана на 4 записи) стоит «къызыуу бла а) по горячим следам; б) под шумок» — форма существительного с притяжательным -у («в его разгар»), т.е. КЪЫЗЫУ³ ат. 3 (у Гузеева «Къызыуунда этилип къалмагъан иш…»), а не наречие. Отсюда къызыу4 = [2,3], къызыу2 — part_of [3]; остальное (в т.ч. къызыу1 not_in_guzeev) верно.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0624",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18430",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18431",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18432",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0626",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18457",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2 (субстантивные примеры ТСКБЯ 1→1); 2,3→2",
+     "def1_split": "1) before ||→1; 1) after ||→2; 2)→2; 3) before ||→1; 3) after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": "«same as: къыйын» относится только к значению 2 КЪЫЙЫНЛЫ² («Къыйын деген бла бир магъанадады»), а не ко всему омониму."
+  }
+ ]
+}

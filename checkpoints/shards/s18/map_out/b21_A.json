@@ -1,0 +1,208 @@
+{"batch": "b21", "mapper": "A", "nests": [
+  {"nid": "g0960", "entries": [],
+   "g_missing": [1, 2], "confidence": "high",
+   "note_ru": "Слова тийишсиз у нас нет: оба омонима Гузеева (ТИЙИШСИЗ¹ сыф., ТИЙИШСИЗ² сёзл.) отсутствуют.",
+   "parse_issue": ""},
+
+  {"nid": "g0961", "entries": [
+     {"entry_id": "e_30243", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30244", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30245", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30246", "g": [4], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30247", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок иной: наш тик1 (сущ. 'круча, склон') = ТИК², тик2 (прил. 'крутой; грубый') = ТИК¹, тик3 и тик4 совпадают. тик5 (только КБРС, 'выиграть, победить в игре') у Гузеева нет.",
+   "parse_issue": "ТИК⁴ 2: толкование оборвано на «д.а.к.», его продолжение («башха затны юсюне … накъыш сал, омакъ эт») ушло в примеры."},
+
+  {"nid": "g0963", "entries": [
+     {"entry_id": "e_30325", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1; 3→2", "def1_split": "1)→1; 2)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тиллен = ТИЛЛЕН¹ 'заговорить, начать говорить' (ТСКБЯ 1–2) + ТИЛЛЕН² 'сговориться' (ТСКБЯ 3); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0964", "entries": [
+     {"entry_id": "e_30390", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30391", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок обратный: наш тираж1 (тираж займа, лотереи) = ТИРАЖ², тираж2 (число экземпляров) = ТИРАЖ¹.",
+   "parse_issue": ""},
+
+  {"nid": "g0966", "entries": [
+     {"entry_id": "e_30503", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30504", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30505", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0967", "entries": [
+     {"entry_id": "e_30532", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30533", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0968", "entries": [
+     {"entry_id": "e_30552", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30553", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0969", "entries": [
+     {"entry_id": "e_30568", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30569", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30570", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "У ТОБА¹ и ТОБА² нет пометы ат. (при ТОБА³ межд.) — возможно, не распознана."},
+
+  {"nid": "g0971", "entries": [
+     {"entry_id": "e_30620", "g": [1, 2], "role": "covers_several", "def2_split": "1,3→2; 2→1", "def1_split": "1), 2) до ||, 3), 4)→2; после || в 1), 2) («кольцевой», «круглый, округлый»)→1"},
+     {"entry_id": "e_30621", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30622", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тогъай1 = ТОГЪАЙ² 'кольцо, обруч' + «в позиции определения: кольцеобразный» = ТОГЪАЙ¹ сыф.; разделить. Наречия тогъай2 'вкруговую' у Гузеева нет; тогъай3 (только КБРС, 'насыщаться') = ТОГЪАЙ³.",
+   "parse_issue": ""},
+
+  {"nid": "g0972", "entries": [
+     {"entry_id": "e_30672", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30673", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "У ТОЗ¹ помета «ат къарач.» (без точки), у ТОЗ² нет пометы эт. — вероятно, не распознана."},
+
+  {"nid": "g0973", "entries": [
+     {"entry_id": "e_30699", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30700", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30701", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "той1 = ТОЙ¹. той2 (ТСКБЯ) и той3 (только КБРС: 'насыщаться; богатеть') — один глагол ТОЙ²; той3 дублирует той2, его 'богатеть' = ТОЙ² зн. 3.",
+   "parse_issue": "«same as: къан2» относится только к зн. 2 ТОЙ², а не ко всему омониму."},
+
+  {"nid": "g0975", "entries": [
+     {"entry_id": "e_30742", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30743", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0977", "entries": [
+     {"entry_id": "e_30838", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30839", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0978", "entries": [
+     {"entry_id": "e_30897", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2→2", "def1_split": "1)→1; 2)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тона = ТОНА¹ 'грабить' (зн. 1) + ТОНА² къарач. 'разбирать (оружие, мотор)' (зн. 2); разделить.",
+   "parse_issue": "ТОНА¹ 1: «…урла. зор бла, кюч бла алып кет…» — похоже на склейку двух толкований."},
+
+  {"nid": "g0979", "entries": [
+     {"entry_id": "e_30916", "g": [1, 2], "role": "covers_several", "def2_split": "1,3→1; 2→2", "def1_split": "1)→2; 2) а), б)→1"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тонгкъай = ТОНГКЪАЙ¹ 'кончаться; умереть' (ТСКБЯ 1, 3) + ТОНГКЪАЙ² 'опрокидываться, падать' (ТСКБЯ 2); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0980", "entries": [
+     {"entry_id": "e_30563", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30564", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30565", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30566", "g": [4], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_30567", "g": [5], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "1:1 по порядку. Толкование «топ окъ 'снаряд'» дано подстатьёй (//) в тоb1, а у Гузеева это ТОП², которому соответствует наш тоb2 (там лишь отсылка и примеры); NB: заголовок у нас «тоb» с латинской b.",
+   "parse_issue": ""},
+
+  {"nid": "g0981", "entries": [
+     {"entry_id": "e_30966", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1; 3,4→2", "def1_split": "1),2)→2; 3),4)→1; 5) 'клубок' — нет у Гузеева"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш топал = ТОПАЛ¹ 'круглый, тупоконечный; низкий и полный' (ТСКБЯ 1–2) + ТОПАЛ² къарач. 'хромой, калека; неумеха' (ТСКБЯ 3–4); разделить. КБРС 5) 'клубок' у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0982", "entries": [
+     {"entry_id": "e_31051", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2→2", "def1_split": "1.→1; 2.→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тот = ТОТ¹ 'ржавчина' + «в позиции определения: ржавый» = ТОТ² сыф.; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0983", "entries": [
+     {"entry_id": "e_31072", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_31073", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "У ТОХТА¹ нет зн. 7 (после 6 сразу 8 — вероятно, склеено с 6); помета «къарам. с.» отнесена к зн. 1 ТОХТА², хотя это помета части речи всего омонима."},
+
+  {"nid": "g0984", "entries": [
+     {"entry_id": "e_31099", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_31100", "g": [1, 2], "role": "covers_several", "def2_split": "1,2,4→1; 3,5,6→2", "def1_split": "2),3)→2"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "тохташ2 делится: ТСКБЯ 1, 2, 4 ('утихать, остановиться где-л.') = ТОХТАШ¹, 3, 5, 6 ('установиться, утвердиться, прийти к решению'; КБРС 2–3) = ТОХТАШ². тохташ1 (взаимн. от тохта, 'остановиться вместе') по смыслу входит в ТОХТАШ¹ 1.",
+   "parse_issue": ""},
+
+  {"nid": "g0985", "entries": [
+     {"entry_id": "e_31109", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_31110", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок обратный: наш точка1 (знак препинания) = ТОЧКА², точка2 (место, пункт) = ТОЧКА¹.",
+   "parse_issue": ""},
+
+  {"nid": "g0986", "entries": [
+     {"entry_id": "e_31148", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_31149", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1; зн. 2) КБРС у трам1 'название породы лошадей' у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0987", "entries": [
+     {"entry_id": "e_31239", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тугул = ТУГУЛ² 'ком, комок' (зн. 1) + «в позиции определения: круглый, полный» = ТУГУЛ¹ сыф. (зн. 2); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0988", "entries": [
+     {"entry_id": "e_31246", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_31247", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0989", "entries": [
+     {"entry_id": "e_31281", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "high",
+   "note_ru": "Наш тузсуз-мыстысыз (прил.) = ТУЗСУЗ-МЫСТЫСЫЗ¹; наречия ТУЗСУЗ-МЫСТЫСЫЗ² 'говоря бессмыслицу' у нас нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0990", "entries": [
+     {"entry_id": "e_31290", "g": [1, 2], "role": "covers_several", "def2_split": "1,2,3,4→1; 5→2", "def1_split": "1),2),3)→1; 4)→2; 5) 'странный' — нет у Гузеева"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш тукъум = ТУКЪУМ¹ 'род, фамилия, порода' (ТСКБЯ 1–4) + ТУКЪУМ² сонг. 'вид, тип' («ол тукъум затла», ТСКБЯ 5); разделить. КБРС 5) 'странный' у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0991", "entries": [
+     {"entry_id": "e_31306", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [1], "confidence": "medium",
+   "note_ru": "Наш тул (сущ. 'вдовец, вдова') = ТУЛ²; прилагательного ТУЛ¹ 'овдовевший' отдельным значением у нас нет (только пример «тул Шамханий» и фразеологизм «тул бол (къал)»). КБРС 2) 'разведённый' у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0993", "entries": [
+     {"entry_id": "e_31324", "g": [1, 2], "role": "covers_several", "def2_split": "1,3,4,5→1; 2,6,7→2", "def1_split": "1),2),3)→2"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "Наш тумала = ТУМАЛА¹ 'покрывать; утопить; овладевать' (ТСКБЯ 1, 3, 4, 5) + ТУМАЛА² къарач. 'колотить; заканчивать' (ТСКБЯ 6, 7, весь КБРС); разделить. ТСКБЯ 2 къарач. 'уничтожать, убивать' отнесено к ТУМАЛА² предположительно.",
+   "parse_issue": "ТУМАЛА² 2: пример «Ишни тумаларгъа» не отделён от толкования."},
+
+  {"nid": "g0994", "entries": [
+     {"entry_id": "e_31326", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "medium",
+   "note_ru": "Наш тумалан = ТУМАЛАН¹ (ТСКБЯ 1 'страд. от тумала' — по примерам 'скрыться, погрузиться'; 2 'умереть'); ТУМАЛАН² къарач. 'свалиться наземь' у нас нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0995", "entries": [
+     {"entry_id": "e_31351", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_31352", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "У ТУНАКЫ¹ нет пометы сыф. (при ТУНАКЫ² сёзл.) — вероятно, не распознана."}
+]}

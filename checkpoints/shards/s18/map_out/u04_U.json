@@ -1,0 +1,922 @@
+{
+ "batch": "u04",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0095",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_03696",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2 (только в ТСКБЯ KB: къарач. заман. = артда 1)→2",
+     "def1_split": "1)→2; 2),3)→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0098",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_03749",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→1 (пример ТСКБЯ о дочери/сестре→2)",
+     "def1_split": "4)→1; 3) «насилие»→1, «надругательство»→2"
+    },
+    {
+     "entry_id": "e_03750",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_03751",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0099",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_03795",
+     "g": [
+      2,
+      4
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→2",
+     "def1_split": "1. 1) туда; на ту сторону 2) дальше и почти все КБРС-примеры (в т.ч. пространственные «андан ары», «былайдан ары», «элден ары», «мындан ары а) с того места; далее»)→2; временное «мындан ары … б) в дальнейшем; впредь» и пример «мындан ары сакъ бол — в дальнейшем будь осторожен»→4"
+    },
+    {
+     "entry_id": "e_03796",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_03797",
+     "g": [
+      3,
+      4
+     ],
+     "role": "covers_several",
+     "def2_split": "«Раз... то»→3; «с, начиная с»→4",
+     "def1_split": "«-дан (-ден) раз уж, поскольку» и пример «ишлегенден ары иги ишле»→3; пример «бюгюнден ары — с сегодняшнего дня»→4; «частица -ка» («бисмилла эт ары», «терезени ары ач», «ары къара») — такого омонима у Гузеева нет, оставить при 3"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "АРЫ⁴ (сонг., временное «начиная с, впредь») есть не только в ары3: в КБРС-примерах наречия ары1 стоят «мындан ары … б) в дальнейшем; впредь» и «мындан ары сакъ бол — в дальнейшем будь осторожен». Это временное ары после исходного падежа (у Гузеева пространственное «элден ары» — АРЫ², временное — АРЫ⁴), поэтому ары1 = АРЫ² + часть АРЫ⁴ и его тоже нужно разделить; остальное в согласованном чтении верно.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0101",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_03803",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_03804",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0102",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_03895",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_03896",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "всё→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0105",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_03996",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3→1; 4 (только в ТСКБЯ KB: кёч. къ. басдыр)→2",
+     "def1_split": "1)-3)→1; 4)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0107",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04032",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04033",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04034",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04035",
+     "g": [
+      4,
+      5
+     ],
+     "role": "covers_several",
+     "def2_split": "3→5; 1,2,4–12…→4"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0114",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04230",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2,4→2; 3 (катаракта) — нет у Гузеева",
+     "def1_split": "II.2)→1; II.1)→2; I. (паутина, сеть) и III. (бельмо, пелена) — нет у Гузеева"
+    },
+    {
+     "entry_id": "e_04231",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04232",
+     "g": [
+      4
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_04233",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04235",
+     "g": [
+      4
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "АУ¹ «2.» — это пример (Ш.М.), а не отдельное значение."
+  },
+  {
+   "nid": "g0115",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04239",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→1",
+     "def1_split": "1)-2)→1; 3)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0117",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04278",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2,3,4→2",
+     "def1_split": "1)-3)→2; 4)→1"
+    },
+    {
+     "entry_id": "e_04279",
+     "g": [],
+     "role": "other_word"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0120",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04404",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04405",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04406",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04407",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0124",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04535",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04536",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04537",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0125",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_04547",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_04548",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→2",
+     "def1_split": "«2. голодный» и почти все КБРС-примеры→2; пословица «ач уят къоймаз — голод лишает совести» (здесь ач — сущ. «голод»; это пример Гузеева к АЧ¹)→1; наречные «ач келгенни тойдур, кеч келгенни къондур» (дословно пример Гузеева к АЧ³), «ач къалгъандан кеч къалгъан къолай» и «ач къалыу — недоедание»→3"
+    },
+    {
+     "entry_id": "e_04549",
+     "g": [
+      4
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "АЧ³ сёзл. в корпусе есть, его нельзя ставить в g_missing: среди КБРС-примеров ач2 стоят «ач келгенни тойдур, кеч келгенни къондур — пришедшего голодным накорми» (это пример самого Гузеева к АЧ³) и наречное «ач къал-» («ач къалыу», «ач къалгъандан кеч къалгъан къолай»). Там же пословица «ач уят къоймаз — голод лишает совести» (пример Гузеева к АЧ¹, сущ.), поэтому ач2 = АЧ² + части АЧ¹ и АЧ³, а ач1 становится part_of АЧ¹.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0126",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_04588",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04589",
+     "g": [
+      1,
+      2,
+      3
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→1",
+     "def1_split": "1. 1)–6), 2. «горечь» и почти все КБРС-примеры→1; наречные «ачы джыларгъа — плакать горючими слезами» и «башымы бир ачы урдум — я сильно ударился головой»→2; «сют ачыды — молоко скисло» (дословно пример Гузеева к глаголу АЧЫ³)→3"
+    },
+    {
+     "entry_id": "e_04590",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_04591",
+     "g": [
+      3
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_04592",
+     "g": [
+      4
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "Среди КБРС-примеров прилагательного ачы2 есть наречные употребления АЧЫ² («ачы джыларгъа — плакать горючими слезами», «башымы бир ачы урдум — сильно ударился головой», ср. у Гузеева «Башым… бир ачы чанчады») и глагольный пример АЧЫ³ «сют ачыды — молоко скисло» (дословно пример Гузеева к АЧЫ³). Значит, ачы2 нужно разделить, а ачы3 и ачы4 становятся part_of АЧЫ² и АЧЫ³.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0127",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04597",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04598",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04599",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0128",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_04659",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "всё→1",
+     "def1_split": "«гнев, злоба, злость» и все КБРС-примеры→1, кроме «джашауну ачыуу — жизненные перипетии, горести жизни»→2"
+    },
+    {
+     "entry_id": "e_04660",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04661",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04662",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04663",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "Среди КБРС-примеров ачыу1 «гнев» есть пример значения АЧЫУ² «горе, печаль»: «джашауну ачыуу — жизненные перипетии, горести жизни». Его нужно отнести к АЧЫУ² вместе с ачыу5, т.е. ачыу1 = АЧЫУ¹ + часть АЧЫУ², а ачыу5 становится part_of.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0135",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04816",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04817",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04818",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04819",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04820",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0136",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04876",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04877",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_04878",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0140",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_04989",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_04990",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0143",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05087",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05088",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05089",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0145",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05113",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": "БАЗЫКЪ² пронумеровано «1.», но других значений нет — возможно, часть текста потеряна при разборе."
+  },
+  {
+   "nid": "g0148",
+   "verdict": "ok",
+   "entries": [],
+   "g_missing": [
+    1,
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0152",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05189",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_05190",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05191",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0154",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05263",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05264",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05265",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0156",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_05372",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_05373",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_05374",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05375",
+     "g": [
+      4
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_05376",
+     "g": [
+      5
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05377",
+     "g": [
+      2,
+      4
+     ],
+     "role": "covers_several",
+     "def1_split": "1. «барды есть, имеется, существует» и 2. прил. «имеющийся; существующий; богатый» (прилагательного у Гузеева нет) со всеми их примерами→4; примеры «бар кючюн салгъанды ол окъургъа — все силы отдал он учёбе» (дословно пример Гузеева к БАР²) и «бар акъылы чачылыб — вне себя»→2"
+    },
+    {
+     "entry_id": "e_05378",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "В КБРС-примерах бар6 есть местоимение БАР² «весь, всё»: «бар кючюн салгъанды ол окъургъа — все силы отдал он учёбе» (дословно пример Гузеева к БАР²) и «бар акъылы чачылыб — вне себя». Поэтому бар6 = БАР⁴ + часть БАР², его нужно разделить, а бар2 становится part_of БАР²; остальное (бар1+бар7 = БАР¹, бар4+бар6 = БАР⁴) верно.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0159",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05475",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    1
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0161",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05520",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05521",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05522",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0162",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05523",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05524",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05525",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0163",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05528",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05529",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05530",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0164",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_05592",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_05593",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

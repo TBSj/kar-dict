@@ -1,0 +1,73 @@
+{
+ "page": 42,
+ "articles_compared": 18,
+ "diffs_total": 2,
+ "decisions": [
+  {
+   "sid": 101013,
+   "head": "акъ",
+   "kind": "kb_word",
+   "confidence": "high",
+   "pass1": "бышлакъ хычин пирог с начинкой из сыра",
+   "pass2": "бышлакъ хычын пирог с начинкой из сыра",
+   "final": "бышлакъ хычын пирог с начинкой из сыра",
+   "evidence": "акъ I, right column (x~0.59-0.65, y~0.30). At zoom 8 the word is х-ы-ч-ы-н: the 4th letter has the bowl + separate stem of ы, identical to the 2nd letter, not the bold и/н shape. КБРС itself spells the word хычын: headword хычын «хычин (пирог)» and the same riddle answer «бышлакъ хычын пирог с сыром» under къая, къырау, къырпакъ (06_lextagged def1/misc1); ТСКБЯ also хычын. «хычин» is only the Russian rendering used in translations. Pass 1 normalised it."
+  },
+  {
+   "sid": 101018,
+   "head": "акъгъан-букъгъан",
+   "kind": "ru_word",
+   "confidence": "high",
+   "pass1": "усушка, утруска, потёри",
+   "pass2": "усушка, утруска, потери[?]",
+   "final": "усушка, утруска, потери",
+   "evidence": "Last line of the right column (y~0.906). Printed «поте́ри»: the mark over е is a single slanted acute stress stroke (one 7x7 px blob at native resolution), not the two dots of ё. The final letter is clipped by the scan, whose right edge is cut at x=0.903 from y~0.42 down, but its left stem and the start of the rising diagonal of и are visible. The word fills the line to the margin, the column ends here, and p. 43 begins with a new article (акъджал), so nothing follows. This also settles the earlier doubt on потёри."
+  },
+  {
+   "sid": 101013,
+   "head": "акъ",
+   "kind": "kb_word",
+   "confidence": "high",
+   "pass1": "~ инъиллик[?] белила (косметические)",
+   "pass2": "~ инъиллик[?] белила (косметические)",
+   "final": "~ инъиллик белила (косметические)",
+   "evidence": "Re-checked doubt (left column, y~0.758). At zoom 8 the glyphs read «ннънллнк»: bold и/н are identical, while ъ, лл and к are clear. The only real word with this shape is инъиллик «румяна», so акъ инъиллик means white face paint = белила (косметические). Confirmed by КБРС p. 228 (s17 OCR, both passes), джапхакъсыз: «бу ~ бетине инъиллик салады эта дурнушка [ещё] румянит лицо»; by the Russian-KB dictionary (sources/5): «румяна — ингиллик, ингилик», «подкраситься — ... ингилик джагъаргъа» (нг = нъ); and by Nevruz KB-Turkish 1991 (local/sources_survey/text/01.txt): «İŋillik allık, kızıllık». It is not a headword in 06_lextagged."
+  },
+  {
+   "sid": 101013,
+   "head": "акъ",
+   "kind": "punct",
+   "confidence": "high",
+   "pass1": "бетине[?] агъы бла къызылы тёгюлген",
+   "pass2": "бетине агъы бла къызылы тёгюлген",
+   "final": "бетине агъы бла къызылы тёгюлген",
+   "evidence": "Re-checked doubt (right column, y~0.554). The dot after бетине is a speck, not a printed period. At native scan resolution it is a 3x4 px blob (11 px), while bold periods on this page measure 6x6 px (22-30 px) and regular or italic ones 4-5 px (14-18 px). It also takes no width: the space е→агъы is 29 px, the same as the other word spaces in this justified line (28-30 px), so no character was set there. A period in the middle of the phrase would also make no sense."
+  },
+  {
+   "sid": 101017,
+   "head": "акъгъан",
+   "kind": "punct",
+   "confidence": "medium",
+   "pass1": "агъаргъа текущий;[?] тенъизге ~ текущая",
+   "pass2": "агъаргъа текущий;[?] тенъизге ~ текущая",
+   "final": "агъаргъа текущий; тенъизге ~ текущая",
+   "evidence": "Re-checked doubt; the mark is not on the scan. From y~0.42 down, the right edge of the right column is cut at x=0.903: every line's rightmost ink stops at the same pixel column, and «виноват» and «потери» lose letters. «текущий» ends 5-6 px before the cut. In this font «;» follows a word after a ~5 px gap and is ~5 px wide (measured on «бледный;» in акъбет), so a printed «;» would lie entirely in the lost strip. Without it, this justified line would end ~6 px short of the margin that «виноват» and «потери» reach (~0.906). The book's pattern «translation; example» needs «;». Reconstructed, not seen."
+  },
+  {
+   "sid": 101017,
+   "head": "акъгъан",
+   "kind": "punct",
+   "confidence": "medium",
+   "pass1": "имеющий течь;[?] ~ челек дырявое ведро",
+   "pass2": "имеющий течь;[?] ~ челек дырявое ведро",
+   "final": "имеющий течь; ~ челек дырявое ведро",
+   "evidence": "Re-checked doubt; same situation as «текущий;». «течь» ends 2 px before the scan cut at x=0.903, so a «;» (after its ~5 px gap) would fall wholly in the lost strip. Nothing is visible. The «translation; example» pattern of the book requires «;». Reconstructed, not seen."
+  }
+ ],
+ "unresolved": [],
+ "clear_uncertain": [
+  101013,
+  101018
+ ],
+ "notes": "18 articles (101001-101018); the passes differ in 2 places (хычин/хычын, потёри/потери), both decided from the image with high confidence. Doubts: инъиллик is confirmed by 3 dictionaries and the dot after бетине is a speck. The «;» after текущий and течь fall in a strip the scan lost at its right edge (x=0.903); they are reconstructed with medium confidence, so 101017 stays uncertain."
+}

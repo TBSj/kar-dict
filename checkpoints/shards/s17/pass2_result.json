@@ -1,0 +1,1423 @@
+{
+ "pages": [
+  {
+   "page": 42,
+   "articles_compared": 18,
+   "diffs_total": 2,
+   "accepted": [
+    {
+     "sid": 101013,
+     "head": "акъ",
+     "kind": "kb_word",
+     "confidence": "high",
+     "pass1": "бышлакъ хычин пирог с начинкой из сыра",
+     "pass2": "бышлакъ хычын пирог с начинкой из сыра",
+     "final": "бышлакъ хычын пирог с начинкой из сыра",
+     "evidence": "акъ I, right column (x~0.59-0.65, y~0.30). At zoom 8 the word is х-ы-ч-ы-н: the 4th letter has the bowl + separate stem of ы, identical to the 2nd letter, not the bold и/н shape. КБРС itself spells the word хычын: headword хычын «хычин (пирог)» and the same riddle answer «бышлакъ хычын пирог с сыром» under къая, къырау, къырпакъ (06_lextagged def1/misc1); ТСКБЯ also хычын. «хычин» is only the Russian rendering used in translations. Pass 1 normalised it.",
+     "verifier": {
+      "id": "42-0",
+      "pick": "бышлакъ хычын пирог с начинкой из сыра",
+      "confidence": "high",
+      "note": "Checked the bold word at zoom 16 and at native pixels. It is х-ы-ч-ы-н: both vowels are ы (a ь-bowl plus a separate stem) and the last letter is н with a horizontal bar. This is the book's misprint and is kept as printed. The regular-font 'начинкой' looks like 'иачиикой' in the scan, but this font's н looks like и all over the page, and both options agree on that word."
+     }
+    },
+    {
+     "sid": 101018,
+     "head": "акъгъан-букъгъан",
+     "kind": "ru_word",
+     "confidence": "high",
+     "pass1": "усушка, утруска, потёри",
+     "pass2": "усушка, утруска, потери[?]",
+     "final": "усушка, утруска, потери",
+     "evidence": "Last line of the right column (y~0.906). Printed «поте́ри»: the mark over е is a single slanted acute stress stroke (one 7x7 px blob at native resolution), not the two dots of ё. The final letter is clipped by the scan, whose right edge is cut at x=0.903 from y~0.42 down, but its left stem and the start of the rising diagonal of и are visible. The word fills the line to the margin, the column ends here, and p. 43 begins with a new article (акъджал), so nothing follows. This also settles the earlier doubt on потёри.",
+     "verifier": {
+      "id": "42-1",
+      "pick": "усушка, утруска, потери",
+      "confidence": "high",
+      "note": "The mark over е in 'потери' is a single slanted acute stroke (a stress mark), not the two dots of ё. The final и is clipped by the scan's cropped right edge: only its stem and the start of the rising diagonal show."
+     }
+    },
+    {
+     "sid": 101013,
+     "head": "акъ",
+     "kind": "kb_word",
+     "confidence": "high",
+     "pass1": "~ инъиллик[?] белила (косметические)",
+     "pass2": "~ инъиллик[?] белила (косметические)",
+     "final": "~ инъиллик белила (косметические)",
+     "evidence": "Re-checked doubt (left column, y~0.758). At zoom 8 the glyphs read «ннънллнк»: bold и/н are identical, while ъ, лл and к are clear. The only real word with this shape is инъиллик «румяна», so акъ инъиллик means white face paint = белила (косметические). Confirmed by КБРС p. 228 (s17 OCR, both passes), джапхакъсыз: «бу ~ бетине инъиллик салады эта дурнушка [ещё] румянит лицо»; by the Russian-KB dictionary (sources/5): «румяна — ингиллик, ингилик», «подкраситься — ... ингилик джагъаргъа» (нг = нъ); and by Nevruz KB-Turkish 1991 (local/sources_survey/text/01.txt): «İŋillik allık, kızıllık». It is not a headword in 06_lextagged.",
+     "verifier": {
+      "id": "42-2",
+      "pick": "~ инъиллик белила (косметические)",
+      "confidence": "high",
+      "note": "Line 'белый саван земли (о снеге); ~ инъиллик', then 'белила (косметические); ~ къолан'. The bold word has 8 glyphs: и/н, и/н, ъ (it has the top-left flag), и/н, л, л, и/н, к. So the double л is printed. The и/н letters were settled by the word."
+     }
+    },
+    {
+     "sid": 101013,
+     "head": "акъ",
+     "kind": "punct",
+     "confidence": "high",
+     "pass1": "бетине[?] агъы бла къызылы тёгюлген",
+     "pass2": "бетине агъы бла къызылы тёгюлген",
+     "final": "бетине агъы бла къызылы тёгюлген",
+     "evidence": "Re-checked doubt (right column, y~0.554). The dot after бетине is a speck, not a printed period. At native scan resolution it is a 3x4 px blob (11 px), while bold periods on this page measure 6x6 px (22-30 px) and regular or italic ones 4-5 px (14-18 px). It also takes no width: the space е→агъы is 29 px, the same as the other word spaces in this justified line (28-30 px), so no character was set there. A period in the middle of the phrase would also make no sense.",
+     "verifier": {
+      "id": "42-3",
+      "pick": "бетине агъы бла къызылы тёгюлген",
+      "confidence": "high",
+      "note": "The text matches, including ё in тёгюлген. There is a tiny dot on the baseline right after 'бетине', but it is not a typeset period. It is 3x4 px, while real periods on this page are 5x6 px. The gap from 'бетине' to 'агъы' is 29 px, the same as the other word spaces on that line (28-30 px), so no room was set for a period. It is a speck."
+     }
+    },
+    {
+     "sid": 101017,
+     "head": "акъгъан",
+     "kind": "punct",
+     "confidence": "medium",
+     "pass1": "агъаргъа текущий;[?] тенъизге ~ текущая",
+     "pass2": "агъаргъа текущий;[?] тенъизге ~ текущая",
+     "final": "агъаргъа текущий; тенъизге ~ текущая",
+     "evidence": "Re-checked doubt; the mark is not on the scan. From y~0.42 down, the right edge of the right column is cut at x=0.903: every line's rightmost ink stops at the same pixel column, and «виноват» and «потери» lose letters. «текущий» ends 5-6 px before the cut. In this font «;» follows a word after a ~5 px gap and is ~5 px wide (measured on «бледный;» in акъбет), so a printed «;» would lie entirely in the lost strip. Without it, this justified line would end ~6 px short of the margin that «виноват» and «потери» reach (~0.906). The book's pattern «translation; example» needs «;». Reconstructed, not seen.",
+     "verifier": {
+      "id": "42-4",
+      "pick": "агъаргъа текущий; тенъизге ~ текущая",
+      "confidence": "medium",
+      "note": "The words match: 'прич. от агъаргъа текущий' and the next line 'тенъизге ~ текущая в море (о реке)'. The semicolon after 'текущий' cannot be seen: the scan is cropped at x≈0.9035, which also cuts the т of 'виноват', the ')' of '(о реке)' and the semicolon of 'смола;'. 'текущий' ends about 6 px before the crop and about 2.5-3 pt short of the justified margin. That is the space a semicolon would take, inside the cropped strip."
+     }
+    },
+    {
+     "sid": 101017,
+     "head": "акъгъан",
+     "kind": "punct",
+     "confidence": "medium",
+     "pass1": "имеющий течь;[?] ~ челек дырявое ведро",
+     "pass2": "имеющий течь;[?] ~ челек дырявое ведро",
+     "final": "имеющий течь; ~ челек дырявое ведро",
+     "evidence": "Re-checked doubt; same situation as «текущий;». «течь» ends 2 px before the scan cut at x=0.903, so a «;» (after its ~5 px gap) would fall wholly in the lost strip. Nothing is visible. The «translation; example» pattern of the book requires «;». Reconstructed, not seen.",
+     "verifier": {
+      "id": "42-5",
+      "pick": "имеющий течь; ~ челек дырявое ведро",
+      "confidence": "medium",
+      "note": "The words match: '2) дырявый, прохудившийся, имеющий течь', then '~ челек дырявое ведро 3) минувший, про-'. Same cropped right edge as 42-4: the ь of 'течь' ends about 3 px before the crop and no semicolon is visible. The line still falls short of the justified margin by about a semicolon's width, and the page sets ';' before an example everywhere else."
+     }
+    }
+   ],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [
+    101013,
+    101018
+   ],
+   "notes": "18 articles (101001-101018); the passes differ in 2 places (хычин/хычын, потёри/потери), both decided from the image with high confidence. Doubts: инъиллик is confirmed by 3 dictionaries and the dot after бетине is a speck. The «;» after текущий and течь fall in a strip the scan lost at its right edge (x=0.903); they are reconstructed with medium confidence, so 101017 stays uncertain. Result also saved to D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p042.json."
+  },
+  {
+   "page": 43,
+   "articles_compared": 55,
+   "diffs_total": 2,
+   "accepted": [
+    {
+     "sid": 101054,
+     "head": "акъсакъал II",
+     "pass1": "~ны къач къанчыгы осенний мешок аксакала",
+     "pass2": "~ны къач къапчыгы[?] осенний мешок аксакала",
+     "final": "~ны къач къанчыгы осенний мешок аксакала",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Скан, правая колонка, x≈0.83–0.95, y≈0.298–0.312 (local/s17_img2/zoom/p043_kanch8.png, p043_kanch16b.png, p043_kanch30b.png, p043_kanch40.png; пиксельная карта в родном разрешении скана ≈242 dpi). Четвёртая буква: две ножки, вверху и внизу узкий просвет, посередине сплошная перекладина в 4 строки пикселей — форма полужирного «н»/«и»; бреве над ней нет. Полужирное «п» устроено иначе: сплошная верхняя планка и открытый просвет до низа без перекладины (с. 44, «палтонну», local/s17_img2/zoom/p044_palto.png). В пиксельной карте эта буква побитово совпадает с обоими «н» в «бойнун» (с. 43, правая колонка, y≈0.80): скан хранит её как тот же знак «н»; от полужирного «п» она отличается на 45 пикселей, от полужирного «и» — на 37. Конец слова — «гы», без «ъ». Значит, напечатано «къанчыгы»; 2-й проход поставил «п» по смыслу, а не по печати. По смыслу это опечатка книги, вероятно вместо «къапчыгъы»: перевод «мешок» = къапчыкъ (КБРС, корпус 06, src1 13058: къапчыкъ «мешок»; притяжательная форма в КБРС — «къапчыгъы»: «садакъачыны къапчыгъы тешик»); в статье КБРС къач (src1 13497) есть этнографический термин «къач къапчыкъ этн. доля каждого от остатка заготовленных продуктов после осенних работ на пастбище», его же приводит Аппоев (#07, local/sources_survey/text/07.txt, ссылка /404/). Слово къанчыкъ в КБРС есть (src1 13011), но значит «самка; сука» и к «мешку» не подходит. Оставлено как напечатано (опечатка книги).",
+     "verifier": {
+      "id": "43-0",
+      "pick": "~ны къач къанчыгы осенний мешок аксакала",
+      "confidence": "high",
+      "note": "The 4th letter of the bold word has an open top: at native scan resolution the stems are still separated by a 1-3 px gap in the top rows. A solid bar runs across the middle (4 rows), so the letter is н-shaped. A п would have a closed top bar and no middle bar. This bitmap is also not the н shape that repeats across the page. The real word would be къапчыгы, but the print shows н, so the book's misprint is kept."
+     }
+    },
+    {
+     "sid": 101028,
+     "head": "акъларгъа",
+     "pass1": "обелять кого; кесинъи ~ оправдываться",
+     "pass2": "обелять кого; кесини ~ оправдываться",
+     "final": "обелять кого; кесинъи ~ оправдываться",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Скан, левая колонка, x 0.28–0.52, y 0.312–0.335 (local/s17_img2/zoom/p043_kesin.png — zoom 8, p043_kesin12b.png — zoom 12, плюс пиксельная карта): полужирное слово из 7 знаков «кесннъи» — к, е, с, две буквы и/н, отчётливый «ъ», и. Это «кесинъи» (в полужирном шрифте «и» и «н» не различаются); чтение 2-го прохода «кесини» теряет напечатанный «ъ». Язык это подтверждает: в возвратных оборотах с инфинитивом КБРС пишет кесинъи (корпус 06, misc1: «кесинги» 325 раз, напр. «кесинги джакъларгъа защищаться», «кесинги джаздырыргъа»), а «кесини» (26 раз) стоит в предложениях с 3-м лицом. В корпусе у этой статьи (src1 101028) уже «кесинги акъларгъа оправдываться», но это чтение 1-го прохода, а не независимое подтверждение; в РКБС и текстовых слоях этот оборот не найден.",
+     "verifier": {
+      "id": "43-1",
+      "pick": "обелять кого; кесинъи ~ оправдываться",
+      "confidence": "high",
+      "note": "The scan shows 'кесннъи': 7 letters with a clear ъ before the final и, so the 6-letter reading 'кесини' is ruled out. Letters 4 and 5 are the same н-like bitmap. On this page that exact bitmap also appears where the word needs и (both и in этгинчи, the last и in битдирир, джерин), so the scan does not keep и and н apart here. The real word кесинъи (кеси + нъ + и) decides."
+     }
+    },
+    {
+     "sid": 101039,
+     "head": "акълы-кёклю",
+     "pass1": "ярко; ~ киерге нарядно одеваться",
+     "pass2": "ярко; ~ киерге[?] нарядно одеваться",
+     "final": "ярко; ~ киерге нарядно одеваться",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (киерге[?]); оба прохода читают одинаково. Скан, левая колонка, x≈0.16–0.23, y≈0.573 (local/s17_img2/zoom/p043_kierge12.png — zoom 12, плюс пиксельная карта): 6 знаков — к, полужирное и/н, е, р и «ге» (набрано светлым шрифтом); над второй буквой пусто, бреве нет, так что «й» не напечатано. «киерге» — обычное написание инфинитива от кий- в КБРС («й» перед «е» не пишется): в корпусе 06 «блузка киерге надеть блузку», «ботала киерге надеть боты», «аяб киерге носить бережно», «бёркню бир джанлы киерге надеть шапку набекрень»; в ТСКБЯ «киерге», «киеди», «киер». «кийерге» нашлось только в текстовом слое #32. Это не опечатка.",
+     "verifier": {
+      "id": "43-2",
+      "pick": "ярко; ~ киерге нарядно одеваться",
+      "confidence": "high",
+      "note": "The line reads 'яр-' / 'ко; ~ кнерге нарядно одеваться'. The 2nd letter of the bold word is the same н-like bitmap that also stands for real и on this page (этгинчи, битдирир, джерин), so the shape cannot decide. The word has 6 letters (к?ерге, no й), and the real word is киерге."
+     }
+    }
+   ],
+   "disputed": [
+    {
+     "sid": 101062,
+     "head": "акъсатыргъа",
+     "pass1": "балк., понуд. к акъсаргъа",
+     "pass2": "балк.,[?] понуд. к акъсаргъа",
+     "final": "балк., понуд. к акъсаргъа",
+     "kind": "punct",
+     "confidence": "medium",
+     "evidence": "Сомнение 2-го прохода (балк.,[?]); оба прохода читают «балк.,». Скан, правая колонка, x≈0.67–0.70, y≈0.59 (local/s17_img2/zoom/p043_balk12.png — zoom 12, плюс пиксельная карта): после курсивной точки (4×4 пикселя) стоит отдельный наклонный знак ≈7×6 пикселей на линии строки. Он крупнее точки и наклонён как запятая, но без хвостика под строкой: у запятых на этой странице хвостик уходит на 4 строки пикселей вниз (local/s17_img2/zoom/p043_comma.png, p043_icomma.png). Читаю как запятую с непропечатанным хвостиком; соринкой этот знак быть может, но его размер и место — как у запятой. КБРС ставит такую запятую и в других статьях: «балк., отвлеч. к шарайыб», «балк., и. д. к шарайыбларгъа», «карач., и. д. к стемезге» (корпус 06), хотя чаще пишет без неё («балк. понуд. к» 14 раз). Оставлено «балк.,»; уверенность средняя из-за отсутствия хвостика.",
+     "verifier": {
+      "id": "43-3",
+      "pick": "other: балк.. понуд. к акъсаргъа",
+      "confidence": "medium",
+      "note": "After the italic 'балк.' comes a second mark. It is a slanted dot, about 9x6 scan px, bigger than the 4x4 period before it, and it sits on the baseline with nothing below it. The commas on this page, after italic м, in 'кого;' and after the bold этгинчи, all have a clear tail below the baseline. So it reads as a second period, possibly a damaged comma. Nearby entries (акъсатмакълыкъ, акъсаў) put no comma between 'балк.' and the next label."
+     }
+    }
+   ],
+   "unresolved": [],
+   "clear_uncertain": [],
+   "notes": "Из 55 статей (101019–101073, на с. 44 не переходит ни одна) проходы расходятся в двух местах: напечатано «кесинъи» (с «ъ») и «къанчыгы» с «н» (на скане побитово как «н» в «бойнун») — опечатка книги вместо «къапчыгъы» (къач къапчыкъ «осенний мешок»), кандидат в ocr_overrides; два [?] 2-го прохода (киерге, «балк.,») подтверждают общий текст. clear_uncertain пуст: в doubts_ru записей по этим sid нет (101030 уже в ocr_overrides), а uncertain_ocr у акъджал, акъланыргъа, акълаў, акълыкъ, акъсаргъа пришёл со стороны ТСКБЯ ещё до s17 (a211fd6); кроме того, в русском тексте скан местами даёт «и» вместо «н» («оправдаиие», «блéдиость», «иенмение» = неимение; вероятно, артефакт сжатия скана, где одинаковые знаки хранятся одной картинкой) — оба прохода записали правильные слова, здесь это не решалось. Результат записан в D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p043.json."
+  },
+  {
+   "page": 44,
+   "articles_compared": 14,
+   "diffs_total": 1,
+   "accepted": [
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "~ы ишге кетген углублённый в работу",
+     "pass2": "~ы ишге кетген углублённый в работу;",
+     "final": "~ы ишге кетген углублённый в работу;",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Единственное расхождение проходов. Последняя строка правой колонки с. 44 (y≈0.905). Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). Попиксельно в родном разрешении скана: «у» в «работу» кончается на x≈0.902 — там же, где последние буквы строк со срезанным дефисом («поучитель» 0.9015, «богат» 0.901) и буквы перед срезанным «;» («заключению», «допущение» 0.900–0.9005); строки, кончающиеся буквой, доходят до обреза 0.903. Строка выключена по формату (статья продолжается), значит после «работу» стоит узкий знак, ушедший за обрез. С. 45 начинается «~гъа келмезлик невообразимый; …» без знака; фразеологизмы после ◊ в книге разделяются «;». В корпусе (misc1 старого экспорта) «углублённый в работу акъылгъа келмезлик» — тоже без знака.",
+     "verifier": {
+      "id": "44-0",
+      "pick": "~ы ишге кетген углублённый в работу;",
+      "confidence": "medium",
+      "note": "Last line of right column. The scan is cropped at x~0.903 and this line's right margin is ~0.908, so the line-final mark falls in the cut-off strip. The line is justified (word gaps 52-62px vs 40-48px on paragraph-final lines), 'у' stops ~0.004 short of the margin (room for 'у;'), and p.45 continues the article with '~гъа келмезлик невообразимый; ...', so a semicolon must follow. Hyphens of 'богат-' and 'поучитель-' on the lines above are hidden the same way."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "~ынъы бир биринъе[?] айтыў обмен мнениями",
+     "pass2": "~ынъы бир биринъе[?] айтыў обмен мнениями",
+     "final": "~ынъы бир биринъе айтыў обмен мнениями",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода («ожидалось бирине?»). Зум 8 и попиксельно (правая колонка, y≈0.645): напечатано «биринъе», «ъ» с флажком отчётливо; 4-я буква по форме совпадает с «и» в «бир», 5-я — с «н» в «~ынъы». Это не опечатка: «бир биринъе» = «бир биринге» (дат. п. от бири со вставным н; корпус пишет нг вместо нъ). Корпус, эта же статья КБРС: «акъылынгы бир биринге айтыу обмен мнениями»; всего в корпусе «бир биринге» 24 раза (напр. КБРС: бир биринге байланыргъа, бир биринге ал бермей); в русско-КБ словаре «бир биринге / бир-биринге» 52 раза.",
+     "verifier": {
+      "id": "44-1",
+      "pick": "~ынъы бир биринъе айтыў обмен мнениями",
+      "confidence": "high",
+      "note": "Glyph count matches: ~ ы [и/н] ъ ы | б [и/н] р | б [и/н] р [и/н] [и/н] ъ е | айтыў (breve visible). Bold и/н are indistinguishable on this page (е.g. 'бир' looks like 'бнр'), so the real word decides. A full semicolon follows 'мнениями'."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "~ынъдан[?] кетер вычеркни из памяти, забудь",
+     "pass2": "~ынъдан[?] кетер вычеркни из памяти, забудь",
+     "final": "~инъдан кетер вычеркни из памяти, забудь",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. ОПЕЧАТКА КНИГИ, оставлено как напечатано (правильно ~ынъдан = акъылынъдан). Зум 8 и попиксельно (правая колонка, y≈0.745): после «~» две узкие буквы типа и/н (16 и 14 px), широкой «ы» (21 px: ь-петля + отдельная палочка) нет; ср. «кеси ~ынъдан чыгъарыргъа» в той же колонке, где «ы» видна отчётливо, и «~ынъы»: там «ын» на 5 px шире этой пары. Буква перед «ъ» — «н» (диграф нъ), первая — «и» (по форме = «и» в «бир», «келтириў») → «~инъдан». Правильную форму подтверждают: русско-КБ словарь «~ из памяти акъылынгдан кетерирге»; корпус «акъылынгдан кетер вычеркни из памяти». Для корпуса нужна правка опечатки (typo_fixed), как у 102053.",
+     "verifier": {
+      "id": "44-2",
+      "pick": "~инъдан кетер вычеркни из памяти, забудь",
+      "confidence": "high",
+      "note": "After ~ come two и/н-type letters (36-37px wide, same as н/и; bold ы is 48-50px with a bowl) and then ъ. No ы is printed, so this is a misprint for ~ынъдан and stays as printed."
+     }
+    },
+    {
+     "sid": 101076,
+     "head": "акъсыныргъа",
+     "pass1": "бу палтонну акъсыныб алмады",
+     "pass2": "бу палтонну акъсыныб алмады",
+     "final": "бу палтонну акъсыныб алмады",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («палтону?»), проходы совпадают. Зум 8 (левая колонка, y≈0.145): напечатано 8 букв «палтонну», две н. Форма верная: в КБРС заглавное слово «палтон» «пальто», вин. п. палтон+ну; в корпусе «палтонну киерге», «палтонну кийдирирге», «палтонну къаллай бети барды», «драп палтон», и эта же фраза «бу палтонну акъсыныб алмады».",
+     "verifier": {
+      "id": "44-3",
+      "pick": "бу палтонну акъсыныб алмады",
+      "confidence": "high",
+      "note": "Left column, line 'принимать что за белое; бу палтонну акъсыныб' / 'алмады он не купил...'. Glyph segmentation gives палтонну = 8 letters (double н), акъсыныб = 8; the first letter of алмады is a bold а."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "~ыма кирмейди это у меня в голове",
+     "pass2": "~ыма кирмейди это у меня в голове",
+     "final": "~ыма кирмейдя это у меня в голове",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода, оба прохода написали «кирмейди». ОПЕЧАТКА КНИГИ, оставлено как напечатано: зум 8 и попиксельно (левая колонка, y≈0.657) последняя буква — «я» (замкнутая петля вверху, ножка вниз-влево отдельно от правой палочки), не «и». Правильно «кирмейди» (корпус: «акъылыма кирмейди это у меня в голове не укладывается»). Для корпуса нужна правка опечатки (typo_fixed), как у 102053.",
+     "verifier": {
+      "id": "44-4",
+      "pick": "~ыма кирмейдя это у меня в голове",
+      "confidence": "high",
+      "note": "The last letter of the bold word is clearly я (closed top-left bowl, right stem, leg down-left), so the misprint 'кирмейдя' is printed; continues 'это у / меня в голове не укладывается'."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "предположение, допущение; ~гъа келтирирге а)",
+     "pass2": "предположение, допущение; ~гъа келтирирге а)",
+     "final": "предположение, допущение; ~гъа келтирирге а)",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («видно только :»), проходы совпадают. Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). От знака после «допущение» видны левые 2 px — точка вверху и голова запятой внизу, хвостик ушёл за обрез. Между русским переводом и примером книга всегда ставит «;», двоеточие в такой позиции не употребляется.",
+     "verifier": {
+      "id": "44-5",
+      "pick": "предположение, допущение; ~гъа келтирирге а)",
+      "confidence": "high",
+      "note": "The mark after 'допущение' sits on the cropped right edge; only the left ~5px of the two dots show (looks like ':'). Complete semicolons in this column have the comma tail starting right of that strip, and the page uses ';' throughout, so this is a cut semicolon. 'келтирирге' has 10 glyphs."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "а) вообразить, представить; предположить; б)",
+     "pass2": "а) вообразить, представить; предположить; б)",
+     "final": "а) вообразить, представить; предположить; б)",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («видно только :»), проходы совпадают. Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). От знака после «представить» (x 0.9025–0.903) видны левые 2 px двух точек, хвостик запятой за обрезом. Разделитель групп синонимов перевода в книге — «;»; в корпусе тоже «а) вообразить, представить; предположить; б)».",
+     "verifier": {
+      "id": "44-6",
+      "pick": "а) вообразить, представить; предположить; б)",
+      "confidence": "high",
+      "note": "'представить' is followed by a semicolon cut by the scan edge (colon-like sliver, as in 44-5); next line 'предположить; б) подвести'."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "б) подвести кого к какому-л. выводу, привести",
+     "pass2": "б) подвести кого к какому-л. выводу, привести",
+     "final": "б) подвести кого к какому-л. выводу, привести",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («точка после л не видна»), проходы совпадают. Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). «л» стоит у самого обреза, точка за ним. Сокращение «-л.» в книге всегда с точкой (строкой ниже «к какому-л. заключению» точка видна).",
+     "verifier": {
+      "id": "44-7",
+      "pick": "б) подвести кого к какому-л. выводу, привести",
+      "confidence": "high",
+      "note": "Line ends with italic 'какому-л'. The justified line stops ~0.005 short of the margin and the period falls beyond the scan crop; the abbreviation needs it (same phrase on the next line shows 'какому-л.'). Next line: 'выводу, привести кого...'."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "к какому-л. заключению; ~гъа келтириў а)",
+     "pass2": "к какому-л. заключению; ~гъа келтириў а)",
+     "final": "к какому-л. заключению; ~гъа келтириў а)",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («видно только :»), проходы совпадают. Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). От знака после «заключению» видны левые 2–3 px двух точек, хвостик запятой за обрезом. Перед примером «~гъа келтириў» книга ставит «;»; в корпусе тоже «заключению; акъылгъа келтириу».",
+     "verifier": {
+      "id": "44-8",
+      "pick": "к какому-л. заключению; ~гъа келтириў а)",
+      "confidence": "high",
+      "note": "'заключению' plus a cut semicolon at the scan edge (colon-like sliver, no visible tail, as in 44-5); next line starts '~гъа келтириў а) воображение;'. ў breve visible."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "б) подведение кого к какому-л. выводу (заключению)",
+     "pass2": "б) подведение кого к какому-л. выводу (заключению)",
+     "final": "б) подведение кого к какому-л. выводу (заключению)",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («е видна наполовину»), проходы совпадают. Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). Конечная «е» срезана обрезом, видна её левая половина; слово однозначно (параллель выше: «б) подвести кого к какому-л. выводу»; в корпусе «б) подведение кого к какому-л. выводу (заключению)»).",
+     "verifier": {
+      "id": "44-9",
+      "pick": "б) подведение кого к какому-л. выводу (заключению)",
+      "confidence": "high",
+      "note": "'б) подведение' at line end (the final е is partly cut by the scan edge), next line 'кого к какому-л. выводу (заключению); аны'. The mark after 'выводу' is a speck."
+     }
+    },
+    {
+     "sid": 101087,
+     "head": "акъыл",
+     "pass1": "б) вознамерившийся (что-л. сделать); ~ байлыкъ",
+     "pass2": "б) вознамерившийся (что-л. сделать); ~ байлыкъ",
+     "final": "б) вознамерившийся (что-л. сделать); ~ байлыкъ",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода («я видна частично»), проходы совпадают. Скан обрезан справа по x≈0.903 (с y≈0.57 до низа правой колонки концы строк срезаны: дефисы после «богат-», «поучитель-» не видны, от «интел-» осталась точка). Конечная «я» срезана обрезом, видна левая часть; слово однозначно (выше «вздумать, вознамериться (что-л. сделать)»; в корпусе «б) вознамерившийся (что-л. сделать)»).",
+     "verifier": {
+      "id": "44-10",
+      "pick": "б) вознамерившийся (что-л. сделать); ~ байлыкъ",
+      "confidence": "high",
+      "note": "'вознамерившийс' plus the left part of я cut by the scan edge; next line '(что-л. сделать); ~ байлыкъ духовное богат-'."
+     }
+    }
+   ],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [
+    101087
+   ],
+   "notes": "14 статей (101074–101087); проходы совпадают слово в слово, кроме «;» после «работу» в конце правой колонки — знак ушёл за правый обрез скана (x≈0.903) и восстановлен по выключке строки. Оба сомнения 1-го прохода (биринъе, ~ынъдан) и сомнения 2-го прохода проверены по скану; две опечатки книги записаны как напечатано — «~инъдан» (надо ~ынъдан) и «кирмейдя» (надо кирмейди): для корпуса им нужна правка typo_fixed. Результат также записан в D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p044.json."
+  },
+  {
+   "page": 45,
+   "articles_compared": 13,
+   "diffs_total": 1,
+   "accepted": [
+    {
+     "sid": 101088,
+     "head": "акъыл",
+     "pass1": "акъыл в составе сложных слов",
+     "pass2": "-акъыл в составе сложных слов",
+     "final": "-акъыл в составе сложных слов",
+     "kind": "head",
+     "confidence": "high",
+     "evidence": "Расходится только заглавное слово (поле head): 1-й проход «акъыл», 2-й «-акъыл»; текст статьи в обоих проходах одинаков. Скан, левая колонка, y≈0.71 (local/s17_img2/zoom/p045_akyl_z8b.png, p045_akyl_mark_z10.png, плюс пиксельная карта в родном разрешении скана): перед «а» видна лишь точка 2×2 px — остаток очень слабо пропечатанного дефиса. Она стоит ровно там, где у остальных заглавных слов страницы начинается «а» (отступ 33–35 px от края колонки: акъыл-балыкъ, акъыл-балыкълыкъ, акъылландырмакълыкъ, акъылландырыргъа), а сама «а» в «акъыл» сдвинута вправо на ~10 px (≈1 мм; отступ 43–45 px) — это ширина полужирного дефиса на той же странице («-джашда», 10–11 px). Параллельная статья на с. 46 «акъыллыкъ (-гъы) в составе сложных слов, напр.: къысхаакъыллыкъ, саякъыллыкъ» напечатана с отчётливой (перекошенной) чёрточкой перед заглавным словом и с таким же сдвигом «а» (local/s17_img2/zoom/p046_akyllyq_mark_z10.png). По смыслу это элемент — вторая часть сложных слов (къысха+акъыл, сая+акъыл); в корпусе есть къысхаакъыл и саякъыл (ТСКБЯ), в русско-КБ словаре — къысхакъыллыкъ «ограниченность, узость». Напечатано «-акъыл». Основа для корпуса остаётся «акъыл»: qmos-экспорт и для «-акъыллыкъ» (qmos 1004) хранит заглавное слово без дефиса.",
+     "verifier": {
+      "id": "45-0",
+      "pick": "-акъыл в составе сложных слов",
+      "confidence": "high",
+      "note": "The hyphen is typeset but printed very faintly. Only a small dot of ink is left before the bold 'акъыл' (about 2x2 scan pixels, sitting at the lower edge of where hyphens sit on this page), so at a glance it reads like '·акъыл'. The spacing settles it: after correcting for the page skew, the headwords акъыл-балыкъ, акъыл-балыкълыкъ, акъылландырмакълыкъ and акъылландырыргъа all start 50-52 px (zoom 5) from the margin, but this 'акъыл' starts at about 63 px. That 12 px gap matches the width of a line-start bold hyphen on the same page ('-джашда', about 13-15 px), and the dot falls inside it. A random speck would not push the word over by a hyphen's width, and the entry is the combining form used in къысхакъыл and саякъыл."
+     }
+    }
+   ],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [],
+   "notes": "Все 13 статей с. 45 (-акъыл … акъыллашмакълыкъ; акъылландырыргъа переходит в правую колонку, на с. 46 ничего не переносится) в двух проходах совпадают слово в слово, кроме заглавного слова «-акъыл» — по скану оно напечатано с дефисом, как «-акъыллыкъ» на с. 46. Сомнений 1-го прохода по этим статьям нет; сверка всех статей с кропами (L3–L4, R1–R2) общих ошибок двух чтецов не выявила. Результат записан в D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p045.json."
+  },
+  {
+   "page": 228,
+   "articles_compared": 28,
+   "diffs_total": 0,
+   "accepted": [
+    {
+     "sid": 103021,
+     "head": "джапы",
+     "pass1": "~нъа голия[?] у тебя неважный вид",
+     "pass2": "~нъа голия[?] у тебя неважный вид",
+     "final": "~нъа голия у тебя неважный вид",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Pass-1 doubt (doubts_ru); both passes read the same. Zoom 8 (local/s17_img2/zoom/p228_adj_japy_end.png, p228_adj_japy_golia.png) and a native-pixel dump: '~нъа' (tilde, н, ъ, а, no gap) squeezed at the right edge by the binding, bold 'голия' clearly at the start of the next line. Not a misprint: 'голия' is a real word. КБРС голия (corpus src1 5477): 'то же, что голджа; атанга голия! шиш (фигу) тебе!'. ТСКБЯ голия: 'Сени атанга голия!'. So джапынъа голия (lit. 'a fig to your looks') = 'у тебя неважный вид'.",
+     "verifier": {
+      "id": "228-0",
+      "pick": "~нъа голия у тебя неважный вид",
+      "confidence": "high",
+      "note": "Right column, джапы article. '~нъа' ends the line (y~0.343) and is squeezed by the binding, but reads ~ + н + ъ + а; the н has a short level bar with no lower-left joint, and the word must be джапынъа. 'голия' starts the next line in unsqueezed type. Its 4th letter has a long diagonal (joins the right stem high and the left stem low), the same shape as the и in бителир and чибин, so it is и, not н. Then 'у тебя неважный вид' (stress marks dropped)."
+     }
+    },
+    {
+     "sid": 103025,
+     "head": "джара",
+     "pass1": "бычакъ ~ бителир, аўуз ~ бителмез",
+     "pass2": "бычакъ ~ бителир, аўуз ~ бителмез",
+     "final": "бычакъ ~ бителир, аўуз ~ бителмез",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Pass-2 doubt аўуз[?] (squeezed binding edge); passes agree. The native-pixel dump (p228_adj_auuz_nn.png) shows а, у with a breve, у, з: two separate у glyphs, each with its own descender and tail hook, so the word is аўуз, not аўз. ТСКБЯ аууз: 'Бычакъ жара бителир, аууз жара бителмез. (Нарт сёз.)'. КБРС къылыч (src1 14841): 'къылыч джара бителир, аууз джара бителмез посл.' (corpus аууз = print аўуз).",
+     "verifier": {
+      "id": "228-1",
+      "pick": "бычакъ ~ бителир, аўуз ~ бителмез",
+      "confidence": "high",
+      "note": "Right column, end of the джара article, after the diamond sign (y~0.68-0.70). 'бычакъ ~ бителир, аўуз' / '~ бителмез посл.'. Both и in бителир and the и in бителмез have clear diagonals. In the squeezed line-end 'аўуз' the first у has its own notched breve, separate from the descender of the line above, so it is ў. The comma after бителир is printed."
+     }
+    },
+    {
+     "sid": 103026,
+     "head": "джарагъан",
+     "pass1": "~ бир къой берди он дал хорошую овцу",
+     "pass2": "~ бир къой берди он дал хорошую овцу",
+     "final": "~ бир къой берди он дал хорошую овцу",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Pass-2 doubt берди[?]; passes agree. At the right (binding) edge the last glyph looks like к ('бердк', p228_adj_berdi_nn.png). In a native-pixel dump its pattern (thin stem, upper-right arm, solid joint at mid-height, lower-right leg) matches two other glyphs at the same x: the certain и of the Russian word 'действие' (line 'а) действие', y~0.835) and к of 'кёз'. Page curvature makes и/н/к indistinguishable there, so the shape is no evidence of a misprint, and the language decides: берди = 'он дал'. КБРС сюйюмчюлюк (src1 24261): 'сюйюмчюлюкге къой берди ... он дал мне в подарок овцу'.",
+     "verifier": {
+      "id": "228-2",
+      "pick": "~ бир къой берди он дал хорошую овцу",
+      "confidence": "high",
+      "note": "First джарагъан article (y~0.73-0.75): '~ бир къой берди' / 'он дал хорошую овцу'. The line-final 'берди' is squeezed by the binding, and at a glance its last letter looks like к ('бердк'). Its pixel pattern matches the squeezed и of Russian 'действие' at the same x (~0.88), which also looks like к, and the к of 'ачыкъ'. So shape cannot decide here; the word (он дал) gives берди. Not treated as a misprint."
+     }
+    },
+    {
+     "sid": 103027,
+     "head": "джарагъан",
+     "pass1": "бу дарманны ~ы безгекгеди",
+     "pass2": "бу дарманны ~ы безгекгеди",
+     "final": "бу дарманны ~ы безгекгеди",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Pass-2 doubt дарманны[?]; passes agree. The line ends 'дармак-' (p228_adj_darman_nn.png) and the next line starts 'ны'. The last glyph before the hyphen is pixel-identical to the и of 'действие' at the same x on the line just above (binding-edge distortion; bold и and н look alike in this font). So the print is дарман-|ны, not a misprint. The same article has 'дарманны ~ы а) действие лекарства' one line above. Дарманны is the genitive of дарман 'лекарство' (also КБРС джаз: 'врач бу дарманны джазгъанды').",
+     "verifier": {
+      "id": "228-3",
+      "pick": "бу дарманны ~ы безгекгеди",
+      "confidence": "high",
+      "note": "Second джарагъан article: 'бу дарман-' ends the line (squeezed, y~0.845) and 'ны ~ы безгекгеди это лекарство от малярии' follows. At a glance the squeezed line end reads 'дармак-', but that glyph has the same pattern as the squeezed и/к nearby (действие, ачыкъ, берди). The word is дарман-ны, joined across the line break. On the next line, unsqueezed: н of ны has a level bar, and the final и of безгекгеди has a clear diagonal."
+     }
+    }
+   ],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [
+    103021,
+    103026,
+    103027
+   ],
+   "notes": "Both passes agree word for word on all 28 articles (0 differences). I re-checked the pass-1 doubt (голия) and the three pass-2 [?] spots on the image; all settled with high confidence, no misprints. The only other notes are stress-only (103026, 103027). Caution for fixups(): on 103021 (jапы) and 103026 (jарагъан1), uncertain_ocr was already on the ТСКБЯ entry before s17 (commit a211fd6), so clearing it by sid would drop a ТСКБЯ-side flag. Result file: D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p228.json"
+  },
+  {
+   "page": 229,
+   "articles_compared": 44,
+   "diffs_total": 1,
+   "accepted": [
+    {
+     "sid": 103067,
+     "head": "джараў III",
+     "pass1": "по нужде; организмни кеси ~у естественные",
+     "pass2": "по нужде; организмны кеси ~у естественные",
+     "final": "по нужде; организмны кеси ~у естественные",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Zoom 8 on the right column (local/s17_img2/zoom/p229_R_organizmny_z8b.png, x 0.50-0.64, y 0.782-0.797): the bold word is printed «органнзмны» (bold и looks like н), and its last letter is clearly ы (a ь-bowl followed by a separate stem, the same shape as in «дарманны» above), not и. Printed «организмны» is most likely a misprint of the book, kept as printed: КБРС itself writes «организмни» in other articles (ишленнген, src1 10396: «организмни ишленнгени строение организма»; организм, src1 20377: «организмни къарыусузланыуу»); 06_lextagged has 11 hits of «организмни» and 0 of «организмны»; front harmony after -и- expects -ни. ТСКБЯ quotes do show the back-vowel possessive «организмы» next to «организми», so a back-vowel variant is not impossible. The corpus hit «организмни кеси джарауу» is this same article (src1 103067, from pass 1), so it is not independent evidence.",
+     "verifier": {
+      "id": "229-0",
+      "pick": "по нужде; организмны кеси ~у естественные",
+      "confidence": "high",
+      "note": "Right column, near the bottom of p.229 (джараў III), line 'органнзмны кесн ~у естествеииые отправления'. At zoom 8, and checked pixel by pixel, the last letter of организм- is ы: a left stem with a bowl closed at the bottom, plus a separate right stick, wider than the н before it. It is not и/н, which have two stems with open counters. Bold и in организм- and кеси is printed н-like, as is usual for this font. In the regular font, 'естественные' shows ии where нн should be. The same н/и look-alike glyphs appear across the page (раиеного, иельзя), and both options share this word, so it does not affect the choice."
+     }
+    }
+   ],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [],
+   "notes": "Both passes agree word for word on 43 of the 44 articles of p.229 (джараклы … джараўларгъа; none runs on to p.230). The only difference, организмни/организмны in джараў III, was decided at zoom 8 as printed «организмны» (likely a book misprint; КБРС has организмни elsewhere). doubts_ru.json has no notes for these sids, and the pass-1 [?] at «~ унъу» (103067) is already settled in ocr_overrides.json, so it was not reopened. A visual check of all 8 crops found no misreading shared by both passes. Saved to D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p229.json."
+  },
+  {
+   "page": 230,
+   "articles_compared": 26,
+   "diffs_total": 2,
+   "accepted": [
+    {
+     "sid": 103089,
+     "head": "джарашдырылыргъа",
+     "pass1": "упорядоченный, устроенный, улаженный; джарашдырылмагъан джер",
+     "pass2": "упорядоченный, устроенный; улаженный; джарашдырылмагъан джер",
+     "final": "упорядоченный, устроенный; улаженный; джарашдырылмагъан джер",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Расхождение проходов. Левая колонка, y≈0.745, колонка здесь не сжата; zoom 8 (local/s17_img2/zoom/p230_d1d.png): после «устроенный» отчётливо «;» (точка над запятой), после «улаженный» тоже «;». Верен 2-й проход.",
+     "verifier": {
+      "id": "230-0",
+      "pick": "упорядоченный, устроенный; улаженный; джарашдырылмагъан джер",
+      "confidence": "high",
+      "note": "Clear semicolon after 'устроенный' and after 'улаженный'; comma after 'упорядоченный' at the line end (left column, not cropped). In bold -магъан the и/н shapes look alike, so the real word decides."
+     }
+    },
+    {
+     "sid": 103077,
+     "head": "джараўлу",
+     "pass1": "джаннъа ~ лестный",
+     "pass2": "джаннъа ~ лестный",
+     "final": "джаннъа ~ лестный",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода (и/н). Левая колонка, y≈0.237 (local/s17_img2/zoom/p230_L_dzharaulu.png, попиксельно): напечатано «джаииъа» — обе «н» имеют такую же диагональ, как «и»; в этом полужирном шрифте и/н на скане одинаковы. Слово — джаннъа, дат. п. от джан «душа» (~ «приятный душе» = лестный). В qmos КБРС эта форма (нг вместо нъ: «джаннга») встречается 19 раз, напр. «~ сёз – джаннга азыкъ».",
+     "verifier": {
+      "id": "230-2",
+      "pick": "джаннъа ~ лестный",
+      "confidence": "high",
+      "note": "Bold 'джаннъа' looks like 'джаииъа' because bold н and и are nearly identical; real word used. '~' ends the line and 'лестный ◇' starts the next."
+     }
+    },
+    {
+     "sid": 103079,
+     "head": "джараўлукъ I",
+     "pass1": "бу полтонну ~гъу къалмагъанды",
+     "pass2": "бу полтонну[?] ~гъу къалмагъанды",
+     "final": "бу полтонну ~гъу къалмагъанды",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (полтонну или полтону). Левая колонка, y≈0.325, попиксельно (local/s17_img2/zoom/p230_poltonnu2.png): 8 букв; 2-я — круглая «о», как 5-я, не «а»; 6-я и 7-я — две «н» (у 7-й диагональ, как у «н» в «джаннъа»). Напечатано «полтонну» (полтон + -ну). ВЕРОЯТНО ОПЕЧАТКА КНИГИ вместо «палтонну»: заглавное слово КБРС — палтон «пальто» (qmos палтон_20705), на с. 44 «бу палтонну акъсыныб алмады»; «полтон» нет ни в одном словаре (local/sources_survey/text: 0 раз, «палтон» — 45 раз). Записано как напечатано; если в корпусе нужно «палтонну» — правка typo_fixed.",
+     "verifier": {
+      "id": "230-3",
+      "pick": "бу полтонну ~гъу къалмагъанды",
+      "confidence": "high",
+      "note": "Bold 'полтонну': the 2nd н looks like и (bold font); real word used. The small dot between '~гъу' and 'къалмагъанды' is a speck at mid-height, not a period."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "кого; чалкъыны ~ настроить косу",
+     "pass2": "кого; чалкъыны ~ настроить косу",
+     "final": "кого; чалкъыны ~ настроить косу",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода (концы строк у корешка сжаты). Правая колонка, y≈0.10, попиксельно (local/s17_img2/zoom/p230_rs1.png): «чалкъын» + сжатая «ы» (петля «ь» и палочка, слитые внизу). чалкъы «коса» + вин. п. -ны; перевод «настроить косу».",
+     "verifier": {
+      "id": "230-4",
+      "pick": "кого; чалкъыны ~ настроить косу",
+      "confidence": "medium",
+      "note": "'кого;' is clear. 'чалкъыны' is squeezed at the gutter edge; 3 glyphs after ъ fit ы-н-ы. Next line starts '~ настроить косу;'."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "насадить косу на косовище; резолюцияны ~",
+     "pass2": "насадить косу на косовище; резолюцияны ~",
+     "final": "насадить косу на косовище; резолюцияны ~",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов (2-й видел запятую). y≈0.11, ×14 (local/s17_img2/zoom/p230_rs1z.png): «косовищ» + сжатая «е», слово читается. На обрезе у корешка от знака виден только хвост под строкой (верхняя точка «;» стоит правее и ушла за обрез); так же выглядят концы строк с заведомыми запятыми (наладилось, упорядоченный, ладить, мирно), то есть по пикселям «;» и «,» здесь не различить. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-5",
+      "pick": "насадить косу на косовище; резолюцияны ~",
+      "confidence": "medium",
+      "note": "After 'косовище' only a comma-like stroke is visible, right at the gutter crop, with no dot. A semicolon is assumed: every other example in this entry ends with ';'. All 6 such cut line ends on this page look like commas."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "выработать резолюцию; фразаланы тюз ~",
+     "pass2": "выработать резолюцию; фразаланы тюз ~",
+     "final": "выработать резолюцию; фразаланы тюз ~",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.12, ×14 (local/s17_img2/zoom/p230_rs1z.png): «резолюцию» читается целиком, после неё хвост знака у обреза. На обрезе у корешка от знака виден только хвост под строкой (верхняя точка «;» стоит правее и ушла за обрез); так же выглядят концы строк с заведомыми запятыми (наладилось, упорядоченный, ладить, мирно), то есть по пикселям «;» и «,» здесь не различить. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-6",
+      "pick": "выработать резолюцию; фразаланы тюз ~",
+      "confidence": "medium",
+      "note": "Same as 230-5: after 'резолюцию' only a comma-like mark is visible at the crop and no dot can be seen. Semicolon kept as the example separator. 'фразаланы тюз ~' is clear."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "правильно строить фразы; пианинону ~",
+     "pass2": "правильно строить фразы; пианинону ~",
+     "final": "правильно строить фразы; пианинону ~",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.135, ×14 (local/s17_img2/zoom/p230_rs1z.png): «фразы» читается, после — хвост знака у обреза. На обрезе у корешка от знака виден только хвост под строкой (верхняя точка «;» стоит правее и ушла за обрез); так же выглядят концы строк с заведомыми запятыми (наладилось, упорядоченный, ладить, мирно), то есть по пикселям «;» и «,» здесь не различить. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-7",
+      "pick": "правильно строить фразы; пианинону ~",
+      "confidence": "medium",
+      "note": "Same as 230-5: comma-like mark after 'фразы' at the crop, no dot visible. Semicolon assumed; the next example 'пианино;' has a clearly visible semicolon."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "настроить пианино; даўлу ишни ~ уладить",
+     "pass2": "настроить пианино; даўлу ишни ~ уладить",
+     "final": "настроить пианино; даўлу ишни ~ уладить",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.145 (local/s17_img2/zoom/p230_rs2.png): «даўл» с дужкой над у + часть «у» у обреза. КБРС даўлу «спорный», «~ иш спорный вопрос» (qmos даулу_6022) — ровно перевод «уладить спорный вопрос».",
+     "verifier": {
+      "id": "230-8",
+      "pick": "настроить пианино; даўлу ишни ~ уладить",
+      "confidence": "high",
+      "note": "'настроить пианино; даўлу' ends the line ('даўлу' squeezed at the edge); 'ишни ~ уладить' is on the next line."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "спорный вопрос; бир бири бла ~",
+     "pass2": "спорный вопрос; бир бири бла ~",
+     "final": "спорный вопрос; бир бири бла ~",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.157 (local/s17_img2/zoom/p230_rs2.png): «бир бири» — «бири» сжато, но читается; след. строка «бла ~ помирить друг с другом». «бир бири бла» обычно в КБРС (qmos: «бир бири бла ~ договориться друг с другом»).",
+     "verifier": {
+      "id": "230-9",
+      "pick": "спорный вопрос; бир бири бла ~",
+      "confidence": "high",
+      "note": "'спорный вопрос; бир бири' / 'бла ~' are clear."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "баш ~ уживаться с кем",
+     "pass2": "баш ~ уживаться с кем",
+     "final": "баш ~ уживаться с кем",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.17 (local/s17_img2/zoom/p230_rs2.png): «ужи-» с дефисом у края, след. строка «ваться с кем;».",
+     "verifier": {
+      "id": "230-10",
+      "pick": "баш ~ уживаться с кем",
+      "confidence": "high",
+      "note": "'баш ~ ужи-' / 'ваться с кем;' are clear."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "мириться с чем; приспосабливаться к кому-чему",
+     "pass2": "мириться с чем; приспосабливаться к кому-чему",
+     "final": "мириться с чем; приспосабливаться к кому-чему",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.182 (local/s17_img2/zoom/p230_rs2.png): «приспосáбли-» с дефисом, след. строка «ваться к кому-чему».",
+     "verifier": {
+      "id": "230-11",
+      "pick": "мириться с чем; приспосабливаться к кому-чему",
+      "confidence": "high",
+      "note": "'мириться с чем; приспосабли-' / 'ваться к кому-чему 2)' are clear."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "2) кул. заправлять что чем;",
+     "pass2": "2) кул. заправлять что чем;",
+     "final": "2) кул. заправлять что чем;",
+     "kind": "label",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.195 (local/s17_img2/zoom/p230_rs3.png): курсивное «что» сжато у края, но читается; след. строка «чем;».",
+     "verifier": {
+      "id": "230-12",
+      "pick": "2) кул. заправлять что чем;",
+      "confidence": "high",
+      "note": "'2) кул. заправлять что' / 'чем;' are clear."
+     }
+    },
+    {
+     "sid": 103091,
+     "head": "джарашдырыргъа",
+     "pass1": "заправить суп (напр. сметаной)",
+     "pass2": "заправить суп (напр. сметаной)",
+     "final": "заправить суп (напр. сметаной)",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.207 (local/s17_img2/zoom/p230_rs3.png): курсивное «смета-» с дефисом, след. строка «ной)».",
+     "verifier": {
+      "id": "230-13",
+      "pick": "заправить суп (напр. сметаной)",
+      "confidence": "high",
+      "note": "'заправить суп (напр. смета-' / 'ной)' are clear."
+     }
+    },
+    {
+     "sid": 103092,
+     "head": "джарашдырыў",
+     "pass1": "и. д. к джарашдырыргъа 1) упорядочение",
+     "pass2": "и. д. к джарашдырыргъа[?] 1) упорядочение",
+     "final": "и. д. к джарашдырыргъа 1) упорядочение",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (конец похож на -ргы). y≈0.235, попиксельно ×14 (local/s17_img2/zoom/p230_rgy.png): «джарашдырыр» + «г» + «ъ» с флажком + «а», сжатая в палочку, — у края «ъа» сливается в подобие «ы». «и. д. к» отсылает к инфинитиву джарашдырыргъа (заглавное слово выше на той же странице).",
+     "verifier": {
+      "id": "230-14",
+      "pick": "и. д. к джарашдырыргъа 1) упорядочение",
+      "confidence": "high",
+      "note": "The end of the word ('...ргъ' plus the start of 'а') is cut at the gutter edge. Next line: '1) упорядочение,'."
+     }
+    },
+    {
+     "sid": 103094,
+     "head": "джарашмазлыкъ",
+     "pass1": "1. непримиримый; ~ къаршчылыкъла",
+     "pass2": "1. непримиримый; ~ къаршчылыкъла",
+     "final": "1. непримиримый; ~ къаршчылыкъла",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (знак похож на запятую). y≈0.31, ×10 (local/s17_img2/zoom/p230_kar.png): «непримиримый» читается, после — хвост знака у обреза. На обрезе у корешка от знака виден только хвост под строкой (верхняя точка «;» стоит правее и ушла за обрез); так же выглядят концы строк с заведомыми запятыми (наладилось, упорядоченный, ладить, мирно), то есть по пикселям «;» и «,» здесь не различить. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-15",
+      "pick": "1. непримиримый; ~ къаршчылыкъла",
+      "confidence": "medium",
+      "note": "After 'непримиримый' only a comma-like stroke is visible at the gutter crop, with no dot. Semicolon assumed, matching '2.: ~ы непримиримость;' in the same entry."
+     }
+    },
+    {
+     "sid": 103094,
+     "head": "джарашмазлыкъ",
+     "pass1": "непримиримость; къаршчылыкъланы ~ы непримиримость противоречий",
+     "pass2": "непримиримость; къаршчылыкъланы[?] ~ы непримиримость противоречий",
+     "final": "непримиримость; къаршчылыкъланы ~ы непримиримость противоречий",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (конец строки читается «къаршчылынъ-»). y≈0.335, ×10 (local/s17_img2/zoom/p230_kar.png): сжатое у корешка полужирное «к» сливается в «н»-образный знак, «ъ» с флажком виден; след. строка «ланы ~ы». Напечатано «къаршчылыкъ-|ланы»: то же слово двумя строками выше без сжатия — «къаршчылыкъла непримиримые противоречия», перевод «непримиримость противоречий»; КБРС къаршчылыкъ (qmos къаршчылыкъ_13247).",
+     "verifier": {
+      "id": "230-16",
+      "pick": "непримиримость; къаршчылыкъланы ~ы непримиримость противоречий",
+      "confidence": "high",
+      "note": "'непримиримость; къаршчылыкъ-' (hyphen cut at the edge) / 'ланы ~ы непримиримость противоречий' are clear."
+     }
+    },
+    {
+     "sid": 103095,
+     "head": "джарашмакълыкъ",
+     "pass1": "отвлеч. к джарашыргъа мир, согласие",
+     "pass2": "отвлеч. к джарашыргъа[?] мир, согласие",
+     "final": "отвлеч. к джарашыргъа мир, согласие",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (конец похож на -ргы). y≈0.375, ×14 (local/s17_img2/zoom/p230_rgy2.png): «джарашырг» + «ъ» + «а», сжатая в палочку, — как в джарашдырыў. «отвлеч. к» отсылает к инфинитиву джарашыргъа (заглавное слово ниже в той же колонке).",
+     "verifier": {
+      "id": "230-17",
+      "pick": "отвлеч. к джарашыргъа мир, согласие",
+      "confidence": "medium",
+      "note": "'джарашыргъ[а]' is cut at the gutter edge. The scan shows 'мнр, согласне'. This scan swaps и and н throughout the page (размиика, нимн, умеющнй, общнй), so I treat it as a scan defect and use the real words."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "татлы зат меннъе джарашмайды",
+     "pass2": "татлы зат меннъе[?] джарашмайды",
+     "final": "татлы зат меннъе джарашмайды",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.455, ×10 (local/s17_img2/zoom/p230_rs7z.png): у края «менн» + «ъ» с флажком, «е» ушла за обрез. Та же форма в статье без сжатия: «кёлек меннъе джарашмайды». Дат. п. меннъе — норма КБРС (в qmos «меннге» 111 раз, нг вместо нъ).",
+     "verifier": {
+      "id": "230-18",
+      "pick": "татлы зат меннъе джарашмайды",
+      "confidence": "medium",
+      "note": "'меннъе' is squeezed and cut at the gutter edge; the visible glyphs fit м-е-н-н-ъ. 'джарашмайды' starts the next line."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "кёлек меннъе джарашмайды сорочка",
+     "pass2": "кёлек меннъе джарашмайды сорочка",
+     "final": "кёлек меннъе джарашмайды сорочка",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода (и/н). y≈0.605 (local/s17_img2/zoom/p230_rs9.png): напечатано «меинъе» — полужирные и/н на скане неразличимы; слово меннъе (см. выше).",
+     "verifier": {
+      "id": "230-19",
+      "pick": "кёлек меннъе джарашмайды сорочка",
+      "confidence": "high",
+      "note": "'кёлек меннъе джарашмай-' (bold, looks like 'меинъе') / 'ды сорочка'. Bold и/н, so the real word decides."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "костюм сеннъе джарашады костюм тебе идёт",
+     "pass2": "костюм сеннъе джарашады костюм тебе идёт",
+     "final": "костюм сеннъе джарашады костюм тебе идёт",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода (и/н). y≈0.637 (local/s17_img2/zoom/p230_rs10.png, local/s17_img2/zoom/p230_rs10z.png): напечатано «сениъе» (и/н); дат. п. от сен — сеннъе, в qmos «сеннге» 72 раза. «идёт» у края читается.",
+     "verifier": {
+      "id": "230-20",
+      "pick": "костюм сеннъе джарашады костюм тебе идёт",
+      "confidence": "high",
+      "note": "Bold 'сеннъе' looks like 'сеииъе'; real word used. 'идё[т]' is slightly cut at the edge."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "киши бла джарашмагъан неуживчивый; хар ким",
+     "pass2": "киши бла джарашмагъан неуживчивый; хар ким",
+     "final": "киши бла джарашмагъан неуживчивый; хар ким",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (у края видна запятая). y≈0.51, ×10 (local/s17_img2/zoom/p230_rs8z.png): «неуживчивый» читается, после — хвост знака у обреза. На обрезе у корешка от знака виден только хвост под строкой (верхняя точка «;» стоит правее и ушла за обрез); так же выглядят концы строк с заведомыми запятыми (наладилось, упорядоченный, ладить, мирно), то есть по пикселям «;» и «,» здесь не различить. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-21",
+      "pick": "киши бла джарашмагъан неуживчивый; хар ким",
+      "confidence": "medium",
+      "note": "After 'неуживчивый' only a comma-like mark is visible at the gutter crop, with no dot. A semicolon is needed for the sense (a new example starts: 'хар ким бла джарашхан'), so it is assumed."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "те, которые ладят; джарашмагъанла те",
+     "pass2": "те, которые ладят[?]; джарашмагъанла те",
+     "final": "те, которые ладят; джарашмагъанла те",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (похоже на «ладит»). y≈0.54, ×20 (local/s17_img2/zoom/p230_ladyat.png): сжатая у края буква — левая черта во всю высоту и соединение с правой только в середине: так сжимается «я» (петля + ножка); у «и» диагональ шла бы снизу слева вверх направо. Грамматика требует мн. ч. («джарашханла» — «те, которые ладят»), в следующем примере без сжатия «те, которые не ладят». После слова — хвост знака у обреза; перед полужирным примером «;». Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-22",
+      "pick": "те, которые ладят; джарашмагъанла те",
+      "confidence": "medium",
+      "note": "After 'ладят' only a comma-like mark is visible at the crop, with no dot. Semicolon assumed: a new example 'джарашмагъанла те...' follows."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "сговариваться с кем, договариваться с кем-чем",
+     "pass2": "сговариваться с кем, договариваться[?] с кем-чем",
+     "final": "сговариваться с кем, договариваться с кем-чем",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (конец строки читается «догона-»). y≈0.56, ×10 (local/s17_img2/zoom/p230_rs9z.png): «догова́-» — сжатая «в» похожа на «н», над «а» знак ударения, дефис виден; след. строка «риваться с кем-чем о чём».",
+     "verifier": {
+      "id": "230-23",
+      "pick": "сговариваться с кем, договариваться с кем-чем",
+      "confidence": "high",
+      "note": "The comma after 'с кем' is clear: 'догова-' / 'риваться с кем-чем о чём;'."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "идти, быть к лицу, гармонировать с чем",
+     "pass2": "идти, быть к лицу, гармонировать с чем",
+     "final": "идти, быть к лицу, гармонировать с чем",
+     "kind": "punct",
+     "confidence": "medium",
+     "evidence": "Сомнение 1-го прохода (лицу) и 2-го (знака после слова не видно). y≈0.585, ×10 (local/s17_img2/zoom/p230_rs9z.png): «лиц» + левая часть «у»; слово «лицу» — высокая уверенность. Знак после него ушёл за обрез целиком; запятая поставлена по смыслу (ряд «идти, быть к лицу, гармонировать с чем»), «;» тоже возможна — уверенность средняя.",
+     "verifier": {
+      "id": "230-24",
+      "pick": "идти, быть к лицу, гармонировать с чем",
+      "confidence": "medium",
+      "note": "'лиц[у]' and the following mark are cut at the gutter edge. 'гармонировать с чем;' is on the next line."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "мне не идёт, не к лицу; джарашмагъан накъырда",
+     "pass2": "мне не идёт, не к лицу; джарашмагъан накъырда",
+     "final": "мне не идёт, не к лицу; джарашмагъан накъырда",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.615, ×10 (local/s17_img2/zoom/p230_rs9z.png): «не к лиц[у]» у обреза, знак за обрезом. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-25",
+      "pick": "мне не идёт, не к лицу; джарашмагъан накъырда",
+      "confidence": "medium",
+      "note": "The scan clearly shows 'ие к лицу' (an и with a diagonal stroke). I read it as the page-wide scan swap of и and н, not a misprint in the book. The ';' after 'лиц[у]' is cut at the edge. The dot before 'накъырда' is a speck."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "нелепая шутка; костюм сеннъе",
+     "pass2": "нелепая шутка; костюм сеннъе",
+     "final": "нелепая шутка; костюм сеннъе",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода. y≈0.627, ×10 (local/s17_img2/zoom/p230_rs10z.png): «шутка» читается целиком, знак за обрезом. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-26",
+      "pick": "нелепая шутка; костюм сеннъе",
+      "confidence": "medium",
+      "note": "'шутк[а]' and the ';' are cut at the gutter edge; the rest is clear."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "осваиваться; обосновываться (где-л.)",
+     "pass2": "осваиваться; обосновываться (где-л.)",
+     "final": "осваиваться; обосновываться (где-л.)",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.652, ×10 (local/s17_img2/zoom/p230_rs10z.png): «обоснóвыватьс» + левая часть «я», след. строка «(где-л.);».",
+     "verifier": {
+      "id": "230-27",
+      "pick": "осваиваться; обосновываться (где-л.)",
+      "confidence": "high",
+      "note": "'обосновыватьс[я]' is cut at the edge; '(где-л.);' starts the next line."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "устроиться на работу; джанъы джерде ~",
+     "pass2": "устроиться на работу; джанъы джерде ~",
+     "final": "устроиться на работу; джанъы джерде ~",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.665, ×10 (local/s17_img2/zoom/p230_rs10z.png): «рабóт[у]» у обреза, знак за обрезом. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-28",
+      "pick": "устроиться на работу; джанъы джерде ~",
+      "confidence": "medium",
+      "note": "'работ[у]' and the ';' are cut at the gutter edge."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "обосноваться на новом месте, освоиться",
+     "pass2": "обосноваться на новом месте, освоиться",
+     "final": "обосноваться на новом месте, освоиться",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.677, ×10 (local/s17_img2/zoom/p230_rs10z.png): «новом» сжато у края, читается; след. строка «месте, освоиться».",
+     "verifier": {
+      "id": "230-29",
+      "pick": "обосноваться на новом месте, освоиться",
+      "confidence": "medium",
+      "note": "The scan shows 'иа новом' (и-shaped glyph), the same scan и/н swap as in 230-25. Real word used. 'месте, освоиться' is clear on the next line."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "(привыкнуть) на новом месте ◊",
+     "pass2": "(привыкнуть) на новом месте ◊",
+     "final": "(привыкнуть) на новом месте ◊",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.69, ×10 (local/s17_img2/zoom/p230_rs10z.png): «новом» сжато у края; след. строка «месте ◊ баргъан джерине».",
+     "verifier": {
+      "id": "230-30",
+      "pick": "(привыкнуть) на новом месте ◊",
+      "confidence": "high",
+      "note": "Here 'на' has a clear horizontal crossbar (н); 'месте ◇' starts the next line."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "тили джарашхан[?] адам общительный человек",
+     "pass2": "тили джарашхан[?] адам общительный человек",
+     "final": "тили джаранхан адам общительный человек",
+     "kind": "kb_word",
+     "confidence": "medium",
+     "evidence": "Сомнения 1-го и 2-го проходов. ОПЕЧАТКА КНИГИ, записано как напечатано (правильно джарашхан). y≈0.728, ×22 и попиксельно (local/s17_img2/zoom/p230_dzharash.png): конец строки «джара» + одна узкая буква + дефис, след. строка «хан адам». Буква — две черты, соединённые только в середине (6 рядов пикселей), вверху и внизу раздельные: это полужирная «н» или «и» (в этом шрифте на скане неразличимы). Это не «ш»: у «ш» три черты и нижняя перекладина (ср. «ш» в «талашды-» у того же края). Нужное слово — джарашхан: «(ауузу-)тили джарашхан» есть в КБРС (qmos ауузу-тили: «~ джарашхан умеющий договориться, умеющий ладить») и во фразеологическом словаре #43 («Ауузу, тили джарашхан — айтырын, сёлеширин билген»). Средняя уверенность относится только к тому, «н» или «и» напечатано; для корпуса нужна правка typo_fixed (→ джарашхан); в корпусе сейчас уже «джарашхан».",
+     "verifier": {
+      "id": "230-31",
+      "pick": "тили джаранхан адам общительный человек",
+      "confidence": "medium",
+      "note": "The glyph before the hyphen in 'джара?-|хан' has two stems with no bottom bar and is narrower than 'а', so it is н/и, not ш. Taken as a book misprint of джарашхан, kept as printed."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "общительный человек; человек, умеющий находить",
+     "pass2": "общительный человек; человек, умеющий находить",
+     "final": "общительный человек; человек, умеющий находить",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнение 1-го прохода. y≈0.74, ×12 (local/s17_img2/zoom/p230_rs11z.png): «человéк» + хвост запятой у края; запятая перед причастным оборотом «умеющий…» обязательна.",
+     "verifier": {
+      "id": "230-32",
+      "pick": "общительный человек; человек, умеющий находить",
+      "confidence": "medium",
+      "note": "The comma after the 2nd 'человек' is only partly visible at the gutter crop. The scan shows 'умеющнй' (scan и/н swap); real word used."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "общий язык [с другими]; ушакъгъа ~",
+     "pass2": "общий язык [с другими]; ушакъгъа ~",
+     "final": "общий язык [с другими]; ушакъгъа ~",
+     "kind": "punct",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.752, ×12 (local/s17_img2/zoom/p230_rs11z.png): «[с другими]» — закрывающая скобка видна у края, знак после неё за обрезом. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-33",
+      "pick": "общий язык [с другими]; ушакъгъа ~",
+      "confidence": "medium",
+      "note": "']' is visible as a bar at the crop and the ';' is cut off. 'общнй' and 'другимн' in the scan are и/н swaps."
+     }
+    },
+    {
+     "sid": 103097,
+     "head": "джарашыргъа",
+     "pass1": "втянуться в беседу; керексиз[?] гурушхачы бюсюреўсюз джарашыр",
+     "pass2": "втянуться в беседу; керексиз[?] гурушхачы бюсюреўсюз джарашыр",
+     "final": "втянуться в беседу; керексиз гурушхачы бюсюреўсюз джарашыр",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов (догадка 1-го прохода «керексизге урушхачы» не подтверждается). y≈0.765, ×20 (local/s17_img2/zoom/p230_kereksiz2.png): «керекс» + сжатое «из»; след. строка — слитно «гурушхачы» (local/s17_img2/zoom/p230_gurush.png). Текст верен: та же пословица в статье КБРС керексиз (qmos керексиз_10897): «~ гурушхачы бюсюреусюз джарашыр погов. легко обижающийся легко мирится»; гурушхачы «обидчивый» (qmos гурушхачы_5725). Помета здесь напечатана «посл.» (видно «пос» + «л», local/s17_img2/zoom/p230_posl.png), в статье керексиз — «погов.»; оставлено как напечатано.",
+     "verifier": {
+      "id": "230-34",
+      "pick": "втянуться в беседу; керексиз гурушхачы бюсюреўсюз джарашыр",
+      "confidence": "medium",
+      "note": "'керекси[з]' is cut at the gutter edge; there is room for only about one hidden glyph. The next line 'гурушхачы бюсюреўсюз джарашыр посл.' is clear."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "баўгъа ~ переход[?] скота на зимнее содержание",
+     "pass2": "баўгъа ~ переход[?] скота на зимнее содержание",
+     "final": "баўгъа ~ переход скота на зимнее содержание",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.815, ×10 (local/s17_img2/zoom/p230_rs12z.png): «перехо» + обломок «д» у обреза; «переход скота на зимнее содержание» — единственное чтение.",
+     "verifier": {
+      "id": "230-35",
+      "pick": "баўгъа ~ переход скота на зимнее содержание",
+      "confidence": "high",
+      "note": "'перехо[д]' is cut at the edge; 'скота на зимнее содержание 2)' is clear."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "орталарында ~ джокъду между ними нет лада",
+     "pass2": "орталарында ~ джокъду[?] между ними нет лада",
+     "final": "орталарында ~ джокъду между ними нет лада",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.835, ×10 (local/s17_img2/zoom/p230_rs12z.png): «джокъд» + обломок «у» (хвост под строкой); джокъду «нет», перевод «между ними нет лада».",
+     "verifier": {
+      "id": "230-36",
+      "pick": "орталарында ~ джокъду между ними нет лада",
+      "confidence": "high",
+      "note": "Bold 'орталарыида' is the bold и/н look-alike; 'джокъд[у]' is cut at the edge. The scan shows 'нимн' (swap) for 'ними'."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "джарашмаў разлад, несогласие; разногласие",
+     "pass2": "джарашмаў разлад[?], несогласие; разногласие",
+     "final": "джарашмаў разлад, несогласие; разногласие",
+     "kind": "punct",
+     "confidence": "medium",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.847, ×10 (local/s17_img2/zoom/p230_rs12z.png): «разлá» + обломок «д» у обреза; слово «разлад» — высокая уверенность (антоним к «лад»). Знак после него ушёл за обрез целиком; запятая по смыслу (пара синонимов «разлад, несогласие», как «дисгармония, диссонанс»), «;» тоже возможна — уверенность средняя.",
+     "verifier": {
+      "id": "230-37",
+      "pick": "джарашмаў разлад, несогласие; разногласие",
+      "confidence": "medium",
+      "note": "'разла[д]' and the comma are cut at the gutter edge; 'несогласие; разногласие;' is clear."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "дисгармония, диссонанс; кёлюгюзге ~ну этейик",
+     "pass2": "дисгармония, диссонанс[?]; кёлюгюзге ~ну этейик",
+     "final": "дисгармония, диссонанс; кёлюгюзге ~ну этейик",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.86, ×10 (local/s17_img2/zoom/p230_rs13z.png): у края «дисс» + обломок «о», дефис за обрезом; след. строка «нáнс; кёлюгюзге» — «;» видна.",
+     "verifier": {
+      "id": "230-38",
+      "pick": "дисгармония, диссонанс; кёлюгюзге ~ну этейик",
+      "confidence": "high",
+      "note": "'дисгармония, дисс[о-]' is cut at the edge / 'нанс; кёлюгюзге ~ну этейик'."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "давайте поступим так, как вам хочется",
+     "pass2": "давайте поступим[?] так, как вам хочется",
+     "final": "давайте поступим так, как вам хочется",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.872, ×10 (local/s17_img2/zoom/p230_rs13z.png): «поступи» + обломок «м» у обреза; след. строка «так, как вам хочется».",
+     "verifier": {
+      "id": "230-39",
+      "pick": "давайте поступим так, как вам хочется",
+      "confidence": "high",
+      "note": "'поступи[м]' is cut at the edge; 'так, как вам хочется;' is clear."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "~ джашаргъа жить в мире; жить в согласии",
+     "pass2": "~ джашаргъа жить[?] в мире; жить в согласии",
+     "final": "~ джашаргъа жить в мире; жить в согласии",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.885, ×10 (local/s17_img2/zoom/p230_rs13z.png): «жи» + обломок у обреза; след. строка «в мире; жить в согласии».",
+     "verifier": {
+      "id": "230-40",
+      "pick": "~ джашаргъа жить в мире; жить в согласии",
+      "confidence": "high",
+      "note": "'жи[ть]' is cut at the edge; 'в мире; жить в согласии 3)' is clear."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "3) сделка, соглашение; багъасына ~ соглашение о цене",
+     "pass2": "3) сделка, соглашение[?]; багъасына ~ соглашение о цене",
+     "final": "3) сделка, соглашение; багъасына ~ соглашение о цене",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.897, ×10 (local/s17_img2/zoom/p230_rs13z.png): «соглашени» + обломок «е»; знак за обрезом. Перед новым полужирным примером КБРС ставит «;»: в qmos «;» перед примером 23 332 раза, «,» — не более 106 (и те в основном ложные срабатывания).",
+     "verifier": {
+      "id": "230-41",
+      "pick": "3) сделка, соглашение; багъасына ~ соглашение о цене",
+      "confidence": "medium",
+      "note": "'соглашени[е]' and the ';' are cut at the gutter edge; the next line is clear (bold 'багъасыиа' is the и/н look-alike)."
+     }
+    },
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "соглашение о цене 4) грам. согласование",
+     "pass2": "соглашение о цене 4) грам.[?] согласование",
+     "final": "соглашение о цене 4) грам. согласование",
+     "kind": "label",
+     "confidence": "high",
+     "evidence": "Сомнения 1-го и 2-го проходов. y≈0.91, ×10 (local/s17_img2/zoom/p230_rs13z.png): курсивное «гра» + обломок «м» у обреза; статья продолжается на с. 231 «согласование; тенъ ~ сочинение 2. 1) приличный…» — сверено со сканом с. 231 (local/s17_img2/zoom/p231_L_top.png), оба прохода совпадают.",
+     "verifier": {
+      "id": "230-42",
+      "pick": "соглашение о цене 4) грам. согласование",
+      "confidence": "medium",
+      "note": "Page 230 ends '4) гра[м.]', cut at the edge. 'согласование;' opens the left column of p. 231, so this stretch runs across the page break."
+     }
+    }
+   ],
+   "disputed": [
+    {
+     "sid": 103098,
+     "head": "джарашыў",
+     "pass1": "2) гармония; примирение; лад, мир",
+     "pass2": "2) гармония[?], примирение; лад, мир",
+     "final": "2) гармония; примирение; лад, мир",
+     "kind": "punct",
+     "confidence": "medium",
+     "evidence": "Расхождение проходов. Правая колонка, y≈0.825, конец строки у корешка: в родном разрешении ×16 (local/s17_img2/zoom/p230_n_garm2.png) видны «гармони» и левая половина «я», дальше скан обрезан — от знака после слова не осталось ничего (ни при zoom 8, ни попиксельно). Решено по строению статьи: КБРС соединяет запятой близкие синонимы и разделяет «;» разные оттенки — здесь «лад, мир» (пара синонимов), антонимы «разлад, несогласие; разногласие; дисгармония, диссонанс», в соседней статье джарашыўлукъ (qmos, с. 231) «согласие, лад, мир; гармоничность; уживчивость» — «гармоничность» отделена «;». «гармония» и «примирение» не синонимы, поэтому «;» вероятнее «,». Видимых данных нет — уверенность средняя.",
+     "verifier": {
+      "id": "230-1",
+      "pick": "2) гармония, примирение; лад, мир",
+      "confidence": "low",
+      "note": "The end of 'гармони[я]' and the mark after it are cut off at the gutter edge of the scan, so the punctuation cannot be seen. Comma is a guess; 'примирение; лад, мир' is clear."
+     }
+    }
+   ],
+   "unresolved": [],
+   "clear_uncertain": [
+    103077,
+    103078,
+    103091
+   ],
+   "notes": "26 статей (103073–103098; джарашыў переходит на с. 231). Проходы расходятся в двух знаках: «устроенный; улаженный» (виден, верен 2-й проход) и знак после «гармония» (ушёл за обрез у корешка; «;» по строению статьи, средняя уверенность). Все сомнения 1-го прохода и [?] 2-го проверены по скану. Правый край правой колонки сжат и обрезан у корешка: знаки в концах строк восстановлены по правилу КБРС («;» перед полужирным примером); знаки после «гармония», «разлад», «быть к лицу» не видны совсем — средняя уверенность, поэтому 103097 и 103098 остаются uncertain. Опечатки книги записаны как напечатано, для корпуса нужна правка typo_fixed: 103097 «тили джаранхан» (надо джарашхан; в корпусе уже джарашхан, переносить final в корпус не надо) и, вероятно, 103079 «полтонну» (в КБРС палтон). 103078 — только помета об ударении. Осторожно с fixups(): у jараш (103097), jараулат (103074), jараулулукъ (103081), jараусуз (103082), jараусузлукъ (103083) uncertain_ocr стоял на статье ТСКБЯ ещё до s17 (a211fd6); у 103077, 103078, 103091 он появился только из s17. Результат: checkpoints/shards/s17/adj/p230.json."
+  },
+  {
+   "page": 231,
+   "articles_compared": 1,
+   "diffs_total": 0,
+   "accepted": [
+    {
+     "sid": 103099,
+     "head": "джарашыўлу",
+     "pass1": "джарашыўлу",
+     "pass2": "джарашыўлу",
+     "final": "джарашыўлў",
+     "kind": "head",
+     "confidence": "high",
+     "evidence": "Относится к полю head (заглавное слово), не к тексту статьи. Оба прохода записали «джарашыўлу»; 2-й чтец отметил, что напечатано «джарашыўлў». Проверено на скане (zoom 8 и 16, local/s17_img2/zoom/p231_adj_head8.png, p231_adj_head16.png): над конечной «у» стоит такая же дужка (бреве), как над первой «ў». Это не знак ударения: ударение в полужирном шрифте печатается косой чёрточкой (ср. «джа́раўлу» на с. 230), а заглавные слова без омонимов здесь ударения не несут (соседнее «джарашыўлукъ» без знака). Значит, напечатано «джарашыўлў» — опечатка книги вместо «джарашыўлу» (аффикс -лу); оставлено как напечатано. Подтверждение правильной формы: в корпусе (06, e_11549) word1_orig «джарашыулу», в ТСКБЯ «жарашыулу»; в русско-КБ словаре (sources/5) «джарашыулу» встречается 20 раз (гармоничный, гибкий). В орфографии корпуса (ў→у) разницы нет, W_print «джарашыулу» не меняется.",
+     "verifier": {
+      "id": "231-0",
+      "pick": "джарашыўлў",
+      "confidence": "high",
+      "note": "Headword at the start of the left-column article (page y about 0.20, followed by '1) приличный, опрятный'). At zoom 8, upscaled 3x, both у letters carry the same symmetric cup-shaped breve, so the word reads шыўлў. The mark is not a slanted acute stress mark. The next headword, джарашыўлукъ, prints a plain у in -лукъ. A breve on the final у is probably a misprint, but it is printed that way, so I kept it."
+     }
+    }
+   ],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [],
+   "notes": "На с. 231 из блока 3 только одна статья — джарашыўлу (sid 103099). Тексты двух проходов совпадают слово в слово, сверка со сканом (zoom 6) это подтверждает; сомнений 1-го прохода нет. Перепроверено только замечание 2-го прохода: заглавное слово напечатано «джарашыўлў» — опечатка книги, на корпус не влияет. Результат записан в D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p231.json"
+  },
+  {
+   "page": 456,
+   "articles_compared": 20,
+   "diffs_total": 0,
+   "accepted": [],
+   "disputed": [],
+   "unresolved": [],
+   "clear_uncertain": [],
+   "notes": "Both passes agree word for word on all 20 articles of p.456 (маймул II through майрышдырыў). The only raw difference is the spacing around || in майор, which is whitespace. doubts_ru.json has no notes for these sids. I checked the right column on the image (crops R2-R4, plus zoom 6 on маймулландырыргъа) and it confirms the shared text: «кеси кесинъи ~» is printed with ъ, and the bold «маймуллаиыр-» is the и/н trap for маймулланыргъа. The result is written to D:/Projects/My_projects/Python/Py_projects/kar-dict/checkpoints/shards/s17/adj/p456.json."
+  },
+  {
+   "page": 457,
+   "articles_compared": 39,
+   "diffs_total": 1,
+   "accepted": [],
+   "disputed": [
+    {
+     "sid": 102026,
+     "head": "макет",
+     "pass1": "китабны ~н макет книги",
+     "pass2": "китабны ~и макет книги",
+     "final": "китабны ~и макет книги",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Скан, левая колонка, x 0.30–0.47, y 0.203–0.217 (local/s17_img2/zoom/p457_maket_z8.png, плюс пиксельная карта в родном разрешении скана ≈242 dpi, 1 бит). Буква после тильды имеет ровную перекладину в 3 строки пикселей, как «н» в «китабны». Но на этой же странице так же выглядит и полужирное «и»: заглавное слово «максимум» на скане читается «макснмум» (p457_maksimum_z8.png), «хатерин» в статье «мал» — «хатернн» (p457_haterin_z8.png), «иши» — «ишн» (кроп p457_R4). В пиксельной карте «и» и соседнее «н» в «хатерин» неотличимы. Значит, скан здесь «и» и «н» не различает (известная ловушка полужирного шрифта), и решает слово. Нужна притяжательная форма «макети»: род. п. «китабны» + 3-е лицо; «макетн» — не слово. Подтверждения: Русско-КБ словарь (sources/5/rus_kb_dict_33040.txt, макет_11631): «~ книги китабны макети»; текстовый слой №42 (тот же РКБС): «книги китабны макети»; ТСКБЯ (06, e_20360, misc2): «томуну макетин». Опечаткой книги это не считаю. Сейчас в корпусе (06, e_20360, misc1) стоит «китабны макетн» — это чтение 1-го прохода, его надо исправить на «макети».",
+     "verifier": {
+      "id": "457-0",
+      "pick": "китабны ~н макет книги",
+      "confidence": "high",
+      "note": "Left column, line 'макет макет||макетный; китабны ~н макет / книги'. A pixel dump at zoom 8 shows one letter after the tilde. It has rectangular counters of constant width above and below a horizontal crossbar at mid-height, the same as the н in 'китабны'. The и in 'китабны' (and in bold 'макинтош') has the diagonal skew instead. Printed '~н', a misprint for the real word ~и (макети), kept as printed."
+     }
+    },
+    {
+     "sid": 102059,
+     "head": "мал",
+     "pass1": "(или хатерин этмеген) байынмаз посл.",
+     "pass2": "(или хатерин этмеген) байынмаз посл.",
+     "final": "(или хатерин этмеген) байынмаз посл.",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Сомнение 2-го прохода (в doubts_ru его нет): «байынмаз[?] — ожидалось байымаз?»; 2-й проход поставил [?], тексты проходов совпадают. Скан, правая колонка, x 0.57–0.75, y 0.869–0.883 (local/s17_img2/zoom/p457_bayynmaz_z8.png, плюс пиксельная карта): напечатано б-а-й-ы-н-м-а-з. Вариант «и» вместо «н» дал бы не-слово «байыимаз». Это не опечатка: «байын-» (байыныргъа «обогащаться; наживаться») — заглавное слово КБРС (06, src1 3079). Отрицательный аорист «байынмаз» есть в пословицах КБРС: «джер сюрмеген байынмаз», «кесиме деген байынмаз», «джарлылыгъын джашыргъан байынмаз». Он же есть в ТСКБЯ («Жарлылыгъын жашыргъан – байынмаз») и во фразеологическом словаре Текеева (текстовый слой №43: «Джарлылыгъын джашыргъан байынмаз»). «байымаз» (от байы-) — другой глагол. Оставить «байынмаз».",
+     "verifier": {
+      "id": "457-1",
+      "pick": "other: (или хатернн этмеген) байынмаз посл.",
+      "confidence": "high",
+      "note": "Right column, near the bottom: '~ кютмеген (или хатернн / этмеген) байынмаз посл. кто не пасёт скот...'. The word has 7 glyphs: х, ат (joined), е, р, then two letters that both have the н shape (rectangular counters, horizontal bar). They match the н in 'байынмаз'. Bold и nearby (both и in 'иеси', the й in 'байынмаз') shows a clear diagonal. So the book prints 'хатернн' (misprint for хатерин), and the option's 'хатерин' is not what is printed. The rest matches: '(или' italic, 'этмеген)', 'байынмаз' with н, 'посл.'"
+     }
+    }
+   ],
+   "unresolved": [],
+   "clear_uncertain": [],
+   "notes": "Проходы расходятся в одном месте (макет: «~н»/«~и»); решено «~и», потому что на этом скане полужирные «и» и «н» неразличимы (заглавное «максимум» выглядит как «макснмум»), а форму «макети» даёт РКБС; сомнение 2-го прохода «байынмаз» снято (засвидетельствованная форма от байын-). В doubts_ru для с. 457 записей нет, 102053 уже решено в ocr_overrides; clear_uncertain пуст, потому что флаги uncertain_ocr у статей этой страницы в корпусе (макулатура, макъам, макъыр, макъырышыу, мал) стоят ещё с 05_merged, то есть пришли со стороны ТСКБЯ, и снимать их по этому чтению нельзя."
+  },
+  {
+   "page": 458,
+   "articles_compared": 41,
+   "diffs_total": 0,
+   "accepted": [
+    {
+     "sid": 102088,
+     "head": "малтамакълыкъ",
+     "pass1": "к малтаргъа рубка (напр. сучьев)",
+     "pass2": "к малтаргъа рубка[?] (напр. сучьев)",
+     "final": "к малтаргъа рубка (напр. сучьев)",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; р-у-б-к are clear and the 5th letter is a narrow а (right stem + small lower bowl). рубка is the noun for рубить (малтаргъа 1) рубить). Pass-2 [?] only. Both passes have the same text.",
+     "verifier": {
+      "id": "458-1",
+      "pick": "к малтаргъа рубка (напр. сучьев)",
+      "confidence": "high",
+      "note": "Printed 'малтамакълыкъ отвлеч. к малтаргъа рубка / (напр. сучьев)'. The last letter of 'рубка' is faint but shows a right stem and a lower-left bowl, which fits а, not и."
+     }
+    },
+    {
+     "sid": 102089,
+     "head": "малтаргъа",
+     "pass1": "крушить врага 2) балк. см. теплерге;",
+     "pass2": "крушить врага 2) балк.[?] см. теплерге;",
+     "final": "крушить врага 2) балк. см. теплерге;",
+     "kind": "label",
+     "confidence": "high",
+     "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; the italic б-а-л-к and the dot are legible. The label pairs with '1) карач.' at the start of the article. The meaning fits: ТСКБЯ малта = 'Топтать кого-что' (06_lextagged, def2) = теплерге. Pass-2 [?] only.",
+     "verifier": {
+      "id": "458-2",
+      "pick": "крушить врага 2) балк. см. теплерге;",
+      "confidence": "high",
+      "note": "Printed 'джаўну ~ крушить врага 2) балк. / см. теплерге; джерни ~'. The small italic 'балк.' at the end of the line was checked letter by letter."
+     }
+    },
+    {
+     "sid": 102092,
+     "head": "малташыргъа",
+     "pass1": "взаимн.-возвр. к малтаргъа рубиться, сечься",
+     "pass2": "взаимн.-возвр. к малтаргъа[?] рубиться, сечься",
+     "final": "взаимн.-возвр. к малтаргъа рубиться, сечься",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; the bold м-а-л-т-а-р-г are clear and are followed by two narrow broken letters, ъ and а. The reference target is the verb малтаргъа (the article two entries above; малташыргъа is its reciprocal). Pass-2 [?] only.",
+     "verifier": {
+      "id": "458-3",
+      "pick": "взаимн.-возвр. к малтаргъа рубиться, сечься",
+      "confidence": "high",
+      "note": "The ending 'гъа' of 'малтаргъа' at the line end is faint, but г, ъ and а can be made out. The next line is 'рубиться, сечься'."
+     }
+    },
+    {
+     "sid": 102094,
+     "head": "малхуння",
+     "pass1": "идиот; дурак, балда м, ж;",
+     "pass2": "идиот; дурак, балда[?] м, ж;",
+     "final": "идиот; дурак, балда м, ж;",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; б-а-л-д (д with its descender) are clear and the 5th letter is a narrow а. The labels 'м, ж' fit the common-gender Russian noun балда. Pass-2 [?] only.",
+     "verifier": {
+      "id": "458-4",
+      "pick": "идиот; дурак, балда м, ж;",
+      "confidence": "high",
+      "note": "Printed 'идиот; дурак, балда / м, ж; ~ болургъа'. In 'балда' the letters 'да' are faint, and there is no comma after the word."
+     }
+    },
+    {
+     "sid": 102099,
+     "head": "малчы",
+     "pass1": "пастух||пастушеский, пастуший 2) животновод",
+     "pass2": "пастух||пастушеский, пастуший[?] 2) животновод",
+     "final": "пастух||пастушеский, пастуший 2) животновод",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; пасту (with a stress mark) is clear, then three narrow letters ш-и-й with a breve over the last one. There is no descender, so it is not щ. пастуший follows пастушеский as its synonym. Pass-2 [?] only.",
+     "verifier": {
+      "id": "458-5",
+      "pick": "пастух||пастушеский, пастуший 2) животновод",
+      "confidence": "high",
+      "note": "Printed 'малчы 1. 1) пастух‖пастушеский, пастуший / 2) животновод, скотовод'. In 'пастуший' the letters 'ший' are faint but legible, including the breve on й."
+     }
+    },
+    {
+     "sid": 102099,
+     "head": "малчы",
+     "pass1": "~ таякъ пастушья палка;",
+     "pass2": "~ таякъ пастушья[?] палка;",
+     "final": "~ таякъ пастушья палка;",
+     "kind": "ru_word",
+     "confidence": "high",
+     "evidence": "zoom 8 (local/s17_img2/zoom/adj458_*.png) and the native 1-bit scan pixels: the end of this line lies on the squeezed/thinned right edge of the right column, so its last letters are narrow and broken but countable; пасту (with a stress mark) is clear, then the narrow ш, ь and я (the я has a diagonal leg). The feminine form agrees with палка. Pass-2 [?] only.",
+     "verifier": {
+      "id": "458-6",
+      "pick": "~ таякъ пастушья палка;",
+      "confidence": "high",
+      "note": "Printed '~ таякъ пастушья / палка; ~ гырджын'. In 'пастушья' the letters 'шья' are faint but ш, ь and я are visible."
+     }
+    }
+   ],
+   "disputed": [
+    {
+     "sid": 102084,
+     "head": "малтай",
+     "pass1": "ча-а ~ ичи[?] болтай чыкъ Тотай",
+     "pass2": "ча-а ~ ичи[?] болтай чыкъ Тотай",
+     "final": "ча-а ~ ичи болтай чыкъ Тотай",
+     "kind": "kb_word",
+     "confidence": "high",
+     "evidence": "Pass-1 doubt (ичи or нчи) re-checked at zoom 8 and on the raw scan bitmap (x 0.465-0.490, y 0.846). The first letter is pixel-for-pixel identical (14x17 px, 0 px difference) to 27 other bold letters on p. 458: 12 of them are и (тейриси x2, минъ, билир x2, тиширыў x2, чибин x2, билимли, -мальдир, эдиле) and 15 are н (аны, къумачны, малгъунлукъ, мальтинлик, малхуння, мамонт, кюннъе, гырджын, ~ны, джаўну, маллыгъын, отунчугъа, бакъгъан, джерине x2). The scan's compression stores bold и and н as one shared shape, so no zoom can tell them apart here. The bar that looked like н carries no information. The third letter is a clearly different и with a visible diagonal. The tie is broken by language: ичи 'its inside' (ич + -и) is a real Karachay-Balkar form, and no Karachay-Balkar word can begin with нч-. Both readers chose ичи. Other sources: the rhyme (малтай / болтай / чыкъ Тотай) occurs nowhere else. 06_lextagged has only this КБРС entry (misc1 'ичи'). rus_kb_dict_33040 has none of these words. In the text layers малтай- appears only as forms of the verb малта- 'trample', and Тотай only as a personal name, a place name or the Virgo constellation (text/05, 23, 43, 50).",
+     "verifier": {
+      "id": "458-0",
+      "pick": "other: ча-а ~ нчи болтай чыкъ Тотай",
+      "confidence": "high",
+      "note": "The first letter is printed as н, not и. At pixel level it has a flat crossbar across the full width, the same shape as the н in bold 'джерни' on this page. The last letter of the same word has a clear diagonal (и). The line reads 'ча-а ~ нчи / болтай чыкъ Тотай'. This is probably a book misprint for 'ичи', but 'нчи' is what is printed."
+     }
+    }
+   ],
+   "unresolved": [],
+   "clear_uncertain": [
+    102084
+   ],
+   "notes": "Both passes read p. 458 identically: 41 articles, 0 differences once [?] marks are ignored. I re-checked the pass-1 doubt and the 6 pass-2 [?] marks on the squeezed right edge: all confirm the shared text, and малтай 'ичи' was decided by language, because this scan stores bold и and н as one identical bitmap (28 copies on the page: 12 и, 15 н and the disputed letter)."
+  }
+ ],
+ "read_failed": []
+}

@@ -1,0 +1,215 @@
+{"batch": "b14", "mapper": "A", "nests": [
+  {"nid": "g0647", "entries": [
+    {"entry_id": "e_18891", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_18892", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_18893", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "къыт1 = КЪЫТ¹ сыф., къыт2 = КЪЫТ² эт.; наше къыт3 (межд. «возглас, которым отгоняют петуха») у Гузеева отсутствует.",
+   "parse_issue": "КЪЫТ¹ 2.: собственно определения нет (только помета [хапар. магъ.]), пример «Мал аш къытды» принят за определение."},
+
+  {"nid": "g0649", "entries": [
+    {"entry_id": "e_18959", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_18960", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_18961", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_18962", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: къышлыкъ1 (пастбище, покос) = КЪЫШЛЫКЪ², къышлыкъ2 (признаки зимы) = КЪЫШЛЫКЪ¹, къышлыкъ4 (грязь на теле) = КЪЫШЛЫКЪ³. Къышлыкъ3 (къарач., къ. къушлукъ) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0650", "entries": [
+    {"entry_id": "e_18969", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "medium",
+   "note_ru": "къыяма = КЪЫЯМА¹ ат. (ТСКБЯ 1 «конец света», 2 «бедствие»; ТСКБЯ 3 «стужа» тоже существительное, ср. у Гузеева «къышны къыямасы» в 1.2). Прилагательного КЪЫЯМА² «суровый, невыносимый» (къыяма сууукъ, къыяма къыш) у нас нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0651", "entries": [
+    {"entry_id": "e_19887", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_19888", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0652", "entries": [
+    {"entry_id": "e_19905", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_19906", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0654", "entries": [
+    {"entry_id": "e_20042", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20043", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0655", "entries": [
+    {"entry_id": "e_20051", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20052", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0656", "entries": [
+    {"entry_id": "e_20186", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20187", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: люу-люу1 (звукоподражание биению сердца) = ЛЮУ-ЛЮУ² эрикл., люу-люу2 (шаткий; «люу-люу эт» качаться) = ЛЮУ-ЛЮУ¹ сыф.",
+   "parse_issue": ""},
+
+  {"nid": "g0657", "entries": [
+    {"entry_id": "e_20216", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20217", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20218", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "МА³: начало примера «*[Идирис Юсюпге:]» попало в определение."},
+
+  {"nid": "g0659", "entries": [
+    {"entry_id": "e_20256", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20257", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20261", "g": [1, 2], "role": "covers_several", "def2_split": "", "def1_split": "before ||→1; after ||→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "магъанасыз1 = МАГЪАНАСЫЗ¹ сыф., магъанасыз2 = МАГЪАНАСЫЗ² сёзл. КБРС-остаток магъанасыз3 дублирует оба: часть до || относится к магъанасыз1, наречия после || к магъанасыз2.",
+   "parse_issue": ""},
+
+  {"nid": "g0660", "entries": [
+    {"entry_id": "e_20263", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20264", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: мадар1 (сущ. «способ, возможность») = МАДАР² ат., мадар2 (глаг., къ. мажар) = МАДАР¹ эт.",
+   "parse_issue": ""},
+
+  {"nid": "g0661", "entries": [
+    {"entry_id": "e_20292", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20293", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20294", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: мадул1 (целинный) = МАДУЛ¹ сыф., мадул2 (целина) = МАДУЛ³ ат., мадул3 (нареч. «впустую») = МАДУЛ² сёзл.",
+   "parse_issue": ""},
+
+  {"nid": "g0663", "entries": [
+    {"entry_id": "e_20332", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20333", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20334", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "май1 = МАЙ¹ (= жау¹), май2 = МАЙ² (месяц); КБРС-шное май3 (подражание блеянию овцы) у Гузеева отсутствует.",
+   "parse_issue": ""},
+
+  {"nid": "g0664", "entries": [
+    {"entry_id": "e_20400", "g": [1, 2], "role": "covers_several", "def2_split": "1,2,3,4,5→1", "def1_split": "1)→2; 2)→1"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш малта объединяет два омонима: КБРС 1) карач. «рубить» = МАЛТА² (къарач.), КБРС 2) балк. «топтать» и все значения ТСКБЯ = МАЛТА¹; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0668", "entries": [
+    {"entry_id": "e_20576", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_20577", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1; но значения «клеймо, марка изделия» (ТСКБЯ 1, КБРС 1) в марка2 у Гузеева нет, по смыслу оно ближе к МАРКА¹.",
+   "parse_issue": ""},
+
+  {"nid": "g0669", "entries": [
+    {"entry_id": "e_20588", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш маркъа = МАРКЪА² «сосун» (ТСКБЯ 1, КБРС) + МАРКЪА¹ сыф. къарач. «крепкий, сильный» (ТСКБЯ 2); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0672", "entries": [
+    {"entry_id": "e_20664", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1", "def1_split": "1),3)→2; 2)→1"},
+    {"entry_id": "e_20665", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "масхара1 = МАСХАРА¹ «насмешка», но КБРС 1) «непорядочная; распутная» и 3) «егоза, непоседа» = МАСХАРА² сыф. къарач., их выделить. масхара2 (глаг., къ. масхарала) = МАСХАРА³.",
+   "parse_issue": ""},
+
+  {"nid": "g0675", "entries": [
+    {"entry_id": "e_21931", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "high",
+   "note_ru": "мёхел = МЁХЕЛ¹ сыф. (ТСКБЯ «ленивый» = 1., КБРС «хмурый, грустный» = 2.); наречия МЁХЕЛ² «уныло, понуро» у нас нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0677", "entries": [
+    {"entry_id": "e_21290", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21291", "g": [1, 2], "role": "covers_several", "def2_split": "all→1", "def1_split": "before ||→2; after ||→1"},
+    {"entry_id": "e_21292", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "МОРТ¹ сыф. у Гузеева = наш морт1 (хрупкий) + из морт2 «гнилой (о зубах)» и КБРС «плесневый» (после ||); КБРС «плесень» (до ||) в морт2 = МОРТ² ат. (= мугут²). морт3 (къ. чорт) = МОРТ³.",
+   "parse_issue": "МОРТ¹ 2.: пример «Морт тишле.» приклеен к определению."},
+
+  {"nid": "g0679", "entries": [
+    {"entry_id": "e_21374", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш мугут = МУГУТ² ат. «плесень» (ТСКБЯ 1) + «в позиции определения: плесневелый» = МУГУТ¹ сыф. (ТСКБЯ 2); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0681", "entries": [
+    {"entry_id": "e_21417", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21418", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21419", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: муккур1 (сущ. «горб») = МУККУР² ат., муккур2 (прил. «горбатый») = МУККУР¹ сыф.; наречия муккур3 (къ. гуппур III) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0683", "entries": [
+    {"entry_id": "e_21493", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "1.1)→2; 1.2),1.3),2.→1"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш мурдар = МУРДАР² ат. «убийца» + «в позиции определения: подлый; дохлый» и КБРС «падаль», «подлый, поганый» = МУРДАР¹ сыф.; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0684", "entries": [
+    {"entry_id": "e_21557", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "all→1"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "ТСКБЯ 2 (в позиции определения: неполноценный, глуповатый) = МУСХАМ¹ сыф. ТСКБЯ 1 «недостаток, изъян» как существительного у Гузеева нет, но его пример «сабий мусхам ёсер» Гузеев даёт как МУСХАМ² сёзл., отсюда 1→2.",
+   "parse_issue": ""},
+
+  {"nid": "g0687", "entries": [
+    {"entry_id": "e_21599", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21600", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21601", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21602", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: мухар1 (сущ. «обжора») = МУХАР² ат., мухар2 (прил. «прожорливый; ёмкий») = МУХАР¹, мухар3 (каракулевый) = МУХАР³; мухар4 «бухарский» у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0690", "entries": [
+    {"entry_id": "e_21661", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21662", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Гузеев объединяет оба «плохой» в МЫЖЫКЪ¹ сыф.: 1. о человеке = мыжыкъ2 ТСКБЯ 2, 2. о лошади = мыжыкъ1 (целиком). мыжыкъ2 ТСКБЯ 1 «мужик» = МЫЖЫКЪ².",
+   "parse_issue": "МЫЖЫКЪ²: помета части речи не распознана (по смыслу ат.)."},
+
+  {"nid": "g0692", "entries": [
+    {"entry_id": "e_21703", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21704", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Порядок другой: мылы1 (сущ. «влага; капля») = МЫЛЫ² ат., мылы2 (прил. «влажный, сырой») = МЫЛЫ¹ сыф.",
+   "parse_issue": ""},
+
+  {"nid": "g0693", "entries": [
+    {"entry_id": "e_21757", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21758", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0695", "entries": [
+    {"entry_id": "e_21789", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21790", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21791", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "мысты1 «кислица» (растение) у Гузеева нет; мысты2 (приправа; кёч. «смысл») = МЫСТЫ² ат., мысты3 (кислый) = МЫСТЫ¹ сыф.",
+   "parse_issue": ""},
+
+  {"nid": "g0696", "entries": [
+    {"entry_id": "e_21842", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [2], "confidence": "high",
+   "note_ru": "мытыр = МЫТЫР¹ сыф. (КБРС «лодырь || ленивый», ТСКБЯ «ленивый»); наречия МЫТЫР² «лениво, нехотя» у нас нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0697", "entries": [
+    {"entry_id": "e_21897", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+    {"entry_id": "e_21898", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""}
+]}

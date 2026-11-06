@@ -18,6 +18,15 @@ Phases (files under checkpoints/shards/s17/, page images under local/s17_img/ �
           the overlap articles against qmos, items.jsonl + s0_in/ batches (S0 prompt)
   plan    s0_out -> plan.json (target corpus entry per article, complex groups -> s4_in/)
   apply   plan (+ s4_out/) -> checkpoints/06_lextagged.jsonl, qa/s17_changes.jsonl
+  lextag  lextag_out_*.json -> 06 (new entries)
+  crops2  crops for the second, independent reading pass (zoom 4, other cut lines; local/s17_img2/)
+  fixups  ocr_fixes.json (corrections confirmed by the second pass: workflow kbrs-second-pass —
+          pass 2 in ocr2/, adjudication in adj/, summary pass2_result.json) -> 06, qa/s17_fixes.jsonl;
+          book misprints keep the right word + source_typo_fixed; uncertain_ocr cleared only where s17
+          set it (pre_s17_uncertain.json = flags of the ТСКБЯ side before s17, from git a211fd6)
+  review  review_queues/kbrs_blocks_review.xlsx: sheet 1 = the linguist's questions with the answers
+          (В1–В4, all answered), the rest is reference (fixes, not visible on the scan, homonyms for step 3)
+After fixups run `s13_corpus_fixes.py voicing2` (the scan raw texts carry «~гъу» too) and the export chain.
 """
 import json, re, sys, argparse, difflib, unicodedata
 from pathlib import Path
@@ -41,25 +50,34 @@ BLOCKS = {1: {"pages": [42, 43, 44, 45], "after": 1000, "before": 1001},
 # column pieces as page fractions: x0, x1 per column, y ranges overlap by ~3 % (2–3 lines)
 COLS = {"L": (0.0, 0.515), "R": (0.485, 1.0)}
 ROWS = [(0.040, 0.370), (0.340, 0.670), (0.640, 0.975)]
+# second, independent reading pass (survey: «два прохода»): other zoom and other cut lines,
+# so that the two readers never see the same image
+IMG2 = ROOT / "local" / "s17_img2"
+COLS2 = {"L": (0.0, 0.52), "R": (0.48, 1.0)}
+ROWS2 = [(0.040, 0.290), (0.265, 0.515), (0.490, 0.740), (0.715, 0.975)]
 
 
 # ------------------------------------------------------------------ crops
-def crops(zoom=3.0):
+def crops(zoom=3.0, cols=COLS, rows=ROWS, out=IMG):
     import fitz
-    IMG.mkdir(parents=True, exist_ok=True)
+    out.mkdir(parents=True, exist_ok=True)
     doc = fitz.open(PDF)
     n = 0
     for b in BLOCKS.values():
         for p in b["pages"]:
             pg = doc[p - 1]
             r = pg.rect
-            for c, (x0, x1) in COLS.items():
-                for i, (y0, y1) in enumerate(ROWS, 1):
+            for c, (x0, x1) in cols.items():
+                for i, (y0, y1) in enumerate(rows, 1):
                     clip = fitz.Rect(r.width * x0, r.height * y0, r.width * x1, r.height * y1)
                     pix = pg.get_pixmap(matrix=fitz.Matrix(zoom, zoom), clip=clip)
-                    pix.save(IMG / f"p{p:03d}_{c}{i}.png")
+                    pix.save(out / f"p{p:03d}_{c}{i}.png")
                     n += 1
-    print(json.dumps({"crops": n, "dir": str(IMG)}))
+    print(json.dumps({"crops": n, "dir": str(out)}))
+
+
+def crops2():
+    crops(4.0, COLS2, ROWS2, IMG2)
 
 
 # ------------------------------------------------------------------ prep
@@ -459,6 +477,86 @@ def lextag():
     print(json.dumps({"lextagged": n}))
 
 
+# ------------------------------------------------------------------ fixups
+def corpus_form(fragment, it):
+    """a fragment of the printed text (1989 orthography, ~) -> the form it has in the corpus fields"""
+    t = to_corpus_orth(fragment.replace("[?]", ""))
+    t = re.sub(r"\s*◊\s*", "; ", t)
+    return " ".join(kj(expand_tilde(t, it["W_print"], it["decl"])).split())
+
+
+def fixups():
+    """second reading pass (workflow kbrs-second-pass, 2026-11-06): corrections confirmed by the
+    adjudicator AND a blind verifier -> corpus fields of the entries carrying the sid.
+    checkpoints/shards/s17/ocr_fixes.json: {"fixes": [{sid, head, old, new, kind, typo, note_ru}],
+    "clear_uncertain": [sid, ...]}.  old/new are printed-text fragments (1989 orthography, ~).
+    typo=true: a misprint of the book — `new` is the right word, the entry gets source_typo_fixed
+    (the corpus may already have it: pass 1 often read the intended word).
+    uncertain_ocr is cleared only where s17 set it: entries flagged before s17 (pre_s17_uncertain.json,
+    the ТСКБЯ side) keep it.  Idempotent; fragments not found are reported, not forced."""
+    fx = json.load(open(S17 / "ocr_fixes.json", encoding="utf-8"))
+    pre = json.load(open(S17 / "pre_s17_uncertain.json", encoding="utf-8"))
+    pre_ids, pre_src2 = set(pre["entry_ids"]), set(pre["src2"])
+    items = {r["sid"]: r for r in load_jsonl(S17 / "items.jsonl")}
+    es = load_jsonl(F06)
+    by_sid = defaultdict(list)
+    for e in es:
+        for s in e.get("src1") or []:
+            if int(s) in items:
+                by_sid[int(s)].append(e)
+    log, touched, status = [], set(), Counter()
+    for f in fx["fixes"]:
+        it = items[f["sid"]]
+        old_c, new_c = corpus_form(f["old"], it), corpus_form(f["new"], it)
+        rec = dict(f, old_corpus=old_c, new_corpus=new_c)
+        if f["kind"] == "head":
+            rec["status"] = "head_note"              # printed headword: a note for the review, no text change
+        elif old_c == new_c:
+            rec["status"] = "same_in_corpus"         # e.g. only ў/у or a stress mark differed
+        else:
+            fields = [(e, k) for e in by_sid[f["sid"]] for k in ("tags", "def1", "misc1")]
+            if any(new_c in (e.get(k) or "") for e, k in fields):
+                rec["status"] = "already"
+            else:
+                hits = [(e, k) for e, k in fields if old_c in (e.get(k) or "")]
+                for e, k in hits:
+                    e[k] = e[k].replace(old_c, new_c, 1)
+                    touched.add(e["entry_id"])
+                rec["status"] = "applied" if hits else "not_found"
+                rec["entries"] = [f"{e['word']}.{k}" for e, k in hits]
+            if f.get("typo") and rec["status"] in ("applied", "already"):
+                for e in by_sid[f["sid"]]:
+                    if any(new_c in (e.get(k) or "") for k in ("tags", "def1", "misc1")):
+                        e.setdefault("flags", [])
+                        if "source_typo_fixed" not in e["flags"]:
+                            e["flags"].append("source_typo_fixed")
+                            touched.add(e["entry_id"])
+                        rec.setdefault("typo_flagged", []).append(e["word"])
+        status[rec["status"]] += 1
+        log.append(rec)
+    clear = set(fx.get("clear_uncertain") or [])
+    cleared, kept = 0, []
+    for e in es:
+        scan = {int(s) for s in e.get("src1") or [] if int(s) in items}
+        if scan and scan <= clear and "uncertain_ocr" in (e.get("flags") or []):
+            if e["entry_id"] in pre_ids or set(e.get("src2") or []) & pre_src2:
+                kept.append(e["word"])               # the ТСКБЯ half has its own OCR doubt
+                continue
+            e["flags"].remove("uncertain_ocr")
+            touched.add(e["entry_id"])
+            cleared += 1
+    for e in es:
+        if e["entry_id"] in touched:
+            for k in SUB:
+                e.pop(k, None)
+    save_jsonl(F06, es)
+    save_jsonl(CK / "qa" / "s17_fixes.jsonl", log)
+    print(json.dumps({"fixes": len(log), "status": status, "uncertain_ocr_cleared": cleared,
+                      "uncertain_ocr_kept_tskbya_side": kept, "entries_touched": len(touched),
+                      "not_found": [(r["sid"], r["head"], r["old_corpus"]) for r in log if r["status"] == "not_found"]},
+                     ensure_ascii=False, indent=1, default=dict))
+
+
 # ------------------------------------------------------------------ review
 # judgement calls of the S4 merge agents (their reports, 2026-11-05), shown to the linguist; key = sid
 S4_NOTES = {
@@ -482,26 +580,52 @@ S4_NOTES = {
 }
 
 
+# answered by the linguist in chat: В1–В3 2026-11-05 (applied in s16_linguist_answers.py),
+# В4 2026-11-06 (fixes of the 2nd reading, ocr_fixes.json via `fixups`)
+ANSWERED = [
+    ("В1", "jапхыч («вьюшка, задвижка (печи)») — вариант jабхыч? Слить с jабхыч1?",
+     "слито с jабхыч1", "Да."),
+    ("В2", "акъ: значение «3) ист. белый, белогвардеец» — у акъ2 (сущ., как в КБРС) или у акъ1 (прил., как в ТСКБЯ)?",
+     "«ист. белый» — у акъ1; к акъ1 добавлено «акъ гвардиячы белогвардеец»",
+     "Белогвардеец — «акъ гвардиячы»."),
+    ("В3", "Опечатки книги исправлены: «акълатдырыгъа» → акълатдырыргъа, «чачхан» → чычхан "
+           "(макъыргъан киштик чычхан тутмаз). Согласны?", "исправлено", "Да."),
+    ("В4", "При втором чтении нашлись ещё опечатки книги. В корпусе поставлено правильное слово (как в В3):\n"
+           "а) акъсакъал II: «акъсакъалны къач къанчыгы» (осенний мешок аксакала) → къапчыгъы "
+           "(мешок = къапчыкъ; в статье къач есть «къач къапчыкъ»);\n"
+           "б) джараўлукъ I: «бу полтонну джараулугъу къалмагъанды» → палтонну (в книге везде «палтон»);\n"
+           "в) джараў III: «организмны кеси джарауу» (естественные отправления организма) → организмни "
+           "(так книга пишет в других статьях);\n"
+           "г) акъыл: «~инъдан кетер» → акъылынгдан кетер; «~ыма кирмейдя» → акъылыма кирмейди;\n"
+           "д) джарашыргъа: «тили джаранхан адам» → джарашхан.\n"
+           "Согласны?", "исправлено, флаг source_typo_fixed", "Да (6 ноября)."),
+]
+RESOLVED_S4 = {101013, 103020}          # S4 notes settled by В1/В2
+
+
 def review():
     from openpyxl import Workbook
     from openpyxl.styles import Font, PatternFill, Alignment
-    yel, hdr = PatternFill("solid", start_color="FFF3B0"), Font(bold=True)
+    grey = PatternFill("solid", start_color="EEEEEE")
+    bold, wrap = Font(bold=True), Alignment(wrap_text=True, vertical="top")
 
-    def sheet(wb, title, header, rows, widths, verdict=True):
-        ws = wb.create_sheet(title)
-        ws.append(header + (["ВЕРДИКТ"] if verdict else []))
-        for c in ws[1]:
-            c.font = hdr
+    def text(ws, lines, col=2):
+        """paragraphs in a wide column (B), wrapped; col=1: one unwrapped line spilling to the right"""
+        for ln in lines:
+            ws.append([""] * (col - 1) + [ln])
+            if col > 1:
+                ws.cell(ws.max_row, col).alignment = wrap
+
+    def table(ws, header, rows, widths):
+        ws.append(header)
+        for c in ws[ws.max_row]:
+            c.font = bold
         for r in rows:
-            ws.append(list(r) + ([""] if verdict else []))
-        for i, w in enumerate(widths + ([28] if verdict else [])):
+            ws.append(list(r))
+            for c in ws[ws.max_row]:
+                c.alignment = wrap
+        for i, w in enumerate(widths):
             ws.column_dimensions[chr(65 + i)].width = w
-        for row in ws.iter_rows(min_row=2):
-            for c in row:
-                c.alignment = Alignment(wrap_text=True, vertical="top")
-            if verdict:
-                row[-1].fill = yel
-        ws.freeze_panes = "B2"
 
     def short(s, n=220):
         s = s or ""
@@ -509,78 +633,121 @@ def review():
 
     es = load_jsonl(F06)
     items = {r["sid"]: r for r in load_jsonl(S17 / "items.jsonl")}
-    rep = json.load(open(S17 / "prep_report.json", encoding="utf-8"))
     overrides = json.load(open(S17 / "ocr_overrides.json", encoding="utf-8"))
-    doubts_ru = json.load(open(S17 / "doubts_ru.json", encoding="utf-8"))
-    miss = [sid for sid, it in items.items() if it.get("doubt") and str(sid) not in doubts_ru]
-    assert not miss, f"doubts without a Russian note in doubts_ru.json: {miss}"
+    fx = json.load(open(S17 / "ocr_fixes.json", encoding="utf-8"))
+    fixlog = load_jsonl(CK / "qa" / "s17_fixes.jsonl")
+    res = json.load(open(S17 / "pass2_result.json", encoding="utf-8"))
+    still = fx.get("still_uncertain_ru") or {}
     by_sid = defaultdict(list)
     for e in es:
         for s in e.get("src1") or []:
             if int(s) in items:
                 by_sid[int(s)].append(e)
-    rows, doubt_rows = [], []
+
+    def printed(sid):
+        it = items[sid]
+        return it["head_printed"] + (f" {it['hom']}" if it["hom"] else "")
+
+    def words(sid):
+        return ", ".join(e["word"] for e in by_sid[sid]) or "—"
+
+    typo = {int(k) for k, v in overrides.items() if v.get("typo_fixed")} | \
+           {r["sid"] for r in fixlog if r.get("typo") and r["status"] in ("applied", "already")}
+    fixed2 = {r["sid"] for r in fixlog if r["status"] == "applied"}
+    n_cmp = sum(p["articles_compared"] for p in res["pages"])
+    n_diff = sum(p["diffs_total"] for p in res["pages"])
+    n_acc = sum(len(p["accepted"]) for p in res["pages"])
+    n_dis = sum(len(p["disputed"]) for p in res["pages"])
+
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Что нужно"
+    ws.append(["Шаг 2 обзора: 299 статей КБРС-1989, потерянных выгрузкой qmos, прочитаны со скана "
+               "(с. 42–45, 228–231, 456–458) и уже внесены в корпус"])
+    ws["A1"].font = Font(bold=True, size=12)
+    text(ws, [
+        "",
+        "От вас больше ничего не нужно: на все четыре вопроса вы ответили в чате (В1–В3 — 5 ноября, В4 — 6 ноября), "
+        "ответы вписаны в таблицу ниже. Остальные листы — справка.",
+        f"Как проверено: каждую страницу прочитали дважды, независимо (второй раз — при большем увеличении). "
+        f"Чтения разошлись в {n_diff} местах на {n_cmp} статей. Каждое расхождение и каждое сомнение разобрано по скану "
+        f"и подтверждено слепой проверкой ({n_acc} решений). Ещё в {n_dis} местах проверяющие разошлись только в том, "
+        "что именно видно на скане (полужирные «и» и «н» на нём неразличимы, знак у края срезан); слово в корпусе "
+        "от этого не меняется, кроме «китабны макети» — исправлено.",
+        "",
+    ])
+    table(ws, ["№", "Вопрос", "Что сейчас в корпусе", "Ваш ответ"],
+          ANSWERED, [6, 100, 40, 30])
+    for row in ws.iter_rows(min_row=ws.max_row - len(ANSWERED) + 1, max_row=ws.max_row):
+        row[3].fill = grey
+    text(ws, ["", "Листы-справки:",
+              "«Поправки» — что исправлено в тексте после обоих чтений (опечатки книги и ошибки чтения);",
+              "«Не видно на скане» — 3 места, где знак препинания срезан краем скана, восстановлен по строению статьи;",
+              "«Омонимы (шаг 3)» — как статьи КБРС распределены между омонимами ТСКБЯ; проверим по словарю омонимов "
+              "Гузеева на шаге 3, сейчас отвечать не нужно;",
+              "«Все статьи» — все 299 статей: как напечатано и что стало в корпусе."])
+
+    ws = wb.create_sheet("Поправки")
+    rows = []
+    for k, v in sorted(overrides.items()):
+        sid = int(k)
+        rows.append((items[sid]["page"], printed(sid), words(sid), "опечатка книги" if v.get("typo_fixed") else "набор",
+                     v["note"], "1-е"))
+    status_ru = {"applied": "исправлено", "already": "в корпусе уже верно", "head_note": "только заглавное слово",
+                 "same_in_corpus": "в корпусе разницы нет"}
+    for r in fixlog:
+        sid = r["sid"]
+        what = "опечатка книги" if r.get("typo") else "ошибка 1-го чтения"
+        change = "" if r["status"] == "head_note" else f"{r['old_corpus']} → {r['new_corpus']}"
+        head = (r["old"] if r.get("typo") else r["new"]) if r["kind"] == "head" else printed(sid)
+        rows.append((items[sid]["page"], head, words(sid), what,
+                     " ".join(filter(None, [change and f"«{change}»", f"({status_ru[r['status']]})", r.get("note_ru")])),
+                     "2-е"))
+    table(ws, ["стр.", "как напечатано", "в корпусе", "что это", "было → стало, почему", "чтение"], rows,
+          [6, 24, 22, 20, 100, 8])
+    ws.freeze_panes = "A2"
+
+    ws = wb.create_sheet("Не видно на скане")
+    table(ws, ["стр.", "как напечатано", "в корпусе", "что не видно и как решено"],
+          [(items[int(k)]["page"], printed(int(k)), words(int(k)), v) for k, v in sorted(still.items())],
+          [6, 24, 30, 100])
+
+    ws = wb.create_sheet("Омонимы (шаг 3)")
+    text(ws, ["Как одна статья КБРС распределена между омонимами ТСКБЯ (решения агентов слияния). "
+              "Проверим по словарю омонимов Гузеева на шаге 3 — сейчас отвечать не нужно.", ""], col=1)
+    table(ws, ["стр.", "как напечатано", "в корпусе", "как распределено"],
+          [(items[sid]["page"], printed(sid), words(sid), note)
+           for sid, note in sorted(S4_NOTES.items()) if sid not in RESOLVED_S4],
+          [6, 24, 40, 100])
+
+    ws = wb.create_sheet("Все статьи")
+    rows = []
     for sid, it in sorted(items.items(), key=lambda x: (x[1]["block"], x[0])):
         ents = by_sid[sid]
-        words = ", ".join(e["word"] for e in ents)
         if len(ents) > 1:
             what = f"разделена между {len(ents)} омонимами ТСКБЯ"
         elif ents and ents[0]["dict_id"] == "both":
             what = "слита со статьёй ТСКБЯ (получила русский перевод КБРС)"
         else:
             what = "новая статья (только КБРС)"
-        flags = sorted({f for e in ents for f in e.get("flags") or []}
-                       & {"uncertain_ocr", "needs_review", "source_typo_fixed", "split_def1", "ref_only"})
-        printed = it["head_printed"] + (f" {it['hom']}" if it["hom"] else "")
-        note = " | ".join(filter(None, [overrides.get(str(sid), {}).get("note", ""), *doubts_ru.get(str(sid), []),
-                                        S4_NOTES.get(sid, "")]))
-        row = (it["block"], it["page"], printed, words, what, short(ents[0].get("def1") if ents else ""),
-               short(it["raw"], 300), ", ".join(flags), note)
-        rows.append(row)
-        if note or "needs_review" in flags:
-            doubt_rows.append(row)
-    wb = Workbook()
-    ws = wb.active
-    ws.title = "Инструкция"
-    b = {k: v for k, v in rep.items() if k.startswith("block")}
-    ws.append(["Шаг 2 обзора: три блока КБРС-1989, потерянные выгрузкой qmos, прочитаны с печати (5 ноября 2026)"])
-    ws["A1"].font = Font(bold=True, size=12)
-    for line in [
-        "",
-        "Что сделано. Выгрузка qmos шла «страницами» по 100 статей; три такие страницы пропали. "
-        f"Их статьи прочитаны со скана книги (с. 42–45, 456–458, 228–231): {b['block1']['gap']} + {b['block2']['gap']} + {b['block3']['gap']} = "
-        f"{rep['items']} статей, ровно между соседними ключами qmos. Дальше — обычный путь словаря 1: разбор на поля (S0), "
-        "слияние со статьями ТСКБЯ и омонимами (S4), метка тематики.",
-        "Точность чтения. Статья «акъыл», прочитанная и сверенная с печатью при обзоре, совпала с новым чтением на 99,98 % "
-        "(2 расхождения на 1 018 слов). Статьи тех же страниц, которые в qmos есть, совпали с qmos в среднем на 97–98 %; "
-        "разница — в основном ошибки старого распознавания qmos (хлопкоподческий → хлопководческий).",
-        "Орфография приведена к словарю 1: ў → у, нъ → нг, ударения сняты, знак ◊ заменён разделителем «;» (в qmos его нет).",
-        "Флаги: uncertain_ocr — у агента было сомнение в чтении (часто правый край с. 230 сжат на скане); "
-        "source_typo_fixed — исправлена опечатка книги; split_def1 — одна статья КБРС разделена между омонимами ТСКБЯ; "
-        "needs_review — спорное слияние.",
-        "",
-        "Листы: 1_Статьи — все прочитанные статьи и что с ними стало; 2_Спорное — только статьи с пометками. "
-        "Жёлтый столбец «ВЕРДИКТ»: пусто = согласен.",
-        "",
-        "Вопросы:",
-        "В1. jапхыч («вьюшка, задвижка (печи)») — вариант jабхыч? Слить с jабхыч1?",
-        "В2. акъ: значение «3) ист. белый, белогвардеец» оставить у акъ2 (сущ., как в КБРС) или перенести к акъ1 (прил., как в ТСКБЯ)?",
-        "В3. Опечатки книги исправлены: «акълатдырыгъа» → акълатдырыргъа, «чачхан» → чычхан (макъыргъан киштик чычхан тутмаз). Согласны?",
-    ]:
-        ws.append([line])
-        ws.cell(ws.max_row, 1).alignment = Alignment(wrap_text=True, vertical="top")
-    ws.column_dimensions["A"].width = 140
-    hdr_cols = ["блок", "стр.", "как напечатано", "в корпусе", "что стало", "def1 в корпусе", "текст со скана", "флаги", "заметки"]
-    widths = [6, 6, 22, 22, 26, 45, 60, 22, 50]
-    sheet(wb, "1_Статьи", hdr_cols, rows, widths)
-    sheet(wb, "2_Спорное", hdr_cols, doubt_rows, widths)
+        mark = "; ".join(filter(None, [
+            "опечатка книги исправлена" if sid in typo else "",
+            "исправлено при 2-м чтении" if sid in fixed2 and sid not in typo else "",
+            "знак не виден на скане" if str(sid) in still else ""]))
+        rows.append((it["block"], it["page"], printed(sid), words(sid), what,
+                     short(ents[0].get("def1") if ents else ""), short(it["raw"], 300), mark))
+    table(ws, ["блок", "стр.", "как напечатано", "в корпусе", "что стало", "перевод в корпусе", "текст со скана", "пометка"],
+          rows, [6, 6, 22, 22, 28, 45, 60, 26])
+    ws.freeze_panes = "C2"
     out = CK / "review_queues" / "kbrs_blocks_review.xlsx"
     wb.save(out)
-    print(json.dumps({"file": str(out), "articles": len(rows), "disputed": len(doubt_rows)}, ensure_ascii=False))
+    print(json.dumps({"file": str(out), "articles": len(rows), "fixes_sheet": len(fixlog) + len(overrides),
+                      "not_visible": len(still)}, ensure_ascii=False))
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("phase", choices=["crops", "prep", "plan", "apply", "lextag", "review"])
+    ap.add_argument("phase", choices=["crops", "crops2", "prep", "plan", "apply", "lextag", "fixups", "review"])
     a = ap.parse_args()
-    {"crops": crops, "prep": prep, "plan": plan, "apply": apply, "lextag": lextag, "review": review}[a.phase]()
+    {"crops": crops, "crops2": crops2, "prep": prep, "plan": plan, "apply": apply, "lextag": lextag,
+     "fixups": fixups, "review": review}[a.phase]()

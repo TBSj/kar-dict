@@ -1,0 +1,764 @@
+{
+ "batch": "u10",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g0627",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18458",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 2→2",
+     "def1_split": "1),2)→1; 3),4)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0631",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18543",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,6→1; 5→2",
+     "def1_split": "1)-5),7)→1; 6)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0633",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18563",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18564",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18565",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_18566",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0635",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18638",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18639",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_19084",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "У КЪЫНГЫР¹ два значения с номером 3 (последнее, 'Бир жанлы, къыйыкъ, жантакъ', должно быть 4)."
+  },
+  {
+   "nid": "g0636",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18673",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_18674",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18675",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18676",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "КЪЫР² знач. 1 начинается с «1. 1.» (номер продублирован)."
+  },
+  {
+   "nid": "g0639",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18734",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "whole→1",
+     "def1_split": "whole→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0640",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18743",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→1; 3→2 (и ТСКБЯ KB 2 'къ. мадул'→2)"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0642",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18775",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_18776",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "2→2 (ТСКБЯ KB 1 'понуд. к къыс 2'→1)",
+     "def1_split": "1)-3),5)→1; 4)→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0647",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18891",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18892",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_18893",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "КЪЫТ¹ 2.: собственно определения нет (только помета [хапар. магъ.]), пример «Мал аш къытды» принят за определение."
+  },
+  {
+   "nid": "g0649",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_18959",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_18960",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "whole→1 (ТСКБЯ «Свойства, признаки зимы» с KB)",
+     "def1_split": "КБРС пример «мында къышны не къышлыгъы барды? здешняя зима разве зима?»→1; КБРС пример «къышлыкъ бичен сено назиму»→2"
+    },
+    {
+     "entry_id": "e_18961",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_18962",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "low",
+   "note_ru": "В къышлыкъ2 (КЪЫШЛЫКЪ¹ «признаки зимы») есть КБРС-пример «къышлыкъ бичен — сено назиму»: это не «признаки зимы», а сено на зимовку, с покоса, т.е. ближе всего КЪЫШЛЫКЪ² (зимнее пастбище, покос). Поэтому къышлыкъ2 = КЪЫШЛЫКЪ¹ + этот пример к КЪЫШЛЫКЪ² (covers_several), а къышлыкъ1 — part_of КЪЫШЛЫКЪ²; остальное как в согласованном чтении.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0650",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_18969",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0656",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_20186",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_20187",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1 «Шаткий, качающийся»→1; 2 «Качаться, шататься» (◊ люу-люу эт 2. «Чайкъал, къымылда»)→1 (по смыслу; можно и к 2); ТСКБЯ KB ◊ «Люу-люу эт усиленно биться (о сердце) / Жюрекни терен тебиуюн, урууун билдиреди» с примером «…Жюрегим люу-люу этип…»→2",
+     "def1_split": "all→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "В люу-люу2 (ТСКБЯ) есть фразеологизм «◊ Люу-люу эт усиленно биться (о сердце) / Жюрекни терен тебиуюн, урууун билдиреди» (в показанном тексте обрезан на «усиленно …») — это и есть ЛЮУ-ЛЮУ² эрикл. («Жюрекни тебиуюн билдиреди. Люу-люу эт»). Значит люу-люу2 надо разделить (шаткий, качаться → 1; биться о сердце → 2), а люу-люу1 становится part_of ЛЮУ-ЛЮУ².",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0659",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_20256",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_20257",
+     "g": [
+      2
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_20261",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def1_split": "before ||→1; after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0660",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_20263",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_20264",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0661",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_20292",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_20293",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_20294",
+     "g": [
+      2
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0664",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_20400",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1,2,3,4,5→1",
+     "def1_split": "1)→2; 2)→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0669",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_20588",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0675",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21931",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0677",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21290",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_21291",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→1",
+     "def1_split": "before ||→2; after ||→1"
+    },
+    {
+     "entry_id": "e_21292",
+     "g": [
+      3
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "МОРТ¹ 2.: пример «Морт тишле.» приклеен к определению."
+  },
+  {
+   "nid": "g0679",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21374",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0681",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21417",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_21418",
+     "g": [
+      1
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_21419",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0683",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21493",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "1.1)→2; 1.2),1.3),2.→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0687",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_21599",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→2",
+     "def1_split": "«обжора»→2; КБРС пример «мухар адам шхууурну сакълар…»→1 (у Гузеева это пример МУХАР¹ сыф.); остальные пословицы («мухар ашаб керилмез…», «мухарны бир тойгъаны…», «мухар кеси тойса да…», «мухарны эси ашарыкъда»)→2"
+    },
+    {
+     "entry_id": "e_21600",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_21601",
+     "g": [
+      3
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_21602",
+     "g": [],
+     "role": "not_in_guzeev"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "В мухар1 (сущ. «обжора» = МУХАР²) лежит КБРС-пословица «мухар адам шхууурну сакълар», которую Гузеев приводит под МУХАР¹ сыф. («Мухар адам ушхууурну сакълар»), т.е. она относится к другому омониму. Поэтому мухар1 = МУХАР² + этот пример к МУХАР¹ (covers_several), мухар2 — part_of МУХАР¹; мухар3 = МУХАР³, мухар4 у Гузеева нет.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0690",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21661",
+     "g": [
+      1
+     ],
+     "role": "part_of"
+    },
+    {
+     "entry_id": "e_21662",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "all→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": "МЫЖЫКЪ²: помета части речи не распознана (по смыслу ат.)."
+  },
+  {
+   "nid": "g0695",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_21789",
+     "g": [],
+     "role": "not_in_guzeev"
+    },
+    {
+     "entry_id": "e_21790",
+     "g": [
+      2
+     ],
+     "role": "same"
+    },
+    {
+     "entry_id": "e_21791",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0700",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_22056",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "all→1",
+     "def1_split": "all→1; КБРС пример «намыссыз джюрюу непорядочное поведение, непристойное поведение»→2 (наречие при отглагольном имени, ср. у Гузеева НАМЫССЫЗ² «Кесин намыссыз жюрютюу», «Намыссыз сёлешиу»); «намыссыз сёзле циничные слова»→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "low",
+   "note_ru": "Среди КБРС-примеров (в показанном тексте их не было) есть «намыссыз джюрюу — непорядочное поведение»: по Гузееву определение при отглагольном имени — наречие (НАМЫССЫЗ²: «Кесин намыссыз жюрютюу», «Намыссыз сёлешиу»; ср. «магъанасыз сёлешиу бессмысленный разговор» в КБРС). Значит, НАМЫССЫЗ² у нас есть как пример (как «сюзюлме кёзле» в образце), и g_missing неверен: разделить, этот пример → 2, остальное → 1.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0701",
+   "verdict": "wrong",
+   "entries": [
+    {
+     "entry_id": "e_22133",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1 (до //) и 2→1; подзначение «// Выражающий счастье, вызванный счастьем» (ТСКБЯ KB «// Насыплылыкъны билдирген, насыпны кючю бла болгъан. Сабийлени насыплы ышарыуларын кёрсем, кёлюм кётюрюледи»)→2",
+     "def1_split": "all→1"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "У ТСКБЯ 1 есть подзначение «// Выражающий счастье, вызванный счастьем» с примером «Сабийлени насыплы ышарыуларын кёрсем, кёлюм кётюрюледи», и этот же пример Гузеев приводит под НАСЫПЛЫ² сёзл. («…сабийлени насыплы ышаргъанларын кёрсем, кёлюм кётюрюледи»; ср. «Насыплы ышар»). Значит, наречие у нас есть как подзначение, g_missing неверен: разделить, // → 2, остальное → 1.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0704",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22295",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0705",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22297",
+     "g": [
+      1
+     ],
+     "role": "same"
+    }
+   ],
+   "g_missing": [
+    2
+   ],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g0707",
+   "verdict": "ok",
+   "entries": [
+    {
+     "entry_id": "e_22507",
+     "g": [
+      1,
+      2
+     ],
+     "role": "covers_several",
+     "def2_split": "1→2; 2→1",
+     "def1_split": "before ||→1; after ||→2"
+    }
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

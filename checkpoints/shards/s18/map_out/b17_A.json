@@ -1,0 +1,214 @@
+{"batch": "b17", "mapper": "A", "nests": [
+  {"nid": "g0781", "entries": [
+     {"entry_id": "e_25962", "g": [1, 2], "role": "covers_several", "def2_split": "1,3→1; 2→2", "def1_split": "before ||→1; after ||→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш сепкил = СЕПКИЛ¹ ат. 'веснушка' + «в позиции определения: веснушчатый» (ТСКБЯ 2, КБРС после ||) = СЕПКИЛ² сыф.; разделить. Значения 'родинка' (ТСКБЯ 3) у Гузеева нет — оставлено при ¹.",
+   "parse_issue": ""},
+
+  {"nid": "g0782", "entries": [
+     {"entry_id": "e_25966", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1; 3→2", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "Наш сер = СЕР¹ (ТСКБЯ 2 'избалованный'; ТСКБЯ 1 'глупый' у Гузеева, видимо, передано как 1.2 'махтанчакъ') + СЕР² къарач. 'забывчивый' (ТСКБЯ 3 и весь КБРС); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0783", "entries": [
+     {"entry_id": "e_25990", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2→2", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш серил: ТСКБЯ 1 «къ. серлен» = СЕРИЛ¹, ТСКБЯ 2 и КБРС 'делать до устали, пресытиться' = СЕРИЛ² къарач.; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0784", "entries": [
+     {"entry_id": "e_25998", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": ""},
+     {"entry_id": "e_25999", "g": [1, 3], "role": "covers_several", "def2_split": "all→3", "def1_split": "1) before ||→1; 1) after ||→3; 2)→1"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "сериуюн1 (ТСКБЯ): 1 «къ. салкъын» = СЕРИУЮН² ат., 2 «в позиции определения: прохладный» = СЕРИУЮН¹ сыф. сериуюн2 = СЕРИУЮН³ сёзл., но КБРС-прил. 'медленный, умеренный' (до ||) = СЕРИУЮН¹ 2 [кёч.]; 'грустный, печальный' у Гузеева нет.",
+   "parse_issue": "метка «same as: сел1» относится только к значению 2 СЕРИУЮН¹ (значение 1 — 'салкъын')"},
+
+  {"nid": "g0785", "entries": [
+     {"entry_id": "e_26003", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26004", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0786", "entries": [
+     {"entry_id": "e_26021", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2→2", "def1_split": "1)-3)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш серлен: ТСКБЯ 1 'проявить глупость' = СЕРЛЕН¹ (у Гузеева 2 'махтан', тот же пример с душман), ТСКБЯ 2 къарач. «сер бол²» и все значения КБРС ('становиться забывчивым; теряться; поглупеть') = СЕРЛЕН² къарач.; разделить.",
+   "parse_issue": "метка «same as: сер1» относится только к значению 1 СЕРЛЕН¹"},
+
+  {"nid": "g0791", "entries": [
+     {"entry_id": "e_28239", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_28240", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0792", "entries": [
+     {"entry_id": "e_28241", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_28242", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_28243", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_28244", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "сёзсюз2 = СЁЗСЮЗ¹ сыф. 'лгун', сёзсюз3 = СЁЗСЮЗ² сёзл. 'несомненно' (значения ТСКБЯ 2 'молча' у Гузеева нет). Диал. сёзсюз1 «къ. сёсю» и КБРС-прил. сёзсюз4 'безусловный; безмолвный' у Гузеева отсутствуют.",
+   "parse_issue": ""},
+
+  {"nid": "g0793", "entries": [
+     {"entry_id": "e_28247", "g": [1, 2], "role": "covers_several", "def2_split": "1→2; 2→1", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш сёзчю = СЁЗЧЮ² ат. 'сплетник' (ТСКБЯ 1, КБРС) + «в позиции определения: склочный» (ТСКБЯ 2) = СЁЗЧЮ¹ сыф.; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0794", "entries": [
+     {"entry_id": "e_28249", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_28250", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0795", "entries": [
+     {"entry_id": "e_26106", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26107", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26108", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "сибир1 = СИБИР¹ ат. 'ссылка'. сибир2 (ТСКБЯ; ошибочно помечен сущ./ат., это глагол 'мести') и КБРС-статья сибир3 'мести; перен. красть' вместе = СИБИР² эт.; объединить.",
+   "parse_issue": ""},
+
+  {"nid": "g0796", "entries": [
+     {"entry_id": "e_26162", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26163", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0798", "entries": [
+     {"entry_id": "e_26199", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26200", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26201", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "силти1 = СИЛТИ¹ 'щёлочь, щёлок', силти2 = СИЛТИ² 'мыло из золы и жира'; силти3 'крахмал' (эск.) у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0801", "entries": [
+     {"entry_id": "e_26305", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26306", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26307", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок другой: наш сирке2 'уксус' = СИРКЕ³, наш сирке3 'экзема, лишай' = СИРКЕ².",
+   "parse_issue": ""},
+
+  {"nid": "g0802", "entries": [
+     {"entry_id": "e_26414", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26415", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0803", "entries": [
+     {"entry_id": "e_26441", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26442", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26443", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26444", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "согъуш1 = СОГЪУШ¹ эт., согъуш2 = СОГЪУШ² ат.; согъуш3 и согъуш4 (взаимн.-совм. от сокъ¹ 'ткать' и сокъ² 'играть') у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0805", "entries": [
+     {"entry_id": "e_26523", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26524", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26525", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0806", "entries": [
+     {"entry_id": "e_26586", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26587", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0807", "entries": [
+     {"entry_id": "e_26611", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26612", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26613", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26614", "g": [2], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Гузеев не отделяет имя действия от существительного: солуу1 (и. д. от солу1) + солуу2 'отдых' = СОЛУУ¹; солуу3 (и. д. от солу2) + солуу4 'дыхание' = СОЛУУ².",
+   "parse_issue": ""},
+
+  {"nid": "g0808", "entries": [
+     {"entry_id": "e_26618", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→2", "def1_split": "before ||→1; after ||→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш солуусуз — наречие = СОЛУУСУЗ² сёзл. (ТСКБЯ 1–2); КБРС-прил. 'беспрестанный' (до ||) = СОЛУУСУЗ¹ сыф. (его значения 2 'бездыханный' у нас нет); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0809", "entries": [
+     {"entry_id": "e_26628", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26629", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0810", "entries": [
+     {"entry_id": "e_26680", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26681", "g": [2, 3, 4], "role": "covers_several", "def2_split": "1→3; 2→2; 3→4", "def1_split": "3)→3; 4)→4"},
+     {"entry_id": "e_26682", "g": [4], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "сора1 = СОРА¹ сонг. Наречие сора2 объединяет СОРА³ сёзл. (ТСКБЯ 1 'потом'), СОРА² байл. (2 'в добавление': «…сумка, сора къызыл жулдузу») и СОРА⁴ кес. (3 и КБРС 4) 'тогда, в таком случае'); КБРС-частица сора3 = СОРА⁴.",
+   "parse_issue": "СОРА¹ 2: начало примера («*Сен да, мен да жашайбыз, Бир бирибизге къууана.») попало в определение"},
+
+  {"nid": "g0812", "entries": [
+     {"entry_id": "e_26747", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→2", "def1_split": "before ||→1; after ||→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш соруусуз — наречие = СОРУУСУЗ² сёзл. (ТСКБЯ 1–2; 1 'без допроса' у Гузеева отдельно нет); КБРС-прил. 'самовольный' (до ||) = СОРУУСУЗ¹ сыф.; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0813", "entries": [
+     {"entry_id": "e_26749", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш соруучу: ТСКБЯ 1–2 'следователь; допрашивающий ангел на том свете' = СОРУУЧУ¹ ат., КБРС 'вопросительный' = СОРУУЧУ² сыф. грам.; разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0814", "entries": [
+     {"entry_id": "e_26750", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26751", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26752", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "соруш1 = СОРУШ¹ 'советоваться', соруш2 = СОРУШ² 'остыть; утихнуть'; соруш3 (взаимн.-совм. от сор¹ 'спрашивать друг друга') у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0815", "entries": [
+     {"entry_id": "e_26789", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26790", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "СОХТА¹ 3: «Академик В.В.» (начало примера «Академик В.В. Виноградовну сохталары») попало в определение; в 2 перенос «юйрен- нген»"},
+
+  {"nid": "g0816", "entries": [
+     {"entry_id": "e_26792", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_26793", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0817", "entries": [
+     {"entry_id": "e_26822", "g": [1, 2], "role": "covers_several", "def2_split": "1,5→1; 2,3,4,6,7→2", "def1_split": "1)→1; 2)→2"}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "Наш союм = СОЮМ¹ 'убоина, согъум (на зиму)' (ТСКБЯ 1, 5; КБРС 1) + СОЮМ² 'туша; скот на убой; разделка' (ТСКБЯ 2–4, 6; КБРС 2); разделить. Значения ТСКБЯ 7 'мучение' у Гузеева нет (отнесено к ²).",
+   "parse_issue": ""},
+
+  {"nid": "g0818", "entries": [
+     {"entry_id": "e_26877", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1; 3→2", "def1_split": "all→1,2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш ставка: ТСКБЯ 1–2 'ставка военачальника; орган верховного командования' = СТАВКА¹, ТСКБЯ 3 'оклад' = СТАВКА²; разделить (КБРС «ставка, в разн. знач.» — на обе).",
+   "parse_issue": ""},
+
+  {"nid": "g0819", "entries": [
+     {"entry_id": "e_27006", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_27007", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_27008", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""}
+]}

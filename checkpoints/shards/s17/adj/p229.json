@@ -1,0 +1,20 @@
+{
+ "page": 229,
+ "articles_compared": 44,
+ "diffs_total": 1,
+ "decisions": [
+  {
+   "sid": 103067,
+   "head": "джараў III",
+   "pass1": "по нужде; организмни кеси ~у естественные",
+   "pass2": "по нужде; организмны кеси ~у естественные",
+   "final": "по нужде; организмны кеси ~у естественные",
+   "kind": "kb_word",
+   "confidence": "high",
+   "evidence": "Zoom 8 on the right column (local/s17_img2/zoom/p229_R_organizmny_z8b.png, x 0.50-0.64, y 0.782-0.797): the bold word is printed «органнзмны» (bold и looks like н), and its last letter is clearly ы (a ь-bowl followed by a separate stem, the same shape as in «дарманны» above), not и. Printed «организмны» is most likely a misprint of the book, kept as printed: КБРС itself writes «организмни» in other articles (ишленнген, src1 10396: «организмни ишленнгени строение организма»; организм, src1 20377: «организмни къарыусузланыуу»); 06_lextagged has 11 hits of «организмни» and 0 of «организмны»; front harmony after -и- expects -ни. ТСКБЯ quotes do show the back-vowel possessive «организмы» next to «организми», so a back-vowel variant is not impossible. The corpus hit «организмни кеси джарауу» is this same article (src1 103067, from pass 1), so it is not independent evidence."
+  }
+ ],
+ "unresolved": [],
+ "clear_uncertain": [],
+ "notes": "Both passes agree word for word on 43 of the 44 articles of p.229 (джараклы … джараўларгъа; none runs on to p.230). The only difference, организмни/организмны in джараў III, was decided at zoom 8 as printed «организмны» (likely a book misprint; КБРС has организмни elsewhere). doubts_ru.json has no notes for these sids, and the pass-1 [?] at «~ унъу» (103067) is already settled in ocr_overrides.json, so it was not reopened. A visual check of all 8 crops found no misreading shared by both passes: «джарамазлыкъ … негодный», «тварь ж 2.:» and «; 2)» in джаралатыргъа are printed that way."
+}

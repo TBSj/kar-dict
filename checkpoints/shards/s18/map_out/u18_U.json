@@ -1,0 +1,165 @@
+{
+ "batch": "u18",
+ "mapper": "U",
+ "nests": [
+  {
+   "nid": "g1199",
+   "verdict": "wrong",
+   "entries": [
+    {"entry_id": "e_38114", "g": [1], "role": "same"},
+    {"entry_id": "e_38115", "g": [2, 3], "role": "covers_several",
+     "def2_split": "definition + examples «Эсиме тюшдю сабийлигим…», «Къанжал эм таз» → 2; ТСКБЯ proverb «Озалмасанг да, эм артха къалма. (Нарт сёз.)» → 3",
+     "def1_split": "all (и, да; КБРС examples «къартла эм джашла», «ол эм мен») → 2"},
+    {"entry_id": "e_38116", "g": [3], "role": "part_of"},
+    {"entry_id": "e_38117", "g": [], "role": "fragment"}
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "В ТСКБЯ-статье союза эм2 пословица «Озалмасанг да, эм артха къалма» содержит не союз (сочинять тут нечего: «Озалмасанг да» — придаточное уступки), а усилительную частицу ЭМ³: «эм артха» 'в самый хвост', ср. КБРС-примеры эм3 «эм арты самый конец; эм артында в самом конце». Поэтому эм2 = ЭМ² + эта пословица → ЭМ³, а эм3 становится part_of ЭМ³; остальное верно (эм4 «см. э'» — голая отсылка к вспомогательному глаголу э-, разг. форма «эм», фрагмент).",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1200",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38141", "g": [1], "role": "same"},
+    {"entry_id": "e_38142", "g": [2], "role": "same"},
+    {"entry_id": "e_38143", "g": [], "role": "not_in_guzeev"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1201",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38149", "g": [2], "role": "same"},
+    {"entry_id": "e_38150", "g": [1], "role": "same"},
+    {"entry_id": "e_38151", "g": [], "role": "not_in_guzeev"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1204",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38267", "g": [], "role": "not_in_guzeev"},
+    {"entry_id": "e_38268", "g": [1, 2], "role": "covers_several",
+     "def2_split": "1-8→1",
+     "def1_split": "1)-3), 4) before ||, 5)→1; 4) after ||→2"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1206",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38311", "g": [], "role": "not_in_guzeev"},
+    {"entry_id": "e_38312", "g": [1], "role": "same"},
+    {"entry_id": "e_38313", "g": [2], "role": "same"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1207",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38319", "g": [1, 2], "role": "covers_several",
+     "def2_split": "1-7→1; 8→2",
+     "def1_split": "1)-3), 5)→1; 4)→2"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1215",
+   "verdict": "wrong",
+   "entries": [
+    {"entry_id": "e_38409", "g": [], "role": "not_in_guzeev"},
+    {"entry_id": "e_38410", "g": [1, 2], "role": "covers_several",
+     "def2_split": "1,2→1",
+     "def1_split": "1), 2)→1; КБРС example «эрке юреннген эрге джарамаз погов. изнеженная жена мужу не по нраву» → 2"},
+    {"entry_id": "e_38411", "g": [2], "role": "part_of"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "КБРС-пословица «эрке юреннген эрге джарамаз», попавшая при разбиении КБРС-статьи эрке в прил. эрке2, у Гузеева приведена под ЭРКЕ² сёзл. («Эрке юйреннген эрге жарамаз (айт.)»): это то же сочетание «эрке юренирге», что уже стоит в эрке3, поэтому эрке2 = ЭРКЕ¹ + эта пословица → ЭРКЕ², а эрке3 — part_of ЭРКЕ². Сущ. эрке1 'баловень; ласка' у Гузеева нет; его пословицу «эркени эркелетмесенг эрнин чюйюрюр» Гузеев даёт под ЭРКЕ¹, но КБРС переводит её через сущ. 'баловня', так что она может остаться при сущ.",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1217",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38451", "g": [1], "role": "part_of"},
+    {"entry_id": "e_38452", "g": [2], "role": "same"},
+    {"entry_id": "e_38453", "g": [1], "role": "part_of"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1218",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38510", "g": [1, 2], "role": "covers_several",
+     "def2_split": "1,2,3→1; 4→2"},
+    {"entry_id": "e_38511", "g": [2], "role": "part_of"},
+    {"entry_id": "e_38512", "g": [], "role": "not_in_guzeev"}
+   ],
+   "g_missing": [],
+   "confidence": "medium",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1220",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38650", "g": [1], "role": "same"}
+   ],
+   "g_missing": [2],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1225",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38806", "g": [1], "role": "same"},
+    {"entry_id": "e_38807", "g": [], "role": "not_in_guzeev"},
+    {"entry_id": "e_38808", "g": [2], "role": "same"}
+   ],
+   "g_missing": [],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  },
+  {
+   "nid": "g1228",
+   "verdict": "ok",
+   "entries": [
+    {"entry_id": "e_38981", "g": [1], "role": "same"}
+   ],
+   "g_missing": [2],
+   "confidence": "high",
+   "note_ru": "верно",
+   "parse_issue": ""
+  }
+ ]
+}

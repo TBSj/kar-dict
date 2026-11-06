@@ -1,0 +1,218 @@
+{"batch": "b05", "mapper": "B", "nests": [
+  {"nid": "g0210", "entries": [
+     {"entry_id": "e_06424", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06425", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": "у БИТДИР¹ стоит «1.» без «2.» — возможно, второе значение потеряно или слилось с примерами"},
+
+  {"nid": "g0211", "entries": [
+     {"entry_id": "e_06468", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06469", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06470", "g": [3], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0212", "entries": [
+     {"entry_id": "e_06471", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06472", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0213", "entries": [
+     {"entry_id": "e_06475", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→1; 3→2", "def1_split": "1)→1; 2)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш битимсиз объединяет БИТИМСИЗ¹ 'неурожайный, неплодородный' (знач. 1–2) и БИТИМСИЗ² къарач. 'низкорослый' (знач. 3); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0214", "entries": [
+     {"entry_id": "e_06502", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06503", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0215", "entries": [
+     {"entry_id": "e_06529", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06530", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1. Знач. 3 бичим1 'план, замысел' у Гузеева нет; фраз. «бичим эт» 'планировать', попавший в текст бичим2, по смыслу относится к бичим1.",
+   "parse_issue": ""},
+
+  {"nid": "g0217", "entries": [
+     {"entry_id": "e_06579", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06580", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_39706", "g": [1], "role": "part_of", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "бла1 = БЛА¹ байл., бла2 = БЛА² сонг. бла3 (только КБРС: 8) 'союз и', 9) 'то ли…, то ли' с причастиями) — хвост КБРС-статьи, повторяет союз бла1: слить с ним.",
+   "parse_issue": ""},
+
+  {"nid": "g0218", "entries": [
+     {"entry_id": "e_06583", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06584", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок обратный: блок1 'строительный блок' = БЛОК², блок2 'политический блок' = БЛОК¹.",
+   "parse_issue": ""},
+
+  {"nid": "g0219", "entries": [
+     {"entry_id": "e_06752", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06753", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06754", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "болум1 = БОЛУМ¹, болум2 = БОЛУМ² грам. болум3 (только КБРС) 'данные, качества (деловитость и т. п.)' у Гузеева нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0221", "entries": [
+     {"entry_id": "e_06767", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06768", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06769", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06770", "g": [4], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0222", "entries": [
+     {"entry_id": "e_06780", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06781", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0223", "entries": [
+     {"entry_id": "e_06854", "g": [1, 2], "role": "covers_several", "def2_split": "1,2,3,7→1; 4,5,6→2", "def1_split": "1),2),4)→1; 3)→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш борч = БОРЧ¹ 'заём, ссуда, задолженность, письменное обязательство' (ТСКБЯ 1–3, 7) + БОРЧ² 'долг, обязанность, повинность, задача' (ТСКБЯ 4–6); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0225", "entries": [
+     {"entry_id": "e_06953", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_06954", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0226", "entries": [
+     {"entry_id": "e_07085", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07086", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07087", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07088", "g": [], "role": "fragment", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "буз1–буз3 = БУЗ¹–БУЗ³ по порядку; буз4 (КБРС) — пустая помета «парн. к аз-», фрагмент.",
+   "parse_issue": ""},
+
+  {"nid": "g0228", "entries": [
+     {"entry_id": "e_07147", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07148", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок обратный: буйрукъ1 'приказ' = БУЙРУКЪ², буйрукъ2 'судьба, воля бога' (къ. къадар) = БУЙРУКЪ¹.",
+   "parse_issue": ""},
+
+  {"nid": "g0229", "entries": [
+     {"entry_id": "e_07171", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07172", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0231", "entries": [
+     {"entry_id": "e_07314", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07315", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07316", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "буруу2 'бурав, сверло' = БУРУУ¹, буруу3 'забор' = БУРУУ²; буруу1 — имя действия от бур-, у Гузеева не дано.",
+   "parse_issue": ""},
+
+  {"nid": "g0232", "entries": [
+     {"entry_id": "e_07334", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07335", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0233", "entries": [
+     {"entry_id": "e_07340", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07341", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07342", "g": [], "role": "fragment", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "medium",
+   "note_ru": "буршу1 'отходы при веянии' (у нас сущ.) = БУРШУ¹ (у Гузеева как признак: 'щуплое, неналившееся зерно'), буршу2 'мятый' = БУРШУ²; буршу3 (КБРС) — помета «парн. к эрши-», фрагмент.",
+   "parse_issue": ""},
+
+  {"nid": "g0234", "entries": [
+     {"entry_id": "e_07378", "g": [1, 2], "role": "covers_several", "def2_split": "1,2→2; 3→1", "def1_split": "all→2"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш бусхул = БУСХУЛ² ат. 'тряпка, лоскут' (знач. 1–2) + БУСХУЛ¹ сыф. 'длинношёрстный, лохматый' (знач. 3); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0236", "entries": [
+     {"entry_id": "e_07453", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07454", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0238", "entries": [
+     {"entry_id": "e_07494", "g": [1, 2], "role": "covers_several", "def2_split": "1,2,3,4,6→1; 5→2", "def1_split": "1)-3)→1"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш буюр = БУЮР¹ 'приказывать, назначать, направлять' + БУЮР² 'предопределять (о боге, судьбе)' = знач. 5 ТСКБЯ; разделить. В КБРС БУЮР² отдельно не выделен (ближе всего 3) 'предназначать').",
+   "parse_issue": "у БУЮР¹ стоит «1.» без «2.» — возможно, остальные значения потеряны или слились с примерами"},
+
+  {"nid": "g0239", "entries": [
+     {"entry_id": "e_07539", "g": [1, 2], "role": "covers_several", "def2_split": "1→1; 2 (только в ТСКБЯ KB: орун. сёзл., къ. бери)→2", "def1_split": "all→1"},
+     {"entry_id": "e_07540", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07541", "g": [], "role": "fragment", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "былай1 = БЫЛАЙ¹ хал. сёзл. 'так' + БЫЛАЙ² орун. сёзл. 'сюда' (знач. 2 ТСКБЯ, в переводе пропущено) — разделить; былай2 = БЫЛАЙ³ кес.; былай3 (КБРС) — «парн. к алай-», фрагмент.",
+   "parse_issue": ""},
+
+  {"nid": "g0242", "entries": [
+     {"entry_id": "e_07718", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07719", "g": [3], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07720", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "бюртюк1 = БЮРТЮК¹; бюртюк2 'яичко' = БЮРТЮК³; бюртюк3 'ячмень на глазу' = БЮРТЮК² (его знач. 2); знач. 1 БЮРТЮК² 'корь (кёме)' у нас нет.",
+   "parse_issue": ""},
+
+  {"nid": "g0243", "entries": [
+     {"entry_id": "e_07723", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_07724", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0244", "entries": [
+     {"entry_id": "e_08185", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_08186", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_08187", "g": [], "role": "not_in_guzeev", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "габу1 = ГАБУ¹, габу2 = ГАБУ²; габу3 (ц. диал., къ. губу) у Гузеева нет.",
+   "parse_issue": "помета ГАБУ² «къауум.» не из списка помет — проверить распознавание"},
+
+  {"nid": "g0245", "entries": [
+     {"entry_id": "e_08191", "g": [2], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_08192", "g": [1], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1, но порядок обратный: габушур1 (сёл. тил., къ. габу 'мох') = ГАБУШУР², габушур2 'потрескавшийся; корочка на коже' = ГАБУШУР¹ сыф.",
+   "parse_issue": ""},
+
+  {"nid": "g0246", "entries": [
+     {"entry_id": "e_08224", "g": [1, 2], "role": "covers_several", "def2_split": "1,3→1; 2→2", "def1_split": "1),2)→1"}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "Наш гадура = ГАДУРА¹ 'цедилка; сачок для пчёл' (знач. 1, 3) + ГАДУРА² сыф. 'придирчивый' (знач. 2); разделить.",
+   "parse_issue": ""},
+
+  {"nid": "g0247", "entries": [
+     {"entry_id": "e_08229", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_08230", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""},
+
+  {"nid": "g0250", "entries": [
+     {"entry_id": "e_08287", "g": [1], "role": "same", "def2_split": "", "def1_split": ""},
+     {"entry_id": "e_08288", "g": [2], "role": "same", "def2_split": "", "def1_split": ""}],
+   "g_missing": [], "confidence": "high",
+   "note_ru": "1:1",
+   "parse_issue": ""}
+]}
