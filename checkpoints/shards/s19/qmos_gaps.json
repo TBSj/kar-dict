@@ -1,0 +1,5860 @@
+[
+ {
+  "word": "айырыргъа",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 7,
+  "referred_by": [
+   "айырмай",
+   "айырмакълыкъ",
+   "айыртыргъа",
+   "айырыб"
+  ],
+  "pages": [
+   38,
+   39,
+   40
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "айыр1",
+   "айыр2",
+   "айыр3"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "юйрерге",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 4,
+  "referred_by": [
+   "юйреген",
+   "юйремеклик",
+   "юйретирге",
+   "юйреу"
+  ],
+  "pages": [
+   782,
+   783
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "юйре"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "демобилизацияларгъа",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "демобилизацияланыргъа",
+   "демобилизацияланыу"
+  ],
+  "pages": [
+   201,
+   202
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "узатдырыргъа",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "узатдырыу"
+  ],
+  "pages": [
+   679
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "узатдыр"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "минерге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 6,
+  "referred_by": [
+   "мин",
+   "миндирирге",
+   "минилирге",
+   "миниу"
+  ],
+  "pages": [
+   467,
+   468
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "эмерге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 5,
+  "referred_by": [
+   "эмдирирге",
+   "эмизирге",
+   "эмилирге",
+   "эмиу"
+  ],
+  "pages": [
+   767,
+   768
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "эссе",
+  "signals": [
+   "ref"
+  ],
+  "refs": 4,
+  "referred_by": [
+   "эсегиз",
+   "эсек",
+   "эселе",
+   "эсенг"
+  ],
+  "pages": [
+   775
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ийнакъла",
+  "signals": [
+   "ref"
+  ],
+  "refs": 3,
+  "referred_by": [
+   "ийнакълатдырыргъа",
+   "ийнакълатмакълыкъ",
+   "ийнакълатдырыргъа"
+  ],
+  "pages": [
+   298
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сарынларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 3,
+  "referred_by": [
+   "сарынламакълыкъ",
+   "сарынлатыргъа",
+   "сарынлау"
+  ],
+  "pages": [
+   543
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "сарынла"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "ашыкъдыртыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "ашыкъдыртмакълыкъ",
+   "ашыкъдыртыу"
+  ],
+  "pages": [
+   105
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "ашыкъдырт"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "къайдес",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къандагъай",
+   "къандагъай"
+  ],
+  "pages": [
+   387
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къакларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къакъламакълыкъ",
+   "къакланыргъа"
+  ],
+  "pages": [
+   380
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къыйма",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къыймалыкъ",
+   "къыймачы"
+  ],
+  "pages": [
+   439
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "къыйма"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "тайгъаларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "тайгъалатыргъа",
+   "тайгъалау"
+  ],
+  "pages": [
+   597
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "тайгъала"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "тенглерге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "тенглетирге",
+   "тенглеу"
+  ],
+  "pages": [
+   621
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "тенгле"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "шаушалтыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "шаушалтмакълыкъ",
+   "шаушалтыу"
+  ],
+  "pages": [
+   749
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "шаушалт"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "азгынлатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "азгъынлатыу"
+  ],
+  "pages": [
+   28
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "айгъыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "айгъырлыкъ"
+  ],
+  "pages": [
+   31
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "айгъыр"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "аккыл-тенглерге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тенгкил"
+  ],
+  "pages": [
+   621
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ангылаялыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ангылаялмагъан"
+  ],
+  "pages": [
+   69
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ант-къаргъыш",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ант"
+  ],
+  "pages": [
+   66
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "анткъраллы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "кърал"
+  ],
+  "pages": [
+   420
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "асхатыу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "асхатмакълыкъ"
+  ],
+  "pages": [
+   82
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "аурууунг",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аурунгтас"
+  ],
+  "pages": [
+   93
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "аушунургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ауушунуу"
+  ],
+  "pages": [
+   96
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ачтыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ачытмакълыкъ"
+  ],
+  "pages": [
+   101
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ашырыкъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "киерик"
+  ],
+  "pages": [
+   346
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "берет",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "беретлик"
+  ],
+  "pages": [
+   134
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "берет"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "бугоулатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "бугъоулатыу"
+  ],
+  "pages": [
+   165
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "булутлу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "булутлулукъ"
+  ],
+  "pages": [
+   168
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "булутлу"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "гъыжылда",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "гъыжылдатдырыргъа"
+  ],
+  "pages": [
+   195
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "гъырыл-датыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "гъырылдатмакълыкъ"
+  ],
+  "pages": [
+   196
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "даууларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дауурлатыргъа"
+  ],
+  "pages": [
+   199
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "демократизацияландырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "демократизацияландырыу"
+  ],
+  "pages": [
+   202
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джабышдырыгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джабышдырмакълыкъ"
+  ],
+  "pages": [
+   214
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джараршыусуз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джарашыусузлукъ"
+  ],
+  "pages": [
+   231
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джашланырга",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джашланыу"
+  ],
+  "pages": [
+   238
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джоппулашырга",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джоппулашыу"
+  ],
+  "pages": [
+   253
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джунчутду-рургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джунчутдурмакълыкъ"
+  ],
+  "pages": [
+   259
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джунчутдурургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джунчутдуруу"
+  ],
+  "pages": [
+   259
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джуулдашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джууулдашыу"
+  ],
+  "pages": [
+   262
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джыртыкъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джыртыкълыкъ"
+  ],
+  "pages": [
+   269
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "дорданлы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дерденли"
+  ],
+  "pages": [
+   204
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "дуруссуз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дурусларгъа"
+  ],
+  "pages": [
+   210
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "дуруссуз"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "дууадакъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дудакъ"
+  ],
+  "pages": [
+   208
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "езеленирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "езелениу"
+  ],
+  "pages": [
+   275
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "ёзелен"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "елтюрю",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "елтюрюшюу"
+  ],
+  "pages": [
+   277
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ерелениширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ереленишиу"
+  ],
+  "pages": [
+   279
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ечешидирирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ечешдириу"
+  ],
+  "pages": [
+   282
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "жыгъырда",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "жыгъырдатмакълыкъ"
+  ],
+  "pages": [
+   283
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "зыккыл",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "зыккыллыкъ"
+  ],
+  "pages": [
+   292
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "зыккыл"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "изобрета",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "изобретателлик"
+  ],
+  "pages": [
+   296
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "илгенди",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "илгендирмеклик"
+  ],
+  "pages": [
+   299
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "иннетлендириге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "иннетлендирмеклик"
+  ],
+  "pages": [
+   303
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "кабхын",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къабхынлыкъ"
+  ],
+  "pages": [
+   370
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "капхакъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къапакъ"
+  ],
+  "pages": [
+   389
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "кезю",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "башы"
+  ],
+  "pages": [
+   127
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къайгъызсыз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къайгъысызлыкъ"
+  ],
+  "pages": [
+   377
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къакдырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къакъдырмакълыкъ"
+  ],
+  "pages": [
+   380
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къакъдырышыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къакъдырышыу"
+  ],
+  "pages": [
+   380
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къаргъшчы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къаргъышчылыкъ"
+  ],
+  "pages": [
+   394
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "кълджаларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къалджалау"
+  ],
+  "pages": [
+   382
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къозлагъан",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къатын"
+  ],
+  "pages": [
+   401
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къозучу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къозучулукъ"
+  ],
+  "pages": [
+   409
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къолтукъла-шыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къолтукълашдырыргъа"
+  ],
+  "pages": [
+   412
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къоркундурургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къоркъундуруу"
+  ],
+  "pages": [
+   415
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къызары",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къызарышмакълыкъ"
+  ],
+  "pages": [
+   436
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къымп",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къым"
+  ],
+  "pages": [
+   444
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "къычырыкъ-хахайламакълыкъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "хахай"
+  ],
+  "pages": [
+   709
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "мелкум",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "белхум"
+  ],
+  "pages": [
+   134
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "мугурла",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "мугурланмакълыкъ"
+  ],
+  "pages": [
+   470
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "муккурлу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "гуппурлу"
+  ],
+  "pages": [
+   191
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "мынафыкълыкъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "минафыклыкъ"
+  ],
+  "pages": [
+   467
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "мынафыкълыкъ"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "нечюн",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "нечюннге"
+  ],
+  "pages": [
+   484
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "олтуртдурурггъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "олтуртдуруу"
+  ],
+  "pages": [
+   495
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "осаллау",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "осалламакълыкъ"
+  ],
+  "pages": [
+   504
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "осмакъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "осмакъламакълыкъ"
+  ],
+  "pages": [
+   504
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "осмакъ"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "отжагъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "отджагъалыкъ"
+  ],
+  "pages": [
+   505
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "практикал",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "практикалылыкъ"
+  ],
+  "pages": [
+   519
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сагал-латыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сагаллатмакълыкъ"
+  ],
+  "pages": [
+   531
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сагыныргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сагъыныу"
+  ],
+  "pages": [
+   532
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "салатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сапалатыу"
+  ],
+  "pages": [
+   541
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сапал",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сапаллыкъ"
+  ],
+  "pages": [
+   541
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "сапал"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "сауутсузларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сауутсузланыргъа"
+  ],
+  "pages": [
+   546
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сенгилдетирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сенгкилдетдирирге"
+  ],
+  "pages": [
+   553
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "сенгилдет"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "симетриялы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "симметриялылыкъ"
+  ],
+  "pages": [
+   560
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "соп-сокъур",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "соппа"
+  ],
+  "pages": [
+   566
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "суратланыр-гъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "суратланмакълыкъ"
+  ],
+  "pages": [
+   574
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сыбдыргъыч",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сыбдыргъычлыкъ"
+  ],
+  "pages": [
+   578
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сыйырыб",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "алыргъа"
+  ],
+  "pages": [
+   56
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "сылхырла",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сылхырланмакълыкъ"
+  ],
+  "pages": [
+   583
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "тагъышырга",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тагъышмакълыкъ"
+  ],
+  "pages": [
+   596
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "теп-тегерек",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "теппе"
+  ],
+  "pages": [
+   629
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "тынгкъайыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тынкъайыу"
+  ],
+  "pages": [
+   661
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "тынгларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тынгыламакълыкъ"
+  ],
+  "pages": [
+   662
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "тюзюн",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "айтыргъа"
+  ],
+  "pages": [
+   35
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "ушатмазгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ушатмагъанлыкъ"
+  ],
+  "pages": [
+   692
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "хапа-сапал",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сапа"
+  ],
+  "pages": [
+   541
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "хасебли",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "хасеблилик"
+  ],
+  "pages": [
+   708
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "хахайлатдырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "хахайлатдырыу"
+  ],
+  "pages": [
+   709
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "хахайлатдыр"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "хон",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къоншулукъ"
+  ],
+  "pages": [
+   413
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "чабышыргы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чабышдырыргъа"
+  ],
+  "pages": [
+   720
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "чачыкъдыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чачыкъдыртыргъа"
+  ],
+  "pages": [
+   729
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "шаркъул",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "шорхулдаргъа"
+  ],
+  "pages": [
+   753
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "шау-шалышыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "шаушалышмакълыкъ"
+  ],
+  "pages": [
+   749
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "шохайлашыр-гъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "шохайлашмакълыкъ"
+  ],
+  "pages": [
+   753
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "шууулдаты-шыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "шууулдатышмакълыкъ"
+  ],
+  "pages": [
+   754
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "эгизлик",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "эгиз"
+  ],
+  "pages": [
+   763
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "эсде",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "бусда"
+  ],
+  "pages": [
+   170
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "юйюкдюртюрге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "юйюкдюртюу"
+  ],
+  "pages": [
+   783
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джалкъауулукъ",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   221
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джезама",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   240
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "джыланлы",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   266
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "кирбет",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   348
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "уручулукъ",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   686
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "уручулукъ"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "фургон",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   699
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "фургон"
+  ],
+  "kind": "lost?"
+ },
+ {
+  "word": "шыбырсыз",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   755
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "шыбырсызлыкъ",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   755
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "lost?"
+ },
+ {
+  "word": "телерге",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 4,
+  "referred_by": [
+   "телемеклик",
+   "теленирге",
+   "телетирге",
+   "телеу"
+  ],
+  "pages": [
+   628
+  ],
+  "near_keys": [
+   "тезерге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "тёле"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "чалыкълатыргъа",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чалыкълатыу"
+  ],
+  "pages": [
+   725
+  ],
+  "near_keys": [
+   "чалыкълашыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "чалыкълат"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "эринчек",
+  "signals": [
+   "head",
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "эринчеклик"
+  ],
+  "pages": [
+   770,
+   771
+  ],
+  "near_keys": [
+   "эриичек"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "эринчек1",
+   "эринчек2"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "акъсакъал",
+  "signals": [
+   "ref"
+  ],
+  "refs": 5,
+  "referred_by": [
+   "атчы",
+   "межгедиу",
+   "тауке",
+   "теке"
+  ],
+  "pages": [
+   90,
+   464,
+   610,
+   617
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "хазырлатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 4,
+  "referred_by": [
+   "хазырлатдырыргъа",
+   "хазырлатмакълыкъ",
+   "хазырлатыу",
+   "хазырлашмакълыкъ"
+  ],
+  "pages": [
+   700
+  ],
+  "near_keys": [
+   "хазарлатыргъа",
+   "хазырланыргъа",
+   "хазырлашыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "хазырлат"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "азарлашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 3,
+  "referred_by": [
+   "азарлашдырыргъа",
+   "азарлашмакълыкъ",
+   "азарлашыу"
+  ],
+  "pages": [
+   27
+  ],
+  "near_keys": [
+   "азабланыргъа",
+   "азаблашыргъа",
+   "азарланыргъа",
+   "азарлатыргъа",
+   "азатланыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джайыгъыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 3,
+  "referred_by": [
+   "джайыгъыу",
+   "джайыкъдырыргъа",
+   "джайыкъмакълыкъ"
+  ],
+  "pages": [
+   218
+  ],
+  "near_keys": [
+   "джайылтыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къангкъылдатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 3,
+  "referred_by": [
+   "къангкъылдатмакълыкъ",
+   "къангкъылдатмакълыкъ",
+   "къангкъылдатыу"
+  ],
+  "pages": [
+   389
+  ],
+  "near_keys": [
+   "къагъкъылдатыргъа"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "хайырландырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 3,
+  "referred_by": [
+   "хаиырландырмакълыкъ",
+   "хайырландыртыргъа",
+   "хайырландырыу"
+  ],
+  "pages": [
+   701
+  ],
+  "near_keys": [
+   "хайырсындырыргъа",
+   "хййырландырыргъа"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "бугъоуларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "богъоулатыргъа",
+   "бугъоулау"
+  ],
+  "pages": [
+   165
+  ],
+  "near_keys": [
+   "богъоуларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "бугъоула"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "гыбыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "гыбырланыргъа",
+   "гыбырлыкъ"
+  ],
+  "pages": [
+   192
+  ],
+  "near_keys": [
+   "гыбыт",
+   "гыдыр"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "гыбыр"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "джалыныргъа-джалбарыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "джалынмакълыкъ",
+   "джалыныу"
+  ],
+  "pages": [
+   221,
+   222
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "джампайтыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "джампайтмакълыкъ",
+   "джампайтыу"
+  ],
+  "pages": [
+   222
+  ],
+  "near_keys": [
+   "джамлайтыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джебелеширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "джебелешиу",
+   "джебелетмеклик"
+  ],
+  "pages": [
+   246
+  ],
+  "near_keys": [
+   "джебелетирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "дженеширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "дженешиу",
+   "дженешмеклик"
+  ],
+  "pages": [
+   246
+  ],
+  "near_keys": [
+   "дженетирге",
+   "джетиширге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "дыбырт-дыбырт",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "дыбыртды",
+   "дыбыртдыу"
+  ],
+  "pages": [
+   211
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къакъланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къакъланмакълыкъ",
+   "къакъланыу"
+  ],
+  "pages": [
+   380
+  ],
+  "near_keys": [
+   "къакълатыргъа"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къарыулашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къарыулашдырыргъа",
+   "къарыулашмакълыкъ"
+  ],
+  "pages": [
+   398
+  ],
+  "near_keys": [
+   "къарыуланыргъа",
+   "къарыулатыргъа",
+   "къарышлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къатыш-къура",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къатыш",
+   "къатыш"
+  ],
+  "pages": [
+   402
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къыйпаланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "къыйпаланмакълыкъ",
+   "къыйпаланыу"
+  ],
+  "pages": [
+   440
+  ],
+  "near_keys": [
+   "къыйпалакыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "къыйпалан2"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "кюреширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "кюрешиу",
+   "кюрешмеклик"
+  ],
+  "pages": [
+   366
+  ],
+  "near_keys": [
+   "кюрелирге",
+   "кюретирге",
+   "кюселирге",
+   "кюсетирге",
+   "кютейирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "кюреш1"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "лау-лау",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "ляй",
+   "ляу"
+  ],
+  "pages": [
+   454
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "мугурлашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "мугурлашмакълыкъ",
+   "мугурлашыу"
+  ],
+  "pages": [
+   471
+  ],
+  "near_keys": [
+   "мугурланыргъа",
+   "мугурлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "учурургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "учуртургъа",
+   "учуруу"
+  ],
+  "pages": [
+   690
+  ],
+  "near_keys": [
+   "учунургъа",
+   "учушургъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "хахайлашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "хахайлашмакълыкъ",
+   "хахайлатыу"
+  ],
+  "pages": [
+   709
+  ],
+  "near_keys": [
+   "хахайлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "хахайлаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "чегелеширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "чегелешиу",
+   "чегелешмеклик"
+  ],
+  "pages": [
+   732
+  ],
+  "near_keys": [
+   "чегелетирге",
+   "чемелиширге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "чёгелеш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "шайтан-джек",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "шайтан",
+   "шайтан"
+  ],
+  "pages": [
+   748
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "эришдирирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "эришдириу",
+   "эришдирмеклик"
+  ],
+  "pages": [
+   771
+  ],
+  "near_keys": [
+   "эрикдирирге",
+   "эриндирирге",
+   "эритдирирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "эришдир"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "юкюнюрге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 2,
+  "referred_by": [
+   "екюндюрюрге",
+   "екюнюшюрге"
+  ],
+  "pages": [
+   276
+  ],
+  "near_keys": [
+   "екюнюрге",
+   "екюрюрге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "автоматлаидырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "автоматлашдырыргъа"
+  ],
+  "pages": [
+   17
+  ],
+  "near_keys": [
+   "автоматландырыргъа",
+   "автоматлашдырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "адеблергеъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "адеблемеклик"
+  ],
+  "pages": [
+   22
+  ],
+  "near_keys": [
+   "адеблерге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ажымларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ажымлау"
+  ],
+  "pages": [
+   25
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "азаныу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "азаймакълыкъ"
+  ],
+  "pages": [
+   27
+  ],
+  "near_keys": [
+   "азайыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "айдатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "айдатыу"
+  ],
+  "pages": [
+   31
+  ],
+  "near_keys": [
+   "айланыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "айъгырланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "айгъырландырыргъа"
+  ],
+  "pages": [
+   31
+  ],
+  "near_keys": [
+   "айгъырланыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "айыбсызлыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "айыбсызлау"
+  ],
+  "pages": [
+   38
+  ],
+  "near_keys": [
+   "айыбсызларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "аккыл-теккил",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аккыл"
+  ],
+  "pages": [
+   41
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "аккыллы-теккилли",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аккыллы"
+  ],
+  "pages": [
+   41
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "актларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "актлау"
+  ],
+  "pages": [
+   42
+  ],
+  "near_keys": [
+   "ахтларгъа"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "акъылланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "акъыллашыргъа"
+  ],
+  "pages": [
+   45
+  ],
+  "near_keys": [
+   "акъыллашыргъа"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "акъырын-акъырын",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "акъыртын"
+  ],
+  "pages": [
+   46
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "акъырынлатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "акъырынлатыу"
+  ],
+  "pages": [
+   46
+  ],
+  "near_keys": [
+   "акъырынлашыргъа",
+   "акъырьшлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "акъырынлат2"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "алгъшлау",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "алгъышламакълыкъ"
+  ],
+  "pages": [
+   50
+  ],
+  "near_keys": [
+   "алгъасау"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "алдыр-гюлдюр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "алдыр"
+  ],
+  "pages": [
+   51
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "алма-малма",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "алма"
+  ],
+  "pages": [
+   54
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "аманмыныргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "амансыныу"
+  ],
+  "pages": [
+   62
+  ],
+  "near_keys": [
+   "амансыныргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "американцы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "америкалы"
+  ],
+  "pages": [
+   62
+  ],
+  "near_keys": [
+   "американлы",
+   "американча",
+   "американчы"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "анггларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ангыламагъан"
+  ],
+  "pages": [
+   67
+  ],
+  "near_keys": [
+   "ангыларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "аппа-акъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аппакъ"
+  ],
+  "pages": [
+   69
+  ],
+  "near_keys": [
+   "аппачыкъ"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "аппа-ачы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аппачы"
+  ],
+  "pages": [
+   69
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "аппа-ачыкъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аппачыкъ"
+  ],
+  "pages": [
+   69
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [
+   "аппа-ачыкъ2"
+  ],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "аппа-аяз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аппаяз"
+  ],
+  "pages": [
+   69
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "аркъалашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аркъалашыу"
+  ],
+  "pages": [
+   74
+  ],
+  "near_keys": [
+   "аркъалатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "аркъалаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "арс-бурс",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "арс"
+  ],
+  "pages": [
+   75
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ат-тууар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ат"
+  ],
+  "pages": [
+   90
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "атасыз-анасыз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "атасызлыкъ"
+  ],
+  "pages": [
+   88
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ачха-бочха",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ачха"
+  ],
+  "pages": [
+   99
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ашау-джашау",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ашау"
+  ],
+  "pages": [
+   104
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ашхы-аман",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ашхылыкъ"
+  ],
+  "pages": [
+   105
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "аяусуэлатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "аяусузлатыу"
+  ],
+  "pages": [
+   108
+  ],
+  "near_keys": [
+   "аяусузлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "беклинирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "бекленмеклик"
+  ],
+  "pages": [
+   131
+  ],
+  "near_keys": [
+   "бекленирге",
+   "беклетирге",
+   "беклеширге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "букъсураргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "букъусурау"
+  ],
+  "pages": [
+   168
+  ],
+  "near_keys": [
+   "букъдурургъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "гагарак",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "гагарай"
+  ],
+  "pages": [
+   181
+  ],
+  "near_keys": [
+   "гагарай",
+   "гагарам"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "гагарак"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "галаргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "таламакълыкъ"
+  ],
+  "pages": [
+   598
+  ],
+  "near_keys": [
+   "таларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "геджефленирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "гежефлениу"
+  ],
+  "pages": [
+   185
+  ],
+  "near_keys": [
+   "геджебленирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "гъыжылдатды",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "гъыжылдатдырыу"
+  ],
+  "pages": [
+   195
+  ],
+  "near_keys": [
+   "гъыжылдатыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "деменгили",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "деменгилилик"
+  ],
+  "pages": [
+   201
+  ],
+  "near_keys": [
+   "деменьили"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "деменгили1",
+   "деменгили2"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "джаланлашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джаланлашыу"
+  ],
+  "pages": [
+   220
+  ],
+  "near_keys": [
+   "джаланлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джалыныу-джалбарыу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джалынмакълыкъ"
+  ],
+  "pages": [
+   221
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "джангыртылыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джангыртылыу"
+  ],
+  "pages": [
+   228
+  ],
+  "near_keys": [
+   "джангыртышыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джаныуар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джаныуарлыкъ"
+  ],
+  "pages": [
+   226
+  ],
+  "near_keys": [
+   "джаныуул"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джарашыу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джарашыулукъ"
+  ],
+  "pages": [
+   231
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "джашмрыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джашыртыргъа"
+  ],
+  "pages": [
+   239
+  ],
+  "near_keys": [
+   "джашыныргъа",
+   "джашырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джибиширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джибишиу"
+  ],
+  "pages": [
+   248
+  ],
+  "near_keys": [
+   "джиберирге",
+   "джибитирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джомакъланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джомакълатдырыргъа"
+  ],
+  "pages": [
+   252
+  ],
+  "near_keys": [
+   "джомакълатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джууулдашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джууулдашмакълыкъ"
+  ],
+  "pages": [
+   261
+  ],
+  "near_keys": [
+   "джууулдатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джууургъан-джастыкъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джууургъан"
+  ],
+  "pages": [
+   262
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "джылау-сарын",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джылау"
+  ],
+  "pages": [
+   266
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "джылтырагъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джылтыратыргъа"
+  ],
+  "pages": [
+   267
+  ],
+  "near_keys": [
+   "джылатыргъа",
+   "джылытыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джырылдашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джырылдашыу"
+  ],
+  "pages": [
+   269
+  ],
+  "near_keys": [
+   "джырылдатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джюяюкчю",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "джюзюкчюлюк"
+  ],
+  "pages": [
+   271
+  ],
+  "near_keys": [
+   "джюзюкчю",
+   "джюзюмчю",
+   "джюзюнчю",
+   "джюзюучю"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "дун-дуния",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дюн"
+  ],
+  "pages": [
+   213
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "дуруслунургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дуруссунуу"
+  ],
+  "pages": [
+   210
+  ],
+  "near_keys": [
+   "дуруссунургъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "дыгъар-дугъур",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "дыгъыр"
+  ],
+  "pages": [
+   212
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "елмей-къалмай",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "еле"
+  ],
+  "pages": [
+   276
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "елчелеширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "елчелешиу"
+  ],
+  "pages": [
+   277
+  ],
+  "near_keys": [
+   "елчеленирге",
+   "елчелетирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "ёлчелеш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "елюу-елтюрюу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "елюу"
+  ],
+  "pages": [
+   278
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ере-гыла",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ере"
+  ],
+  "pages": [
+   280
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ехтемлеширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ехтемлешмеклик"
+  ],
+  "pages": [
+   282
+  ],
+  "near_keys": [
+   "ехтемленирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ечешсиз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ечешсизлик"
+  ],
+  "pages": [
+   282
+  ],
+  "near_keys": [
+   "ечешеиз"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "законлу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "законлулукъ"
+  ],
+  "pages": [
+   285
+  ],
+  "near_keys": [
+   "закончу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "законлу"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "зап",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "заф"
+  ],
+  "pages": [
+   289
+  ],
+  "near_keys": [
+   "зар",
+   "зат",
+   "заф",
+   "зая"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "заялаб",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "заяларгъа"
+  ],
+  "pages": [
+   289
+  ],
+  "near_keys": [
+   "заялау"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "зияилы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "зиянлылыкъ"
+  ],
+  "pages": [
+   290
+  ],
+  "near_keys": [
+   "зиянлы"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "иймен",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ийменсиндирирге"
+  ],
+  "pages": [
+   298
+  ],
+  "near_keys": [
+   "ийман"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ийнакълатдырыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ийнакълатдырыу"
+  ],
+  "pages": [
+   298
+  ],
+  "near_keys": [
+   "ийнакълатдырыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "илму-излем",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "излем"
+  ],
+  "pages": [
+   296
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "индустриаларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "индустриялау"
+  ],
+  "pages": [
+   302
+  ],
+  "near_keys": [
+   "индустрияларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ишленмеген",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ишленмегенлик"
+  ],
+  "pages": [
+   310
+  ],
+  "near_keys": [
+   "ишленмегек"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "келишиусюз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "келишиусюзлюк"
+  ],
+  "pages": [
+   321
+  ],
+  "near_keys": [
+   "келишиулюк"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "келишиусюз"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "кесинлетирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "кескинлетиу"
+  ],
+  "pages": [
+   330
+  ],
+  "near_keys": [
+   "кесеклетирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къаздырырпьа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къаздырмакълыкъ"
+  ],
+  "pages": [
+   376
+  ],
+  "near_keys": [
+   "къаздырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къайнашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къайнашыу"
+  ],
+  "pages": [
+   378
+  ],
+  "near_keys": [
+   "къайнатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къалакыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къаландырыргъа"
+  ],
+  "pages": [
+   381
+  ],
+  "near_keys": [
+   "къаланыргъа",
+   "къалатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къапчагъай",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къапчыгъай"
+  ],
+  "pages": [
+   389
+  ],
+  "near_keys": [
+   "къапчыгъай"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "къапчагъай"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "къаслар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къаспарлыкъ"
+  ],
+  "pages": [
+   399
+  ],
+  "near_keys": [
+   "къаспар"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къатыш-къутуш",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къатыш"
+  ],
+  "pages": [
+   402
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къауумчу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къауумчулукъ"
+  ],
+  "pages": [
+   403
+  ],
+  "near_keys": [
+   "къаууфлу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къах-къах",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къах"
+  ],
+  "pages": [
+   404
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къурашдырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къурашдырылыргъа"
+  ],
+  "pages": [
+   424
+  ],
+  "near_keys": [
+   "къурандырыргъа",
+   "къуратдырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "къурашдыр"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "къурт-къумурсха",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къурт"
+  ],
+  "pages": [
+   425
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къутту-къубуран",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къутту"
+  ],
+  "pages": [
+   429
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къууудурургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къуудуруу"
+  ],
+  "pages": [
+   431
+  ],
+  "near_keys": [
+   "къуудуртургъа",
+   "къууулушургъа",
+   "къууурулургъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къуюм",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къуюмлукъ"
+  ],
+  "pages": [
+   433
+  ],
+  "near_keys": [
+   "къуюу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къыдырышыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къыдырышыу"
+  ],
+  "pages": [
+   434
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "къыехалатыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къысхалатыу"
+  ],
+  "pages": [
+   448
+  ],
+  "near_keys": [
+   "къысхалатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къычырыкъ-сыйыт",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "къычырыкъ"
+  ],
+  "pages": [
+   450
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "кюксюлдюм",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "кексюлдюмлюк"
+  ],
+  "pages": [
+   338
+  ],
+  "near_keys": [
+   "кексюлдюм"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "лай-лай",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "лау"
+  ],
+  "pages": [
+   452
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "магъыратыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "мангыратмакълыкъ"
+  ],
+  "pages": [
+   459
+  ],
+  "near_keys": [
+   "мангыратыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "малгар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "маргал"
+  ],
+  "pages": [
+   460
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "малтаргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "мылтаргъа"
+  ],
+  "pages": [
+   475
+  ],
+  "near_keys": [
+   "мылтаргъа"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "март-гурт",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "мартла"
+  ],
+  "pages": [
+   461
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "мелхумлукъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "белхумлукъ"
+  ],
+  "pages": [
+   134
+  ],
+  "near_keys": [
+   "белхумлукъ"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "мелхумлукъ"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "муш-муш",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "муш"
+  ],
+  "pages": [
+   474
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "накъыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "накъырдачылыкъ"
+  ],
+  "pages": [
+   479
+  ],
+  "near_keys": [
+   "накъыш"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "накъышлар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "накъышланыргъа"
+  ],
+  "pages": [
+   480
+  ],
+  "near_keys": [
+   "накъышлау"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "огъурсузланды",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "огъурсузландырыу"
+  ],
+  "pages": [
+   489
+  ],
+  "near_keys": [
+   "огъурсузланыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ойланыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ойланышыргъа"
+  ],
+  "pages": [
+   491
+  ],
+  "near_keys": [
+   "ойланыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ойнашдырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ойнашдырыу"
+  ],
+  "pages": [
+   493
+  ],
+  "near_keys": [
+   "ойлашдырыргъа",
+   "ойнатдырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "оккупациялар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "оккупацияланыргъа"
+  ],
+  "pages": [
+   493
+  ],
+  "near_keys": [
+   "оккупациялау"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "осмакълар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "осмакълатыргъа"
+  ],
+  "pages": [
+   504
+  ],
+  "near_keys": [
+   "осмакълау"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "пасыкъланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "пасыкъланыу"
+  ],
+  "pages": [
+   512
+  ],
+  "near_keys": [
+   "пасыкъланырыъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "пысылдашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "пысылдашыу"
+  ],
+  "pages": [
+   522
+  ],
+  "near_keys": [
+   "пысылдатыргъа",
+   "пышылдашыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "пысылдаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "сагъышланыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сагъышланмакълыкъ"
+  ],
+  "pages": [
+   533
+  ],
+  "near_keys": [
+   "сагъышланыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "санта",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "санча"
+  ],
+  "pages": [
+   541
+  ],
+  "near_keys": [
+   "сайта",
+   "санга",
+   "санча"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "саякъынланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "салкъынланмакълыкъ"
+  ],
+  "pages": [
+   536
+  ],
+  "near_keys": [
+   "салкъынланыргъа",
+   "салкъынлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "сеполюрге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сегюлмеклик"
+  ],
+  "pages": [
+   555
+  ],
+  "near_keys": [
+   "сегюлюрге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "суп-субай",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "суппа"
+  ],
+  "pages": [
+   573
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "суп-сууукъ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "суппа"
+  ],
+  "pages": [
+   573
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "суусушургъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "суусушуу"
+  ],
+  "pages": [
+   576
+  ],
+  "near_keys": [
+   "суусунургъа",
+   "суусутургъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "сыйсызлаымргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "сыйсызландырыргъа"
+  ],
+  "pages": [
+   581
+  ],
+  "near_keys": [
+   "сыйсызланыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "таманланыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тамамланыу"
+  ],
+  "pages": [
+   601
+  ],
+  "near_keys": [
+   "тамамланыргъа",
+   "тамамлатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "тангдырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "такъдырмакълыкъ"
+  ],
+  "pages": [
+   598
+  ],
+  "near_keys": [
+   "такъдырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "тансмкъларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тансыкълатыргъа"
+  ],
+  "pages": [
+   603
+  ],
+  "near_keys": [
+   "тансыкъларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "тебелеширге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тебелешиу"
+  ],
+  "pages": [
+   626
+  ],
+  "near_keys": [
+   "тебелетирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "тёбелеш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "терк-тенгиз",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тенгиз"
+  ],
+  "pages": [
+   621
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "тилилирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "титилиу"
+  ],
+  "pages": [
+   637
+  ],
+  "near_keys": [
+   "тирилирге",
+   "титилирге",
+   "тишелирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "тип-тик",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "типпе"
+  ],
+  "pages": [
+   636
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "топ-топ",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "топ"
+  ],
+  "pages": [
+   645
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "топпа-толуду",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "топ"
+  ],
+  "pages": [
+   645
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "трбчуларгъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тобчуламакълыкъ"
+  ],
+  "pages": [
+   639
+  ],
+  "near_keys": [
+   "тобчуларгъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "тыкъыр-мыкъыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тыкъыр"
+  ],
+  "pages": [
+   660
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "тынч-эсен",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тынч"
+  ],
+  "pages": [
+   661
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "тынчлыкъ-эсенлик",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тынчлыкъ"
+  ],
+  "pages": [
+   661
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "тырнашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тырнашыу"
+  ],
+  "pages": [
+   663
+  ],
+  "near_keys": [
+   "тырмашыргъа",
+   "тырналыргъа",
+   "тырнатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "тырнаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "тюрт-мюртчю",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тюрт"
+  ],
+  "pages": [
+   674
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "тютюнлетдирирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тютюнлетдирмеклик"
+  ],
+  "pages": [
+   675
+  ],
+  "near_keys": [
+   "тютюндетдирирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "тютюнлетдир"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "тя-тя",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "тюя"
+  ],
+  "pages": [
+   677
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "улагъыулу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ушагъыулулукъ"
+  ],
+  "pages": [
+   691
+  ],
+  "near_keys": [
+   "ушагъыулу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "умур-чумур",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "муру"
+  ],
+  "pages": [
+   473
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "уппа-чуппа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чуппа"
+  ],
+  "pages": [
+   738
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "файдаландырыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "файдаландырмакълыкъ"
+  ],
+  "pages": [
+   694
+  ],
+  "near_keys": [
+   "файдалаидырыргъа",
+   "файдалатдырыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "файдаландыр"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "фокусчу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "фокусник"
+  ],
+  "pages": [
+   697
+  ],
+  "near_keys": [
+   "фокуслу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "фокусчу"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "харакет-хадек",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "харекет"
+  ],
+  "pages": [
+   707
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "хыршыланыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "хыршыланмакълыкъ"
+  ],
+  "pages": [
+   716
+  ],
+  "near_keys": [
+   "хыршыланыу",
+   "хыршылатыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "цивилизацияла",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "цивилизацияланыу"
+  ],
+  "pages": [
+   718
+  ],
+  "near_keys": [
+   "цивилизациялы"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "чагъырылыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чакъырылгъан"
+  ],
+  "pages": [
+   723
+  ],
+  "near_keys": [
+   "чакъырылыргъа",
+   "чакъырышыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "чанчды-рыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чанчдырмакълыкъ"
+  ],
+  "pages": [
+   726
+  ],
+  "near_keys": [
+   "чанчдыртыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "чарлашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чарлашыу"
+  ],
+  "pages": [
+   727
+  ],
+  "near_keys": [
+   "чарлатыргъа",
+   "чарчайыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "чарлаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "черчеклендирирге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "черчеклендириу"
+  ],
+  "pages": [
+   733
+  ],
+  "near_keys": [
+   "черчеклендидирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "чулгъашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чулгъатыу"
+  ],
+  "pages": [
+   738
+  ],
+  "near_keys": [
+   "чулгъаныргъа",
+   "чулгъатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "чулгъаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "чуп-чубар",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чубар"
+  ],
+  "pages": [
+   738
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "чыкъырдатыр",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чыкъырдагмакълыкъ"
+  ],
+  "pages": [
+   743
+  ],
+  "near_keys": [
+   "чыкъырдатыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "чыпылдашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "чыпылдашыу"
+  ],
+  "pages": [
+   744
+  ],
+  "near_keys": [
+   "чыпылдатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "чыпылдаш"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "шайтанлы",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "шайтанлылыкъ"
+  ],
+  "pages": [
+   748
+  ],
+  "near_keys": [
+   "шайтанча"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "шап-шатык",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "шаппа"
+  ],
+  "pages": [
+   748
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ынгычхау",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ынгычхамакълыкъ"
+  ],
+  "pages": [
+   758
+  ],
+  "near_keys": [
+   "ынгырдау",
+   "ыньычхау"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ынгычхашыргъа",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ынгычхатмакълыкъ"
+  ],
+  "pages": [
+   759
+  ],
+  "near_keys": [
+   "ынгычхатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "ыт-быт",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ыт"
+  ],
+  "pages": [
+   760
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "ышыныулу",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "ышаныулулукъ"
+  ],
+  "pages": [
+   761
+  ],
+  "near_keys": [
+   "ышаныулу",
+   "ышаныучу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "юркюшюрге",
+  "signals": [
+   "ref"
+  ],
+  "refs": 1,
+  "referred_by": [
+   "юркюшюу"
+  ],
+  "pages": [
+   785
+  ],
+  "near_keys": [
+   "юрдюрюрге",
+   "юркютюрге",
+   "юфкюрюрге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "бла",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   153
+  ],
+  "near_keys": [],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [
+   "бла1",
+   "бла2"
+  ],
+  "kind": "in_corpus"
+ },
+ {
+  "word": "джашасын",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   238
+  ],
+  "near_keys": [
+   "джашатыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джаякълашмакълыкъ",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   239
+  ],
+  "near_keys": [
+   "джаякълатмакълыкъ"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джыж",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   263
+  ],
+  "near_keys": [
+   "джыз"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "джюклетиу",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   271
+  ],
+  "near_keys": [
+   "джкжлетиу",
+   "джюклениу"
+  ],
+  "kbrs_side_in_corpus": true,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "келепенлендирмеклик",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   319
+  ],
+  "near_keys": [
+   "келепенлекдирмеклик"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "къраллы",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   420
+  ],
+  "near_keys": [
+   "къралчы"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "кюченирге",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   367
+  ],
+  "near_keys": [
+   "кюсетирге",
+   "кютейирге",
+   "кючейирге"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "кючен"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "сериуюнлеу",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   554
+  ],
+  "near_keys": [
+   "сериуюнлюк",
+   "серкуюнлеу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "сериуюнлеу"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "сууушдурургъа",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   577
+  ],
+  "near_keys": [
+   "сууутдурургъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "туракълашдырыу",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   652
+  ],
+  "near_keys": [
+   "туракълатдырыу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "туракълашыргъа",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   652
+  ],
+  "near_keys": [
+   "туракъланыргъа",
+   "туракълатыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "тырпакъланыргъа",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   663
+  ],
+  "near_keys": [
+   "тырнакъланыргъа",
+   "тырнакълатыргъа",
+   "тырнакълашыргъа"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [],
+  "kind": "garbled"
+ },
+ {
+  "word": "чийсиллик",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   734
+  ],
+  "near_keys": [
+   "чийсилсиз"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "чийсиллик"
+  ],
+  "kind": "garbled"
+ },
+ {
+  "word": "шууулдашыу",
+  "signals": [
+   "head"
+  ],
+  "refs": 0,
+  "referred_by": [],
+  "pages": [
+   755
+  ],
+  "near_keys": [
+   "шууулдатыу",
+   "шууулдаучу"
+  ],
+  "kbrs_side_in_corpus": false,
+  "tskbya_only_entries": [
+   "шууулдашыу"
+  ],
+  "kind": "garbled"
+ }
+]

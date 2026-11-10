@@ -1,0 +1,577 @@
+{"entry_id": "e_09703", "word": "jагъачыкъ", "field": "tags", "old": "к джагъа II", "new": "к джагъа I", "source": "КБРС"}
+{"entry_id": "e_00040", "word": "jагъыл2", "field": "tags", "old": "от жакъ 4", "new": "от жакъ 2", "source": "ТСКБЯ"}
+{"entry_id": "e_00056", "word": "jагъыу1", "field": "tags", "old": "к джагъаргъа I", "new": "к джагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_00058", "word": "jагъыу3", "field": "tags", "old": "от жакъ 4", "new": "от жакъ 2", "source": "ТСКБЯ"}
+{"entry_id": "e_11302", "word": "jагъыш2", "field": "tags", "old": "от жакъ 4", "new": "от жакъ 2", "source": "ТСКБЯ"}
+{"entry_id": "e_00076", "word": "jаздыр1", "field": "tags", "old": "к джазаргъа I", "new": "к джазаргъа III", "source": "КБРС"}
+{"entry_id": "e_00077", "word": "jаздыр2", "field": "tags", "old": "к джазаргъа II", "new": "к джазаргъа IV", "source": "КБРС"}
+{"entry_id": "e_00078", "word": "jаздыр3", "field": "tags", "old": "к джазаргъа III", "new": "к джазаргъа VI", "source": "КБРС"}
+{"entry_id": "e_09721", "word": "jазмакълыкъ1", "field": "tags", "old": "к джазаргъа I", "new": "к джазаргъа III", "source": "КБРС"}
+{"entry_id": "e_09722", "word": "jазмакълыкъ2", "field": "tags", "old": "к джазаргъа II", "new": "к джазаргъа IV", "source": "КБРС"}
+{"entry_id": "e_09722", "word": "jазмакълыкъ2", "field": "def1", "old": "см. джазыу II", "new": "см. джазыу IV", "source": "КБРС"}
+{"entry_id": "e_09723", "word": "jазмакълыкъ3", "field": "tags", "old": "к джазаргъа III", "new": "к джазаргъа VI", "source": "КБРС"}
+{"entry_id": "e_09723", "word": "jазмакълыкъ3", "field": "def1", "old": "см. джазыу III", "new": "см. джазыу V", "source": "КБРС"}
+{"entry_id": "e_00094", "word": "jазыл1", "field": "def1", "old": "к джазаргъа I", "new": "к джазаргъа III", "source": "КБРС"}
+{"entry_id": "e_00095", "word": "jазыл2", "field": "tags", "old": "к джазаргъа II", "new": "к джазаргъа IV", "source": "КБРС"}
+{"entry_id": "e_00100", "word": "jазыу3", "field": "tags", "old": "к джазаргъа I", "new": "к джазаргъа III", "source": "КБРС"}
+{"entry_id": "e_00103", "word": "jазыу4", "field": "tags", "old": "к джазаргъа II", "new": "к джазаргъа IV", "source": "КБРС"}
+{"entry_id": "e_00104", "word": "jазыу5", "field": "tags", "old": "к джазаргъа III", "new": "к джазаргъа VI", "source": "КБРС"}
+{"entry_id": "e_00150", "word": "jакъдыр1", "field": "tags", "old": "к джагъаргъа I", "new": "к джагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_00151", "word": "jакъдыр2", "field": "tags", "old": "от жакъ 4", "new": "от жакъ 2", "source": "ТСКБЯ"}
+{"entry_id": "e_00160", "word": "jакълыкъ", "field": "tags", "old": "к джакъ II", "new": "к джакъ I", "source": "КБРС"}
+{"entry_id": "e_09779", "word": "jакъмакълыкъ1", "field": "tags", "old": "к джагъаргъа I", "new": "к джагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_09780", "word": "jакъмакълыкъ2", "field": "def1", "old": "см. джагъыу II", "new": "см. джагъыу III", "source": "КБРС"}
+{"entry_id": "e_00174", "word": "jаланла", "field": "misc2", "old": "къ. жалан 2", "new": "къ. жалан 1", "source": "ТСКБЯ"}
+{"entry_id": "e_00174", "word": "jаланла", "field": "misc2", "old": "къ. жалан 2", "new": "къ. жалан 1", "source": "ТСКБЯ"}
+{"entry_id": "e_00183", "word": "jаланнгач2", "field": "misc2", "old": "къ. жалан 2", "new": "къ. жалан 1", "source": "ТСКБЯ"}
+{"entry_id": "e_11351", "word": "jаланнгачлан", "field": "misc2", "old": "къ. жалан 2", "new": "къ. жалан 1", "source": "ТСКБЯ"}
+{"entry_id": "e_00319", "word": "jанла2", "field": "misc2", "old": "ау 2 (3-чю магъ.)", "new": "ау 3", "source": "ТСКБЯ"}
+{"entry_id": "e_09895", "word": "jанлылыкъ", "field": "tags", "old": "к джанлы I", "new": "к джанлы III", "source": "КБРС"}
+{"entry_id": "e_11475", "word": "jаппа-jангыз2", "field": "misc2", "old": "къ. жангыз2", "new": "къ. жангыз1", "source": "ТСКБЯ"}
+{"entry_id": "e_11509", "word": "jаратдыр3", "field": "tags", "old": "от жарат 3", "new": "от жарат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_11515", "word": "jаратыл3", "field": "tags", "old": "от жарат 3", "new": "от жарат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_11522", "word": "jаратыу3", "field": "tags", "old": "от жарат 3", "new": "от жарат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_00378", "word": "jардыр", "field": "tags", "old": "к джарыргъа I", "new": "к джарыргъа II", "source": "КБРС"}
+{"entry_id": "e_09947", "word": "jармакълыкъ", "field": "tags", "old": "к джарыргъа I", "new": "к джарыргъа II", "source": "КБРС"}
+{"entry_id": "e_00425", "word": "jарты1", "field": "misc2", "old": "къ. жарым 1", "new": "къ. жарым", "source": "ТСКБЯ"}
+{"entry_id": "e_00442", "word": "jарыл", "field": "def1", "old": "к джарыргъа I", "new": "к джарыргъа II", "source": "КБРС"}
+{"entry_id": "e_00449", "word": "jарыу1", "field": "tags", "old": "к джарыргъа I", "new": "к джарыргъа II", "source": "КБРС"}
+{"entry_id": "e_00533", "word": "jашлан", "field": "misc2", "old": "къ. жаш 2", "new": "къ. жаш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_11638", "word": "jашландыр", "field": "misc2", "old": "къ. жаш 2", "new": "къ. жаш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_00539", "word": "jашна2", "field": "misc2", "old": "къ. жаш 2", "new": "къ. жаш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_11649", "word": "jашырыныу", "field": "tags", "old": "от жашырын 1", "new": "от жашырын 4", "source": "ТСКБЯ"}
+{"entry_id": "e_00581", "word": "jегил", "field": "tags", "old": "от жек3", "new": "от жек2", "source": "ТСКБЯ"}
+{"entry_id": "e_00581", "word": "jегил", "field": "misc2", "old": "Жек3", "new": "Жек2", "source": "ТСКБЯ"}
+{"entry_id": "e_00583", "word": "jегиу", "field": "tags", "old": "от жек3", "new": "от жек2", "source": "ТСКБЯ"}
+{"entry_id": "e_00583", "word": "jегиу", "field": "misc2", "old": "Жек3", "new": "Жек2", "source": "ТСКБЯ"}
+{"entry_id": "e_11662", "word": "jегиш", "field": "tags", "old": "от жек3", "new": "от жек2", "source": "ТСКБЯ"}
+{"entry_id": "e_11662", "word": "jегиш", "field": "misc2", "old": "Жек3", "new": "Жек2", "source": "ТСКБЯ"}
+{"entry_id": "e_00592", "word": "jекдир", "field": "tags", "old": "от жек 3", "new": "от жек 2", "source": "ТСКБЯ"}
+{"entry_id": "e_00630", "word": "jенгилиу", "field": "tags", "old": "от женгил 2", "new": "от женгил 3", "source": "ТСКБЯ"}
+{"entry_id": "e_00642", "word": "jер1", "field": "misc2", "old": "къ. жер 1", "new": "къ. жер 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_00893", "word": "jуду", "field": "misc2", "old": "къ. жут1 (1-чи магъ.)", "new": "къ. жут3", "source": "ТСКБЯ"}
+{"entry_id": "e_00898", "word": "jукъа1", "field": "misc2", "old": "къалын 2 (2-чи магъ.)", "new": "къалын 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_11896", "word": "jутдай", "field": "misc2", "old": "къ. жут 2", "new": "къ. жут 1", "source": "ТСКБЯ"}
+{"entry_id": "e_11896", "word": "jутдай", "field": "misc2", "old": "къ. жут 2 (3-чю магъ.)", "new": "къ. жут 1 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_11897", "word": "jутдайка", "field": "misc2", "old": "къ. жут 2 (1-чи магъ.)", "new": "къ. жут 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_00997", "word": "jутдур", "field": "tags", "old": "от жут 3", "new": "от жут 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01002", "word": "jуткёз", "field": "misc2", "old": "къ. жут 2 (3-чю магъ.)", "new": "къ. жут 1 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_01003", "word": "jутлама", "field": "misc2", "old": "къ. жут 2 (3-чю магъ.)", "new": "къ. жут 1 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_01010", "word": "jутул", "field": "misc2", "old": "от жут 3", "new": "от жут 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01013", "word": "jутуу", "field": "tags", "old": "от жут 3", "new": "от жут 2", "source": "ТСКБЯ"}
+{"entry_id": "e_11904", "word": "jутуш", "field": "tags", "old": "от жут 3", "new": "от жут 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01031", "word": "jууаш3", "field": "misc2", "old": "къ. жууаш 2 (1-чи магъ.)", "new": "къ. жууаш 3 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_01031", "word": "jууаш3", "field": "misc2", "old": "къ. жууаш 2 (2-чи магъ.)", "new": "къ. жууаш 3 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_01031", "word": "jууаш3", "field": "misc2", "old": "къ. жууаш 2 (3-чю магъ.)", "new": "къ. жууаш 3 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_01032", "word": "jууашдыр", "field": "misc2", "old": "къ. жууаш 2", "new": "къ. жууаш 3", "source": "ТСКБЯ"}
+{"entry_id": "e_01035", "word": "jууашыу", "field": "tags", "old": "от жууаш 2", "new": "от жууаш 3", "source": "ТСКБЯ"}
+{"entry_id": "e_01035", "word": "jууашыу", "field": "misc2", "old": "Жууаш2", "new": "Жууаш3", "source": "ТСКБЯ"}
+{"entry_id": "e_01079", "word": "jыгъыш1", "field": "misc2", "old": "къ. тутуш 1", "new": "къ. тутуш 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01146", "word": "jыйышыу1", "field": "tags", "old": "от жыйыш 1", "new": "от жыйыш", "source": "ТСКБЯ"}
+{"entry_id": "e_01146", "word": "jыйышыу1", "field": "misc2", "old": "Жыйыш1", "new": "Жыйыш", "source": "ТСКБЯ"}
+{"entry_id": "e_10576", "word": "jырмылыкъ", "field": "def1", "old": "к джырмы I", "new": "к джырмы II", "source": "КБРС"}
+{"entry_id": "e_01255", "word": "jюздюр", "field": "tags", "old": "от жюз 3", "new": "от жюз 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01265", "word": "jюзюу", "field": "tags", "old": "от жюз 3", "new": "от жюз 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01267", "word": "jюзюш", "field": "tags", "old": "от жюз 3", "new": "от жюз 2", "source": "ТСКБЯ"}
+{"entry_id": "e_01627", "word": "агъачсызлыкъ", "field": "tags", "old": "к агъачсыз I", "new": "к агъачсыз II", "source": "КБРС"}
+{"entry_id": "e_01635", "word": "агъыз1", "field": "def2", "old": "от акъ2", "new": "от акъ3", "source": "ТСКБЯ"}
+{"entry_id": "e_01635", "word": "агъыз1", "field": "misc2", "old": "Акъ2", "new": "Акъ3", "source": "ТСКБЯ"}
+{"entry_id": "e_01656", "word": "агъыу", "field": "tags", "old": "от акъ 2", "new": "от акъ 3", "source": "ТСКБЯ"}
+{"entry_id": "e_01657", "word": "агъыш", "field": "tags", "old": "от акъ 2", "new": "от акъ 3", "source": "ТСКБЯ"}
+{"entry_id": "e_01922", "word": "азгъынла", "field": "misc2", "old": "къ. аз 2", "new": "къ. аз 1", "source": "ТСКБЯ"}
+{"entry_id": "e_02025", "word": "азыу2", "field": "tags", "old": "от аз 2", "new": "от аз 1", "source": "ТСКБЯ"}
+{"entry_id": "e_02171", "word": "айрылыкъ1", "field": "def1", "old": "к айры 2", "new": "к айры 1", "source": "ТСКБЯ"}
+{"entry_id": "e_02287", "word": "айырмалы1", "field": "misc2", "old": "къ. айырма 3", "new": "къ. айырма 1", "source": "ТСКБЯ"}
+{"entry_id": "e_02588", "word": "алагъа", "field": "tags", "old": "от ала I", "new": "от ала III", "source": "КБРС"}
+{"entry_id": "e_02589", "word": "алада", "field": "tags", "old": "от ала I", "new": "от ала III", "source": "КБРС"}
+{"entry_id": "e_02590", "word": "аладан", "field": "tags", "old": "от ала I", "new": "от ала III", "source": "КБРС"}
+{"entry_id": "e_02619", "word": "алалыкъ", "field": "tags", "old": "к ала II", "new": "к ала I", "source": "КБРС"}
+{"entry_id": "e_02632", "word": "аланы", "field": "tags", "old": "от ала I", "new": "от ала III", "source": "КБРС"}
+{"entry_id": "e_02634", "word": "алар", "field": "def1", "old": "см. ала I", "new": "см. ала III", "source": "КБРС"}
+{"entry_id": "e_02646", "word": "алашалыкъ1", "field": "tags", "old": "к алаша I", "new": "к алаша II", "source": "КБРС"}
+{"entry_id": "e_02647", "word": "алашалыкъ2", "field": "tags", "old": "к алаша II", "new": "к алаша I", "source": "КБРС"}
+{"entry_id": "e_02781", "word": "алдырт", "field": "tags", "old": "от алдыр2", "new": "от алдыр1", "source": "ТСКБЯ"}
+{"entry_id": "e_02781", "word": "алдырт", "field": "misc2", "old": "Алдыр2", "new": "Алдыр1", "source": "ТСКБЯ"}
+{"entry_id": "e_02784", "word": "алдырыл", "field": "tags", "old": "от алдыр2", "new": "от алдыр1", "source": "ТСКБЯ"}
+{"entry_id": "e_02784", "word": "алдырыл", "field": "misc2", "old": "Алдыр2", "new": "Алдыр1", "source": "ТСКБЯ"}
+{"entry_id": "e_02786", "word": "алдырыу", "field": "tags", "old": "от алдыр2", "new": "от алдыр1", "source": "ТСКБЯ"}
+{"entry_id": "e_02786", "word": "алдырыу", "field": "misc2", "old": "Алдыр2", "new": "Алдыр1", "source": "ТСКБЯ"}
+{"entry_id": "e_03252", "word": "ангылаусуз1", "field": "tags", "old": "къ. ангсыз 2", "new": "къ. ангсыз 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_03516", "word": "аралыкъ2", "field": "def2", "old": "къ. ара 2", "new": "къ. ара 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_03806", "word": "арыкъла", "field": "misc2", "old": "къ. арыкъ 2", "new": "къ. арыкъ 1", "source": "ТСКБЯ"}
+{"entry_id": "e_03826", "word": "арыт1", "field": "tags", "old": "от ары 2", "new": "от ары 1", "source": "ТСКБЯ"}
+{"entry_id": "e_03826", "word": "арыт1", "field": "misc2", "old": "Ары2", "new": "Ары1", "source": "ТСКБЯ"}
+{"entry_id": "e_03852", "word": "арыу", "field": "tags", "old": "от ары 2", "new": "от ары 1", "source": "ТСКБЯ"}
+{"entry_id": "e_03856", "word": "арыш2", "field": "tags", "old": "от ары 2", "new": "от ары 1", "source": "ТСКБЯ"}
+{"entry_id": "e_03932", "word": "ассалам", "field": "def1", "old": "см. салам II", "new": "см. салам I", "source": "КБРС"}
+{"entry_id": "e_03986", "word": "асыл3", "field": "def2", "old": "от ас 2", "new": "от ас 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_03994", "word": "асылыу", "field": "tags", "old": "от асыл 2", "new": "от асыл 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04066", "word": "атамакълыкъ", "field": "tags", "old": "к атаргъа I", "new": "к атаргъа II", "source": "КБРС"}
+{"entry_id": "e_04078", "word": "атат", "field": "tags", "old": "к атаргъа I", "new": "к атаргъа II", "source": "КБРС"}
+{"entry_id": "e_04084", "word": "атау", "field": "tags", "old": "к атаргъа I", "new": "к атаргъа II", "source": "КБРС"}
+{"entry_id": "e_04091", "word": "атдыр1", "field": "def1", "old": "к атаргъа II", "new": "к атаргъа IV", "source": "КБРС"}
+{"entry_id": "e_04117", "word": "атлам", "field": "misc2", "old": "къ. атла 2 (10-чи магъ.)", "new": "къ. атла 2 (10-чу магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_04159", "word": "атмакълыкъ", "field": "tags", "old": "к атаргъа II", "new": "к атаргъа IV", "source": "КБРС"}
+{"entry_id": "e_04215", "word": "атылыу3", "field": "tags", "old": "от атыл 3", "new": "от атыл", "source": "ТСКБЯ"}
+{"entry_id": "e_04222", "word": "атыу", "field": "tags", "old": "к атаргъа II", "new": "к атаргъа IV", "source": "КБРС"}
+{"entry_id": "e_04224", "word": "атыш1", "field": "tags", "old": "к атаргъа II", "new": "к атаргъа IV", "source": "КБРС"}
+{"entry_id": "e_04322", "word": "ауру", "field": "misc2", "old": "къ. ачы 5", "new": "къ. ачы 4", "source": "ТСКБЯ"}
+{"entry_id": "e_04403", "word": "аууу", "field": "tags", "old": "от ау 2", "new": "от ау 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04407", "word": "аууш4", "field": "tags", "old": "от ау 2", "new": "от ау 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04516", "word": "ахшы1", "field": "def2", "old": "къ. иги 1 (1-чи магъ.)", "new": "къ. иги 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_04560", "word": "ачдыр", "field": "tags", "old": "от ач 3", "new": "от ач 4", "source": "ТСКБЯ"}
+{"entry_id": "e_04572", "word": "ачмакълыкъ", "field": "def1", "old": "см. ачыу I", "new": "см. ачыу III", "source": "КБРС"}
+{"entry_id": "e_04593", "word": "ачыгъан1", "field": "def1", "old": "от ачыргъа I", "new": "от ачыргъа IV", "source": "КБРС"}
+{"entry_id": "e_04594", "word": "ачыгъан2", "field": "def1", "old": "от ачыргъа II", "new": "от ачыргъа III", "source": "КБРС"}
+{"entry_id": "e_04622", "word": "ачыкълыкъ", "field": "def1", "old": "к ачыкъ 2", "new": "к ачыкъ 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04635", "word": "ачымакълыкъ1", "field": "tags", "old": "к ачыргъа I", "new": "к ачыргъа IV", "source": "КБРС"}
+{"entry_id": "e_04636", "word": "ачымакълыкъ2", "field": "tags", "old": "к ачыргъа II", "new": "к ачыргъа III", "source": "КБРС"}
+{"entry_id": "e_04639", "word": "ачыт1", "field": "tags", "old": "от ачы 4", "new": "от ачы 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04639", "word": "ачыт1", "field": "misc2", "old": "Ачы4", "new": "Ачы3", "source": "ТСКБЯ"}
+{"entry_id": "e_04640", "word": "ачыт2", "field": "tags", "old": "от ачы 5", "new": "от ачы 4", "source": "ТСКБЯ"}
+{"entry_id": "e_04640", "word": "ачыт2", "field": "misc2", "old": "Ачы5", "new": "Ачы4", "source": "ТСКБЯ"}
+{"entry_id": "e_04645", "word": "ачытдырыргъа", "field": "tags", "old": "к ачытыргъа I", "new": "к ачытыргъа II", "source": "КБРС"}
+{"entry_id": "e_04660", "word": "ачыу3", "field": "tags", "old": "от ач 3", "new": "от ач 4", "source": "ТСКБЯ"}
+{"entry_id": "e_04661", "word": "ачыу4", "field": "tags", "old": "от ачы 4", "new": "от ачы 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04662", "word": "ачыу5", "field": "tags", "old": "от ачы 5", "new": "от ачы 4", "source": "ТСКБЯ"}
+{"entry_id": "e_04682", "word": "ачыулукъ", "field": "tags", "old": "к ачыу II", "new": "к ачыу V", "source": "КБРС"}
+{"entry_id": "e_04682", "word": "ачыулукъ", "field": "misc2", "old": "къ. ачыу 5", "new": "къ. ачыу 2", "source": "ТСКБЯ"}
+{"entry_id": "e_04684", "word": "ачыулулукъ2", "field": "misc2", "old": "къ. ачыу 2", "new": "къ. ачыу 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04879", "word": "аяздыр", "field": "tags", "old": "от аяз 3", "new": "от аяз 2", "source": "ТСКБЯ"}
+{"entry_id": "e_04888", "word": "аязы", "field": "misc2", "old": "къ. аяз 3 (1-чи магъ.)", "new": "къ. аяз 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_04888", "word": "аязы", "field": "misc2", "old": "къ. аяз 3 (2-чи магъ.)", "new": "къ. аяз 2 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_04888", "word": "аязы", "field": "misc2", "old": "Аяз 3 (3-чи магъ.)", "new": "Аяз 2 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_04888", "word": "аязы", "field": "misc2", "old": "Аяз 3 (4-чю магъ.)", "new": "Аяз 2 (4-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_04893", "word": "аязыу", "field": "tags", "old": "от аяз 3", "new": "от аяз 2", "source": "ТСКБЯ"}
+{"entry_id": "e_04992", "word": "багъа3", "field": "misc2", "old": "къ. багъа 1", "new": "къ. багъа 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04992", "word": "багъа3", "field": "misc2", "old": "къ. багъа 1", "new": "къ. багъа 3", "source": "ТСКБЯ"}
+{"entry_id": "e_04992", "word": "багъа3", "field": "misc2", "old": "къ. багъа 1", "new": "къ. багъа 3", "source": "ТСКБЯ"}
+{"entry_id": "e_05118", "word": "базыкълыкъ", "field": "def1", "old": "к базыкъ 2", "new": "к базыкъ 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_05327", "word": "баллылыкъ", "field": "tags", "old": "к баллы II", "new": "к баллы I", "source": "КБРС"}
+{"entry_id": "e_05373", "word": "бар2", "field": "misc2", "old": "къ. битеу 1 (1-чи магъ.)", "new": "къ. битеу 1", "source": "ТСКБЯ"}
+{"entry_id": "e_05921", "word": "беклен3", "field": "def2", "old": "от бекле 3", "new": "от бекле 1", "source": "ТСКБЯ"}
+{"entry_id": "e_05933", "word": "беклет3", "field": "tags", "old": "от бекле 3", "new": "от бекле 1", "source": "ТСКБЯ"}
+{"entry_id": "e_05943", "word": "беклеу1", "field": "tags", "old": "от бекле 1", "new": "от бекле 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_05945", "word": "беклеу3", "field": "tags", "old": "от бекле3", "new": "от бекле1", "source": "ТСКБЯ"}
+{"entry_id": "e_05945", "word": "беклеу3", "field": "misc2", "old": "Бекле3", "new": "Бекле1", "source": "ТСКБЯ"}
+{"entry_id": "e_05959", "word": "белги4", "field": "misc2", "old": "къ. багъа2", "new": "къ. багъа4", "source": "ТСКБЯ"}
+{"entry_id": "e_06205", "word": "бизге", "field": "tags", "old": "от биз I", "new": "от биз II", "source": "КБРС"}
+{"entry_id": "e_06206", "word": "бизде", "field": "tags", "old": "от биз I", "new": "от биз II", "source": "КБРС"}
+{"entry_id": "e_06208", "word": "бизден", "field": "tags", "old": "от биз I", "new": "от биз II", "source": "КБРС"}
+{"entry_id": "e_06272", "word": "билемеклик", "field": "def1", "old": "см. билеу I", "new": "см. билеу III", "source": "КБРС"}
+{"entry_id": "e_06348", "word": "бирем-бирем", "field": "misc2", "old": "къ. бир-бир 1", "new": "къ. бир-бир 2", "source": "ТСКБЯ"}
+{"entry_id": "e_06430", "word": "битдириу1", "field": "tags", "old": "к битдирирге II", "new": "к битдирирге I", "source": "КБРС"}
+{"entry_id": "e_06431", "word": "битдириу2", "field": "tags", "old": "к битдирирге I", "new": "к битдирирге II", "source": "КБРС"}
+{"entry_id": "e_06449", "word": "битемеклик", "field": "def1", "old": "что битеу I", "new": "что битеу II", "source": "КБРС"}
+{"entry_id": "e_06586", "word": "блокировка", "field": "misc2", "old": "къ. блок 2", "new": "къ. блок 1", "source": "ТСКБЯ"}
+{"entry_id": "e_06708", "word": "бол", "field": "misc2", "old": "къ. къурал 1", "new": "къ. къурал 2", "source": "ТСКБЯ"}
+{"entry_id": "e_07045", "word": "бугъалыкъ", "field": "def1", "old": "к бугъа I", "new": "к бугъа", "source": "КБРС"}
+{"entry_id": "e_08204", "word": "гагарай", "field": "misc2", "old": "къ. кишиу 1", "new": "къ. кишиу 2", "source": "ТСКБЯ"}
+{"entry_id": "e_08413", "word": "гебенеклик", "field": "def1", "old": "к гебенек I", "new": "к гебенек II", "source": "КБРС"}
+{"entry_id": "e_08734", "word": "горийлик", "field": "tags", "old": "к горий I", "new": "к горий II", "source": "КБРС"}
+{"entry_id": "e_09003", "word": "гурушхала", "field": "misc2", "old": "къ. гурушха 2", "new": "къ. гурушха 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_09008", "word": "гурушхалыкъ", "field": "misc2", "old": "къ. гурушха 2", "new": "къ. гурушха 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_09158", "word": "гылыу2", "field": "misc2", "old": "къ. гылыу2", "new": "къ. гылыу", "source": "ТСКБЯ"}
+{"entry_id": "e_09450", "word": "даулашдыр", "field": "tags", "old": "от даулаш 2", "new": "от даулаш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_09454", "word": "даулашыу", "field": "tags", "old": "от даулаш 3", "new": "от даулаш 2", "source": "ТСКБЯ"}
+{"entry_id": "e_09578", "word": "демлеш", "field": "def2", "old": "къ. даулаш 2", "new": "къ. даулаш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_10777", "word": "диспут", "field": "misc2", "old": "къ. даулаш 3 (3-чю магъ.)", "new": "къ. даулаш 2 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_12571", "word": "зылдылыкъ1", "field": "tags", "old": "к зылды I", "new": "к зылды II", "source": "КБРС"}
+{"entry_id": "e_12572", "word": "зылдылыкъ2", "field": "tags", "old": "к зылды II", "new": "к зылды I", "source": "КБРС"}
+{"entry_id": "e_12889", "word": "ийлыкъ2", "field": "misc2", "old": "къ. ыйлыкъ 2", "new": "къ. ыйлыкъ 1", "source": "ТСКБЯ"}
+{"entry_id": "e_13400", "word": "иссилик", "field": "def1", "old": "к исси 2", "new": "к исси 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_13468", "word": "ич1", "field": "misc2", "old": "къ. ичги 2", "new": "къ. ичги", "source": "ТСКБЯ"}
+{"entry_id": "e_13614", "word": "кадетлик", "field": "tags", "old": "к кадет I", "new": "к кадет II", "source": "КБРС"}
+{"entry_id": "e_14285", "word": "керти2", "field": "misc2", "old": "къ. керти 3 (1-чи магъ.)", "new": "къ. керти 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14285", "word": "керти2", "field": "misc2", "old": "къ. керти 3 (1-чи магъ.)", "new": "къ. керти 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14285", "word": "керти2", "field": "misc2", "old": "къ. керти 3 (1-чи магъ.)", "new": "къ. керти 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14285", "word": "керти2", "field": "misc2", "old": "къ. керти 3 (1-чи магъ.)", "new": "къ. керти 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14299", "word": "кертилик", "field": "def2", "old": "къ. тюзлюк 4", "new": "къ. тюзлюк 2 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14302", "word": "кертичи", "field": "def2", "old": "къ. керти 2 (1-чи магъ.)", "new": "къ. керти 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14422", "word": "кечгинлик", "field": "misc2", "old": "къ. кеч 3 (1-чи магъ.)", "new": "къ. кеч 4 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14422", "word": "кечгинлик", "field": "misc2", "old": "къ. кеч 3 (2-чи магъ.)", "new": "къ. кеч 4 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_14445", "word": "кечил", "field": "def2", "old": "от кеч 3", "new": "от кеч 4", "source": "ТСКБЯ"}
+{"entry_id": "e_14469", "word": "кечир", "field": "misc2", "old": "къ. кеч 3", "new": "къ. кеч 4", "source": "ТСКБЯ"}
+{"entry_id": "e_14476", "word": "кечиу2", "field": "tags", "old": "от кеч 3", "new": "от кеч 4", "source": "ТСКБЯ"}
+{"entry_id": "e_15506", "word": "къабышыу1", "field": "tags", "old": "от къабыш 1", "new": "от къабыш 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15507", "word": "къабышыу2", "field": "tags", "old": "от къабыш 2", "new": "от къабыш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_15508", "word": "къабышыу3", "field": "tags", "old": "от къабыш 3", "new": "от къабыш 2", "source": "ТСКБЯ"}
+{"entry_id": "e_15532", "word": "къагъыу", "field": "tags", "old": "от къакъ 2", "new": "от къакъ 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15533", "word": "къагъыш", "field": "tags", "old": "от къакъ 2", "new": "от къакъ 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15569", "word": "къадарлыкъ", "field": "tags", "old": "к къадар II", "new": "к къадар III", "source": "КБРС"}
+{"entry_id": "e_15575", "word": "къадау2", "field": "misc2", "old": "къ. къадама 2", "new": "къ. къадама 2 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_15585", "word": "къадаулукъ", "field": "tags", "old": "от къадау II", "new": "от къадау I", "source": "КБРС"}
+{"entry_id": "e_15655", "word": "къазауат", "field": "misc2", "old": "къ. уруш 1", "new": "къ. уруш 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15671", "word": "къазма", "field": "misc2", "old": "къ. гылыу 2", "new": "къ. гылыу", "source": "ТСКБЯ"}
+{"entry_id": "e_15820", "word": "къайынлыкъ1", "field": "tags", "old": "к къайын I", "new": "к къайын II", "source": "КБРС"}
+{"entry_id": "e_15821", "word": "къайынлыкъ2", "field": "tags", "old": "к къайын II", "new": "к къайын I", "source": "КБРС"}
+{"entry_id": "e_15827", "word": "къайырт", "field": "tags", "old": "от къайыр 2", "new": "от къайыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15831", "word": "къайырыл", "field": "def2", "old": "от къайыр 2", "new": "от къайыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15839", "word": "къайырыу", "field": "tags", "old": "от къайыр 2", "new": "от къайыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15840", "word": "къайырыш", "field": "tags", "old": "от къайыр 2", "new": "от къайыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15864", "word": "къакъ3", "field": "def2", "old": "къ. чал 2", "new": "къ. чал 3", "source": "ТСКБЯ"}
+{"entry_id": "e_15902", "word": "къакъсыт", "field": "tags", "old": "от къакъсы 2", "new": "от къакъсы 1", "source": "ТСКБЯ"}
+{"entry_id": "e_15922", "word": "къалайгъа", "field": "misc2", "old": "къ. къайры 3", "new": "къ. къайры 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_15923", "word": "къалайда", "field": "misc2", "old": "къ. къайда 3", "new": "къ. къайда 4", "source": "ТСКБЯ"}
+{"entry_id": "e_15924", "word": "къалайдан", "field": "misc2", "old": "къ. къайдан 1", "new": "къ. къайдан 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_16019", "word": "къалкъымакълыкъ", "field": "tags", "old": "к къалкъыргъа I", "new": "к къалкъыргъа", "source": "КБРС"}
+{"entry_id": "e_16024", "word": "къалкъытыу", "field": "tags", "old": "к къалкъытыргъа I", "new": "к къалкъытыргъа", "source": "КБРС"}
+{"entry_id": "e_16026", "word": "къалкъыу2", "field": "def1", "old": "к къалкъыргъа I", "new": "к къалкъыргъа", "source": "КБРС"}
+{"entry_id": "e_16068", "word": "къалынла", "field": "misc2", "old": "къ. къалын 4", "new": "къ. къалын 3", "source": "ТСКБЯ"}
+{"entry_id": "e_16069", "word": "къалынлан", "field": "misc2", "old": "къ. къалын 4", "new": "къ. къалын 3", "source": "ТСКБЯ"}
+{"entry_id": "e_16074", "word": "къалынлыкъ", "field": "tags", "old": "к къалын II", "new": "к къалын I", "source": "КБРС"}
+{"entry_id": "e_16157", "word": "къанат2", "field": "def2", "old": "от къана 2", "new": "от къана 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16186", "word": "къанаулукъ", "field": "tags", "old": "к къанау II", "new": "к къанау I", "source": "КБРС"}
+{"entry_id": "e_16275", "word": "къантарт1", "field": "tags", "old": "от къантар 2", "new": "от къантар 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16276", "word": "къантарт2", "field": "tags", "old": "от къантар 3", "new": "от къантар 2", "source": "ТСКБЯ"}
+{"entry_id": "e_16280", "word": "къантарыл1", "field": "tags", "old": "от къантар 2", "new": "от къантар 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16281", "word": "къантарыл2", "field": "tags", "old": "от къантар 3", "new": "от къантар 2", "source": "ТСКБЯ"}
+{"entry_id": "e_16284", "word": "къантарыу1", "field": "tags", "old": "от къантар 2", "new": "от къантар 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16285", "word": "къантарыу2", "field": "tags", "old": "от къантар 3", "new": "от къантар 2", "source": "ТСКБЯ"}
+{"entry_id": "e_16380", "word": "къарал2", "field": "tags", "old": "от къара 2", "new": "от къара 4", "source": "ТСКБЯ"}
+{"entry_id": "e_16433", "word": "къарат", "field": "def2", "old": "от къара 2", "new": "от къара 4", "source": "ТСКБЯ"}
+{"entry_id": "e_16726", "word": "къатдыр1", "field": "def2", "old": "от къат\n2", "new": "от къат\n1", "source": "ТСКБЯ"}
+{"entry_id": "e_16736", "word": "къатлам", "field": "misc2", "old": "къ. къат 1", "new": "къ. къат 2", "source": "ТСКБЯ"}
+{"entry_id": "e_16761", "word": "къаты3", "field": "def1", "old": "от къат 2", "new": "от къат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16765", "word": "къатыкълыкъ", "field": "tags", "old": "к къатыкъ I", "new": "к къатыкъ", "source": "КБРС"}
+{"entry_id": "e_16803", "word": "къатыш1", "field": "misc2", "old": "къ. къатыш 5 (2-чи магъ.)", "new": "къ. къатыш 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_16823", "word": "къатышлыкъ", "field": "tags", "old": "к къатыш II", "new": "к къатыш III", "source": "КБРС"}
+{"entry_id": "e_16832", "word": "къатышыл", "field": "tags", "old": "от къатыш 5", "new": "от къатыш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16836", "word": "къатышыу1", "field": "tags", "old": "от къатыш 5", "new": "от къатыш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16837", "word": "къатышыу2", "field": "tags", "old": "от къатыш 5", "new": "от къатыш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_16938", "word": "къачыр", "field": "def2", "old": "от къач 4", "new": "от къач 3", "source": "ТСКБЯ"}
+{"entry_id": "e_16947", "word": "къачыу", "field": "tags", "old": "от къач 4", "new": "от къач 3", "source": "ТСКБЯ"}
+{"entry_id": "e_16949", "word": "къачыш", "field": "tags", "old": "от къач 4", "new": "от къач 3", "source": "ТСКБЯ"}
+{"entry_id": "e_17451", "word": "къошуу", "field": "tags", "old": "от къош 4", "new": "от къош 3", "source": "ТСКБЯ"}
+{"entry_id": "e_17618", "word": "къур1", "field": "def2", "old": "къ. къура 5", "new": "къ. къура 1 (5-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_17618", "word": "къур1", "field": "def2", "old": "къ. къура 2", "new": "къ. къура 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_17620", "word": "къура1", "field": "def2", "old": "къ. къур 1", "new": "къ. къур 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_17634", "word": "къуралыш", "field": "misc2", "old": "къ. къурулуш 6", "new": "къ. къурулуш 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_17734", "word": "къуругъан", "field": "def1", "old": "от къурургъа II", "new": "от къурургъа I", "source": "КБРС"}
+{"entry_id": "e_17765", "word": "къурумакълыкъ", "field": "tags", "old": "к къурургъа II", "new": "к къурургъа I", "source": "КБРС"}
+{"entry_id": "e_17769", "word": "къурут1", "field": "tags", "old": "к къурургъа II", "new": "к къурургъа I", "source": "КБРС"}
+{"entry_id": "e_17773", "word": "къурутдур2", "field": "tags", "old": "к къурутургъа II", "new": "к къурутургъа III", "source": "КБРС"}
+{"entry_id": "e_17779", "word": "къурутмакълыкъ1", "field": "tags", "old": "к къурутургъа I", "new": "к къурутургъа II", "source": "КБРС"}
+{"entry_id": "e_17780", "word": "къурутмакълыкъ2", "field": "tags", "old": "к къурутургъа II", "new": "к къурутургъа III", "source": "КБРС"}
+{"entry_id": "e_17785", "word": "къурутуу1", "field": "tags", "old": "к къурутургъа I", "new": "к къурутургъа II", "source": "КБРС"}
+{"entry_id": "e_17786", "word": "къурутуу2", "field": "tags", "old": "к къурутургъа II", "new": "к къурутургъа III", "source": "КБРС"}
+{"entry_id": "e_17790", "word": "къуруу2", "field": "tags", "old": "от къуру 2", "new": "от къуру 1", "source": "ТСКБЯ"}
+{"entry_id": "e_17790", "word": "къуруу2", "field": "tags", "old": "к къурургъа II", "new": "к къурургъа I", "source": "КБРС"}
+{"entry_id": "e_17889", "word": "къутулт", "field": "misc2", "old": "къ. къутхар 1", "new": "къ. къутхар 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_17889", "word": "къутулт", "field": "misc2", "old": "къ. къутхар 3", "new": "къ. къутхар 2", "source": "ТСКБЯ"}
+{"entry_id": "e_17932", "word": "къуу3", "field": "misc2", "old": "къ. къурут 1", "new": "къ. къурут 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18003", "word": "къуудур", "field": "tags", "old": "к къууаргъа I", "new": "к къууаргъа IV", "source": "КБРС"}
+{"entry_id": "e_18004", "word": "къуудурмакълыкъ", "field": "tags", "old": "к къуудурургъа I", "new": "к къуудурургъа", "source": "КБРС"}
+{"entry_id": "e_18005", "word": "къуудурт", "field": "tags", "old": "к къуудурургъа I", "new": "к къуудурургъа", "source": "КБРС"}
+{"entry_id": "e_18006", "word": "къуудуртмакълыкъ", "field": "tags", "old": "к къуудуртургъа I", "new": "к къуудуртургъа", "source": "КБРС"}
+{"entry_id": "e_18007", "word": "къуудуртуу", "field": "tags", "old": "к къуудуртургъа I", "new": "к къуудуртургъа", "source": "КБРС"}
+{"entry_id": "e_18011", "word": "къуул", "field": "def2", "old": "от къуу 2", "new": "от къуу 1", "source": "ТСКБЯ"}
+{"entry_id": "e_18021", "word": "къуумакълыкъ", "field": "tags", "old": "к къууаргъа I", "new": "к къууаргъа IV", "source": "КБРС"}
+{"entry_id": "e_18023", "word": "къууу", "field": "tags", "old": "от къуу 5", "new": "от къуу 4", "source": "ТСКБЯ"}
+{"entry_id": "e_18061", "word": "къуууу", "field": "tags", "old": "от къуу 4", "new": "от къуу 3", "source": "ТСКБЯ"}
+{"entry_id": "e_18061", "word": "къуууу", "field": "tags", "old": "к къууаргъа I", "new": "к къууаргъа IV", "source": "КБРС"}
+{"entry_id": "e_18065", "word": "къуууш4", "field": "tags", "old": "к къууаргъа I", "new": "к къууаргъа IV", "source": "КБРС"}
+{"entry_id": "e_18075", "word": "къуушдур", "field": "tags", "old": "от къуууш 3", "new": "от къуууш 4", "source": "ТСКБЯ"}
+{"entry_id": "e_18102", "word": "къуш2", "field": "misc2", "old": "къ. къуу 2 (1-чи магъ.)", "new": "къ. къуу 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18102", "word": "къуш2", "field": "misc2", "old": "къ. къуу 2 (2-чи магъ.)", "new": "къ. къуу 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18205", "word": "къызар", "field": "misc2", "old": "къ. къыз3 (5-чи магъ.)", "new": "къ. къыз1 (5-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18307", "word": "къызыу4", "field": "tags", "old": "от къыз 3", "new": "от къыз 1", "source": "ТСКБЯ"}
+{"entry_id": "e_18319", "word": "къызыулукъ", "field": "def1", "old": "к къызыу 2", "new": "к къызыу 3", "source": "ТСКБЯ"}
+{"entry_id": "e_18322", "word": "къызыш", "field": "tags", "old": "от къыз 3", "new": "от къыз 1", "source": "ТСКБЯ"}
+{"entry_id": "e_18330", "word": "къыйдыр", "field": "def2", "old": "от къый 2", "new": "от къый 2 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18443", "word": "къыйылт", "field": "misc2", "old": "къ. къый 1", "new": "къ. къый 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18567", "word": "къылычлыкъ1", "field": "def1", "old": "к къылыч I", "new": "к къылыч II", "source": "КБРС"}
+{"entry_id": "e_18570", "word": "къылычлыкъ3", "field": "def1", "old": "к къылыч II", "new": "к къылыч III", "source": "КБРС"}
+{"entry_id": "e_18693", "word": "къырдыр1", "field": "tags", "old": "от къыр 2", "new": "от къыр 1", "source": "ТСКБЯ"}
+{"entry_id": "e_18694", "word": "къырдыр2", "field": "tags", "old": "от къыр 3", "new": "от къыр 2", "source": "ТСКБЯ"}
+{"entry_id": "e_18731", "word": "къыркъышыу1", "field": "tags", "old": "от къыркъыш 1", "new": "от къыркъыш", "source": "ТСКБЯ"}
+{"entry_id": "e_18748", "word": "къырыл1", "field": "def2", "old": "от къыр 2", "new": "от къыр 1", "source": "ТСКБЯ"}
+{"entry_id": "e_18749", "word": "къырыл2", "field": "def2", "old": "от къыр 3", "new": "от къыр 2", "source": "ТСКБЯ"}
+{"entry_id": "e_18769", "word": "къырыу3", "field": "tags", "old": "от къыр 3", "new": "от къыр 2", "source": "ТСКБЯ"}
+{"entry_id": "e_18770", "word": "къырыш1", "field": "tags", "old": "от къыр 2", "new": "от къыр 1", "source": "ТСКБЯ"}
+{"entry_id": "e_18771", "word": "къырыш2", "field": "tags", "old": "от къыр 3", "new": "от къыр 2", "source": "ТСКБЯ"}
+{"entry_id": "e_18780", "word": "къысдырт1", "field": "tags", "old": "от къысдыр 1", "new": "от къысдыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_18788", "word": "къысдырыкъчы", "field": "misc2", "old": "къ. къысдыр 2 (2-чи магъ.)", "new": "къ. къысдыр 2", "source": "ТСКБЯ"}
+{"entry_id": "e_18789", "word": "къысдырыл1", "field": "tags", "old": "от къысдыр 1", "new": "от къысдыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_18795", "word": "къысдырыу1", "field": "tags", "old": "от къысдыр 1", "new": "от къысдыр 3", "source": "ТСКБЯ"}
+{"entry_id": "e_18889", "word": "къысышыу1", "field": "tags", "old": "от къысыш 1", "new": "от къысыш", "source": "ТСКБЯ"}
+{"entry_id": "e_18961", "word": "къышлыкъ4", "field": "def1", "old": "что къушлукъ II", "new": "что къушлукъ I", "source": "КБРС"}
+{"entry_id": "e_18971", "word": "къыямат", "field": "misc2", "old": "къ. къыяма 2", "new": "къ. къыяма 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_18971", "word": "къыямат", "field": "misc2", "old": "къ. къыяма 3", "new": "къ. къыяма 1 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19576", "word": "кёклюк", "field": "misc2", "old": "Кёк 2 (1-чи магъ.)", "new": "Кёк 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19577", "word": "кёксюл", "field": "misc2", "old": "Кёк 2 (1-чи магъ.)", "new": "Кёк 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19577", "word": "кёксюл", "field": "misc2", "old": "Кёк 2 (1-чи магъ.)", "new": "Кёк 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19577", "word": "кёксюл", "field": "misc2", "old": "Кёк 2 (3-чи магъ.)", "new": "Кёк 1 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19577", "word": "кёксюл", "field": "misc2", "old": "Кёк 2 (4-чю магъ.)", "new": "Кёк 1 (4-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19646", "word": "кём-кёк", "field": "misc2", "old": "Кёк 2 (1-чи магъ.)", "new": "Кёк 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19646", "word": "кём-кёк", "field": "misc2", "old": "Кёк 2 (2-чи магъ.)", "new": "Кёк 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_19893", "word": "лагъымлыкъ", "field": "tags", "old": "к лагъым I", "new": "к лагъым II", "source": "КБРС"}
+{"entry_id": "e_20277", "word": "мадарыу", "field": "tags", "old": "от мадар 2", "new": "от мадар 1", "source": "ТСКБЯ"}
+{"entry_id": "e_20633", "word": "масагъат", "field": "misc2", "old": "къ. багъа 1", "new": "къ. багъа 3", "source": "ТСКБЯ"}
+{"entry_id": "e_21646", "word": "мыдах1", "field": "misc2", "old": "къ. мудах 1 (1-чи магъ.)", "new": "къ. мудах 1", "source": "ТСКБЯ"}
+{"entry_id": "e_21663", "word": "мыжыкълы", "field": "misc2", "old": "къ. мыжыкъ 2 (1-чи магъ.)", "new": "къ. мыжыкъ (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_22370", "word": "нохталыкъ", "field": "tags", "old": "к нохта II", "new": "к нохта I", "source": "КБРС"}
+{"entry_id": "e_22417", "word": "о1", "field": "misc2", "old": "къ. ол 1 (2-чи магъ.)", "new": "къ. ол 1", "source": "ТСКБЯ"}
+{"entry_id": "e_22562", "word": "оздур", "field": "def2", "old": "от оз 2", "new": "от оз 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_22562", "word": "оздур", "field": "def2", "old": "къ. оз 5", "new": "къ. оз 2 (4-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_22586", "word": "ойдур", "field": "tags", "old": "от ой 2", "new": "от ой 1", "source": "ТСКБЯ"}
+{"entry_id": "e_22889", "word": "онгдур1", "field": "tags", "old": "от онг 4", "new": "от онг 3", "source": "ТСКБЯ"}
+{"entry_id": "e_22889", "word": "онгдур1", "field": "tags", "old": "к онгаргъа I", "new": "к онгаргъа III", "source": "КБРС"}
+{"entry_id": "e_22888", "word": "онгдур2", "field": "def1", "old": "к онгаргъа II", "new": "к онгаргъа IV", "source": "КБРС"}
+{"entry_id": "e_22891", "word": "онгдурт1", "field": "tags", "old": "от онгдур 1", "new": "от онгдур 2", "source": "ТСКБЯ"}
+{"entry_id": "e_22892", "word": "онгдурт2", "field": "tags", "old": "от онгдур 2", "new": "от онгдур 1", "source": "ТСКБЯ"}
+{"entry_id": "e_22895", "word": "онгдурул1", "field": "tags", "old": "от онгдур 1", "new": "от онгдур 2", "source": "ТСКБЯ"}
+{"entry_id": "e_22896", "word": "онгдурул2", "field": "tags", "old": "от онгдур 2", "new": "от онгдур 1", "source": "ТСКБЯ"}
+{"entry_id": "e_22899", "word": "онгдуруу", "field": "tags", "old": "от онгдур 1", "new": "от онгдур 2", "source": "ТСКБЯ"}
+{"entry_id": "e_22911", "word": "онгмагъан", "field": "def1", "old": "к онгаргъа II", "new": "к онгаргъа IV", "source": "КБРС"}
+{"entry_id": "e_22914", "word": "онгмакълыкъ", "field": "tags", "old": "к онгаргъа I", "new": "к онгаргъа III", "source": "КБРС"}
+{"entry_id": "e_22917", "word": "онгнган1", "field": "def1", "old": "от онгаргъа I", "new": "от онгаргъа III", "source": "КБРС"}
+{"entry_id": "e_22918", "word": "онгнган2", "field": "def1", "old": "от онгаргъа II", "new": "от онгаргъа IV", "source": "КБРС"}
+{"entry_id": "e_22940", "word": "онгуу1", "field": "tags", "old": "от онг 3", "new": "от онг 4", "source": "ТСКБЯ"}
+{"entry_id": "e_22940", "word": "онгуу1", "field": "tags", "old": "к онгаргъа II", "new": "к онгаргъа IV", "source": "КБРС"}
+{"entry_id": "e_22941", "word": "онгуу2", "field": "tags", "old": "от онг 4", "new": "от онг 3", "source": "ТСКБЯ"}
+{"entry_id": "e_22941", "word": "онгуу2", "field": "tags", "old": "к онгаргъа I", "new": "к онгаргъа III", "source": "КБРС"}
+{"entry_id": "e_23147", "word": "ортакълыкъ", "field": "def1", "old": "к ортакъ 2", "new": "к ортакъ 1", "source": "ТСКБЯ"}
+{"entry_id": "e_23165", "word": "орталыкъ1", "field": "misc2", "old": "къ. орта 1", "new": "къ. орта 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_23335", "word": "оу2", "field": "misc2", "old": "къ. оу 2", "new": "къ. оу", "source": "ТСКБЯ"}
+{"entry_id": "e_23335", "word": "оу2", "field": "misc2", "old": "къ. оу 2", "new": "къ. оу", "source": "ТСКБЯ"}
+{"entry_id": "e_23362", "word": "оюл", "field": "tags", "old": "от ой 2", "new": "от ой 1", "source": "ТСКБЯ"}
+{"entry_id": "e_23403", "word": "оюу2", "field": "tags", "old": "от ой 2", "new": "от ой 1", "source": "ТСКБЯ"}
+{"entry_id": "e_24934", "word": "сазлыкъ2", "field": "tags", "old": "к саз II", "new": "к саз III", "source": "КБРС"}
+{"entry_id": "e_24966", "word": "сайлыкъ", "field": "def1", "old": "к сай 1", "new": "к сай 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_24988", "word": "сакъатлыкъ", "field": "def1", "old": "к сакъат 2", "new": "к сакъат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_24990", "word": "сакъаулукъ", "field": "tags", "old": "к сакъау 2", "new": "к сакъау 1", "source": "ТСКБЯ"}
+{"entry_id": "e_25039", "word": "салатлыкъ", "field": "def1", "old": "к салат 2", "new": "к салат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_25233", "word": "сандыракъла", "field": "misc2", "old": "къ. сандыракъ 2", "new": "къ. сандыракъ 1", "source": "ТСКБЯ"}
+{"entry_id": "e_25308", "word": "санта", "field": "misc2", "old": "къ. сант2 (2-чи магъ.)", "new": "къ. сант1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_25320", "word": "санча", "field": "misc2", "old": "къ. сан 2 (2-чи магъ.)", "new": "къ. сан 2", "source": "ТСКБЯ"}
+{"entry_id": "e_25352", "word": "саппа-сау2", "field": "misc2", "old": "Сау 1 (2-чи магъ.)", "new": "Сау 3", "source": "ТСКБЯ"}
+{"entry_id": "e_25506", "word": "сау1", "field": "misc2", "old": "сау 1 (1-чи магъ.)", "new": "сау 1", "source": "ТСКБЯ"}
+{"entry_id": "e_40163", "word": "сау3", "field": "misc2", "old": "сау 1 (2-чи магъ.)", "new": "сау 3", "source": "ТСКБЯ"}
+{"entry_id": "e_25535", "word": "саудан", "field": "misc2", "old": "къ. саулай 2", "new": "къ. саулай 3", "source": "ТСКБЯ"}
+{"entry_id": "e_25559", "word": "саулукъ1", "field": "def1", "old": "к сау II", "new": "к сау I", "source": "КБРС"}
+{"entry_id": "e_25578", "word": "сауул", "field": "tags", "old": "от сау 3", "new": "от сау 5", "source": "ТСКБЯ"}
+{"entry_id": "e_25578", "word": "сауул", "field": "misc2", "old": "Сау3", "new": "Сау5", "source": "ТСКБЯ"}
+{"entry_id": "e_25616", "word": "саууу", "field": "tags", "old": "от сау3", "new": "от сау5", "source": "ТСКБЯ"}
+{"entry_id": "e_25616", "word": "саууу", "field": "misc2", "old": "Сау3", "new": "Сау5", "source": "ТСКБЯ"}
+{"entry_id": "e_25620", "word": "сауш", "field": "tags", "old": "от сау3", "new": "от сау5", "source": "ТСКБЯ"}
+{"entry_id": "e_25620", "word": "сауш", "field": "misc2", "old": "Сау3", "new": "Сау5", "source": "ТСКБЯ"}
+{"entry_id": "e_25621", "word": "саф", "field": "misc2", "old": "къ. тизгин 2", "new": "къ. тизгин 3", "source": "ТСКБЯ"}
+{"entry_id": "e_25680", "word": "себеблик", "field": "misc2", "old": "къ. себеп 2", "new": "къ. себеп 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_40170", "word": "сериуюн2", "field": "misc2", "old": "къ. салкъын 1 (1-чи магъ.)", "new": "къ. салкъын 3 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_26033", "word": "серлик", "field": "def1", "old": "к сер 2", "new": "к сер 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_26059", "word": "серряй", "field": "misc2", "old": "къ. сер 2", "new": "къ. сер 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_26060", "word": "серукку", "field": "misc2", "old": "къ. сер2", "new": "къ. сер 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_26311", "word": "сиркесуу", "field": "misc2", "old": "къ. сирке 2", "new": "къ. сирке 3", "source": "ТСКБЯ"}
+{"entry_id": "e_26425", "word": "согъул1", "field": "tags", "old": "к согъаргъа II", "new": "к согъаргъа I", "source": "КБРС"}
+{"entry_id": "e_26426", "word": "согъул2", "field": "def1", "old": "к согъаргъа I", "new": "к согъаргъа II", "source": "КБРС"}
+{"entry_id": "e_26428", "word": "согъулуу1", "field": "tags", "old": "к согъулургъа I", "new": "к согъулургъа II", "source": "КБРС"}
+{"entry_id": "e_26429", "word": "согъулуу2", "field": "tags", "old": "к согъулургъа I", "new": "к согъулургъа II", "source": "КБРС"}
+{"entry_id": "e_26430", "word": "согъулуу3", "field": "tags", "old": "к согъулургъа I", "new": "к согъулургъа II", "source": "КБРС"}
+{"entry_id": "e_26436", "word": "согъуу1", "field": "tags", "old": "к согъаргъа II", "new": "к согъаргъа I", "source": "КБРС"}
+{"entry_id": "e_26437", "word": "согъуу2", "field": "tags", "old": "к согъаргъа I", "new": "к согъаргъа II", "source": "КБРС"}
+{"entry_id": "e_26526", "word": "сокъдур1", "field": "tags", "old": "к согъаргъа II", "new": "к согъаргъа I", "source": "КБРС"}
+{"entry_id": "e_26527", "word": "сокъдур2", "field": "tags", "old": "к согъаргъа I", "new": "к согъаргъа II", "source": "КБРС"}
+{"entry_id": "e_26529", "word": "сокъдурт1", "field": "tags", "old": "к сокъдурургъа I", "new": "к сокъдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26530", "word": "сокъдурт2", "field": "tags", "old": "к сокъдурургъа I", "new": "к сокъдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26531", "word": "сокъдурт3", "field": "tags", "old": "к сокъдурургъа I", "new": "к сокъдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26535", "word": "сокъдуруу1", "field": "tags", "old": "к сокъдурургъа I", "new": "к сокъдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26536", "word": "сокъдуруу2", "field": "tags", "old": "к сокъдурургъа I", "new": "к сокъдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26537", "word": "сокъдуруу3", "field": "tags", "old": "к сокъдурургъа I", "new": "к сокъдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26545", "word": "сокъмакълыкъ1", "field": "tags", "old": "к согъаргъа I", "new": "к согъаргъа II", "source": "КБРС"}
+{"entry_id": "e_26615", "word": "солуула", "field": "misc2", "old": "къ. солуу 2", "new": "къ. солуу 1", "source": "ТСКБЯ"}
+{"entry_id": "e_26748", "word": "соруусуз-оруусуз", "field": "misc2", "old": "къ. соруусуз2", "new": "къ. соруусуз 2 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_26761", "word": "сорушдуруу1", "field": "tags", "old": "к сорушдурургъа I", "new": "к сорушдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26762", "word": "сорушдуруу2", "field": "tags", "old": "к сорушдурургъа I", "new": "к сорушдурургъа II", "source": "КБРС"}
+{"entry_id": "e_26822", "word": "союм1", "field": "misc2", "old": "къ. сой 1", "new": "къ. сой 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_27533", "word": "сыйсызлыкъ", "field": "def1", "old": "к сыйсыз 2", "new": "к сыйсыз 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_27655", "word": "сымарламакълыкъ", "field": "tags", "old": "к сымарларгъа I", "new": "к сымарларгъа II", "source": "КБРС"}
+{"entry_id": "e_27660", "word": "сымарлат1", "field": "tags", "old": "от сымарла1", "new": "от сымарла 1", "source": "ТСКБЯ"}
+{"entry_id": "e_27661", "word": "сымарлат2", "field": "tags", "old": "к сымарларгъа I", "new": "к сымарларгъа II", "source": "КБРС"}
+{"entry_id": "e_27666", "word": "сымарлау1", "field": "tags", "old": "от сымарла1", "new": "от сымарла 1", "source": "ТСКБЯ"}
+{"entry_id": "e_27668", "word": "сымарлаш", "field": "tags", "old": "к сымарларгъа I", "new": "к сымарларгъа II", "source": "КБРС"}
+{"entry_id": "e_27684", "word": "сынагъан", "field": "def1", "old": "от сынаргъа I", "new": "от сынаргъа", "source": "КБРС"}
+{"entry_id": "e_27685", "word": "сынал", "field": "tags", "old": "к сынаргъа I", "new": "к сынаргъа", "source": "КБРС"}
+{"entry_id": "e_27689", "word": "сынамакълыкъ", "field": "tags", "old": "к сынаргъа I", "new": "к сынаргъа", "source": "КБРС"}
+{"entry_id": "e_27695", "word": "сынат", "field": "tags", "old": "к сынаргъа I", "new": "к сынаргъа", "source": "КБРС"}
+{"entry_id": "e_27701", "word": "сынау3", "field": "def1", "old": "к сынаргъа I", "new": "к сынаргъа", "source": "КБРС"}
+{"entry_id": "e_27704", "word": "сынаш", "field": "tags", "old": "к сынаргъа I", "new": "к сынаргъа", "source": "КБРС"}
+{"entry_id": "e_27727", "word": "сынмагъан", "field": "def1", "old": "от сынаргъа II", "new": "от сынаргъа III", "source": "КБРС"}
+{"entry_id": "e_27728", "word": "сынмакълыкъ", "field": "tags", "old": "к сынаргъа II", "new": "к сынаргъа III", "source": "КБРС"}
+{"entry_id": "e_27729", "word": "сыннган", "field": "def1", "old": "от сынаргъа II", "new": "от сынаргъа III", "source": "КБРС"}
+{"entry_id": "e_27770", "word": "сыныу", "field": "tags", "old": "к сынаргъа II", "new": "к сынаргъа III", "source": "КБРС"}
+{"entry_id": "e_27771", "word": "сыныф", "field": "tags", "old": "къ. класс2", "new": "къ. класс 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_27880", "word": "сытдыр1", "field": "tags", "old": "к сытаргъа I", "new": "к сытаргъа II", "source": "КБРС"}
+{"entry_id": "e_27881", "word": "сытдыр2", "field": "tags", "old": "к сытаргъа I", "new": "к сытаргъа II", "source": "КБРС"}
+{"entry_id": "e_27884", "word": "сытмакълыкъ", "field": "tags", "old": "к сытаргъа I", "new": "к сытаргъа II", "source": "КБРС"}
+{"entry_id": "e_27892", "word": "сытыу1", "field": "tags", "old": "к сытаргъа I", "new": "к сытаргъа II", "source": "КБРС"}
+{"entry_id": "e_27893", "word": "сытыу2", "field": "tags", "old": "к сытаргъа I", "new": "к сытаргъа II", "source": "КБРС"}
+{"entry_id": "e_27896", "word": "сытыш2", "field": "tags", "old": "к сытаргъа I", "new": "к сытаргъа II", "source": "КБРС"}
+{"entry_id": "e_27897", "word": "сытышыу1", "field": "tags", "old": "от сытыш 1", "new": "от сытыш", "source": "ТСКБЯ"}
+{"entry_id": "e_27945", "word": "сюет", "field": "tags", "old": "к сюерге II", "new": "к сюерге I", "source": "КБРС"}
+{"entry_id": "e_27949", "word": "сюеу", "field": "tags", "old": "к сюерге II", "new": "к сюерге I", "source": "КБРС"}
+{"entry_id": "e_27994", "word": "сюйдюр", "field": "tags", "old": "к сюерге I", "new": "к сюерге II", "source": "КБРС"}
+{"entry_id": "e_28009", "word": "сюймеген", "field": "def1", "old": "от сюерге I", "new": "от сюерге II", "source": "КБРС"}
+{"entry_id": "e_28013", "word": "сюймеклик", "field": "def1", "old": "к сюерге I", "new": "к сюерге II", "source": "КБРС"}
+{"entry_id": "e_28051", "word": "сюйюмсюз2", "field": "misc2", "old": "къ. сюйдюмсюз2", "new": "къ. сюйдюмсюз 1", "source": "ТСКБЯ"}
+{"entry_id": "e_28070", "word": "сюйюу", "field": "def1", "old": "к сюерге I", "new": "к сюерге II", "source": "КБРС"}
+{"entry_id": "e_28155", "word": "сюрюндюр", "field": "tags", "old": "от сюрюн1", "new": "от сюрюн 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_28158", "word": "сюрюнюу1", "field": "tags", "old": "от сюрюн 1", "new": "от сюрюн 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_28195", "word": "сёгюл2", "field": "tags", "old": "к сёгерге I", "new": "к сёгерге II", "source": "КБРС"}
+{"entry_id": "e_28197", "word": "сёгюлмеклик2", "field": "tags", "old": "к сёгюлюрге II", "new": "к сёгюлюрге I", "source": "КБРС"}
+{"entry_id": "e_28198", "word": "сёгюлюу1", "field": "tags", "old": "к сёгюлюрге I", "new": "к сёгюлюрге II", "source": "КБРС"}
+{"entry_id": "e_28199", "word": "сёгюлюу2", "field": "tags", "old": "к сёгюлюрге II", "new": "к сёгюлюрге I", "source": "КБРС"}
+{"entry_id": "e_28210", "word": "сёгюу1", "field": "tags", "old": "к сёгерге II", "new": "к сёгерге I", "source": "КБРС"}
+{"entry_id": "e_28211", "word": "сёгюу2", "field": "tags", "old": "к сёгерге I", "new": "к сёгерге II", "source": "КБРС"}
+{"entry_id": "e_28251", "word": "сёкдюр1", "field": "tags", "old": "к сёгерге I", "new": "к сёгерге II", "source": "КБРС"}
+{"entry_id": "e_28252", "word": "сёкдюр2", "field": "tags", "old": "к сёгерге I", "new": "к сёгерге II", "source": "КБРС"}
+{"entry_id": "e_28259", "word": "сёкмеклик1", "field": "tags", "old": "к сёгерге I", "new": "к сёгерге II", "source": "КБРС"}
+{"entry_id": "e_28260", "word": "сёкмеклик2", "field": "tags", "old": "к сёгерге II", "new": "к сёгерге I", "source": "КБРС"}
+{"entry_id": "e_28446", "word": "табышыу", "field": "tags", "old": "от табыш 2", "new": "от табыш 3", "source": "ТСКБЯ"}
+{"entry_id": "e_28451", "word": "тагъаландыр", "field": "def2", "old": "от тагъалан 1", "new": "от тагъалан 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_28489", "word": "таз2", "field": "misc2", "old": "къ. чыгыр 1", "new": "къ. чыгыр 2", "source": "ТСКБЯ"}
+{"entry_id": "e_28533", "word": "тайдыр", "field": "def2", "old": "от тай 4", "new": "от тай 3", "source": "ТСКБЯ"}
+{"entry_id": "e_28559", "word": "тайыу", "field": "tags", "old": "от тай 4", "new": "от тай 3", "source": "ТСКБЯ"}
+{"entry_id": "e_28560", "word": "тайыш", "field": "misc2", "old": "къ. тай 4 (2-чи магъ.)", "new": "къ. тай 3 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_28560", "word": "тайыш", "field": "misc2", "old": "къ. тай 4 (3-чю магъ.)", "new": "къ. тай 3 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_28560", "word": "тайыш", "field": "misc2", "old": "къ. тай 4 (4-чю магъ.)", "new": "къ. тай 3 (4-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_28786", "word": "тамашалыкъ1", "field": "misc2", "old": "къ. тамаша 1 (1-чи магъ.)", "new": "къ. тамаша 1", "source": "ТСКБЯ"}
+{"entry_id": "e_29051", "word": "тарих2", "field": "def1", "old": "что тарх II", "new": "что тарх I", "source": "КБРС"}
+{"entry_id": "e_29080", "word": "тартдыр", "field": "def2", "old": "от тарт 2", "new": "от тарт 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_29095", "word": "тартмалыкъ", "field": "tags", "old": "к тартма I", "new": "к тартма II", "source": "КБРС"}
+{"entry_id": "e_29109", "word": "тартыл1", "field": "def2", "old": "от тарт 2", "new": "от тарт 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_29115", "word": "тартындыр2", "field": "tags", "old": "к тартыныргъа II", "new": "к тартыныргъа III", "source": "КБРС"}
+{"entry_id": "e_29120", "word": "тартынмакълыкъ2", "field": "tags", "old": "к тартыныргъа II", "new": "к тартыныргъа III", "source": "КБРС"}
+{"entry_id": "e_29126", "word": "тартыныу2", "field": "tags", "old": "от тартын 2", "new": "от тартын 3", "source": "ТСКБЯ"}
+{"entry_id": "e_29490", "word": "тебеннгилик", "field": "def1", "old": "к тебеннги 2", "new": "к тебеннги 1", "source": "ТСКБЯ"}
+{"entry_id": "e_29750", "word": "тенглик1", "field": "tags", "old": "к тенг II", "new": "к тенг I", "source": "КБРС"}
+{"entry_id": "e_29751", "word": "тенглик2", "field": "tags", "old": "к тенг I", "new": "к тенг III", "source": "КБРС"}
+{"entry_id": "e_30103", "word": "тешишиу2", "field": "tags", "old": "от тешиш 2", "new": "от тешиш", "source": "ТСКБЯ"}
+{"entry_id": "e_30198", "word": "тизиуюн", "field": "misc2", "old": "къ. тизгинли 1 (1-чи магъ.)", "new": "къ. тизгинли 2", "source": "ТСКБЯ"}
+{"entry_id": "e_30235", "word": "тийишиу1", "field": "tags", "old": "от тийиш 1", "new": "от тийиш", "source": "ТСКБЯ"}
+{"entry_id": "e_30249", "word": "тикген", "field": "def1", "old": "от тигерге I", "new": "от тигерге IV", "source": "КБРС"}
+{"entry_id": "e_30258", "word": "тикдир", "field": "tags", "old": "к тигерге I", "new": "к тигерге IV", "source": "КБРС"}
+{"entry_id": "e_30269", "word": "тикмеклик", "field": "tags", "old": "к тигерге I", "new": "к тигерге IV", "source": "КБРС"}
+{"entry_id": "e_30534", "word": "тишлемеклик", "field": "tags", "old": "к тишлерге I", "new": "к тишлерге II", "source": "КБРС"}
+{"entry_id": "e_30535", "word": "тишлен", "field": "tags", "old": "к тишлерге I", "new": "к тишлерге II", "source": "КБРС"}
+{"entry_id": "e_30538", "word": "тишлет", "field": "tags", "old": "к тишлерге I", "new": "к тишлерге II", "source": "КБРС"}
+{"entry_id": "e_30542", "word": "тишлеу", "field": "tags", "old": "к тишлерге II", "new": "к тишлерге I", "source": "КБРС"}
+{"entry_id": "e_30544", "word": "тишлик", "field": "def1", "old": "к тиш II", "new": "к тиш III", "source": "КБРС"}
+{"entry_id": "e_30745", "word": "токъаллыкъ", "field": "tags", "old": "к токъал I", "new": "к токъал II", "source": "КБРС"}
+{"entry_id": "e_30841", "word": "томалгъан", "field": "tags", "old": "от томалыргъа I", "new": "от томалыргъа II", "source": "КБРС"}
+{"entry_id": "e_30842", "word": "томалмакълыкъ", "field": "tags", "old": "к томалыргъа I", "new": "к томалыргъа II", "source": "КБРС"}
+{"entry_id": "e_30843", "word": "томалт1", "field": "tags", "old": "к томалыргъа II", "new": "к томалыргъа I", "source": "КБРС"}
+{"entry_id": "e_31290", "word": "тукъум1", "field": "misc2", "old": "къ. тукъум 2", "new": "къ. тукъум 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_31326", "word": "тумалан1", "field": "def2", "old": "от тумала 2", "new": "от тумала 2 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_31327", "word": "тумаландыр", "field": "tags", "old": "от тумалан 2", "new": "от тумалан 1", "source": "ТСКБЯ"}
+{"entry_id": "e_31518", "word": "тутушдур", "field": "tags", "old": "от тутуш 2", "new": "от тутуш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_31518", "word": "тутушдур", "field": "misc2", "old": "Тутуш2", "new": "Тутуш1", "source": "ТСКБЯ"}
+{"entry_id": "e_31525", "word": "тутушуу", "field": "tags", "old": "от тутуш 2", "new": "от тутуш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_31660", "word": "тыгъыл", "field": "def2", "old": "от тыкъ2", "new": "от тыкъ3", "source": "ТСКБЯ"}
+{"entry_id": "e_31660", "word": "тыгъыл", "field": "misc2", "old": "Тыкъ2", "new": "Тыкъ3", "source": "ТСКБЯ"}
+{"entry_id": "e_31732", "word": "тыкъдыр", "field": "tags", "old": "от тыкъ 2", "new": "от тыкъ 3", "source": "ТСКБЯ"}
+{"entry_id": "e_32213", "word": "тюймеклик", "field": "tags", "old": "к тюерге I", "new": "к тюерге II", "source": "КБРС"}
+{"entry_id": "e_32236", "word": "тюйюл1", "field": "tags", "old": "к тюерге I", "new": "к тюерге II", "source": "КБРС"}
+{"entry_id": "e_32237", "word": "тюйюл3", "field": "tags", "old": "к тюерге II", "new": "к тюерге III", "source": "КБРС"}
+{"entry_id": "e_32245", "word": "тюйюлюу2", "field": "tags", "old": "от тюйюл 2", "new": "от тюйюл 3", "source": "ТСКБЯ"}
+{"entry_id": "e_32256", "word": "тюйюу1", "field": "tags", "old": "к тюерге I", "new": "к тюерге II", "source": "КБРС"}
+{"entry_id": "e_32257", "word": "тюйюу2", "field": "tags", "old": "к тюерге II", "new": "к тюерге III", "source": "КБРС"}
+{"entry_id": "e_32306", "word": "тюл", "field": "misc2", "old": "къ. тюйюл 2", "new": "къ. тюйюл 3", "source": "ТСКБЯ"}
+{"entry_id": "e_32410", "word": "тюртюл", "field": "def2", "old": "от тюрт 2", "new": "от тюрт 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_32443", "word": "тюу", "field": "def1", "old": "см. туу I", "new": "см. туу III", "source": "КБРС"}
+{"entry_id": "e_32474", "word": "тюшюу", "field": "tags", "old": "от тюш 3", "new": "от тюш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_32731", "word": "уа2", "field": "misc2", "old": "къ. а 2", "new": "къ. а 1", "source": "ТСКБЯ"}
+{"entry_id": "e_32904", "word": "улан", "field": "def2", "old": "къ. жаш 1 (2-чи магъ.)", "new": "къ. жаш 2 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_33194", "word": "уссан", "field": "misc2", "old": "къ. суусап 1", "new": "къ. суусап 2", "source": "ТСКБЯ"}
+{"entry_id": "e_33194", "word": "уссан", "field": "misc2", "old": "къ. суусап 2", "new": "къ. суусап 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_33272", "word": "уудур", "field": "tags", "old": "от уу 3", "new": "от уу 3 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_33304", "word": "ууул", "field": "tags", "old": "от уу3", "new": "от уу 3 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_33310", "word": "уууу", "field": "tags", "old": "от уу 3", "new": "от уу 3 (3-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_33484", "word": "уюкъ3", "field": "misc2", "old": "къ. ую 4", "new": "къ. ую 2 (4-чю магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_33485", "word": "уюкълукъ", "field": "def1", "old": "к уюкъ II", "new": "к уюкъ I", "source": "КБРС"}
+{"entry_id": "e_34119", "word": "хакъындан", "field": "def1", "old": "от хакъ I", "new": "от хакъ II", "source": "КБРС"}
+{"entry_id": "e_34411", "word": "хо", "field": "misc2", "old": "къ. охо 1", "new": "къ. охо 2", "source": "ТСКБЯ"}
+{"entry_id": "e_34702", "word": "хы1", "field": "misc2", "old": "къ. хау 1", "new": "къ. хау 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_34724", "word": "хыйлалы1", "field": "misc2", "old": "къ. хыйла 1 (2-чи магъ.)", "new": "къ. хыйла 1", "source": "ТСКБЯ"}
+{"entry_id": "e_34726", "word": "хыйлалыкъ", "field": "def1", "old": "к хыйла 2", "new": "к хыйла 3", "source": "ТСКБЯ"}
+{"entry_id": "e_34726", "word": "хыйлалыкъ", "field": "misc2", "old": "къ. хыйла 1", "new": "къ. хыйла 2", "source": "ТСКБЯ"}
+{"entry_id": "e_34789", "word": "хылымышты", "field": "misc2", "old": "къ. хылымылы 1", "new": "къ. хылымылы 3", "source": "ТСКБЯ"}
+{"entry_id": "e_34861", "word": "хырелик", "field": "def1", "old": "к хыре 2", "new": "к хыре 1", "source": "ТСКБЯ"}
+{"entry_id": "e_35078", "word": "чагъыл", "field": "tags", "old": "к чагъаргъа II", "new": "к чагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_35108", "word": "чагъыу1", "field": "tags", "old": "к чагъаргъа II", "new": "к чагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_35109", "word": "чагъыу2", "field": "def1", "old": "к чагъаргъа I", "new": "к чагъаргъа II", "source": "КБРС"}
+{"entry_id": "e_35134", "word": "чайкъатдыр", "field": "tags", "old": "от чайкъат 2", "new": "от чайкъат 1", "source": "ТСКБЯ"}
+{"entry_id": "e_35134", "word": "чайкъатдыр", "field": "tags", "old": "к чайкъатыргъа I", "new": "к чайкъатыргъа II", "source": "КБРС"}
+{"entry_id": "e_35135", "word": "чайкъатдырыу", "field": "tags", "old": "к чайкъатдырыргъа I", "new": "к чайкъатдырыргъа", "source": "КБРС"}
+{"entry_id": "e_35136", "word": "чайкъатмакълыкъ", "field": "tags", "old": "к чайкъатыргъа I", "new": "к чайкъатыргъа II", "source": "КБРС"}
+{"entry_id": "e_35137", "word": "чайкъатыу", "field": "tags", "old": "к чайкъатыргъа I", "new": "к чайкъатыргъа II", "source": "КБРС"}
+{"entry_id": "e_35191", "word": "чакъагъан", "field": "def1", "old": "от чагъаргъа I", "new": "от чагъаргъа II", "source": "КБРС"}
+{"entry_id": "e_35195", "word": "чакъдыр1", "field": "tags", "old": "к чагъаргъа I", "new": "к чагъаргъа II", "source": "КБРС"}
+{"entry_id": "e_35196", "word": "чакъдыр2", "field": "tags", "old": "к чагъаргъа II", "new": "к чагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_35215", "word": "чакъмакълыкъ2", "field": "tags", "old": "к чагъаргъа I", "new": "к чагъаргъа II", "source": "КБРС"}
+{"entry_id": "e_35216", "word": "чакъмакълыкъ3", "field": "tags", "old": "к чагъаргъа II", "new": "к чагъаргъа III", "source": "КБРС"}
+{"entry_id": "e_35256", "word": "чалдыр1", "field": "tags", "old": "от чал 2", "new": "от чал 3", "source": "ТСКБЯ"}
+{"entry_id": "e_35256", "word": "чалдыр1", "field": "tags", "old": "к чалыргъа I", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35256", "word": "чалдыр1", "field": "tags", "old": "к чалыргъа II", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35256", "word": "чалдыр1", "field": "def1", "old": "к чалыргъа II", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35260", "word": "чалдыртыу", "field": "tags", "old": "к чалдыртыргъа I", "new": "к чалдыртыргъа", "source": "КБРС"}
+{"entry_id": "e_35262", "word": "чалдырыу2", "field": "tags", "old": "к чалдырыргъа II", "new": "к чалдырыргъа I", "source": "КБРС"}
+{"entry_id": "e_35264", "word": "чалдыш", "field": "misc2", "old": "къ. чалдиш 1", "new": "къ. чалдиш 2", "source": "ТСКБЯ"}
+{"entry_id": "e_35264", "word": "чалдыш", "field": "misc2", "old": "къ. чалдиш 1 (4-чю магъ.)", "new": "къ. чалдиш 1", "source": "ТСКБЯ"}
+{"entry_id": "e_35273", "word": "чалмакълыкъ1", "field": "tags", "old": "к чалыргъа I", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35274", "word": "чалмакълыкъ2", "field": "tags", "old": "к чалыргъа II", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35301", "word": "чалын", "field": "tags", "old": "от чал 2", "new": "от чал 3", "source": "ТСКБЯ"}
+{"entry_id": "e_35301", "word": "чалын", "field": "tags", "old": "к чалыргъа I", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35307", "word": "чалыу1", "field": "def1", "old": "к чалыргъа II", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35308", "word": "чалыу2", "field": "tags", "old": "от чал 2", "new": "от чал 3", "source": "ТСКБЯ"}
+{"entry_id": "e_35308", "word": "чалыу2", "field": "tags", "old": "к чалыргъа I", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35309", "word": "чалыш1", "field": "tags", "old": "от чал 2", "new": "от чал 3", "source": "ТСКБЯ"}
+{"entry_id": "e_35309", "word": "чалыш1", "field": "tags", "old": "к чалыргъа I", "new": "к чалыргъа III", "source": "КБРС"}
+{"entry_id": "e_35309", "word": "чалыш1", "field": "misc1", "old": "к чалышыргъа I", "new": "к чалышыргъа II", "source": "КБРС"}
+{"entry_id": "e_35318", "word": "чалышыу", "field": "tags", "old": "к чалышыргъа II", "new": "к чалышыргъа I", "source": "КБРС"}
+{"entry_id": "e_35391", "word": "чапчакълыкъ", "field": "def1", "old": "к чапчакъ 1", "new": "к чапчакъ 2", "source": "ТСКБЯ"}
+{"entry_id": "e_35399", "word": "чапыргъан", "field": "def1", "old": "от чапырыргъа II", "new": "от чапырыргъа I", "source": "КБРС"}
+{"entry_id": "e_35400", "word": "чапырмакълыкъ1", "field": "tags", "old": "к чапырыргъа I", "new": "к чапырыргъа II", "source": "КБРС"}
+{"entry_id": "e_35401", "word": "чапырмакълыкъ2", "field": "tags", "old": "к чапырыргъа II", "new": "к чапырыргъа I", "source": "КБРС"}
+{"entry_id": "e_35402", "word": "чапырт", "field": "tags", "old": "к чапырыргъа I", "new": "к чапырыргъа II", "source": "КБРС"}
+{"entry_id": "e_35402", "word": "чапырт", "field": "tags", "old": "к чапырыргъа II", "new": "к чапырыргъа I", "source": "КБРС"}
+{"entry_id": "e_35403", "word": "чапыртмакълыкъ1", "field": "tags", "old": "к чапыртыргъа I", "new": "к чапыртыргъа", "source": "КБРС"}
+{"entry_id": "e_35404", "word": "чапыртмакълыкъ2", "field": "tags", "old": "к чапыртыргъа II", "new": "к чапыртыргъа", "source": "КБРС"}
+{"entry_id": "e_35405", "word": "чапыртыу", "field": "tags", "old": "к чапыртыргъа I", "new": "к чапыртыргъа", "source": "КБРС"}
+{"entry_id": "e_35406", "word": "чапырыл", "field": "tags", "old": "к чапырыргъа I", "new": "к чапырыргъа II", "source": "КБРС"}
+{"entry_id": "e_35412", "word": "чапырыу1", "field": "tags", "old": "к чапырыргъа I", "new": "к чапырыргъа II", "source": "КБРС"}
+{"entry_id": "e_35413", "word": "чапырыу2", "field": "tags", "old": "к чапырыргъа I", "new": "к чапырыргъа II", "source": "КБРС"}
+{"entry_id": "e_35595", "word": "чегил", "field": "tags", "old": "от чек3", "new": "от чек2", "source": "ТСКБЯ"}
+{"entry_id": "e_35595", "word": "чегил", "field": "misc2", "old": "Чек3", "new": "Чек2", "source": "ТСКБЯ"}
+{"entry_id": "e_35601", "word": "чегиу", "field": "tags", "old": "от чек3", "new": "от чек2", "source": "ТСКБЯ"}
+{"entry_id": "e_35601", "word": "чегиу", "field": "misc2", "old": "Чек3", "new": "Чек2", "source": "ТСКБЯ"}
+{"entry_id": "e_35609", "word": "чекдир", "field": "tags", "old": "от чек3", "new": "от чек2", "source": "ТСКБЯ"}
+{"entry_id": "e_35609", "word": "чекдир", "field": "misc2", "old": "Чек3", "new": "Чек2", "source": "ТСКБЯ"}
+{"entry_id": "e_35988", "word": "чубурлукъ", "field": "tags", "old": "к чубур II", "new": "к чубур I", "source": "КБРС"}
+{"entry_id": "e_36362", "word": "чырматыу", "field": "tags", "old": "от чырмат 2", "new": "от чырмат", "source": "ТСКБЯ"}
+{"entry_id": "e_36362", "word": "чырматыу", "field": "misc2", "old": "Чырмат2", "new": "Чырмат", "source": "ТСКБЯ"}
+{"entry_id": "e_36390", "word": "чыртда", "field": "def1", "old": "что чырт I", "new": "что чырт III", "source": "КБРС"}
+{"entry_id": "e_36391", "word": "чыртданда", "field": "def1", "old": "что чырт I", "new": "что чырт III", "source": "КБРС"}
+{"entry_id": "e_36517", "word": "чёкдюр", "field": "def2", "old": "от чёк2", "new": "от чёк3", "source": "ТСКБЯ"}
+{"entry_id": "e_36517", "word": "чёкдюр", "field": "misc2", "old": "Чёк2", "new": "Чёк3", "source": "ТСКБЯ"}
+{"entry_id": "e_37273", "word": "шынжыр", "field": "misc2", "old": "къ. сынжыр 1", "new": "къ. сынжыр 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_37273", "word": "шынжыр", "field": "misc2", "old": "къ. сынжыр 2", "new": "къ. сынжыр 1 (2-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_37641", "word": "ышандыр", "field": "tags", "old": "от ышан 3", "new": "от ышан 1", "source": "ТСКБЯ"}
+{"entry_id": "e_37641", "word": "ышандыр", "field": "misc2", "old": "Ышан3", "new": "Ышан1", "source": "ТСКБЯ"}
+{"entry_id": "e_37663", "word": "ышаныулу1", "field": "misc2", "old": "къ. ышаннгылы 1", "new": "къ. ышаннгылы 1 (1-чи магъ.)", "source": "ТСКБЯ"}
+{"entry_id": "e_37855", "word": "эзиулюк", "field": "tags", "old": "к эзиу II", "new": "к эзиу I", "source": "КБРС"}
+{"entry_id": "e_37859", "word": "эзмеклик", "field": "def1", "old": "см. эзиу I", "new": "см. эзиу II", "source": "КБРС"}
+{"entry_id": "e_38177", "word": "энг1", "field": "def1", "old": "что эм I", "new": "что эм III", "source": "КБРС"}
+{"entry_id": "e_38201", "word": "эндреуюк", "field": "def1", "old": "см. ай II", "new": "см. ай I", "source": "КБРС"}
+{"entry_id": "e_38232", "word": "эниу", "field": "tags", "old": "от эн3", "new": "от эн", "source": "ТСКБЯ"}
+{"entry_id": "e_38232", "word": "эниу", "field": "misc2", "old": "Эн3", "new": "Эн", "source": "ТСКБЯ"}
+{"entry_id": "e_38235", "word": "эниш4", "field": "tags", "old": "от эн3", "new": "от эн", "source": "ТСКБЯ"}
+{"entry_id": "e_38235", "word": "эниш4", "field": "misc2", "old": "Эн3", "new": "Эн", "source": "ТСКБЯ"}
+{"entry_id": "e_38920", "word": "юйретдир1", "field": "tags", "old": "к юйретирге II", "new": "к юйретирге", "source": "КБРС"}
+{"entry_id": "e_38922", "word": "юйретдириу1", "field": "tags", "old": "к юйретдирирге II", "new": "к юйретдирирге I", "source": "КБРС"}
+{"entry_id": "e_38924", "word": "юйретил", "field": "tags", "old": "к юйретирге II", "new": "к юйретирге", "source": "КБРС"}
+{"entry_id": "e_38927", "word": "юйретиу2", "field": "tags", "old": "к юйретирге II", "new": "к юйретирге", "source": "КБРС"}
+{"entry_id": "e_38930", "word": "юйретмеклик2", "field": "tags", "old": "к юйретирге II", "new": "к юйретирге", "source": "КБРС"}
+{"entry_id": "e_39221", "word": "ёзге2", "field": "misc2", "old": "къ. алай 2", "new": "къ. алай 3", "source": "ТСКБЯ"}
+{"entry_id": "e_39391", "word": "ёнге1", "field": "misc2", "old": "къ. ёзге 1 (1-чи магъ.)", "new": "къ. ёзге 1", "source": "ТСКБЯ"}
+{"entry_id": "e_39641", "word": "ёчлюк2", "field": "tags", "old": "к ёч I", "new": "к ёч III", "source": "КБРС"}

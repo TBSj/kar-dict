@@ -7,8 +7,32 @@ numbers, superscript 6.4 pt = homonym number, italic = labels and source sigla. 
 language model.
 
 Phases:
-  parse   PDF -> local/guzeev/nests.jsonl (the book's text: gitignored, copyright — survey В3 open)
-          + checkpoints/shards/s18/parse_report.json (counts, anomalies, book errata applied)
+  parse        PDF -> local/guzeev/nests.jsonl (the book's text: gitignored, copyright — survey В3 open)
+               + checkpoints/shards/s18/parse_report.json (counts, anomalies, book errata applied)
+  align        Гузеев's nests <-> our entries (key = ТСКБЯ spelling) -> align.jsonl; 1:1 by part of speech
+               where it is safe (auto_pos)
+  mapprep / mapcheck / mapcompare / adjprep / adjcheck
+               two blind readers map every other nest (which of our entries is which homonym), an
+               adjudicator settles their disagreements
+  auditprep / resolveprep
+               auditors try to refute the agreed mappings, resolvers decide what they find
+  mapmerge     -> mapping.jsonl (+ hand amendments map_amend.json)
+  rebuildprep / rebuildcheck
+               nests whose entries must be cut or joined -> rebuild agents (text only cut and moved;
+               rebuildcheck counts every word) -> rebuild_out/rNN.json
+  reviseprep   second round on the nests the rebuilders flagged (revise.json: the decision on each flag,
+               rebuild_allow.json: repeated phrase heads, homonyms of our own) -> rebuild_out/xNN.json
+  apply        mapping + rebuilt nests + stubs + fixes.json -> 06 (journal checkpoints/qa/s18_apply.jsonl)
+  refs         the books' references to homonyms by number («къ. жууаш 2», «к ачыу II») renumbered to the
+               corpus words they now mean (once, right after apply; journal checkpoints/qa/s18_refs.jsonl)
+  postfix      corrections confirmed by the post-apply check (postfix.json) + Гузеев's part-of-speech labels
+               (journal checkpoints/qa/s18_postfix.jsonl)
+  postprep     a stratified sample of applied nests for checkers (local/guzeev/post_in/pNN); «rest»: every
+               other nest with two linked homonyms or more (qNN, full texts)
+  postfixcheck validate a checker's ops (local/guzeev/post_out/qNN_ops.json): dry run on a copy of 06
+  postmerge    all validated ops -> postfix.json
+Order after any change: restore the pre-step-3 06 (local/backups/06_before_s18.jsonl), then apply -> refs -> postfix -> s13 parse_losses -> the
+export chain (s6_apply, s8_facets, s13 flags, s7_export, s7_invariants, s7_xlsx, s14).
 
 Book errata (numbering slips, header misprints, wrong labels) are fixed by the explicit ERRATA table
 and recorded in each nest's "errata" list — never silently.
@@ -939,11 +963,16 @@ GLUED_NUM = re.compile(r"^\d{1,2}[.)](?=[^\W\d_])")
 PUNCT = ".,;:!?()«»\"'—–-"
 
 
+SUBSENSE = re.compile(r"^\(?[а-е]\)[,;:.]?$")
+
+
 def tokens(s):
     # «||» glued to its word in КБРС def1 («лысина||», «акула||акулий», 64 in 06) is the separator too: split off,
-    # so a rebuild may drop it once the adjective / adverb after it has moved to a homonym of its own
-    toks = [t.strip(PUNCT) for t in (s or "").replace("||", " || ").lower().split()]
-    toks = [GLUED_NUM.sub("", t).strip(PUNCT) for t in toks]
+    # so a rebuild may drop it once the adjective / adverb after it has moved to a homonym of its own.
+    # A sub-sense letter «а)», «б)» is recognised before the edge strip takes its «)» off — after it, «а» would
+    # be the word а (the Russian conjunction, the KB particle), which is counted
+    toks = [t for t in (s or "").replace("||", " || ").lower().split() if not SUBSENSE.match(t)]
+    toks = [GLUED_NUM.sub("", t.strip(PUNCT)).strip(PUNCT) for t in toks]
     return Counter(t for t in toks if t and not DROPPABLE.match(t))
 
 
@@ -1034,7 +1063,7 @@ def rebuildcheck(name):
     if its words are still in that field of the homonym)"""
     meta = json.load(open(REB_IN / f"{name}.json", encoding="utf-8"))
     es = {e["entry_id"]: e for e in load_jsonl(F06)}
-    al = allowances()
+    al = allowances() if name.startswith("x") else {}        # the allowances belong to the second round
     try:
         out = {r["nid"]: r for r in json.load(open(REB_OUT / f"{name}.json", encoding="utf-8"))["nests"]}
     except Exception as ex:
@@ -1180,6 +1209,527 @@ def reviseprep(budget=80000, per_file=7):
     print(json.dumps({"nests": len(rev), "files": {g[0]: g[1] for g in groups}}, ensure_ascii=False))
 
 
+# ------------------------------------------------------------------ cross-references after the renumbering
+# ТСКБЯ points to its homonyms by arabic numbers («къ. жууаш 2», «и. д. от жут 3», «Жууаш2 дегенден», «сау 1
+# (2-чи магъ.)»), КБРС by roman ones («отвлеч. к акъ I», «страд. к чайкъаргъа II»). Those numbers are the
+# books' own; after step 3 a corpus word may carry another number (ТСКБЯ ЖУУАШ 2 = our jууаш3), a homonym may be
+# split (ТСКБЯ САУ 1 «живой; здоровый» = our сау1 + сау3), and a number may be a sense of a word that had no
+# homonyms in ТСКБЯ (АНГСЫЗ «2. несообразительный») but has now (ангсыз2 = Гузеев's adverb stub).
+REFS_JOURNAL = CK / "qa" / "s18_refs.jsonl"
+ROMAN_N = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7}
+N_ROMAN = {v: k for k, v in ROMAN_N.items()}
+ORD = {1: "чи", 2: "чи", 3: "чю", 4: "чю", 5: "чи", 6: "чы", 7: "чи", 8: "чи", 9: "чу", 0: "чу"}
+W_ = r"[А-ЯЁа-яёЎў]+(?:-[А-ЯЁа-яёЎў]+)?"
+REF_T = re.compile(r"(?P<pre>(?:\bкъ\.|\bот|\bк)\s+)(?P<w>" + W_ + r")(?P<sp>\s?)(?P<n>\d{1,2})\b"
+                   r"(?P<sense>\s*\((?P<k>\d{1,2})-\w+\s+магъ\.\))?")
+REF_S = re.compile(r"(?P<pre>(?<![\w.])\s?)(?P<w>" + W_ + r")(?P<sp>\s)(?P<n>\d{1,2})"
+                   r"(?P<sense>\s*\((?P<k>\d{1,2})-\w+\s+магъ\.\))")          # «сау 1 (2-чи магъ.)» with no «къ.»
+REF_D = re.compile(r"(?P<pre>\b)(?P<w>[А-ЯЁа-яё]+)(?P<sp>)(?P<n>\d)(?=\s+деген)")  # «Жууаш2 дегенден»
+REF_K = re.compile(r"(?P<pre>(?:\bк|\bот|\bсм\.|\bчто)\s+)(?P<w>" + W_ + r")(?P<sp>\s+)(?P<n>I{1,3}|IV|V|VI{0,2})\b")
+
+
+def fold_kb(w):
+    return (w or "").lower().replace("ё", "е").replace("ў", "у")
+
+
+def senses(text):
+    """«1. Живой, невредимый 2. Здоровый» -> {1: 'живой, невредимый', 2: 'здоровый'}; a text without numbers -> {1: text}"""
+    parts = re.split(r"(?:^|\s)(\d{1,2})\.\s+", " " + (text or ""))
+    if len(parts) < 3:
+        return {1: fold_kb(text).strip()} if (text or "").strip() else {}
+    return {int(parts[i]): fold_kb(parts[i + 1]).strip(" ;") for i in range(1, len(parts) - 1, 2)}
+
+
+def refs():
+    """renumber the books' cross-references to the corpus words they now mean (run once, right after apply;
+    journal checkpoints/qa/s18_refs.jsonl — its presence stops a second run, the numbers would be read twice)"""
+    if REFS_JOURNAL.exists():
+        print(f"already done ({REFS_JOURNAL.name}); restore 06 and re-run apply to redo")
+        return
+    es = load_jsonl(F06)
+    byid = {e["entry_id"]: e for e in es}
+    words_of_d2, words_of_d1 = defaultdict(list), defaultdict(list)
+    for e in es:
+        for s in e.get("src2") or []:
+            words_of_d2[s].append(e)
+        for s in e.get("src1") or []:
+            words_of_d1[int(s)].append(e)
+    tskbya, tsk_single, tsk_def2 = defaultdict(list), defaultdict(list), {}
+    for r in load_jsonl(CK / "03_dict2_parsed.jsonl"):
+        w, h = fold_kb(r["word"]), str(r.get("hom") or "").strip()
+        n = int(h) if h.isdigit() else ROMAN_N.get(h)
+        for s in r.get("source_ids") or []:
+            tsk_def2[s] = r.get("def2") or ""
+            (tskbya[(w, n)] if n else tsk_single[w]).append(s)
+    kbrs, kb_def1 = defaultdict(list), {}
+    for r in load_jsonl(CK / "01_dict1_parsed.jsonl"):
+        n = ROMAN_N.get(str(r.get("hom_src") or "").strip())
+        if n:
+            kbrs[(fold_kb(r["word"]), n)].append(r["seqid"])
+            kb_def1[r["seqid"]] = r.get("def1") or ""
+    POS = re.compile(r"^\s*(хал\. сёзл|мард\. сёзл|ат|сыф|сёзл|эт|межд|кес|байл|сонг|алм|сан|эрикл)\.")
+
+    def pos_of(e):
+        m = POS.match(e.get("tags") or "")
+        return m.group(1) if m else None
+
+    def num(word):
+        m = re.search(r"(\d+)$", word)
+        return int(m.group(1)) if m else None
+
+    def pick(cands, e, k, d2ids, kb_def1=None):
+        """the corpus entry a reference means: the one holding sense k of the ТСКБЯ record (by its def2 text);
+        else the one holding the record's first, main sense (ТСКБЯ def2 / КБРС def1 text) — a homonym split by
+        Гузеев is meant as a whole, and its main sense names it; else the first by number"""
+        cands = sorted({c["entry_id"]: c for c in cands}.values(), key=lambda c: num(c["word"]) or 0)
+        if len(cands) == 1 and not k:
+            return cands[0], None, "only"
+        want = senses(tsk_def2.get(d2ids[0])) if d2ids else {}
+        for kk, how in ((k, "sense"), (min(want) if want else None, "main")):
+            t = want.get(kk) if kk else None
+            if not t:
+                continue
+            for c in cands:
+                sc = senses(c.get("def2"))
+                for j, v in sc.items():
+                    if t[:40] and (t[:40] in v or v[:40] in t):
+                        return c, (j if len(sc) > 1 else None), how
+        if kb_def1:
+            first = fold_kb(re.split(r"\s\d{1,2}\)|;", re.sub(r"^\s*(?:\d{1,2}\.\s*)?\d{1,2}\)\s*", "", kb_def1))[0]).strip()[:30]
+            for c in cands:
+                if first and first in fold_kb(c.get("def1")):
+                    return c, None, "main"
+        return cands[0], None, ("only" if len(cands) == 1 else "first")
+
+    rows = []
+    for e in es:
+        if "guzeev_stub" in (e.get("flags") or []):
+            continue                                    # «нареч. к адетли1» is ours, already in corpus numbering
+        changed = False
+        for f in ("tags", "def1", "def2", "misc1", "misc2"):
+            t = e.get(f) or ""
+            if not t:
+                continue
+            out, last = [], 0
+            hits = []
+            for rx, src in ((REF_T, "T"), (REF_S, "T"), (REF_D, "T"), (REF_K, "K")):
+                for m in rx.finditer(t):
+                    if any(not (m.end() <= a or m.start() >= b) for a, b, *_ in hits):
+                        continue
+                    hits.append((m.start(), m.end(), m, src))
+            for a, b, m, src in sorted(hits, key=lambda x: x[0]):
+                w = fold_kb(m.group("w"))
+                n = ROMAN_N[m.group("n")] if src == "K" else int(m.group("n"))
+                k = int(m.group("k")) if m.groupdict().get("k") else None
+                glued = m.re is REF_D                       # «Жууаш2 дегенден»: the number glued to the word
+                sp = m.group("sp") if not glued else ""
+                new = None
+                if src == "K":
+                    sids = kbrs.get((w, n), [])
+                    cands = [c for s in sids for c in words_of_d1.get(s, [])]
+                    if cands:
+                        c, _, how = pick(cands, e, None, None, kb_def1.get(sids[0]))
+                        cn = num(c["word"])
+                        if cn != n:
+                            new = m.group("pre") + m.group("w") + (m.group("sp") + N_ROMAN.get(cn, str(cn)) if cn else "")
+                else:
+                    d2ids = tskbya.get((w, n))
+                    sense_of_single = False
+                    if not d2ids and tsk_single.get(w):        # a sense number of a word with no ТСКБЯ homonyms
+                        d2ids, k, sense_of_single = tsk_single[w], n, True
+                    cands = [c for s in d2ids or [] for c in words_of_d2.get(s, [])]
+                    if cands and not (glued and sense_of_single):
+                        c, j, how = pick(cands, e, k, d2ids)
+                        cn = num(c["word"])
+                        many = len(senses(c.get("def2"))) > 1
+                        if sense_of_single:
+                            # «къ. ангсыз 2» = sense 2 of ангсыз; the word has homonyms now -> «ангсыз 1 (2-чи магъ.)»
+                            kk = j or k
+                            if cn:
+                                new = m.group("pre") + m.group("w") + " " + str(cn) + \
+                                    (f" ({kk}-{ORD[kk % 10]} магъ.)" if many else "")
+                        else:
+                            new = m.group("pre") + m.group("w") + (sp + str(cn) if cn else "")   # spacing as printed
+                            if k:                               # «(2-чи магъ.)»: the sense's number in its new homonym
+                                kk = j if how == "sense" else k
+                                if kk and many:
+                                    new += f" ({kk}-{ORD[kk % 10]} магъ.)"
+                if new is not None and new != m.group(0):
+                    out.append(t[last:a] + new)
+                    last = b
+                    rows.append({"entry_id": e["entry_id"], "word": e["word"], "field": f, "old": m.group(0).strip(),
+                                 "new": new.strip(), "source": "КБРС" if src == "K" else "ТСКБЯ"})
+            if out:
+                e[f] = "".join(out) + t[last:]
+                changed = True
+        if changed:
+            e["flags"] = list(dict.fromkeys((e.get("flags") or []) + ["ref_renumbered"]))
+            for k_ in [k_ for k_ in list(e) if k_.startswith(("misc1_", "misc2_"))]:
+                e.pop(k_, None)
+    save_jsonl(F06, es)
+    save_jsonl(REFS_JOURNAL, rows)
+    print(json.dumps({"references_renumbered": len(rows), "entries": len({r["entry_id"] for r in rows}),
+                      "by_source": Counter(r["source"] for r in rows)}, ensure_ascii=False))
+
+
+# ------------------------------------------------------------------ corrections after the post-apply check
+POSTFIX = S18 / "postfix.json"
+POSTFIX_JOURNAL = CK / "qa" / "s18_postfix.jsonl"
+
+
+def _cut(t, piece):
+    assert t.count(piece) == 1, (piece[:60], t.count(piece))
+    i = t.index(piece)
+    left, right = t[:i].rstrip(" "), t[i + len(piece):].lstrip(" ")
+    if right.startswith(";"):                       # «…; PIECE; next» -> «…; next»
+        right = right[1:].lstrip(" ")
+    elif left.endswith(";") and not right.strip():  # «…; PIECE» at the end -> «…»
+        left = left[:-1].rstrip()
+    if not left.strip() or not right.strip() or left.endswith("\n") or right.startswith("\n"):
+        out = left + right
+    else:
+        out = left + " " + right
+    return re.sub(r"\n\s*\n", "\n", out).strip()
+
+
+def _insert(t, piece, after=None, sep=" "):
+    t = t or ""
+    if not t.strip():
+        return piece
+    if after:
+        assert t.count(after) == 1, (after[:60], t.count(after))
+        i = t.index(after) + len(after)
+        return t[:i] + sep + piece + t[i:]
+    return t.rstrip() + sep + piece
+
+
+def _run_ops(fixes, es, byw, rows, touched):
+    """carry out postfix ops on the corpus in memory (es / byw: entries, by word); a moved piece brings the
+    records of its side along (КБРС def1/misc1 -> src1, ТСКБЯ def2/misc2 -> src2) when the target lacks them"""
+    maxid = max(int(e["entry_id"][2:]) for e in es)
+
+    def ent(w):
+        assert w in byw, w
+        return byw[w]
+
+    for fx in fixes:
+        for op in fx["ops"]:
+            kind = op["op"]
+            if kind == "move":
+                a, b = ent(op["from"]), ent(op["to"])
+                f, f2 = op["field"], op.get("to_field", op["field"])
+                src_t = a.get(f) or ""
+                if op.get("text_from"):                          # from this anchor to the end of the field
+                    i = src_t.find(op["text_from"])
+                    text = src_t[i:] if i >= 0 else None
+                else:
+                    text = op["text"]
+                piece = (op.get("prefix") or "") + (text or "")
+                if not text or text not in src_t:
+                    if piece.strip() and piece in (b.get(f2) or ""):
+                        continue                                 # already moved
+                    raise AssertionError((fx["id"], "text not found", op))
+                a[f] = _cut(src_t, text)
+                b[f2] = _insert(b.get(f2), piece, op.get("after"), op.get("sep", "; " if f2 == "misc1" else " "))
+                k = "src1" if f in ("def1", "misc1") else "src2"
+                b[k] = list(dict.fromkeys(list(b.get(k) or []) + list(a.get(k) or [])))
+                touched |= {a["word"], b["word"]}
+            elif kind == "replace":
+                e = ent(op["word"])
+                t = e.get(op["field"]) or ""
+                if op["old"] not in t:
+                    if op["new"] in t:
+                        continue
+                    raise AssertionError((fx["id"], "old not found", op))
+                assert t.count(op["old"]) == 1, (fx["id"], op["old"])
+                e[op["field"]] = t.replace(op["old"], op["new"], 1)
+                touched.add(e["word"])
+            elif kind == "insert":
+                e = ent(op["word"])
+                if op["text"] in (e.get(op["field"]) or ""):
+                    continue
+                e[op["field"]] = _insert(e.get(op["field"]), op["text"], op.get("after"),
+                                         op.get("sep", "; " if op["field"] == "misc1" else " "))
+                touched.add(e["word"])
+            elif kind == "split_out":
+                if op["new"]["word"] in byw:
+                    continue
+                a = ent(op["from"])
+                t = a.get(op["field"]) or ""
+                text = t[t.index(op["text_from"]):]
+                a[op["field"]] = _cut(t, text)
+                n = op["new"]
+                body = n["misc2"]
+                for part in (body, n.get("def2", ""), n.get("tags", "")):     # nothing that was not in the cut text
+                    assert _norm(part) in _norm(text), (fx["id"], "split_out: not in the cut text", part[:60])
+                maxid += 1
+                new = {"entry_id": f"e_{maxid:05d}", "word": n["word"], "word_base": n["word"], "dict_id": "2",
+                       "tags": n.get("tags", ""), "def1": "", "def2": n.get("def2", ""), "misc1": "", "misc2": body,
+                       "lextag": n.get("lextag", ""), "src1": [], "src2": list(a.get("src2") or []) if not n.get("src2")
+                       else n["src2"], "word1_orig": "", "word2_orig": n.get("word2_orig", ""), "decl": "",
+                       "flags": ["glued_article_split", "guzeev_postfix", "no_d1_pair"], "hom_rank": 99,
+                       "built_from": [a["word"]]}
+                es.append(new)
+                byw[new["word"]] = new
+                touched |= {a["word"], new["word"]}
+            elif kind == "src":
+                e = ent(op["word"])
+                for k in ("src1", "src2"):
+                    cur = list(e.get(k) or [])
+                    cur = [x for x in cur if x not in (op.get("remove_" + k) or [])]
+                    cur += [x for x in (op.get("add_" + k) or []) if x not in cur]
+                    e[k] = cur
+                for k, v in (op.get("set") or {}).items():
+                    e[k] = v
+                touched.add(e["word"])
+            else:
+                raise ValueError(kind)
+            rows.append({"fix": fx["id"], **{k: v for k, v in op.items() if k not in ("text",)},
+                         "text": (op.get("text") or op.get("text_from") or "")[:120]})
+        for w in fx.get("flags_to", []):
+            e = ent(w)
+            e["flags"] = list(dict.fromkeys((e.get("flags") or []) + fx.get("flags", [])))
+
+
+def postfix():
+    """after apply and refs: the corrections the post-apply check confirmed (guzeev-postcheck, 2026-11-06;
+    postfix.json: per finding, ops on the entries by their current word — move / replace / insert / split_out /
+    src), then Гузеев's part-of-speech label on every entry linked to a homonym of his with a single label
+    (flag guzeev_pos; the old label in the journal). Every op is skipped when already done."""
+    plan = json.load(open(POSTFIX, encoding="utf-8"))
+    es = load_jsonl(F06)
+    byw = {e["word"]: e for e in es}
+    rows, touched = [], set()
+    _run_ops(plan["fixes"], es, byw, rows, touched)
+    # Гузеев's part of speech on the homonyms linked to him (the decision: his division is the reference)
+    nests = {n["nid"]: n for n in load_jsonl(LOC / "nests.jsonl")}
+    # a part-of-speech label anywhere in the tags, in any of its printed forms («хал. сёз.», «белгисиз алм.»,
+    # «санчы сан.», «мод. сёз.» …); «кёпл. сан.» (plural) is not one
+    LABS = [  # (pattern of a label as printed, part of speech) — the longer forms first
+        (r"(?:хал|мард|заман|орун)\.\s?-?\s?сё[зл]л?", "ADV"), (r"мод\.\s?(?:сёзл?|эт)", "MOD"), (r"къарам\.\s?с", "MOD"),
+        (r"хапар\.\s?сёз", "PRED"), (r"(?:кючл|сор|угъайл)\.\s?кес", "PART"),
+        (r"(?:белгисиз|бетл\.|кёрг\.|сорууч\.|белгил\.)\s?алм", "PRON"), (r"(?:санчы|тизг\.|юлешг\.)\s?сан", "NUM"),
+        (r"къауум\.\s?ат", "N"), (r"эрикл\.\s?сёз", "ONOM"), (r"междом", "INTJ"), (r"подр", "ONOM"),
+        (r"(?<!кёпл\. )сан", "NUM"), (r"ат", "N"), (r"сыф", "A"), (r"сёзл", "ADV"), (r"эт", "V"), (r"межд", "INTJ"),
+        (r"кес", "PART"), (r"байл", "CONJ"), (r"сонг", "POSTP"), (r"алм", "PRON"), (r"эрикл", "ONOM"), (r"пред", "PRED")]
+    LAB = re.compile(r"(?<![\w.-])(" + "|".join(f"(?:{p})" for p, _ in LABS) + r")\.|^\s*(ат)(?=\s)")
+
+    def pos_of_label(l):
+        for p, pos in LABS:
+            if re.fullmatch(p, l.strip()):
+                return pos
+        return None
+
+    npos = Counter()
+    for e in es:
+        g = e.get("guzeev")
+        if not g or "guzeev_stub" in (e.get("flags") or []):
+            continue
+        h = next(h for h in nests[g["nid"]]["homs"] if h["n"] == g["n"])
+        if len(h["pos"]) != 1 or h["pos"][0] not in KB_POS:
+            continue
+        want = KB_POS[h["pos"][0]]
+        t = e.get("tags") or ""
+        found = list(LAB.finditer(t))
+        if any(pos_of_label(m.group(1) or m.group(2)) == h["pos"][0] for m in found):
+            continue                                   # one of its labels already says it
+        m = found[0] if found else None
+        new = (t[:m.start()] + want + t[m.end():]).strip() if m else (want + ("; " + t if t.strip() else "")).strip()
+        rows.append({"fix": "guzeev_pos", "word": e["word"], "old_tags": t, "new_tags": new})
+        e["tags"] = new
+        e["flags"] = list(dict.fromkeys((e.get("flags") or []) + ["guzeev_pos"]))
+        npos["changed" if m else "added"] += 1
+    for w in touched:                                   # entries the postfix ops changed (not the label pass)
+        e = byw[w]
+        for k in [k for k in list(e) if k.startswith(("misc1_", "misc2_"))]:
+            e.pop(k, None)
+        has1 = bool(e.get("def1") or e.get("misc1") or e.get("src1"))
+        has2 = bool(e.get("def2") or e.get("misc2") or e.get("src2"))
+        if e.get("dict_id") != "3":
+            e["dict_id"] = "both" if has1 and has2 else ("1" if has1 else "2")
+        fl = [f for f in (e.get("flags") or []) if not (f == "no_d1_pair" and has1) and not (f == "no_d2_pair" and has2)]
+        e["flags"] = list(dict.fromkeys(fl + ["guzeev_postfix"]))
+    es.sort(key=lambda e: e["word"])
+    save_jsonl(F06, es)
+    save_jsonl(POSTFIX_JOURNAL, rows)
+    print(json.dumps({"ops": sum(1 for r in rows if r["fix"] != "guzeev_pos"), "fixes": len(plan["fixes"]),
+                      "pos": dict(npos), "entries_touched": len(touched)}, ensure_ascii=False))
+
+
+POST_IN = LOC / "post_in"
+POST_PLAN = {"round2": 33, "rebuilt": 45, "stub": 20, "extra": 20, "auto": 20, "fix": 12}
+POST_OUT = LOC / "post_out"
+OP_FIELDS = {"tags", "def1", "def2", "misc1", "misc2"}
+
+
+def postfixcheck(name):
+    """validate a checker's ops file local/guzeev/post_out/<name>_ops.json ({"batch", "fixes": [postfix.json
+    fixes]}): known ops and fields, only words of the batch's nests, and a dry run on a copy of 06"""
+    import copy
+    try:
+        d = json.load(open(POST_OUT / f"{name}_ops.json", encoding="utf-8"))
+    except Exception as ex:
+        print(f"INVALID JSON: {ex}")
+        return 1
+    nids = set(json.load(open(POST_IN / f"{name}.json", encoding="utf-8")))
+    es = load_jsonl(F06)
+    bases = {base_of(e["word"]) for e in es if (e.get("guzeev") or {}).get("nid") in nids}
+    errs = []
+    for fx in d.get("fixes", []):
+        if not fx.get("id") or not fx.get("why") or not isinstance(fx.get("ops"), list):
+            errs.append(f"fix needs id, why, ops: {str(fx)[:80]}")
+            continue
+        for op in fx["ops"]:
+            if op.get("op") not in ("move", "replace", "insert", "src"):
+                errs.append(f"{fx['id']}: op must be move / replace / insert / src")
+            for k in ("field", "to_field"):
+                if k in op and op[k] not in OP_FIELDS:
+                    errs.append(f"{fx['id']}: {k} {op[k]!r}")
+            for k in ("from", "to", "word"):
+                if k in op and base_of(op[k]) not in bases:
+                    errs.append(f"{fx['id']}: {op[k]!r} is not a word of this batch's nests")
+    if not errs:
+        es2 = copy.deepcopy(es)
+        try:
+            _run_ops(d.get("fixes", []), es2, {e["word"]: e for e in es2}, [], set())
+        except Exception as ex:
+            errs.append(f"dry run: {ex!r}"[:400])
+    print("OK" if not errs else "ERRORS:\n" + "\n".join(errs))
+    return 0 if not errs else 1
+
+
+def postmerge():
+    """the full check's ops (local/guzeev/post_out/qNN_ops.json, each validated by postfixcheck) -> postfix.json
+    (appended as fixes «qNN-k», round «full»; a fix already there is kept as it is)"""
+    plan = json.load(open(POSTFIX, encoding="utf-8"))
+    have = {fx["id"] for fx in plan["fixes"]}
+    added, bad = 0, []
+    for f in sorted(POST_OUT.glob("q*_ops.json")):
+        name = f.stem.replace("_ops", "")
+        if postfixcheck(name) != 0:
+            bad.append(name)
+            continue
+        for fx in json.load(open(f, encoding="utf-8")).get("fixes", []):
+            if fx["id"] in have or not fx.get("ops"):
+                continue
+            plan["fixes"].append(dict(fx, round="full"))
+            have.add(fx["id"])
+            added += 1
+    json.dump(plan, open(POSTFIX, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(json.dumps({"added": added, "fixes": len(plan["fixes"]), "batches_not_ok": bad}, ensure_ascii=False))
+
+
+def postprep(per_file=15, mode="sample"):
+    """after apply: a stratified sample of nests as they now stand in 06 (every second-round nest, a spread
+    of the others by kind) for checkers who compare each final homonym with Гузеев's homonym of its number
+    -> local/guzeev/post_in/pNN.txt + .json;  mode=rest: every other nest with two linked homonyms or more,
+    fields in full (the checkers write exact ops) -> qNN"""
+    log = load_jsonl(CK / "qa" / "s18_apply.jsonl")
+    nests = {n["nid"]: n for n in load_jsonl(LOC / "nests.jsonl")}
+    es = load_jsonl(F06)
+    byword = {e["word"]: e for e in es}
+    kinds = defaultdict(list)
+    log = [r for r in log if "nid" in r and "fix" not in r]      # nests only (move_out fixes carry a nid too)
+    for r in log:
+        reb = r.get("rebuilt") or ""
+        if reb.startswith("x"):
+            kinds["round2"].append(r)
+        elif r.get("stubs"):
+            kinds["stub"].append(r)
+        elif any("not_in_guzeev" in (byword.get(w, {}).get("flags") or []) for w in r["new"]):
+            kinds["extra"].append(r)
+        elif reb:
+            kinds["rebuilt"].append(r)
+        elif r["old"] != r["new"]:
+            kinds["auto"].append(r)
+    fixed = {e["word"] for e in es if "guzeev_fix" in (e.get("flags") or [])}
+    kinds["fix"] = [r for r in log if fixed & set(r["new"])]
+    pick, seen = [], set()
+    prefix, full = "p", False
+    if mode == "rest":
+        prefix, full, per_file = "q", True, 20
+        for f in POST_IN.glob("p*.json"):
+            seen |= set(json.load(open(f, encoding="utf-8")))
+        linked = Counter((e.get("guzeev") or {}).get("nid") for e in es
+                         if e.get("guzeev") and "guzeev_stub" not in (e.get("flags") or []))
+        kind_of = {r["nid"]: k for k, lst in kinds.items() for r in lst}
+        pick = [(kind_of.get(r["nid"], "kept"), r) for r in log if r["nid"] not in seen and linked[r["nid"]] >= 2]
+    else:
+        for k, n in POST_PLAN.items():
+            lst = [r for r in kinds[k] if r["nid"] not in seen]
+            step = max(1, len(lst) // n)
+            for r in lst[::step][:n]:
+                pick.append((k, r))
+                seen.add(r["nid"])
+    POST_IN.mkdir(parents=True, exist_ok=True)
+    for f in POST_IN.glob(f"{prefix}*.*"):
+        f.unlink()
+    groups = [pick[i:i + per_file] for i in range(0, len(pick), per_file)]
+    for gi, grp in enumerate(groups, 1):
+        name = f"{prefix}{gi:02d}"
+        L = [f"POSTCHECK {name}: {len(grp)} nests."]
+        for k, r in grp:
+            n = nests[r["nid"]]
+            L += ["", f"=== {r['nid']}  {n['header']}  (Гузеев p. {n['page']})   kind: {k}   old words: {', '.join(r['old'])}",
+                  "GUZEEV:"]
+            for h in n["homs"]:
+                L.append(f"  n={h['n']}  labels: {' '.join(h['labels']) or '—'}  pos: {'/'.join(h['pos']) or '—'}")
+                for sn in h["senses"]:
+                    L.append(f"     {str(sn['num']) + '.' if sn['num'] else '-'} {cut(sn['def'] or sn['text'], 200)}")
+            L.append("CORPUS NOW (in numbering order):")
+            for w in r["new"]:
+                e = byword.get(w)
+                if not e:
+                    L.append(f"  {w}: MISSING")
+                    continue
+                g = e.get("guzeev") or {}
+                L.append(f"  --- {w}  dict={e['dict_id']}  Гузеев n={g.get('n', '—')}  flags: {', '.join(e.get('flags') or [])}"
+                         + (f"  built from: {', '.join(e['built_from'])}" if e.get("built_from") else ""))
+                for f_ in ("tags",) + FIELDS:
+                    if e.get(f_):
+                        L.append(f"    {f_}: {e[f_] if full else cut(e[f_], 260 if f_.startswith('misc') else 200)}")
+        (POST_IN / f"{name}.txt").write_text("\n".join(L) + "\n", encoding="utf-8")
+        json.dump([r["nid"] for _, r in grp], open(POST_IN / f"{name}.json", "w", encoding="utf-8"))
+    print(json.dumps({"nests": len(pick), "files": len(groups), "by_kind": {k: len(v) for k, v in kinds.items()}}))
+
+
+def _norm(s):
+    return " ".join((s or "").lower().replace("ё", "е").split())
+
+
+def _nlab(s):
+    """a label compared without punctuation: «страд, к чайкъаргъа II» (КБРС scan) = «страд. к чайкъаргъа II»"""
+    return " ".join(re.sub(r"[.,;:]", " ", (s or "").lower().replace("ё", "е")).split())
+
+
+PIECE = re.compile(r"\s*(?:\d{1,2}[.)]|[а-е]\)|\|\||//|;)\s*|(?<=[.!?»])\s+")
+
+
+def _contributes(src, hom, fields):
+    """has a piece (a sense, an example, a sentence) of these fields of the rebuilt homonym come from src?"""
+    have = _norm(" ".join(src.get(f) or "" for f in fields))
+    if not have:
+        return False
+    for f in fields:
+        for p in PIECE.split(hom.get(f) or ""):
+            p = _norm(p).strip(" ,.;:")
+            if len(p) >= 8 and p in have:
+                return True
+    return False
+
+
+def _records_in(hom, fields, cands, rec_text):
+    """of the candidate records, those with a piece of their parsed text in these fields of the homonym;
+    all of them when none can be told (the text was edited after parsing: tilde voicing, markers …)"""
+    cands = list(dict.fromkeys(cands))
+    if len(cands) < 2:
+        return cands
+    pieces = [_norm(p).strip(" ,.;:") for f in fields for p in PIECE.split(hom.get(f) or "")]
+    pieces = [p for p in pieces if len(p) >= 10]
+    keep = [r for r in cands if any(p in rec_text.get(r if isinstance(r, str) else int(r), "") for p in pieces)]
+    return keep or cands
+
+
 KB_POS = {"N": "ат.", "A": "сыф.", "ADV": "сёзл.", "V": "эт.", "INTJ": "межд.", "PART": "кес.", "CONJ": "байл.",
           "POSTP": "сонг.", "PRON": "алм.", "NUM": "сан.", "ONOM": "эрикл.", "MOD": "къарам. с.", "PRED": "пред."}
 DROP_FLAGS = {"no_d1_pair", "no_d2_pair", "split_def1"}
@@ -1191,6 +1741,15 @@ def apply_s18():
     mp = {m["nid"]: m for m in load_jsonl(S18 / "mapping.jsonl")}
     assert not [k for k, m in mp.items() if m.get("source") == "unresolved"], "unresolved nests in mapping"
     reb = load_rebuilt()
+    # КБРС records that are a label only («чайкъалыргъа II: страд. к чайкъаргъа II») -> that label
+    d1recs = load_jsonl(CK / "01_dict1_parsed.jsonl")
+    label_only = {r["seqid"]: (r.get("tags") or "").strip() for r in d1recs
+                  if not (r.get("def1") or "").strip() and not (r.get("misc1") or "").strip()}
+    rec1_text = {r["seqid"]: _norm(" ".join([r.get("def1") or "", r.get("misc1") or ""])) for r in d1recs}
+    rec2_text = {}
+    for r in load_jsonl(CK / "03_dict2_parsed.jsonl"):
+        for s_ in r.get("source_ids") or []:
+            rec2_text[s_] = _norm(" ".join([r.get("def2") or "", r.get("misc2") or ""]))
     fixes = json.load(open(S18 / "fixes.json", encoding="utf-8")) if (S18 / "fixes.json").exists() else {}
     fixes = {k: v for k, v in fixes.items() if not k.startswith("_")}
     es = load_jsonl(F06)
@@ -1224,6 +1783,7 @@ def apply_s18():
             r = reb[nid]
             claimed = set()
             spread = {i for i, c in Counter(i for h in r["homs"] for i in h["from"]).items() if c > 1}
+            nest_tags = [_nlab(h.get("tags")) for h in r["homs"]]
             # g = 0 last, so that Гузеев's homonyms keep the entry ids of the entries they are built from
             for h in sorted(r["homs"], key=lambda h: (h["g"] == 0, h["g"])):
                 srcs = [byid[i] for i in h["from"]]
@@ -1236,12 +1796,41 @@ def apply_s18():
                 for k in FIELDS:
                     e[k] = (h.get(k) or "").strip()
                 e["tags"] = (h.get("tags") or "").strip()
-                has1 = bool(e["def1"] or e["misc1"])
-                has2 = bool(e["def2"] or e["misc2"])
+                # provenance: the КБРС / ТСКБЯ records of only those entries whose text is in this homonym (the
+                # rebuild copies text verbatim), so that «sources» does not list the page of a record whose text
+                # went to the next homonym; a КБРС record that is a label only («страд. к чайкъаргъа II») goes
+                # where its label went
+                mine_tags = _nlab(e["tags"])
+                lab1, lab_free = [], []
+                for s in srcs:
+                    for r_ in s.get("src1") or []:
+                        L = _nlab(label_only.get(int(r_), ""))
+                        if int(r_) not in label_only or not L:
+                            continue
+                        if L in mine_tags:
+                            lab1.append(r_)                  # its label is in this homonym's tags
+                        elif not any(L in t for t in nest_tags):
+                            lab_free.append(r_)              # in no homonym's tags: stays where it was
+                text1 = bool(e["def1"] or e["misc1"])
+                text2 = bool(e["def2"] or e["misc2"])
+                side1 = [s for s in srcs if _contributes(s, e, ("def1", "misc1"))] if text1 else []
+                side2 = [s for s in srcs if _contributes(s, e, ("def2", "misc2"))] if text2 else []
+                has1 = bool(text1 or lab1)
+                has2 = text2
                 if not has1 and not has2:
                     has1 = any(s.get("src1") for s in srcs)
-                e["src1"] = list(dict.fromkeys(x for s in srcs for x in (s.get("src1") or []))) if has1 else []
-                e["src2"] = list(dict.fromkeys(x for s in srcs for x in (s.get("src2") or []))) if has2 else []
+                # an entry may itself carry several records (an earlier merge: чайкъа «качать» + «полоскать»
+                # in one entry): keep the records whose own text is in this homonym (whole entries when the
+                # text cannot be told apart — it was edited after parsing)
+                c1 = [r_ for s in (side1 or (srcs if text1 else [])) for r_ in (s.get("src1") or [])
+                      if int(r_) not in label_only or r_ in lab_free]
+                c2 = [r_ for s in (side2 or (srcs if text2 else [])) for r_ in (s.get("src2") or [])]
+                src1 = _records_in(e, ("def1", "misc1"), c1, rec1_text) + lab1
+                src2 = _records_in(e, ("def2", "misc2"), c2, rec2_text)
+                if not has1 and not has2:
+                    src1 = [r_ for s in srcs for r_ in (s.get("src1") or [])]
+                e["src1"] = list(dict.fromkeys(src1)) if has1 else []
+                e["src2"] = list(dict.fromkeys(src2)) if has2 else []
                 e["dict_id"] = "both" if has1 and has2 else ("1" if has1 else "2")
                 e["word1_orig"] = next((s.get("word1_orig") for s in srcs if s.get("word1_orig")), "") if has1 else ""
                 e["word2_orig"] = next((s.get("word2_orig") for s in srcs if s.get("word2_orig")), "") if has2 else ""
@@ -1554,7 +2143,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("phase", choices=["parse", "align", "mapprep", "mapcheck", "mapcompare", "adjprep", "adjcheck",
                                       "auditprep", "resolveprep", "mapmerge", "rebuildprep", "rebuildcheck", "reviseprep",
-                                      "apply"])
+                                      "apply", "refs", "postfix", "postfixcheck", "postmerge", "postprep"])
     ap.add_argument("args", nargs="*")
     a = ap.parse_args()
     if a.phase == "mapcheck":
@@ -1563,8 +2152,12 @@ if __name__ == "__main__":
         sys.exit(adjcheck(*a.args))
     if a.phase == "rebuildcheck":
         sys.exit(rebuildcheck(*a.args))
+    if a.phase == "postfixcheck":
+        sys.exit(postfixcheck(*a.args))
+    if a.phase == "postprep":
+        sys.exit(postprep(mode=(a.args or ["sample"])[0]))
     if a.phase == "auditprep":
         sys.exit(auditprep(*a.args))
     {"parse": main_parse, "align": align, "mapprep": mapprep, "mapcompare": mapcompare, "adjprep": adjprep,
      "resolveprep": resolveprep, "mapmerge": mapmerge, "rebuildprep": rebuildprep, "reviseprep": reviseprep,
-     "apply": apply_s18}[a.phase]()
+     "apply": apply_s18, "refs": refs, "postfix": postfix, "postmerge": postmerge, "postprep": postprep}[a.phase]()

@@ -78,30 +78,55 @@ FACETS["style"].update({"сёл.": "разг.", "тил.": "разг.", "сёл.
 FACETS["domain"].update({"полигр.": "полигр.", "спорт": "спорт.", "спец.": "спец."})
 FACETS["pos"].update({"частица": "частица"})
 
-def resolve_base(base, byword, bybase):
-    cands = [base, base.lower()]
-    b = base.lower()
-    cands += [b.replace("дж", "j"), ("j" + b[1:]) if b.startswith("ж") else b]
-    for c in cands:
+ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7}
+
+
+def _spellings(b):
+    """a base as printed -> the corpus spellings it can have (дж/ж -> j); verbs also by their stem
+    (джарыргъа -> jар: the corpus word of a verb is the imperative stem)"""
+    out = [b, b.replace("дж", "j"), ("j" + b[1:]) if b.startswith("ж") else b]
+    m = re.match(r"^(.*?)([уы]?ргъа|[юи]?рге)$", b)
+    if m:
+        s = m.group(1)
+        out += [s, s.replace("дж", "j"), ("j" + s[1:]) if s.startswith("ж") else s]
+    return list(dict.fromkeys(out))
+
+
+def resolve_base(base_raw, byword, bybase, byw1o=None):
+    """«солу 2» / «чайкъаргъа II» / «терсейирге» -> the corpus word it names.  The number of the reference
+    is a corpus number (s18 refs renumbered the books' references after step 3), so it decides first; a КБРС
+    headword (infinitive) names the entry that carries it as word1_orig; only then the first homonym"""
+    parts = (base_raw or "").split()
+    if not parts:
+        return None
+    b = parts[0].lower()
+    num = None
+    if len(parts) > 1:
+        h = parts[-1]
+        num = int(h) if h.isdigit() else ROMAN.get(h)
+    if num:
+        for c in _spellings(b):
+            if f"{c}{num}" in byword:
+                return byword[f"{c}{num}"]
+    if byw1o is not None:
+        ws = byw1o.get(b.replace("ё", "е"))
+        if ws and len(ws) == 1:
+            return ws[0]
+    for c in [parts[0]] + _spellings(b):
         if c in bybase:
             return bybase[c]
         if c in byword:
             return byword[c]
-    # infinitive -> imperative stem heuristics (джарыргъа -> jар)
-    m = re.match(r"^(.*?)([уы]?ргъа|[юи]?рге)$", b)
-    if m:
-        stem = m.group(1)
-        for c in (stem, stem.replace("дж", "j"), ("j" + stem[1:]) if stem.startswith("ж") else stem):
-            if c in bybase:
-                return bybase[c]
     return None
 
 def main():
     es = [json.loads(l) for l in open(CK / "06_lextagged.jsonl", encoding="utf-8")]
-    byword, bybase = {}, {}
+    byword, bybase, byw1o = {}, {}, defaultdict(list)
     for e in es:
         byword.setdefault(e["word"].lower(), e["word"])
         bybase.setdefault(re.sub(r"\d+$", "", e["word"]).lower(), e["word"])
+        if e.get("word1_orig") and e.get("dict_id") in ("1", "both"):
+            byw1o[e["word1_orig"].lower().replace("ё", "е")].append(e["word"])
 
     other_tok = Counter()
     n_deriv = n_res = n_facet = 0
@@ -154,13 +179,13 @@ def main():
         if derived:
             e["derived"] = derived
             n_deriv += 1
-            r = resolve_base(derived[0]["base_raw"].split()[0], byword, bybase)
+            r = resolve_base(derived[0]["base_raw"], byword, bybase, byw1o)
             if r and r != e["word"]:
                 e["derived_from"] = r
                 n_res += 1
 
     # ---- variants (см./тж./къ. + high letter similarity) ----
-    RE_REF = re.compile(r"(?:см\.|тж\.|къ\.)\s+([а-яёj][а-яёъ\-]+)")
+    RE_REF = re.compile(r"(?:см\.|тж\.|къ\.)\s+([а-яёj][а-яёъ\-]+)(?:\s?(\d{1,2})\b)?")
     def sim(a, b):
         if abs(len(a) - len(b)) > 2 or min(len(a), len(b)) < 4:
             return False
@@ -194,8 +219,15 @@ def main():
             continue
         tgt_raw = m.group(1).lower()
         tgt = None
+        if m.group(2):                                  # «къ. солуу 2»: that homonym
+            for c in _spellings(tgt_raw):
+                if f"{c}{m.group(2)}" in byword:
+                    tgt = byword[f"{c}{m.group(2)}"]
+                    break
         for c in (tgt_raw, tgt_raw.replace("дж", "j"),
                   ("j" + tgt_raw[1:]) if tgt_raw.startswith("ж") else tgt_raw):
+            if tgt:
+                break
             if c in bybase:
                 tgt = bybase[c]
                 break

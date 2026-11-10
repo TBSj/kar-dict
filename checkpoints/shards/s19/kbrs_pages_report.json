@@ -6,88 +6,10 @@
   "column": "R"
  },
  {
-  "page": 126,
-  "problem": "start from a later head",
-  "head": "баштёбен",
-  "column": "L"
- },
- {
-  "page": 129,
-  "problem": "start from a later head",
-  "head": "бедер",
-  "column": "R"
- },
- {
-  "page": 131,
-  "problem": "start from a later head",
-  "head": "беклендириў",
-  "column": "R"
- },
- {
-  "page": 133,
-  "problem": "start from a later head",
-  "head": "белеўютлюк",
-  "column": "R"
- },
- {
-  "page": 144,
-  "problem": "start from a later head",
-  "head": "билямукъ",
-  "column": "R"
- },
- {
-  "page": 148,
-  "problem": "start from a later head",
-  "head": "бирикдирмеклик",
-  "column": "R"
- },
- {
-  "page": 166,
-  "problem": "start from a later head",
-  "head": "бузаргъа",
-  "column": "L"
- },
- {
-  "page": 174,
-  "problem": "start from a later head",
-  "head": "былайда",
-  "column": "L"
- },
- {
-  "page": 187,
-  "problem": "start from a later head",
-  "head": "глаукома",
-  "column": "R"
- },
- {
-  "page": 197,
-  "problem": "start from a later head",
-  "head": "дагъыстан",
-  "column": "R"
- },
- {
-  "page": 200,
-  "problem": "start from a later head",
-  "head": "дегенерат",
-  "column": "R"
- },
- {
-  "page": 209,
-  "problem": "start from a later head",
-  "head": "дуниялыкъ",
-  "column": "R"
- },
- {
   "page": 231,
   "problem": "start from a later head",
   "head": "джарашыўлукъ",
   "column": "L"
- },
- {
-  "page": 232,
-  "problem": "start from a later head",
-  "head": "джармаланыў",
-  "column": "R"
  },
  {
   "page": 238,
@@ -96,99 +18,15 @@
   "column": "L"
  },
  {
-  "page": 243,
-  "problem": "start from a later head",
-  "head": "джердеги",
-  "column": "R"
- },
- {
   "page": 263,
   "problem": "start from a later head",
   "head": "джыз",
   "column": "L"
  },
  {
-  "page": 266,
+  "page": 704,
   "problem": "start from a later head",
-  "head": "джылатдырмакълыкъ",
-  "column": "R"
- },
- {
-  "page": 270,
-  "problem": "start from a later head",
-  "head": "джюджю",
-  "column": "R"
- },
- {
-  "page": 294,
-  "problem": "start from a later head",
-  "head": "игилендирирге",
-  "column": "R"
- },
- {
-  "page": 310,
-  "problem": "start from a later head",
-  "head": "ишлеген",
-  "column": "R"
- },
- {
-  "page": 311,
-  "problem": "start from a later head",
-  "head": "ишлетиў",
-  "column": "R"
- },
- {
-  "page": 330,
-  "problem": "start from a later head",
-  "head": "кесилирге",
-  "column": "R"
- },
- {
-  "page": 333,
-  "problem": "start from a later head",
-  "head": "кечикдирирге",
-  "column": "R"
- },
- {
-  "page": 337,
-  "problem": "start from a later head",
-  "head": "кёзбаўланыргъа",
-  "column": "R"
- },
- {
-  "page": 344,
-  "problem": "start from a later head",
-  "head": "кёрюшдюрюў",
-  "column": "R"
- },
- {
-  "page": 349,
-  "problem": "start from a later head",
-  "head": "кириширге",
-  "column": "R"
- },
- {
-  "page": 351,
-  "problem": "start from a later head",
-  "head": "кладовка",
-  "column": "R"
- },
- {
-  "page": 420,
-  "problem": "start from a later head",
-  "head": "къуджурлукъ",
-  "column": "R"
- },
- {
-  "page": 494,
-  "problem": "start from a later head",
-  "head": "окъугъан",
-  "column": "L"
- },
- {
-  "page": 525,
-  "problem": "start from a later head",
-  "head": "ратификация",
+  "head": "-халмеш",
   "column": "L"
  },
  {
@@ -270,18 +108,6 @@
   "note": "both columns continue the long article «бир»; no article start"
  },
  {
-  "page": 158,
-  "problem": "not located",
-  "heads": [],
-  "note": "both columns continue the long article «болургъа»; no article start"
- },
- {
-  "page": 223,
-  "problem": "not located",
-  "heads": [],
-  "note": "both columns are one long article (continuation of джан)"
- },
- {
   "page": 229,
   "problem": "not located",
   "heads": [
@@ -304,34 +130,16 @@
   "note": ""
  },
  {
-  "page": 245,
-  "problem": "not located",
-  "heads": [],
-  "note": "both columns are one long article (continuation of джетерге)"
- },
- {
   "page": 272,
   "problem": "not located",
   "heads": [],
   "note": "both columns are continuations (джюрек)"
  },
  {
-  "page": 273,
-  "problem": "not located",
-  "heads": [],
-  "note": "both columns are continuations (джюрек / джюрюрге)"
- },
- {
   "page": 309,
   "problem": "not located",
   "heads": [],
   "note": "both columns are continuations (иш)"
- },
- {
-  "page": 320,
-  "problem": "not located",
-  "heads": [],
-  "note": "both columns are continuations (келирге)"
  },
  {
   "page": 457,
@@ -343,15 +151,6 @@
    "макъыртмакълыкъ"
   ],
   "note": ""
- },
- {
-  "page": 704,
-  "problem": "not located",
-  "heads": [
-   "халкъ-демократиялыкъ",
-   "-халмеш"
-  ],
-  "note": "pass2"
  },
  {
   "page": 740,

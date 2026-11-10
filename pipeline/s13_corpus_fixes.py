@@ -15,6 +15,10 @@
              headword minus its final къ/к (агрессиялыкъ (-гъы) … политиканы ~гъы = агрессиялыгъы,
              адамлыкъ … ~гъын билебиз = адамлыгъын).  S0a and s17 prep put the whole headword in
              front (агрессиялыкъгъы, джитиликги).  Raw texts: qmos + the s17 scan blocks.
+  parse_losses (2026-11-06) 9 КБРС pieces the step-01 parser dropped, put back from the «clean» text;
+             14 repairs of text lost or garbled later (step 1 cut a host's own gloss with its hyphen word's:
+             къара «чёрный, тёмный», бет «совесть», сауутлу «вооружённый» …; «<u>~</u>» = ≅); a sense number
+             left alone at the end of def1 after step 1 cut a hyphen tail out (6 entries).
   flags      no_russian_def := def1 and def2 both empty (the S2 flag meant «the ТСКБЯ
              article has no Russian part» and survived merges with dict-1 translations).
 Every phase logs its changes to checkpoints/qa/s13_<phase>.jsonl.
@@ -232,6 +236,116 @@ def voicing2():
                       "skipped": skipped}, ensure_ascii=False))
 
 
+# (field, anchor, piece, where): a КБРС piece the step-01 parser dropped (it is in the «clean» text of
+# 01_dict1_preparsed, not in 01_dict1_parsed), put back next to the text it follows («after») or precedes
+# («before») in the source. The anchor is unique in the corpus, so the entry is found whatever its number
+# or id after later steps. Found by comparing the two texts of every record (2026-11-06; the 10th, тона
+# «пулемётну тонаргъа разобрать пулемёт», went back with step 3, s18).
+PARSE_LOSSES = [
+    ("def1", "1) подсказывание", "; суфлирование театр.", "after"),                                  # айтдырыу
+    ("misc1", "рысхыны басдырыб турургъа прятать добро; ", "б) перен. держать в тайне; ", "after"),  # басдыр
+    ("misc1", "къой бокъ овечий помёт; ", "юй бокъ мусор; ", "after"),                               # бокъ
+    ("misc1", "дыб демезге не издать ни звука; ни пикнуть; ", "дыб демей турургъа молчать; ", "after"),  # дыб
+    ("misc1", "чего греха таить!; ", "честно говоря!; ", "after"),                                   # джашырыу
+    ("misc1", "джорукъ джокълукъ беспорядочность; ", "коммунист джорукъ коммунистическая мораль; ", "after"),
+    ("misc1", "тошно на него смотреть; ", "къусарынг келиу тошнота; ", "after"),                     # къус
+    ("misc1", "пайгъа къошулургъа войти в пай", "пай взнос паевой взнос; ", "before"),              # пай
+    ("misc1", "высказать кому сокровенные мысли; ", "ышаныб къалыучу доверчивый; ", "after"),       # ышан
+]
+# (word, field, old, new, why): text the corpus lost or garbled on the way, put back as the source has it.
+# word = the entry's current word when «old» is not unique in the corpus (a bare «ат.» tag, an empty field).
+# Found by the post-apply check of step 3 (2026-11-06) and a sweep of every removal of step 1 (s10_hyphen)
+# that also took the host's own text: s10 cut the gloss of a hyphen word out of its host with replace(…, 1),
+# and where the host's own sense had the same words, the host's sense went (къара «чёрный, тёмный»).
+REPAIRS = [
+    (None, "def1", "1) 2) вороной (о масти)", "1) чёрный, тёмный 2) вороной (о масти)", "s10: собственное значение къара1"),
+    (None, "def1", "иметь отношение к кому-чему; (в форме къара!)", "иметь отношение к кому-чему",
+     "s10: помета глоссы «вишь!, ого!», ушедшей в къара-къара, повисла"),
+    (None, "misc1", "<u>агъашчы</u>сапожник без сапог", "≅ сапожник без сапог", "S0: подчёркнутая тильда КБРС = знак ≅"),
+    (None, "misc1", "<u>кёпюр</u> коломенская верста", "≅ коломенская верста", "S0: подчёркнутая тильда КБРС = знак ≅"),
+    (None, "def1", "4) || уклончиво, неопределённо", "4) уклончивый, неопределённый || уклончиво, неопределённо",
+     "s10: собственное значение башсыз"),
+    (None, "def1", "2) перен., честь ж; стыд", "2) перен. совесть ж, честь ж; стыд", "s10: собственное значение бет"),
+    (None, "def1", "бедняга м, ж,; горемыка м, ж", "бедняга м, ж, бедолага м, ж; горемыка м, ж", "s10: часть значения хариб"),
+    (None, "def1", "1) таркъ о стуке тук!", "1) подр. таркъ о стуке тук!", "s10: помета таркъ"),
+    (None, "def1", "1), верование 2) вера 3) ийман", "1) вера, верование 2) вера",
+     "s10: «вера» ушла с ийман-дин, обрывок «3) ийман» — от ийман-ислам"),
+    ("ийман", "tags", "ат. дин.", "ат. дин.; мус.", "s10: помета КБРС ийман"),
+    ("jаным", "tags", "ат.", "ат.; обращение", "s10: помета КБРС джаным"),
+    ("муру", "tags", "ат.", "ат.; балк.", "s10: помета КБРС муру"),
+    ("къах", "def1", "", "къах о кашле", "s10: перевод КБРС къах"),
+    ("сауутлу", "def1", "", "вооружённый", "s10: перевод КБРС сауутлу"),
+]
+DANGLING = re.compile(r"\s+\d{1,2}\)\s*$")
+
+
+def parse_losses():
+    """(2026-11-06) put back the КБРС pieces the step-01 parser dropped (PARSE_LOSSES) and the text later
+    steps lost or garbled (REPAIRS); drop a sense number left alone at the end of def1 of an entry whose hyphen
+    tail step 1 made an entry of its own («… 7) нравы, обычаи; мораль ж 8)», «1) крик 2) 3)»); a number
+    closing a reference («(см. тюб 7)») stays"""
+    es = load()
+    byw = {e["word"]: e for e in es}
+    rows = []
+
+    def unique(f, anchor):
+        hit = [e for e in es if anchor in (e.get(f) or "")]
+        assert len(hit) == 1, (f, anchor, [e["word"] for e in hit][:5])
+        return hit[0]
+
+    def touched(e):
+        for k in [k for k in list(e) if k.startswith(("misc1_", "misc2_"))]:
+            e.pop(k, None)
+
+    for f, anchor, piece, where in PARSE_LOSSES:
+        e = unique(f, anchor)
+        put = anchor + piece if where == "after" else piece + anchor
+        if put in e[f]:
+            continue                                       # already back (checked at its place: «честно
+        e[f] = e[f].replace(anchor, put, 1)                # говоря!» is in other entries too)
+        flag(e, "kbrs_text_restored")
+        touched(e)
+        rows.append({"entry_id": e["entry_id"], "word": e["word"], "field": f, "restored": piece.strip("; ")})
+    for w, f, old, new, why in REPAIRS:
+        if w:
+            e = byw[w]
+            cur = e.get(f) or ""
+            if cur == new or (old and new in cur):
+                continue
+            assert (cur == old) if not old or old == cur else cur.count(old) == 1, (w, f, cur, old)
+            e[f] = new if (not old or cur == old) else cur.replace(old, new, 1)
+        else:
+            if any(new in (e.get(f) or "") for e in es) and not any(old in (e.get(f) or "") for e in es):
+                continue
+            e = unique(f, old)
+            e[f] = e[f].replace(old, new, 1)
+        flag(e, "kbrs_text_restored")
+        touched(e)
+        rows.append({"entry_id": e["entry_id"], "word": e["word"], "field": f, "old": old, "new": new, "why": why})
+    for e in es:
+        # only where step 1 cut a hyphen tail out of the entry («джорукъ … 8) -джол» -> джорукъ-джол): the
+        # number was the tail's.  КБРС «2): таза къанлылыкъ …» (a sense shown by its examples alone, which
+        # are in misc1) keeps its number — къанлылыкъ, къысыкълыкъ, кёчер
+        if "hyphen_detached" not in (e.get("flags") or []):
+            continue
+        d = e.get("def1") or ""
+        new = d
+        while DANGLING.search(new):
+            cand = DANGLING.sub("", new)
+            bare = re.sub(r"\d{1,2}\)|(?<![а-яё])[а-е]\)", "", cand)    # sense numbers / letters have no «(»
+            if bare.count("(") != bare.count(")"):          # «(см. тюб 7)»: the number closes a reference
+                break
+            new = cand
+        if new != d:
+            e["def1"] = new
+            rows.append({"entry_id": e["entry_id"], "word": e["word"], "field": "def1",
+                         "dangling_number": d[len(new):].strip()})
+    save(es)
+    log("parse_losses", rows)
+    print(json.dumps({"restored": sum(1 for r in rows if "restored" in r), "repaired": sum(1 for r in rows if "why" in r),
+                      "dangling_numbers": sum(1 for r in rows if "dangling_number" in r)}, ensure_ascii=False))
+
+
 def flags():
     es = load()
     before = sum("no_russian_def" in (e.get("flags") or []) for e in es)
@@ -247,6 +361,7 @@ def flags():
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("phase", choices=["word2orig", "et2", "voicing", "voicing2", "flags"])
+    ap.add_argument("phase", choices=["word2orig", "et2", "voicing", "voicing2", "parse_losses", "flags"])
     a = ap.parse_args()
-    {"word2orig": word2orig, "et2": et2, "voicing": voicing, "voicing2": voicing2, "flags": flags}[a.phase]()
+    {"word2orig": word2orig, "et2": et2, "voicing": voicing, "voicing2": voicing2, "parse_losses": parse_losses,
+     "flags": flags}[a.phase]()

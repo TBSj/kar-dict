@@ -1,0 +1,2306 @@
+[
+{
+"word": "автоматлаидырыргъа",
+"status": "ref_typo",
+"printed_head": "автоматландырыргъа",
+"page": 17,
+"column": "R",
+"qmos_key": "автоматландырыргъа",
+"disputed": null
+},
+{
+"word": "адеблергеъ",
+"status": "ref_typo",
+"printed_head": "адеблерге",
+"page": 22,
+"column": "R",
+"qmos_key": "адеблерге",
+"disputed": null
+},
+{
+"word": "азаныу",
+"status": "ref_typo",
+"printed_head": "азайыу",
+"page": 27,
+"column": "L",
+"qmos_key": "азайыу",
+"disputed": null
+},
+{
+"word": "азарлашыргъа",
+"status": "garbled_key",
+"printed_head": "азарлашыргъа",
+"page": 27,
+"column": "L",
+"qmos_key": "азарлатыргъа",
+"disputed": null
+},
+{
+"word": "азгынлатыргъа",
+"status": "ref_typo",
+"printed_head": "азгъынлатыргъа",
+"page": 28,
+"column": "L",
+"qmos_key": "азгъынлатыргъа",
+"disputed": null
+},
+{
+"word": "айгъыр",
+"status": "glued",
+"printed_head": "айгъыр",
+"page": 31,
+"column": "L",
+"qmos_key": "айгъаксыу",
+"disputed": null
+},
+{
+"word": "айдатыргъа",
+"status": "glued",
+"printed_head": "айдатыргъа",
+"page": 31,
+"column": "L",
+"qmos_key": "айдаргъа",
+"disputed": null
+},
+{
+"word": "айъгырланыргъа",
+"status": "ref_typo",
+"printed_head": "айгъырланыргъа",
+"page": 31,
+"column": "L",
+"qmos_key": "айгъырланыргъа",
+"disputed": null
+},
+{
+"word": "тюзюн",
+"status": "not_printed",
+"printed_head": "",
+"page": 36,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "айырыргъа",
+"status": "glued",
+"printed_head": "айырыргъа",
+"page": 40,
+"column": "L",
+"qmos_key": "айырылышыу",
+"disputed": null
+},
+{
+"word": "айыбсызлыргъа",
+"status": "ref_typo",
+"printed_head": "айыбсызларгъа",
+"page": 38,
+"column": "L",
+"qmos_key": "айыбсызларгъа",
+"disputed": null
+},
+{
+"word": "актларгъа",
+"status": "garbled_key",
+"printed_head": "актларгъа",
+"page": 42,
+"column": "L",
+"qmos_key": "ахтларгъа",
+"disputed": null
+},
+{
+"word": "акъылланыргъа",
+"status": "lost",
+"printed_head": "акъылланыргъа",
+"page": 45,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "акъырынлатыргъа",
+"status": "garbled_key",
+"printed_head": "акъырынлатыргъа",
+"page": 46,
+"column": "R",
+"qmos_key": "акъырьшлатыргъа",
+"disputed": null
+},
+{
+"word": "алгъшлау",
+"status": "ref_typo",
+"printed_head": "алгъышлау",
+"page": 50,
+"column": "L",
+"qmos_key": "алгъышлау",
+"disputed": null
+},
+{
+"word": "сыйырыб",
+"status": "not_printed",
+"printed_head": "",
+"page": 57,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "аманмыныргъа",
+"status": "ref_typo",
+"printed_head": "амансыныргъа",
+"page": 62,
+"column": "R",
+"qmos_key": "амансыныргъа",
+"disputed": null
+},
+{
+"word": "американцы",
+"status": "ref_typo",
+"printed_head": "американчы",
+"page": 63,
+"column": "L",
+"qmos_key": "американчы",
+"disputed": null
+},
+{
+"word": "ант-къаргъыш",
+"status": "garbled_key",
+"printed_head": "ант-къаргъыш",
+"page": 66,
+"column": "L",
+"qmos_key": "анткъаргъыш",
+"disputed": null
+},
+{
+"word": "анггларгъа",
+"status": "ref_typo",
+"printed_head": "ангыларгъа",
+"page": 67,
+"column": "R",
+"qmos_key": "ангыларгъа",
+"disputed": null
+},
+{
+"word": "ангылаялыргъа",
+"status": "not_printed",
+"printed_head": "",
+"page": 69,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "аппа-акъ",
+"status": "garbled_key",
+"printed_head": "аппа-акъ",
+"page": 69,
+"column": "R",
+"qmos_key": "аппа",
+"disputed": null
+},
+{
+"word": "аркъалашыргъа",
+"status": "garbled_key",
+"printed_head": "аркъалашыргъа",
+"page": 74,
+"column": "L",
+"qmos_key": "аркъалатыргъа",
+"disputed": null
+},
+{
+"word": "асхатыу",
+"status": "garbled_key",
+"printed_head": "асхтыу",
+"page": 82,
+"column": "L",
+"qmos_key": "асхтыу",
+"disputed": null
+},
+{
+"word": "аурууунг",
+"status": "not_printed",
+"printed_head": "",
+"page": 93,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "аушунургъа",
+"status": "ref_typo",
+"printed_head": "ауушунургъа",
+"page": 96,
+"column": "R",
+"qmos_key": "ауушунургъа",
+"disputed": null
+},
+{
+"word": "ачтыргъа",
+"status": "ref_typo",
+"printed_head": "ачытыргъа I, II",
+"page": 101,
+"column": "R",
+"qmos_key": "ачытыргъа",
+"disputed": null
+},
+{
+"word": "ашыкъдыртыргъа",
+"status": "not_printed",
+"printed_head": "",
+"page": 105,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "аяусуэлатыргъа",
+"status": "ref_typo",
+"printed_head": "аяусузлатыргъа",
+"page": 108,
+"column": "R",
+"qmos_key": "аяусузлатыргъа",
+"disputed": null
+},
+{
+"word": "кезю",
+"status": "not_printed",
+"printed_head": "",
+"page": 337,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "беклинирге",
+"status": "ref_typo",
+"printed_head": "бекленирге",
+"page": 131,
+"column": "R",
+"qmos_key": "бекленирге",
+"disputed": null
+},
+{
+"word": "берет",
+"status": "glued",
+"printed_head": "берет",
+"page": 134,
+"column": "R",
+"qmos_key": "беремени",
+"disputed": null
+},
+{
+"word": "мелкум",
+"status": "ref_typo",
+"printed_head": "мелхум",
+"page": 464,
+"column": "R",
+"qmos_key": "мелхум",
+"disputed": null
+},
+{
+"word": "мелхумлукъ",
+"status": "garbled_key",
+"printed_head": "мелъхумлукъ",
+"page": 464,
+"column": "R",
+"qmos_key": "мелъхумлукъ",
+"disputed": null
+},
+{
+"word": "бугоулатыргъа",
+"status": "ref_typo",
+"printed_head": "богъоулатыргъа",
+"page": 165,
+"column": "R",
+"qmos_key": "богъоулатыргъа",
+"disputed": null
+},
+{
+"word": "бугъоуларгъа",
+"status": "garbled_key",
+"printed_head": "богъоуларгъа",
+"page": 165,
+"column": "L",
+"qmos_key": "богъоуларгъа",
+"disputed": null
+},
+{
+"word": "булутлу",
+"status": "glued",
+"printed_head": "булутлу",
+"page": 168,
+"column": "R",
+"qmos_key": "булутланыу",
+"disputed": null
+},
+{
+"word": "букъсураргъа",
+"status": "ref_typo",
+"printed_head": "букъусураргъа",
+"page": 168,
+"column": "L",
+"qmos_key": "букъусураргъа",
+"disputed": null
+},
+{
+"word": "эсде",
+"status": "not_printed",
+"printed_head": "",
+"page": 774,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "гагарак",
+"status": "garbled_key",
+"printed_head": "гагарак",
+"page": 181,
+"column": "L",
+"qmos_key": "гагарам",
+"disputed": null
+},
+{
+"word": "геджефленирге",
+"status": "ref_typo",
+"printed_head": "гёжефленирге",
+"page": 185,
+"column": "R",
+"qmos_key": "гёжефленирге",
+"disputed": null
+},
+{
+"word": "муккурлу",
+"status": "not_printed",
+"printed_head": "",
+"page": 471,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "гыбыр",
+"status": "glued",
+"printed_head": "гыбыр",
+"page": 192,
+"column": "R",
+"qmos_key": "гыбыдыш",
+"disputed": null
+},
+{
+"word": "гъыжылда",
+"status": "ref_typo",
+"printed_head": "",
+"page": 195,
+"column": "R",
+"qmos_key": "гъыжылдатыргъа",
+"disputed": null
+},
+{
+"word": "гъыжылдатды",
+"status": "ref_typo",
+"printed_head": "",
+"page": 195,
+"column": "R",
+"qmos_key": "гъыжылдатдырыргъа",
+"disputed": null
+},
+{
+"word": "гъырыл-датыргъа",
+"status": "ref_typo",
+"printed_head": "",
+"page": 196,
+"column": "L",
+"qmos_key": "гъырылдатыргъа",
+"disputed": null
+},
+{
+"word": "даууларгъа",
+"status": "ref_typo",
+"printed_head": "",
+"page": 199,
+"column": "L",
+"qmos_key": "дауурларгъа",
+"disputed": null
+},
+{
+"word": "демобилизацияларгъа",
+"status": "glued",
+"printed_head": "демобилизацияларгъа",
+"page": 202,
+"column": "L",
+"qmos_key": "демобилизацияланыу",
+"disputed": null
+},
+{
+"word": "деменгили",
+"status": "garbled_key",
+"printed_head": "деменьили",
+"page": 201,
+"column": "R",
+"qmos_key": "деменьили",
+"disputed": null
+},
+{
+"word": "демократизацияландырыргъа",
+"status": "not_printed",
+"printed_head": "",
+"page": 202,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "дорданлы",
+"status": "not_printed",
+"printed_head": "",
+"page": 207,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "дууадакъ",
+"status": "garbled_key",
+"printed_head": "дуўадакъ",
+"page": 210,
+"column": "L",
+"qmos_key": "дууадаткъы",
+"disputed": null
+},
+{
+"word": "дуруссуз",
+"status": "glued",
+"printed_head": "дуруссуз",
+"page": 210,
+"column": "L",
+"qmos_key": "дурусларгъа",
+"disputed": null
+},
+{
+"word": "дуруслунургъа",
+"status": "ref_typo",
+"printed_head": "",
+"page": 210,
+"column": "L",
+"qmos_key": "дуруссунургъа",
+"disputed": null
+},
+{
+"word": "джабышдырыгъа",
+"status": "ref_typo",
+"printed_head": "",
+"page": 214,
+"column": "R",
+"qmos_key": "джабышдырыргъа",
+"disputed": null
+},
+{
+"word": "джайыгъыргъа",
+"status": "garbled_key",
+"printed_head": "джайыгъырга",
+"page": 218,
+"column": "R",
+"qmos_key": "джайыгъырга",
+"disputed": null
+},
+{
+"word": "джаланлашыргъа",
+"status": "garbled_key",
+"printed_head": "джаланлашыргъа",
+"page": 220,
+"column": "L",
+"qmos_key": "джаланлатыргъа",
+"disputed": null
+},
+{
+"word": "джалкъауулукъ",
+"status": "ref_typo",
+"printed_head": "джалкъаўлукъ",
+"page": 221,
+"column": "R",
+"qmos_key": "джалкъаулукъ",
+"disputed": null
+},
+{
+"word": "джампайтыргъа",
+"status": "garbled_key",
+"printed_head": "джампайтыргъа",
+"page": 222,
+"column": "R",
+"qmos_key": "джамлайтыргъа",
+"disputed": null
+},
+{
+"word": "джаныуар",
+"status": "garbled_key",
+"printed_head": "джаныўар",
+"page": 226,
+"column": "L",
+"qmos_key": "джаныу",
+"disputed": null
+},
+{
+"word": "джангыртылыргъа",
+"status": "not_printed",
+"printed_head": "",
+"page": 228,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "джараршыусуз",
+"status": "ref_typo",
+"printed_head": "джарашыўсуз",
+"page": 231,
+"column": "L",
+"qmos_key": "джарашыусуз",
+"disputed": null
+},
+{
+"word": "джашланырга",
+"status": "ref_typo",
+"printed_head": "джашланыргъа",
+"page": 238,
+"column": "R",
+"qmos_key": "джашланыргъа",
+"disputed": null
+},
+{
+"word": "джашмрыргъа",
+"status": "ref_typo",
+"printed_head": "джашырыргъа",
+"page": 239,
+"column": "L",
+"qmos_key": "джашырыргъа",
+"disputed": null
+},
+{
+"word": "джашасын",
+"status": "glued",
+"printed_head": "джашасын",
+"page": 238,
+"column": "L",
+"qmos_key": "джашаргъа",
+"disputed": null
+},
+{
+"word": "джаякълашмакълыкъ",
+"status": "garbled_key",
+"printed_head": "джаякълашмакълыкъ",
+"page": 239,
+"column": "R",
+"qmos_key": "джаякълатмакълыкъ",
+"disputed": null
+},
+{
+"word": "джезама",
+"status": "glued",
+"printed_head": "джезама",
+"page": 240,
+"column": "R",
+"qmos_key": "джез",
+"disputed": null
+},
+{
+"word": "джебелеширге",
+"status": "glued",
+"printed_head": "джёбелеширге",
+"page": 246,
+"column": "R",
+"qmos_key": "джёбелеучю",
+"disputed": null
+},
+{
+"word": "дженеширге",
+"status": "garbled_key",
+"printed_head": "джёнеширге",
+"page": 246,
+"column": "R",
+"qmos_key": "джёнетирге",
+"disputed": null
+},
+{
+"word": "джибиширге",
+"status": "garbled_key",
+"printed_head": "джибиширге",
+"page": 248,
+"column": "L",
+"qmos_key": "джибитирге",
+"disputed": null
+},
+{
+"word": "джоппулашырга",
+"status": "ref_typo",
+"printed_head": "джоппулашыргъа",
+"page": 253,
+"column": "L",
+"qmos_key": "джоппулашыргъа",
+"disputed": null
+},
+{
+"word": "джомакъланыргъа",
+"status": "ref_typo",
+"printed_head": "джомакълатыргъа",
+"page": 252,
+"column": "L",
+"qmos_key": "джомакълатыргъа",
+"disputed": null
+},
+{
+"word": "джунчутду-рургъа",
+"status": "ref_typo",
+"printed_head": "джунчутдурургъа",
+"page": 259,
+"column": "L",
+"qmos_key": "джунчутдурмакълыкъ",
+"disputed": true
+},
+{
+"word": "джунчутдурургъа",
+"status": "glued",
+"printed_head": "джунчутдурургъа",
+"page": 259,
+"column": "L",
+"qmos_key": "джунчутдурмакълыкъ",
+"disputed": null
+},
+{
+"word": "джуулдашыргъа",
+"status": "ref_typo",
+"printed_head": "джуўулдашыргъа",
+"page": 261,
+"column": "R",
+"qmos_key": "джууулдатыргъа",
+"disputed": true
+},
+{
+"word": "джууулдашыргъа",
+"status": "garbled_key",
+"printed_head": "джуўулдашыргъа",
+"page": 261,
+"column": "R",
+"qmos_key": "джууулдатыргъа",
+"disputed": null
+},
+{
+"word": "джыж",
+"status": "garbled_key",
+"printed_head": "джыж",
+"page": 263,
+"column": "L",
+"qmos_key": "джыз",
+"disputed": null
+},
+{
+"word": "джыланлы",
+"status": "glued",
+"printed_head": "джыланлы",
+"page": 266,
+"column": "L",
+"qmos_key": "Джыланбаш",
+"disputed": null
+},
+{
+"word": "джылтырагъа",
+"status": "ref_typo",
+"printed_head": "джылтыраргъа",
+"page": 267,
+"column": "L",
+"qmos_key": "джылтыраргъа",
+"disputed": null
+},
+{
+"word": "джыртыкъ",
+"status": "glued",
+"printed_head": "джыртыкъ",
+"page": 269,
+"column": "L",
+"qmos_key": "джыртхычлыкъ",
+"disputed": null
+},
+{
+"word": "джырылдашыргъа",
+"status": "garbled_key",
+"printed_head": "джырылдашыргъа",
+"page": 269,
+"column": "R",
+"qmos_key": "джырылдатыргъа",
+"disputed": null
+},
+{
+"word": "джюяюкчю",
+"status": "ref_typo",
+"printed_head": "джюзюкчю",
+"page": 271,
+"column": "L",
+"qmos_key": "джюзюкчю",
+"disputed": null
+},
+{
+"word": "джюклетиу",
+"status": "garbled_key",
+"printed_head": "джюклетиў",
+"page": 271,
+"column": "R",
+"qmos_key": "джкжлетиу",
+"disputed": null
+},
+{
+"word": "езеленирге",
+"status": "glued",
+"printed_head": "ёзеленирге",
+"page": 275,
+"column": "R",
+"qmos_key": "ёзеклик",
+"disputed": null
+},
+{
+"word": "юкюнюрге",
+"status": "ref_typo",
+"printed_head": "ёкюнюрге",
+"page": 276,
+"column": "L",
+"qmos_key": "ёкюнюрге",
+"disputed": null
+},
+{
+"word": "елтюрю",
+"status": "ref_typo",
+"printed_head": "ёлтюрюшюу-ёлюшюу",
+"page": 277,
+"column": "L",
+"qmos_key": "ёлтюрюшюу",
+"disputed": null
+},
+{
+"word": "елчелеширге",
+"status": "garbled_key",
+"printed_head": "ёлчелеширге",
+"page": 277,
+"column": "L",
+"qmos_key": "ёлчелетирге",
+"disputed": null
+},
+{
+"word": "ерелениширге",
+"status": "not_printed",
+"printed_head": "",
+"page": 279,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "ечешидирирге",
+"status": "ref_typo",
+"printed_head": "ёчешдирирге",
+"page": 282,
+"column": "R",
+"qmos_key": "ёчешдирирге",
+"disputed": null
+},
+{
+"word": "ехтемлеширге",
+"status": "not_printed",
+"printed_head": "",
+"page": 282,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "ечешсиз",
+"status": "garbled_key",
+"printed_head": "ёчешсиз",
+"page": 282,
+"column": "R",
+"qmos_key": "ёчешеиз",
+"disputed": null
+},
+{
+"word": "жыгъырда",
+"status": "ref_typo",
+"printed_head": "жыгъырдатыргъа",
+"page": 283,
+"column": "R",
+"qmos_key": "жыгьырдатыргъа",
+"disputed": null
+},
+{
+"word": "законлу",
+"status": "glued",
+"printed_head": "законлу",
+"page": 285,
+"column": "R",
+"qmos_key": "законлау",
+"disputed": null
+},
+{
+"word": "зап",
+"status": "garbled_key",
+"printed_head": "зап",
+"page": 287,
+"column": "R",
+"qmos_key": "зал",
+"disputed": null
+},
+{
+"word": "заялаб",
+"status": "not_printed",
+"printed_head": "",
+"page": 289,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "зияилы",
+"status": "ref_typo",
+"printed_head": "зиянлы",
+"page": 290,
+"column": "L",
+"qmos_key": "зиянлы",
+"disputed": null
+},
+{
+"word": "зыккыл",
+"status": "glued",
+"printed_head": "зыккыл",
+"page": 291,
+"column": "R",
+"qmos_key": "зыка",
+"disputed": null
+},
+{
+"word": "изобрета",
+"status": "ref_typo",
+"printed_head": "изобретатель",
+"page": 296,
+"column": "R",
+"qmos_key": "изобретатель",
+"disputed": null
+},
+{
+"word": "ийнакъла",
+"status": "ref_typo",
+"printed_head": "",
+"page": 298,
+"column": "R",
+"qmos_key": "ийнакълатыргъа",
+"disputed": null
+},
+{
+"word": "иймен",
+"status": "ref_typo",
+"printed_head": "",
+"page": 298,
+"column": "R",
+"qmos_key": "иймендирирге",
+"disputed": null
+},
+{
+"word": "ийнакълатдырыр",
+"status": "ref_typo",
+"printed_head": "",
+"page": 298,
+"column": "R",
+"qmos_key": "ийнакълатдырыргъа",
+"disputed": null
+},
+{
+"word": "илгенди",
+"status": "ref_typo",
+"printed_head": "",
+"page": 299,
+"column": "R",
+"qmos_key": "илгендирирге",
+"disputed": null
+},
+{
+"word": "индустриаларгъа",
+"status": "ref_typo",
+"printed_head": "",
+"page": 302,
+"column": "R",
+"qmos_key": "индустрияларгъа",
+"disputed": null
+},
+{
+"word": "иннетлендириге",
+"status": "ref_typo",
+"printed_head": "",
+"page": 303,
+"column": "L",
+"qmos_key": "иннетлендирирге",
+"disputed": null
+},
+{
+"word": "ишленмеген",
+"status": "garbled_key",
+"printed_head": "ишленмеген",
+"page": 310,
+"column": "R",
+"qmos_key": "ишленмегек",
+"disputed": null
+},
+{
+"word": "келепенлендирмеклик",
+"status": "garbled_key",
+"printed_head": "келепенлендирмеклик",
+"page": 319,
+"column": "L",
+"qmos_key": "келепенлекдирмеклик",
+"disputed": null
+},
+{
+"word": "келишиусюз",
+"status": "glued",
+"printed_head": "келишиусюз",
+"page": 321,
+"column": "L",
+"qmos_key": "келишиулюлюк",
+"disputed": null
+},
+{
+"word": "кесинлетирге",
+"status": "ref_typo",
+"printed_head": "",
+"page": 330,
+"column": "R",
+"qmos_key": "кескинлетирге",
+"disputed": null
+},
+{
+"word": "кюксюлдюм",
+"status": "ref_typo",
+"printed_head": "",
+"page": 338,
+"column": "R",
+"qmos_key": "кёксюлдюм",
+"disputed": null
+},
+{
+"word": "ашырыкъ",
+"status": "ref_typo",
+"printed_head": "",
+"page": 346,
+"column": "L",
+"qmos_key": "ашарыкъ",
+"disputed": null
+},
+{
+"word": "кирбет",
+"status": "glued",
+"printed_head": "кирбет",
+"page": 348,
+"column": "R",
+"qmos_key": "кир",
+"disputed": null
+},
+{
+"word": "кюреширге",
+"status": "garbled_key",
+"printed_head": "кюреширге",
+"page": 365,
+"column": "R",
+"qmos_key": "кюретирге",
+"disputed": null
+},
+{
+"word": "кюченирге",
+"status": "garbled_key",
+"printed_head": "кюченирге",
+"page": 367,
+"column": "R",
+"qmos_key": "кючейирге",
+"disputed": null
+},
+{
+"word": "кабхын",
+"status": "ref_typo",
+"printed_head": "къабхын",
+"page": 370,
+"column": "L",
+"qmos_key": "къабхын",
+"disputed": null
+},
+{
+"word": "къаздырырпьа",
+"status": "ref_typo",
+"printed_head": "къаздырыргъа",
+"page": 376,
+"column": "L",
+"qmos_key": "къаздырыргъа",
+"disputed": null
+},
+{
+"word": "къайгъызсыз",
+"status": "glued",
+"printed_head": "къайгъысыз",
+"page": 377,
+"column": "R",
+"qmos_key": "къайгъырыучу",
+"disputed": null
+},
+{
+"word": "къайнашыргъа",
+"status": "garbled_key",
+"printed_head": "къайнашыргъа",
+"page": 378,
+"column": "R",
+"qmos_key": "къайнатыргъа",
+"disputed": null
+},
+{
+"word": "къакларгъа",
+"status": "ref_typo",
+"printed_head": "къакъларгъа",
+"page": 380,
+"column": "R",
+"qmos_key": "къакъларгъа",
+"disputed": null
+},
+{
+"word": "къакдырыргъа",
+"status": "ref_typo",
+"printed_head": "къакъдырыргъа",
+"page": 380,
+"column": "R",
+"qmos_key": "къакъдырыргъа",
+"disputed": null
+},
+{
+"word": "къакъдырышыргъа",
+"status": "garbled_key",
+"printed_head": "къакъдырышыргъа",
+"page": 380,
+"column": "R",
+"qmos_key": "къакъдырышыргъ",
+"disputed": null
+},
+{
+"word": "къакъланыргъа",
+"status": "garbled_key",
+"printed_head": "къакланыргъа",
+"page": 380,
+"column": "R",
+"qmos_key": "къакланыргъа",
+"disputed": null
+},
+{
+"word": "къалакыргъа",
+"status": "ref_typo",
+"printed_head": "къаланыргъа",
+"page": 382,
+"column": "L",
+"qmos_key": "къаланыргъа",
+"disputed": null
+},
+{
+"word": "кълджаларгъа",
+"status": "ref_typo",
+"printed_head": "къалджаларгъа",
+"page": 382,
+"column": "R",
+"qmos_key": "къалджаларгъа",
+"disputed": null
+},
+{
+"word": "къайдес",
+"status": "ref_typo",
+"printed_head": "айдес I",
+"page": 31,
+"column": "L",
+"qmos_key": "айдес",
+"disputed": null
+},
+{
+"word": "къангкъылдатыргъа",
+"status": "garbled_key",
+"printed_head": "къангкъылдатыргъа",
+"page": 389,
+"column": "L",
+"qmos_key": "къагъкъылдатыргъа",
+"disputed": null
+},
+{
+"word": "капхакъ",
+"status": "ref_typo",
+"printed_head": "къапхакъ",
+"page": 389,
+"column": "L",
+"qmos_key": "къапхакъ",
+"disputed": null
+},
+{
+"word": "къапчагъай",
+"status": "not_printed",
+"printed_head": "",
+"page": 389,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "къаргъшчы",
+"status": "ref_typo",
+"printed_head": "къаргъышчы",
+"page": 394,
+"column": "L",
+"qmos_key": "къаргъышчы",
+"disputed": null
+},
+{
+"word": "къарыулашыргъа",
+"status": "garbled_key",
+"printed_head": "къарыулашыргъа",
+"page": 398,
+"column": "L",
+"qmos_key": "къарыулатыргъа",
+"disputed": null
+},
+{
+"word": "къаслар",
+"status": "ref_typo",
+"printed_head": "къаспар",
+"page": 398,
+"column": "R",
+"qmos_key": "къаспар",
+"disputed": null
+},
+{
+"word": "къозлагъан",
+"status": "not_printed",
+"printed_head": "",
+"page": 401,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "къауумчу",
+"status": "not_printed",
+"printed_head": "",
+"page": 403,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "къозучу",
+"status": "glued",
+"printed_head": "къозучу",
+"page": 409,
+"column": "L",
+"qmos_key": "къозуучу",
+"disputed": null
+},
+{
+"word": "къолтукъла-шыргъа",
+"status": "ref_typo",
+"printed_head": "къолтукълашыргъа",
+"page": 412,
+"column": "L",
+"qmos_key": "къолтукълашыргъа",
+"disputed": null
+},
+{
+"word": "хон",
+"status": "ref_typo",
+"printed_head": "хоншулукъ",
+"page": 710,
+"column": "R",
+"qmos_key": "хоншулукъ",
+"disputed": null
+},
+{
+"word": "къоркундурургъа",
+"status": "ref_typo",
+"printed_head": "къоркъундурургъа",
+"page": 415,
+"column": "L",
+"qmos_key": "къоркъундурургъа",
+"disputed": null
+},
+{
+"word": "анткъраллы",
+"status": "ref_typo",
+"printed_head": "ант",
+"page": 66,
+"column": "L",
+"qmos_key": "ант",
+"disputed": null
+},
+{
+"word": "къраллы",
+"status": "glued",
+"printed_head": "къраллы",
+"page": 420,
+"column": "L",
+"qmos_key": "кърал",
+"disputed": null
+},
+{
+"word": "къурашдырыргъа",
+"status": "garbled_key",
+"printed_head": "къурашдырыргъа",
+"page": 424,
+"column": "L",
+"qmos_key": "къуратдырыргъа",
+"disputed": null
+},
+{
+"word": "къууудурургъа",
+"status": "ref_typo",
+"printed_head": "къуудурургъа I, II",
+"page": 431,
+"column": "R",
+"qmos_key": "къуудурургъа",
+"disputed": null
+},
+{
+"word": "къуюм",
+"status": "glued",
+"printed_head": "къуюм",
+"page": 433,
+"column": "R",
+"qmos_key": "къуюлушуу",
+"disputed": null
+},
+{
+"word": "къызары",
+"status": "ref_typo",
+"printed_head": "къызарышыргъа",
+"page": 436,
+"column": "R",
+"qmos_key": "къызарышыргъа",
+"disputed": null
+},
+{
+"word": "къыйма",
+"status": "glued",
+"printed_head": "къыйма",
+"page": 439,
+"column": "L",
+"qmos_key": "къыйдырыу",
+"disputed": null
+},
+{
+"word": "къыйпаланыргъа",
+"status": "garbled_key",
+"printed_head": "къыйпаланыргъа",
+"page": 440,
+"column": "L",
+"qmos_key": "къыйпалакыргъа",
+"disputed": null
+},
+{
+"word": "къымп",
+"status": "glued",
+"printed_head": "къымп",
+"page": 444,
+"column": "L",
+"qmos_key": "къыммакълыкь",
+"disputed": null
+},
+{
+"word": "къыехалатыргъа",
+"status": "ref_typo",
+"printed_head": "къысхалатыргъа",
+"page": 448,
+"column": "R",
+"qmos_key": "кьысхалатыргъа",
+"disputed": null
+},
+{
+"word": "магъыратыргъа",
+"status": "ref_typo",
+"printed_head": "манъыратыргъа",
+"page": 459,
+"column": "R",
+"qmos_key": "мангыратыргъа",
+"disputed": null
+},
+{
+"word": "минерге",
+"status": "glued",
+"printed_head": "минерге",
+"page": 468,
+"column": "L",
+"qmos_key": "минералогия",
+"disputed": null
+},
+{
+"word": "мынафыкълыкъ",
+"status": "ref_typo",
+"printed_head": "мынафыклыкъ",
+"page": 475,
+"column": "R",
+"qmos_key": "мынафыклыкъ",
+"disputed": null
+},
+{
+"word": "мугурла",
+"status": "ref_typo",
+"printed_head": "мугурланыргъа",
+"page": 470,
+"column": "R",
+"qmos_key": "мугурланыргъа",
+"disputed": null
+},
+{
+"word": "мугурлашыргъа",
+"status": "garbled_key",
+"printed_head": "мугурлашыргъа",
+"page": 471,
+"column": "L",
+"qmos_key": "мугурлатыргъа",
+"disputed": null
+},
+{
+"word": "малтаргъа",
+"status": "lost",
+"printed_head": "малтаргъа",
+"page": 458,
+"column": "R",
+"qmos_key": null,
+"disputed": null
+},
+{
+"word": "накъыр",
+"status": "ref_typo",
+"printed_head": "накъырдачы",
+"page": 479,
+"column": "R",
+"qmos_key": "накъырдачы",
+"disputed": null
+},
+{
+"word": "накъышлар",
+"status": "ref_typo",
+"printed_head": "накъышларгъа",
+"page": 480,
+"column": "L",
+"qmos_key": "накъышларгъа",
+"disputed": null
+},
+{
+"word": "нечюн",
+"status": "garbled_key",
+"printed_head": "нечю(н)",
+"page": 484,
+"column": "R",
+"qmos_key": "нечю",
+"disputed": null
+},
+{
+"word": "огъурсузланды",
+"status": "ref_typo",
+"printed_head": "огъурсузландырыргъа",
+"page": 489,
+"column": "R",
+"qmos_key": "огъурсузландырыргъа",
+"disputed": null
+},
+{
+"word": "ойланыр",
+"status": "ref_typo",
+"printed_head": "ойланыргъа",
+"page": 491,
+"column": "R",
+"qmos_key": "ойланыргъа",
+"disputed": null
+},
+{
+"word": "ойнашдырыргъа",
+"status": "garbled_key",
+"printed_head": "ойнашдырыргъа",
+"page": 492,
+"column": "R",
+"qmos_key": "ойнатдырыргъа",
+"disputed": null
+},
+{
+"word": "оккупациялар",
+"status": "ref_typo",
+"printed_head": "оккупацияларгъа",
+"page": 493,
+"column": "R",
+"qmos_key": "оккупацияларгъа",
+"disputed": null
+},
+{
+"word": "олтуртдурурггъа",
+"status": "ref_typo",
+"printed_head": "олтуртдурургъа",
+"page": 495,
+"column": "L",
+"qmos_key": "олтуртдурургъа",
+"disputed": null
+},
+{
+"word": "осаллау",
+"status": "not_printed",
+"printed_head": "",
+"page": 504,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "осмакъ",
+"status": "ref_typo",
+"printed_head": "осмакъларгъа",
+"page": 504,
+"column": "R",
+"qmos_key": "осмакъларгьа",
+"disputed": null
+},
+{
+"word": "осмакълар",
+"status": "ref_typo",
+"printed_head": "осмакъларгъа",
+"page": 504,
+"column": "R",
+"qmos_key": "осмакъларгьа",
+"disputed": null
+},
+{
+"word": "отжагъа",
+"status": "ref_typo",
+"printed_head": "отджагъа",
+"page": 505,
+"column": "R",
+"qmos_key": "отджагъа",
+"disputed": null
+},
+{
+"word": "пасыкъланыргъа",
+"status": "garbled_key",
+"printed_head": "пасыкъланырыъа",
+"page": 512,
+"column": "R",
+"qmos_key": "пасыкъланырыъа",
+"disputed": null
+},
+{
+"word": "практикал",
+"status": "ref_typo",
+"printed_head": "практикалы",
+"page": 518,
+"column": "R",
+"qmos_key": "практикалы",
+"disputed": null
+},
+{
+"word": "пысылдашыргъа",
+"status": "garbled_key",
+"printed_head": "пысылдашыргъа",
+"page": 522,
+"column": "R",
+"qmos_key": "пысылдатыргъа",
+"disputed": null
+},
+{
+"word": "сагал-латыргъа",
+"status": "ref_typo",
+"printed_head": "сагаллатыргъа",
+"page": 531,
+"column": "R",
+"qmos_key": "сагаллатыргъа",
+"disputed": null
+},
+{
+"word": "сагыныргъа",
+"status": "ref_typo",
+"printed_head": "сагъыныргъа",
+"page": 532,
+"column": "R",
+"qmos_key": "сагъыныргъа",
+"disputed": null
+},
+{
+"word": "сагъышланыр",
+"status": "ref_typo",
+"printed_head": "сагъышланыргъа",
+"page": 533,
+"column": "L",
+"qmos_key": "сагъышланыргъа",
+"disputed": null
+},
+{
+"word": "саякъынланыргъа",
+"status": "ref_typo",
+"printed_head": "салкъынланыргъа",
+"page": 536,
+"column": "L",
+"qmos_key": "салкъынланыргъа",
+"disputed": null
+},
+{
+"word": "салатыргъа",
+"status": "ref_typo",
+"printed_head": "сапалатыргъа",
+"page": 541,
+"column": "R",
+"qmos_key": "сапалатыргъа",
+"disputed": null
+},
+{
+"word": "сапал",
+"status": "glued",
+"printed_head": "сапал",
+"page": 541,
+"column": "R",
+"qmos_key": "сапа",
+"disputed": null
+},
+{
+"word": "хапа-сапал",
+"status": "ref_typo",
+"printed_head": "хапа-сапа",
+"page": 706,
+"column": "L",
+"qmos_key": "хапа",
+"disputed": null
+},
+{
+"word": "санта",
+"status": "garbled_key",
+"printed_head": "санта",
+"page": 541,
+"column": "L",
+"qmos_key": "сайта",
+"disputed": null
+},
+{
+"word": "сарынларгъа",
+"status": "glued",
+"printed_head": "сарынларгъа",
+"page": 543,
+"column": "L",
+"qmos_key": "сарынламакълыкъ",
+"disputed": null
+},
+{
+"word": "сауутсузларгъа",
+"status": "not_printed",
+"printed_head": "",
+"page": 546,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "сенгилдетирге",
+"status": "ref_typo",
+"printed_head": "сенъкилдетирге",
+"page": 553,
+"column": "L",
+"qmos_key": "сенгкилдетирге",
+"disputed": null
+},
+{
+"word": "сериуюнлеу",
+"status": "garbled_key",
+"printed_head": "сериўюнлеў",
+"page": 554,
+"column": "L",
+"qmos_key": "серкуюнлеу",
+"disputed": null
+},
+{
+"word": "сеполюрге",
+"status": "ref_typo",
+"printed_head": "сёгюлюрге I",
+"page": 555,
+"column": "L",
+"qmos_key": "сёгюлюрге",
+"disputed": null
+},
+{
+"word": "симетриялы",
+"status": "ref_typo",
+"printed_head": "симметриялы",
+"page": 560,
+"column": "L",
+"qmos_key": "симметриялы",
+"disputed": null
+},
+{
+"word": "соп-сокъур",
+"status": "garbled_key",
+"printed_head": "соп-сокъур",
+"page": 566,
+"column": "R",
+"qmos_key": "соп",
+"disputed": null
+},
+{
+"word": "суратланыр-гъа",
+"status": "ref_typo",
+"printed_head": "суратланыргъа",
+"page": 574,
+"column": "L",
+"qmos_key": "суратланыргьа",
+"disputed": null
+},
+{
+"word": "суусушургъа",
+"status": "garbled_key",
+"printed_head": "суўсушургъа",
+"page": 576,
+"column": "R",
+"qmos_key": "суусутургъа",
+"disputed": null
+},
+{
+"word": "сууушдурургъа",
+"status": "garbled_key",
+"printed_head": "суўушдурургъа",
+"page": 577,
+"column": "R",
+"qmos_key": "сууутдурургъа",
+"disputed": null
+},
+{
+"word": "сыбдыргъыч",
+"status": "glued",
+"printed_head": "сыбдыргъыч",
+"page": 578,
+"column": "L",
+"qmos_key": "сыбабха",
+"disputed": null
+},
+{
+"word": "сыйсызлаымргъа",
+"status": "ref_typo",
+"printed_head": "сыйсызланыргъа",
+"page": 581,
+"column": "R",
+"qmos_key": "сыйсызланыргъа",
+"disputed": null
+},
+{
+"word": "сылхырла",
+"status": "ref_typo",
+"printed_head": "сылхырланыргъа",
+"page": 583,
+"column": "R",
+"qmos_key": "сылхырланыргъа",
+"disputed": null
+},
+{
+"word": "тагъышырга",
+"status": "ref_typo",
+"printed_head": "тагъышыргъа",
+"page": 596,
+"column": "R",
+"qmos_key": "тагъышыргъа",
+"disputed": null
+},
+{
+"word": "тайгъаларгъа",
+"status": "glued",
+"printed_head": "тайгъаларгъа",
+"page": 597,
+"column": "R",
+"qmos_key": "тайгъалакъ",
+"disputed": null
+},
+{
+"word": "галаргъа",
+"status": "ref_typo",
+"printed_head": "таларгъа",
+"page": 599,
+"column": "L",
+"qmos_key": "таларгъа",
+"disputed": null
+},
+{
+"word": "тангдырыргъа",
+"status": "ref_typo",
+"printed_head": "такъдырыргъа",
+"page": 598,
+"column": "L",
+"qmos_key": "такъдырыргъа",
+"disputed": null
+},
+{
+"word": "таманланыргъа",
+"status": "ref_typo",
+"printed_head": "тамамланыргъа",
+"page": 601,
+"column": "L",
+"qmos_key": "тамамланыргъа",
+"disputed": null
+},
+{
+"word": "тансмкъларгъа",
+"status": "ref_typo",
+"printed_head": "тансыкъларгъа",
+"page": 602,
+"column": "R",
+"qmos_key": "тансыкъларгъа",
+"disputed": null
+},
+{
+"word": "тенглерге",
+"status": "glued",
+"printed_head": "тенълерге",
+"page": 621,
+"column": "L",
+"qmos_key": "тенгкил",
+"disputed": null
+},
+{
+"word": "аккыл-тенглерге",
+"status": "ref_typo",
+"printed_head": "аккыл-тенъкил",
+"page": 41,
+"column": "R",
+"qmos_key": "аккыл",
+"disputed": null
+},
+{
+"word": "тебелеширге",
+"status": "garbled_key",
+"printed_head": "тёбелеширге",
+"page": 626,
+"column": "R",
+"qmos_key": "тёбелетирге",
+"disputed": null
+},
+{
+"word": "телерге",
+"status": "glued",
+"printed_head": "тёлерге",
+"page": 628,
+"column": "R",
+"qmos_key": "тёленмезлик",
+"disputed": null
+},
+{
+"word": "теп-тегерек",
+"status": "garbled_key",
+"printed_head": "тёп-тёгерек",
+"page": 629,
+"column": "R",
+"qmos_key": "тёп",
+"disputed": null
+},
+{
+"word": "тилилирге",
+"status": "ref_typo",
+"printed_head": "титилирге",
+"page": 637,
+"column": "L",
+"qmos_key": "титилирге",
+"disputed": null
+},
+{
+"word": "трбчуларгъа",
+"status": "ref_typo",
+"printed_head": "тобчуларгъа",
+"page": 639,
+"column": "R",
+"qmos_key": "тобчуларгъа",
+"disputed": null
+},
+{
+"word": "туракълашдырыу",
+"status": "garbled_key",
+"printed_head": "туракълашдырыу",
+"page": 652,
+"column": "R",
+"qmos_key": "туракълатдырыу",
+"disputed": null
+},
+{
+"word": "туракълашыргъа",
+"status": "garbled_key",
+"printed_head": "туракълашыргъа",
+"page": 652,
+"column": "R",
+"qmos_key": "туракълатыргъа",
+"disputed": null
+},
+{
+"word": "тынгкъайыргъа",
+"status": "ref_typo",
+"printed_head": "тынкъайыргъа",
+"page": 661,
+"column": "L",
+"qmos_key": "тынкъайыргъа",
+"disputed": null
+},
+{
+"word": "тынгларгъа",
+"status": "ref_typo",
+"printed_head": "тынъыларгъа",
+"page": 662,
+"column": "L",
+"qmos_key": "тынгыларгъа",
+"disputed": null
+},
+{
+"word": "тырнашыргъа",
+"status": "garbled_key",
+"printed_head": "тырнашыргъа",
+"page": 663,
+"column": "R",
+"qmos_key": "тырнатыргъа",
+"disputed": null
+},
+{
+"word": "тырпакъланыргъа",
+"status": "garbled_key",
+"printed_head": "тырпакъланыргъа",
+"page": 663,
+"column": "R",
+"qmos_key": "тырнакъланыргъа",
+"disputed": null
+},
+{
+"word": "тютюнлетдирирге",
+"status": "garbled_key",
+"printed_head": "тютюнлетдирирге",
+"page": 675,
+"column": "L",
+"qmos_key": "тютюндетдирирге",
+"disputed": null
+},
+{
+"word": "узатдырыргъа",
+"status": "glued",
+"printed_head": "узатдырыргъа",
+"page": 679,
+"column": "R",
+"qmos_key": "узалышыу",
+"disputed": null
+},
+{
+"word": "уручулукъ",
+"status": "glued",
+"printed_head": "уручулукъ",
+"page": 686,
+"column": "R",
+"qmos_key": "уручу",
+"disputed": null
+},
+{
+"word": "учурургъа",
+"status": "glued",
+"printed_head": "учурургъа",
+"page": 690,
+"column": "R",
+"qmos_key": "учуртуу",
+"disputed": null
+},
+{
+"word": "улагъыулу",
+"status": "ref_typo",
+"printed_head": "ушагъыулу",
+"page": 691,
+"column": "L",
+"qmos_key": "ушагъыулу",
+"disputed": null
+},
+{
+"word": "ушатмазгъа",
+"status": "not_printed",
+"printed_head": "",
+"page": 692,
+"column": "L",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "файдаландырыргъа",
+"status": "garbled_key",
+"printed_head": "файдаландырыргъа",
+"page": 694,
+"column": "R",
+"qmos_key": "файдалаидырыргъа",
+"disputed": null
+},
+{
+"word": "фокусчу",
+"status": "glued",
+"printed_head": "фокусчу",
+"page": 697,
+"column": "R",
+"qmos_key": "фокусник",
+"disputed": null
+},
+{
+"word": "фургон",
+"status": "glued",
+"printed_head": "фургон",
+"page": 699,
+"column": "L",
+"qmos_key": "фуражка",
+"disputed": null
+},
+{
+"word": "хазырлатыргъа",
+"status": "garbled_key",
+"printed_head": "хазарлатыргъа",
+"page": 700,
+"column": "L",
+"qmos_key": "хазарлатыргъа",
+"disputed": null
+},
+{
+"word": "хайырландырыргъа",
+"status": "garbled_key",
+"printed_head": "хайырландырыргъа",
+"page": 701,
+"column": "L",
+"qmos_key": "хййырландырыргъа",
+"disputed": null
+},
+{
+"word": "хасебли",
+"status": "glued",
+"printed_head": "хасебли",
+"page": 708,
+"column": "L",
+"qmos_key": "хасеблеу",
+"disputed": null
+},
+{
+"word": "къычырыкъ-хахайламакълыкъ",
+"status": "glued",
+"printed_head": "хахайламакълыкъ",
+"page": 709,
+"column": "L",
+"qmos_key": "хахай",
+"disputed": null
+},
+{
+"word": "хахайлатдырыргъа",
+"status": "glued",
+"printed_head": "хахайлатдырыргъа",
+"page": 709,
+"column": "L",
+"qmos_key": "хахайларгъа",
+"disputed": null
+},
+{
+"word": "хахайлашыргъа",
+"status": "garbled_key",
+"printed_head": "хахайлашыргъа",
+"page": 709,
+"column": "L",
+"qmos_key": "хахайлатыргъа",
+"disputed": null
+},
+{
+"word": "хыршыланыр",
+"status": "ref_typo",
+"printed_head": "хыршыланыргъа",
+"page": 716,
+"column": "R",
+"qmos_key": "хыршыланыргъа",
+"disputed": null
+},
+{
+"word": "цивилизацияла",
+"status": "ref_typo",
+"printed_head": "цивилизацияланыргъа",
+"page": 718,
+"column": "L",
+"qmos_key": "цивилизацияланыргъа",
+"disputed": null
+},
+{
+"word": "чабышыргы",
+"status": "ref_typo",
+"printed_head": "чабышыргъа",
+"page": 720,
+"column": "L",
+"qmos_key": "чабышыргъа",
+"disputed": null
+},
+{
+"word": "чагъырылыргъа",
+"status": "ref_typo",
+"printed_head": "чакъырылыргъа",
+"page": 723,
+"column": "L",
+"qmos_key": "чакъырылыргъа",
+"disputed": null
+},
+{
+"word": "чалыкълатыргъа",
+"status": "glued",
+"printed_head": "чалыкълатыргъа",
+"page": 725,
+"column": "L",
+"qmos_key": "чалыкъларгъа",
+"disputed": null
+},
+{
+"word": "чанчды-рыргъа",
+"status": "ref_typo",
+"printed_head": "чанчдырыргъа I, II",
+"page": 726,
+"column": "R",
+"qmos_key": "чанчдырыргъа",
+"disputed": null
+},
+{
+"word": "чарлашыргъа",
+"status": "garbled_key",
+"printed_head": "чарлашыргъа",
+"page": 727,
+"column": "R",
+"qmos_key": "чарлатыргъа",
+"disputed": null
+},
+{
+"word": "чачыкъдыргъа",
+"status": "ref_typo",
+"printed_head": "чачыкъдырыргъа",
+"page": 729,
+"column": "R",
+"qmos_key": "чачыкъдырыргъа",
+"disputed": null
+},
+{
+"word": "чегелеширге",
+"status": "garbled_key",
+"printed_head": "чёгелеширге",
+"page": 732,
+"column": "R",
+"qmos_key": "чёгелетирге",
+"disputed": null
+},
+{
+"word": "черчеклендирирге",
+"status": "garbled_key",
+"printed_head": "чёрчеклендирирге",
+"page": 733,
+"column": "R",
+"qmos_key": "чёрчеклендидирге",
+"disputed": null
+},
+{
+"word": "чийсиллик",
+"status": "glued",
+"printed_head": "чийсиллик",
+"page": 734,
+"column": "R",
+"qmos_key": "чийсилли",
+"disputed": null
+},
+{
+"word": "чулгъашыргъа",
+"status": "garbled_key",
+"printed_head": "чулгъашыргъа",
+"page": 738,
+"column": "L",
+"qmos_key": "чулгъатыргъа",
+"disputed": null
+},
+{
+"word": "чыкъырдатыр",
+"status": "ref_typo",
+"printed_head": "чыкъырдатыргъа",
+"page": 743,
+"column": "L",
+"qmos_key": "чыкъырдатыргъа",
+"disputed": null
+},
+{
+"word": "чыпылдашыргъа",
+"status": "garbled_key",
+"printed_head": "чыпылдашыргъа",
+"page": 744,
+"column": "R",
+"qmos_key": "чыпылдатыргъа",
+"disputed": null
+},
+{
+"word": "шайтанлы",
+"status": "glued",
+"printed_head": "шайтанлы",
+"page": 748,
+"column": "L",
+"qmos_key": "шайтан",
+"disputed": null
+},
+{
+"word": "шаушалтыргъа",
+"status": "garbled_key",
+"printed_head": "щаушалтыргъа",
+"page": 749,
+"column": "R",
+"qmos_key": "щаушалтыргъа",
+"disputed": null
+},
+{
+"word": "шау-шалышыргъа",
+"status": "ref_typo",
+"printed_head": "шаушалышыргъа",
+"page": 749,
+"column": "R",
+"qmos_key": "шаушалышыргъа",
+"disputed": null
+},
+{
+"word": "шаркъул",
+"status": "ref_typo",
+"printed_head": "шоркъулдаргъа",
+"page": 752,
+"column": "R",
+"qmos_key": "шоркъулдаргъа",
+"disputed": null
+},
+{
+"word": "шохайлашыр-гъа",
+"status": "ref_typo",
+"printed_head": "шохайлашыргъа",
+"page": 753,
+"column": "L",
+"qmos_key": "шохайлашыргъа",
+"disputed": null
+},
+{
+"word": "шууулдаты-шыргъа",
+"status": "ref_typo",
+"printed_head": "шууулдатышыргъа",
+"page": 754,
+"column": "R",
+"qmos_key": "шууулдатышыргъа",
+"disputed": null
+},
+{
+"word": "шыбырсыз",
+"status": "lost",
+"printed_head": "шыбырсыз",
+"page": 755,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "шыбырсызлыкъ",
+"status": "lost",
+"printed_head": "шыбырсызлыкъ",
+"page": 755,
+"column": "R",
+"qmos_key": "",
+"disputed": null
+},
+{
+"word": "шууулдашыу",
+"status": "glued",
+"printed_head": "шууулдашыу",
+"page": 755,
+"column": "L",
+"qmos_key": "шууулдашыргъа",
+"disputed": null
+},
+{
+"word": "ынгычхау",
+"status": "garbled_key",
+"printed_head": "ынъычхау",
+"page": 759,
+"column": "L",
+"qmos_key": "ыньычхау",
+"disputed": null
+},
+{
+"word": "ынгычхашыргъа",
+"status": "garbled_key",
+"printed_head": "ынъычхашыргъа",
+"page": 759,
+"column": "L",
+"qmos_key": "ынгычхатыргъа",
+"disputed": null
+},
+{
+"word": "ышыныулу",
+"status": "ref_typo",
+"printed_head": "ышаныулу",
+"page": 761,
+"column": "L",
+"qmos_key": "ышаныулу",
+"disputed": null
+},
+{
+"word": "эгизлик",
+"status": "glued",
+"printed_head": "эгизлик",
+"page": 763,
+"column": "R",
+"qmos_key": "эгиз",
+"disputed": null
+},
+{
+"word": "эмерге",
+"status": "glued",
+"printed_head": "эмерге",
+"page": 767,
+"column": "R",
+"qmos_key": "эмен",
+"disputed": null
+},
+{
+"word": "эринчек",
+"status": "garbled_key",
+"printed_head": "эринчек",
+"page": 771,
+"column": "L",
+"qmos_key": "эриичек",
+"disputed": null
+},
+{
+"word": "эришдирирге",
+"status": "garbled_key",
+"printed_head": "эришдирирге",
+"page": 771,
+"column": "R",
+"qmos_key": "эритдирирге",
+"disputed": null
+},
+{
+"word": "эссе",
+"status": "ref_typo",
+"printed_head": "эсе",
+"page": 775,
+"column": "L",
+"qmos_key": "эсе",
+"disputed": null
+},
+{
+"word": "юйрерге",
+"status": "glued",
+"printed_head": "юйрерге",
+"page": 783,
+"column": "L",
+"qmos_key": "юйренчеклик",
+"disputed": null
+},
+{
+"word": "юйюкдюртюрге",
+"status": "glued",
+"printed_head": "юйюкдюртюрге",
+"page": 783,
+"column": "L",
+"qmos_key": "юйюгюу",
+"disputed": null
+},
+{
+"word": "юркюшюрге",
+"status": "garbled_key",
+"printed_head": "юркюшюрге",
+"page": 785,
+"column": "R",
+"qmos_key": "юркютюрге",
+"disputed": null
+}
+]
