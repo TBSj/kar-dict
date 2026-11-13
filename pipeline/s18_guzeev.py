@@ -27,12 +27,15 @@ Phases:
                corpus words they now mean (once, right after apply; journal checkpoints/qa/s18_refs.jsonl)
   postfix      corrections confirmed by the post-apply check (postfix.json) + Гузеев's part-of-speech labels
                (journal checkpoints/qa/s18_postfix.jsonl)
+  postfix full the fixes of the full check (postfix.json round «full»), after s13 parse_losses
+               (journal checkpoints/qa/s18_postfix_full.jsonl)
   postprep     a stratified sample of applied nests for checkers (local/guzeev/post_in/pNN); «rest»: every
                other nest with two linked homonyms or more (qNN, full texts)
   postfixcheck validate a checker's ops (local/guzeev/post_out/qNN_ops.json): dry run on a copy of 06
-  postmerge    all validated ops -> postfix.json
-Order after any change: restore the pre-step-3 06 (local/backups/06_before_s18.jsonl), then apply -> refs -> postfix -> s13 parse_losses -> the
-export chain (s6_apply, s8_facets, s13 flags, s7_export, s7_invariants, s7_xlsx, s14).
+  postmerge    all validated ops -> postfix.json (round «full»)
+Order after any change: restore the pre-step-3 06 (local/backups/06_before_s18.jsonl), then apply -> refs (delete
+checkpoints/qa/s18_refs.jsonl first: it stops a second run) -> postfix -> s13 parse_losses -> postfix full -> the
+export chain (s6_apply, s8_facets, s13 flags, s7_export, s7_invariants, s7_xlsx, s14, s19 stats).
 
 Book errata (numbering slips, header misprints, wrong labels) are fixed by the explicit ERRATA table
 and recorded in each nest's "errata" list — never silently.
@@ -1324,6 +1327,14 @@ def refs():
                 glued = m.re is REF_D                       # «Жууаш2 дегенден»: the number glued to the word
                 sp = m.group("sp") if not glued else ""
                 new = None
+                if src == "T" and m.re is REF_T and f == "def2" and not k and n >= 2:
+                    # «1. страд. от тарт 2. Сократиться»: the «2.» is the entry's own next sense, not a number of
+                    # тарт — the sense numbering runs n-1 -> n across it, a translation follows, and no other
+                    # «n.» comes later (9 such in def2 were read as references; found by the full check, q39-7)
+                    prev = re.findall(r"(?:^|\s)(\d{1,2})\.\s", t[:a])
+                    if re.match(r"\.\s+[А-ЯЁ]", t[b:]) and prev and int(prev[-1]) == n - 1 \
+                            and not re.search(r"(?:^|\s)%d\.\s" % n, t[b:]):
+                        continue
                 if src == "K":
                     sids = kbrs.get((w, n), [])
                     cands = [c for s in sids for c in words_of_d1.get(s, [])]
@@ -1491,16 +1502,43 @@ def _run_ops(fixes, es, byw, rows, touched):
             e["flags"] = list(dict.fromkeys((e.get("flags") or []) + fx.get("flags", [])))
 
 
-def postfix():
+POSTFIX_FULL_JOURNAL = CK / "qa" / "s18_postfix_full.jsonl"
+
+
+def postfix(rnd="sample"):
     """after apply and refs: the corrections the post-apply check confirmed (guzeev-postcheck, 2026-11-06;
     postfix.json: per finding, ops on the entries by their current word — move / replace / insert / split_out /
     src), then Гузеев's part-of-speech label on every entry linked to a homonym of his with a single label
-    (flag guzeev_pos; the old label in the journal). Every op is skipped when already done."""
+    (flag guzeev_pos; the old label in the journal). Every op is skipped when already done.
+    rnd «full»: only the fixes of the full check (round «full», 2026-11-10), run after s13 parse_losses — the
+    state their ops were validated on (postfixcheck dry-ran them on the finished 06); journal
+    checkpoints/qa/s18_postfix_full.jsonl. The default round runs every other fix."""
     plan = json.load(open(POSTFIX, encoding="utf-8"))
     es = load_jsonl(F06)
     byw = {e["word"]: e for e in es}
     rows, touched = [], set()
-    _run_ops(plan["fixes"], es, byw, rows, touched)
+    full = rnd == "full"
+    _run_ops([fx for fx in plan["fixes"] if (fx.get("round") == "full") == full], es, byw, rows, touched)
+    if full:
+        for w in touched:                               # a moved block may bring its line end along
+            e = byw[w]
+            for k in OP_FIELDS:
+                if e.get(k):
+                    e[k] = e[k].strip()
+            for k in [k for k in list(e) if k.startswith(("misc1_", "misc2_"))]:
+                e.pop(k, None)
+            has1 = bool(e.get("def1") or e.get("misc1") or e.get("src1"))
+            has2 = bool(e.get("def2") or e.get("misc2") or e.get("src2"))
+            if e.get("dict_id") != "3":
+                e["dict_id"] = "both" if has1 and has2 else ("1" if has1 else "2")
+            fl = [f for f in (e.get("flags") or []) if not (f == "no_d1_pair" and has1) and not (f == "no_d2_pair" and has2)]
+            e["flags"] = list(dict.fromkeys(fl + ["guzeev_postfix"]))
+        es.sort(key=lambda e: e["word"])
+        save_jsonl(F06, es)
+        save_jsonl(POSTFIX_FULL_JOURNAL, rows)
+        print(json.dumps({"round": "full", "ops": len(rows), "fixes": sum(1 for fx in plan["fixes"]
+                          if fx.get("round") == "full"), "entries_touched": len(touched)}, ensure_ascii=False))
+        return
     # Гузеев's part of speech on the homonyms linked to him (the decision: his division is the reference)
     nests = {n["nid"]: n for n in load_jsonl(LOC / "nests.jsonl")}
     # a part-of-speech label anywhere in the tags, in any of its printed forms («хал. сёз.», «белгисиз алм.»,
@@ -2156,6 +2194,8 @@ if __name__ == "__main__":
         sys.exit(postfixcheck(*a.args))
     if a.phase == "postprep":
         sys.exit(postprep(mode=(a.args or ["sample"])[0]))
+    if a.phase == "postfix":
+        sys.exit(postfix(*a.args))
     if a.phase == "auditprep":
         sys.exit(auditprep(*a.args))
     {"parse": main_parse, "align": align, "mapprep": mapprep, "mapcompare": mapcompare, "adjprep": adjprep,

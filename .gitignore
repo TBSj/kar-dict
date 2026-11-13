@@ -11,3 +11,14 @@ pipeline/survey_tools/corpus_index.pkl
 checkpoints/**/*.pre_*
 # Excel lock files of open workbooks
 ~$*
+
+# export outputs: rebuilt from checkpoints/06_lextagged.jsonl by s7_export.py / s7_xlsx.py,
+# ~85 MB per commit; git keeps the corpus (06), not the export (2026-11-10)
+checkpoints/07_final.jsonl
+checkpoints/final.csv
+checkpoints/final.xlsx
+# book page images rendered for the S7 audit (s7_audit_prep.py; copyright)
+checkpoints/qa/audit/*.png
+# stray backups and scratch files
+*.backup.jsonl
+/scratch_*
