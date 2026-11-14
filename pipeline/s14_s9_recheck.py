@@ -38,6 +38,18 @@ def main():
         for w in (e["word"], e.get("word1_orig") or "", e.get("word2_orig") or ""):
             if w:
                 heads.setdefault(fold(w), e)
+    s20 = {}                                        # item -> what step s20 did with it
+    plan = CK / "shards" / "s20" / "plan.json"
+    if plan.exists():
+        p = json.load(open(plan, encoding="utf-8"))
+        for k, how in (("new", "добавлено (РКБС-1965)"), ("update", "перевод в нашу статью"),
+                       ("variant_new", "написание 1965 г., связано с нашим словом"),
+                       ("variant_link", "связано как вариант")):
+            for x in p[k]:
+                s20[x["item"]] = f"{how}: {x['word']}"
+        for x in p["skip"]:
+            if x["sheet"] in (1, 2):
+                s20.setdefault(x["item"], "не добавлено: " + x["why"])
     out = []
     for name in ("rus_missing_confirmed", "rus_variants_confirmed"):
         for r in (json.loads(l) for l in open(RQ / f"{name}.jsonl", encoding="utf-8")):
@@ -49,6 +61,10 @@ def main():
                 e = heads[fold(form)]
                 if any(f in (e.get("flags") or []) for f in ("hyphen_restored", "gap_fill")):
                     st, why = "resolved_by_repair", f"теперь заглавное слово «{e['word']}» ({e['dict_id']})"
+            if st == "still_open":                  # the linguist answered the queue (manual_review_2, s20)
+                k = r["form"] if name == "rus_variants_confirmed" else form
+                if k in s20:
+                    st, why = "answered", s20[k]
             out.append({"queue": name, "form": r["form"], "canonical": form, "status": st, "why": why,
                         "ru_gloss": r.get("ru_gloss", "")})
     with open(RQ / "s9_recheck.jsonl", "w", encoding="utf-8") as f:

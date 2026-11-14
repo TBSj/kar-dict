@@ -16,8 +16,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from s19_sources import SourceRefs  # noqa: E402
 
 MAIN = ["word", "dict_id", "tags", "def1", "def2", "misc1", "misc2", "lextag"]
-EXTRA = ["entry_id", "word1_orig", "word2_orig", "decl", "hom_rank",
-         "lextag_conf", "src1", "src2", "flags",
+EXTRA = ["entry_id", "word1_orig", "word2_orig", "word5_orig", "decl", "hom_rank",
+         "lextag_conf", "src1", "src2", "src5", "src5_pages", "flags",
          "pos", "dialect", "style", "domain", "gram_note", "tags_other",
          "derived", "derived_from", "variant_of", "variants", "guzeev", "built_from",
          "misc1_proverbs", "misc1_riddles", "misc1_bukv", "misc1_folklore",

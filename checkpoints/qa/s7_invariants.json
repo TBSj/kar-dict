@@ -1,11 +1,13 @@
 {
   "source": "07_final.jsonl",
-  "entries": 39997,
+  "entries": 40226,
   "dict_id_dist": {
     "both": 16858,
     "2": 9386,
     "1": 13691,
-    "3": 62
+    "5": 227,
+    "3": 62,
+    "L": 2
   },
   "problems": {
     "kb_leak_def2": {

@@ -22,3 +22,9 @@ checkpoints/qa/audit/*.png
 # stray backups and scratch files
 *.backup.jsonl
 /scratch_*
+# review workbooks and queues for the linguist, and the pilot review page (Ali 2026-11-14: not in git).
+# Their answers are kept as decisions the pipeline reads (pipeline/s16_linguist_answers.py,
+# checkpoints/shards/s20/answers.json)
+checkpoints/review_queues/
+checkpoints/review_data.json
+review/

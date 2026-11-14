@@ -245,6 +245,18 @@ def main():
             varlist.append((e["word"], tgt))
             n_var += 1
 
+    # spellings of the 1965 Russian-KB dictionary the linguist linked to our words (s20; no «см.» to read them from)
+    for e in es:
+        tgt = e.get("variant_of_rkbs")
+        if tgt and tgt in bywordE and not e.get("variant_of"):
+            e["variant_of"] = tgt
+            te = bywordE[tgt]
+            te.setdefault("variants", [])
+            if e["word"] not in te["variants"]:
+                te["variants"].append(e["word"])
+            varlist.append((e["word"], tgt))
+            n_var += 1
+
     with open(CK / "06_lextagged.jsonl", "w", encoding="utf-8") as f:
         for e in es:
             f.write(json.dumps(e, ensure_ascii=False) + "\n")

@@ -63,11 +63,18 @@ def main():
             problems["bad_lextag"].append(f"{eid}:{e['lextag']}")
         di = e.get("dict_id")
         # derivational dict1 entries may carry all their content in tags -> judge by provenance
-        has1 = bool(e.get("src1")) or bool(e.get("def1") or e.get("misc1"))
+        fl = set(e.get("flags") or [])
+        d1 = "" if "linguist_gloss" in fl else e.get("def1")    # a translation given by the linguist is no КБРС text
+        has1 = bool(e.get("src1")) or bool(d1 or e.get("misc1"))
         has2 = bool(e.get("src2")) or bool(e.get("def2") or e.get("misc2"))
         want = "both" if (has1 and has2) else ("1" if has1 else "2")
         if "guzeev_stub" in (e.get("flags") or []):
             want = "3"          # homonym of Гузеев 2013 missing from both dictionaries (s18, answer Г2)
+        if not e.get("src1") and not e.get("src2") and \
+                {"rus_kb_added", "rus_kb_variant"} & set(e.get("flags") or []):
+            want = "5"          # only the Russian-KB dictionary of 1965 (s20, manual_review_2 answers)
+        if not e.get("src1") and not e.get("src2") and "linguist_added" in fl:
+            want = "L"          # a word the project's linguist gave, in no book of the corpus (s20, chat 2026-11-14)
         if di != want:
             problems["dict_id_mismatch"].append(f"{eid}:{di}!={want}")
         d2 = e.get("def2","")

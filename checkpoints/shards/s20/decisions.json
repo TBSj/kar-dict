@@ -1,0 +1,91 @@
+{
+ "about": "How the written verdicts of manual_review_2.xlsx (Ali, 2026-11-13) are read. An empty verdict, «ага» or «да» = the proposal as it stands (the workbook's rule). Read by pipeline/s20_rus_kb_answers.py plan.",
+ "gloss": {
+  "къысха-къысха": "часто, часто-часто",
+  "халлы": "имеющий (какой-л.) вид, характер (бир халлы — однородный); свойственный (о состоянии, свойстве, положении)",
+  "кёлтюртюлген": "преувеличенный, дутый; повышенный, вздутый, раздутый, возвышенный, увеличенный",
+  "бёлюнюб-бёлюнюб": "прерывисто, с перерывами; нерегулярно, урывками",
+  "учду-кюйдю": "исчез бесследно, и след простыл; кануть, провалиться",
+  "кёлтюрюучю": "подъёмный; подъёмник (машина, механизм); подниматель",
+  "суучукъ": "водичка; речка, ручеёк",
+  "къозгъалыучу": "возбудимый; возбуждающий; эротический",
+  "сингирчик": "волоконце (биол.); волокно; связка (анат.)",
+  "хомпа": "мешковатый, неуклюжий",
+  "шап-шап": "шлёп-шлёп; чав-чав; звукоподражание чавканью, чмоканью",
+  "бутакъчыкъ": "веточка; черенок",
+  "jенгнгенлик": "склонность (к чему-л.), предрасположенность",
+  "къайыкъчыкъ": "челнок, лодочка",
+  "къалашчыкъ": "бублик, калачик; сушка",
+  "къылыкъчыкъ": "чёрточка (черта характера); повадка, проделочка, трючок, выходочка",
+  "тапхырчыкъ": "шесток (в печи); терраска, уступчик",
+  "туурагъанчыкъ": "ломтик; краюшка, горбушка"
+ },
+ "gloss_why": {
+  "кёлтюртюлген": "linguist: «ещё повышенный, вздутый/раздутый, возвышенные, квеличенный» — typos read as «возвышенный», «увеличенный»",
+  "бутакъчыкъ": "linguist: «припой убери» — the proposal had «привой»: removed",
+  "къайыкъчыкъ": "linguist: «наверное не чёлн, а челнок»",
+  "суучукъ": "linguist: «основное водичка, а потом речка, ручеёк»",
+  "къысха-къысха": "linguist: «скорее просто часто, часто-часто» — replaces «то и дело»",
+  "халлы": "linguist: «что-то да в этом есть (это про состояние/свойство/положение), типо свойственный и тд»"
+ },
+ "tags": {
+  "сызыкъ": "редко"
+ },
+ "add_to_existing": {
+  "онгуна-солуна": "так и сяк"
+ },
+ "existing_without_translation": "an existing entry with no def1 and no def2 gets the approved translation (кёз-къулакъ, къалай-алай + «авось» from the linguist)",
+ "existing_gloss_extra": {
+  "къалай-алай": "авось"
+ },
+ "skip": {
+  "гылынкъуш": "the corpus has «гылын къуш» (филин) in гылын, къуш1 and others — the same, written apart",
+  "тултубан": "printed «тул-тубан» (the txt dropped the hyphen) — the corpus headword тул-тубан «тьма, множество, уйма»; linked to тул-туман by sheet 2"
+ },
+ "printed_override": {
+  "дагъыда-дагъыда": "дагъыда-дагъыда"
+ },
+ "printed_override_why": {
+  "дагъыда-дагъыда": "the scan (p. 160) breaks the line inside the word: «дагъыда-дагъы- / да»; the OCR read «дагъыда-дагъы да». Checked on the page image; «къан чабыу» (p. 651) and «саз топракълы» (p. 118) are printed as two words"
+ },
+ "variant_target": {
+  "токъсанынчы": "токъсанчы",
+  "башкъырлы": "башкирли",
+  "саякъыллылыкъ": "саякъыллыкъ",
+  "дуппурлу-чунгурлу": "чунгурлу-дуппурлу"
+ },
+ "notes": {
+  "юго-восток": "linguist: «да, только это по русски. По кб будет къыбыла-шаркъ. Но и юго-восток используется» — the corpus headword юго-восток (КБРС) kept; къыбыла-шаркъ added on 2026-11-14 (chat_2026_11_14)",
+  "юго-запад": "linguist: «либо так, либо къыбыла-кюнбатыш (ну или магъриб)» — the corpus headword юго-запад (КБРС) kept; къыбыла-кюнбатыш added on 2026-11-14 (chat_2026_11_14); магъриб is in the corpus (КБРС «уст. редко», «запад»): the report of 2026-11-14 wrongly said it was not",
+  "jарашдырыучу": "linguist: «настройщик ещё» — the corpus entry (КБРС) already says «настройщик; наладчик»",
+  "sheet 7": "the ◊ rule was answered on 2026-11-05 (repair_review: «фразеологизм» = only ◊)",
+  "sheet 6": "Джабакку, Джабраил: empty = as it is"
+ },
+ "chat_2026_11_14": {
+  "about": "Ali's answers in chat, 2026-11-14, to the two questions the S9 report left open. Read by plan.",
+  "quote": "1) Запад - кюнбатыш, магъриб (уст), Восток - Кюнчыгъыш, шакръ, Север - Шимал, Юг - Къыбыла 2) да хз, но определение верно",
+  "new_words": {
+   "къыбыла-шаркъ": {
+    "def1": "юго-восток",
+    "lextag": "space_and_time"
+   },
+   "къыбыла-кюнбатыш": {
+    "def1": "юго-запад",
+    "lextag": "space_and_time"
+   }
+  },
+  "new_words_why": "юг = къыбыла, восток = кюнчыгъыш, шаркъ («шакръ» of the chat read as шаркъ, the linguist's earlier къыбыла-шаркъ), запад = кюнбатыш, магъриб (уст.): the KB names of юго-восток and юго-запад from the notes of sheet 1. In no book of the corpus (РКБС-1965 p. 728 describes them: «къыбыла бла кюн чыкъгъанны арасы», «къыбыла бла кюн батханны арасы») -> dict_id L, flags linguist_added + linguist_fix, source «правка лингвиста». Not added: къыбыла-магъриб (the note «ну или магъриб» does not name it)",
+  "gloss": {
+   "кюнбатыш": "запад"
+  },
+  "gloss_why": "ТСКБЯ prints кюнбатыш only as a reference «къ. кюнбатхан», with no Russian translation (flag no_russian_def); the linguist: «Запад - кюнбатыш» -> def1, flags linguist_gloss + linguist_fix",
+  "in_corpus": "the other words of the answer are in the corpus with this meaning: магъриб (КБРС, «уст. редко», «запад»), шаркъ1 («восток»; the books mark it «уст.»), кюнчыгъыш (ТСКБЯ «Восток»), шимал (ТСКБЯ «Север»), къыбыла («юг»)",
+  "split_unflag": {
+   "бла3": [
+    "бла1",
+    "бла2"
+   ]
+  },
+  "split_unflag_why": "the linguist: «да хз, но определение верно». бла3 of sheet 4 = e_39706 (КБРС only, needs_review); step 3 cut it between бла1 (союз «и»: its def1 8)–9) and examples) and бла2 (послелог: «образует сочетания с временным значением»); needs_review on both came only from it -> removed on both. NB the КБРС article бла (p. 153) lost its senses 1)–6) in qmos (its tail is glued into биядак_4021) — for the qmos repair"
+ }
+}

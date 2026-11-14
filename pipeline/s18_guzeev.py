@@ -34,8 +34,9 @@ Phases:
   postfixcheck validate a checker's ops (local/guzeev/post_out/qNN_ops.json): dry run on a copy of 06
   postmerge    all validated ops -> postfix.json (round «full»)
 Order after any change: restore the pre-step-3 06 (local/backups/06_before_s18.jsonl), then apply -> refs (delete
-checkpoints/qa/s18_refs.jsonl first: it stops a second run) -> postfix -> s13 parse_losses -> postfix full -> the
-export chain (s6_apply, s8_facets, s13 flags, s7_export, s7_invariants, s7_xlsx, s14, s19 stats).
+checkpoints/qa/s18_refs.jsonl first: it stops a second run) -> postfix -> s13 parse_losses -> postfix full ->
+s20 apply (the 1965 Russian-KB dictionary, linguist's answers) -> the export chain (s6_apply, s8_facets, s13 flags,
+s7_export, s7_invariants, s7_xlsx, s14, s19 stats).
 
 Book errata (numbering slips, header misprints, wrong labels) are fixed by the explicit ERRATA table
 and recorded in each nest's "errata" list — never silently.
